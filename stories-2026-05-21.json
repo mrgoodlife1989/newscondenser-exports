@@ -1,0 +1,1018 @@
+{
+  "headline": {
+    "category_label": "TODAY'S HEADLINE",
+    "title": "Google's sprawling I/O underwhelms while Anthropic surges on revenue and security.",
+    "highlight_phrase": "Anthropic surges",
+    "summary": "Google's I/O 2026 dumped a sprawling, confusing slate - Omni, Spark, Anti-Gravity 2.0 and a fast-but-verbose, pricey Gemini 3.5 Flash - with no clear state-of-the-art model and no single coding harness. Meanwhile Anthropic doubled Q2 revenue to $10.9B (its first operating profit), lined up a $30B raise at a $900B valuation, and watched Claude 3 Mythos graduate from bug-finder to full exploit-writer. The coding-agent race only sped up, with Codex going fully mobile and Cursor's Composer 2.5 matching frontier quality at a tenth of the cost."
+  },
+  "source_headlines": [
+    {
+      "source": "Everlast AI KI News (WhatsApp)",
+      "title": "The AI divide in nursing: power-users lead by up to 51 points"
+    },
+    {
+      "source": "Everlast AI KI News (WhatsApp)",
+      "title": "AI gains access to your feelings: Zander's brain-computer interfaces"
+    },
+    {
+      "source": "Everlast AI KI News (WhatsApp)",
+      "title": "A side-project that clicks together a concrete pizza-oven dome"
+    },
+    {
+      "source": "Everlast AI KI News (WhatsApp)",
+      "title": "China Shock 2.0: Germany at the epicenter"
+    },
+    {
+      "source": "Everlast AI KI News (WhatsApp)",
+      "title": "LinkedIn cuts 606 jobs in California"
+    },
+    {
+      "source": "Everlast AI KI News (WhatsApp)",
+      "title": "Anthropic breaks the $10 billion mark"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Daniel Cremers: forget ChatGPT, world models are the real breakthrough"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Claude returns: +50% usage limits and a new Agent View"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Codex arrives in the ChatGPT mobile app"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Anthropic overtakes OpenAI in enterprise adoption (Ramp: 34.4% vs 32.3%)"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Claude for Small Business plugin pack (34 skills)"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "OpenAI launches a deployment company, acquires Tomoro"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Thinking Machines Lab unveils its first model, the Interaction Model"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Figure F04 enters design lock; Figure 3 streams an autonomous 8-hour shift"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Unitree reveals a rideable mech and launches the UniStore"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Business idea: you no longer need an API (Browser Use, Kimi Web Bridge, Make CLI)"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Augustus: a bank built as code for the AI era"
+    },
+    {
+      "source": "Everlast AI (YouTube)",
+      "title": "Social experiment: a real Monet mistaken for AI slop"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Google I/O 2026: a sprawling, confusing AI strategy"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Gemini Omni: an any-to-any model that edits video"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Gemini Spark: a 24/7 personal agent"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Anti-Gravity 2.0: Google's standalone agentic coding app"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Gemini 3.5 Flash: fast but verbose and pricey, no Pro at launch"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Google moves to usage-based pricing as the subsidy era ends"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Gemini app hits 900M MAU and 3.2 quadrillion monthly tokens"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Hassabis vs. Brin: world models vs. recursive self-improvement"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Andrej Karpathy reportedly joins Anthropic"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Cursor Composer 2.5: near-frontier coding at ~10x lower cost"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Cloudflare review: Claude 3 Mythos builds full exploit chains"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Jury clears OpenAI and Altman in Musk lawsuit"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Codex maxing: 9 tips from the Codex team"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Cerebras IPO doubles on debut, settles +68%"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Figma's AI features revive its stock (revenue +46%)"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Nvidia surges 20% in a week toward a $6T valuation"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "OpenAI weighs suing Apple over the ChatGPT integration"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Anthropic nears a $30B raise at a $900B valuation"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Microsoft cancels Claude Code licenses for the Copilot CLI"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Claude 3 Mythos chains a macOS kernel exploit; Mozilla patches 423 bugs"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Codex comes to the ChatGPT mobile app"
+    },
+    {
+      "source": "The AI Daily Brief (YouTube)",
+      "title": "Consumer vs. work AI diverges; Gemini Flash rumored 15-20x cheaper"
+    }
+  ],
+  "stories": [
+    {
+      "number": "01",
+      "category": "AI . CONSUMER PLATFORMS",
+      "title": "Google's I/O 2026 was a sprawling, confusing flex.",
+      "highlight_phrase": "sprawling, confusing flex",
+      "toc_summary": "Google announced a torrent of products at I/O but no clear state-of-the-art model and no single coding harness, exposing a strategy split between Demis Hassabis and Sergey Brin.",
+      "quick_take": "Google's I/O 2026 showed a lab doing an enormous amount at once - Omni, Spark, Anti-Gravity 2.0, Gemini 3.5 Flash, plus a rebrand thicket of Pix, Flow, Jules and more - without making clear how it all adds up [1][2]. The two questions going in were whether Google would ship a true state-of-the-art model and consolidate around one agentic harness; the answer to both was effectively no [1]. Even insiders found the naming and product sprawl bewildering, while a parallel camp argued Google's sheer distribution may make sprawl irrelevant [1]. Underneath sits a genuine strategy split: Hassabis is betting on world models, continual learning and robotics, while a rumored Sergey Brin 'strike team' chases recursive self-improvement via coding agents [1].",
+      "bullets": [
+        {
+          "label": "No flagship model:",
+          "text": "Google shipped only Gemini 3.5 Flash, not a Pro, leaving its claim to a frontier model unproven this cycle [1]."
+        },
+        {
+          "label": "Distribution as moat:",
+          "text": "The Gemini app jumped from 400M to 900M monthly active users year-over-year, and monthly tokens across surfaces went from 480 trillion to 3.2 quadrillion [1]."
+        },
+        {
+          "label": "Two roads diverged:",
+          "text": "Hassabis (world models, robotics) and a Brin-led RSI-via-coding faction reportedly pull Google's research in different directions; for now it pursues both [1]."
+        },
+        {
+          "label": "Insider aside:",
+          "text": "The host noted that to many AI watchers, Andrej Karpathy reportedly joining Anthropic was bigger news than anything on the I/O stage [1]."
+        }
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "THE BIG PICTURE",
+        "text": "Google may still win consumer AI on distribution and TPUs, but a year that felt 'locked in' has fractured back into competing priorities, leaving the enterprise/builder lane wide open to OpenAI and Anthropic [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - The Most Important AI News from Google I/O",
+          "url": "https://www.youtube.com/watch?v=G2HX30CelNk"
+        },
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "category": "AI . PRODUCT",
+      "title": "Gemini Omni is a Nano Banana moment for video.",
+      "highlight_phrase": "Nano Banana moment",
+      "toc_summary": "Google positioned Omni as an any-to-any multimodal family, launched as a video model whose real strength is editing existing footage rather than raw generation.",
+      "quick_take": "Most people first judged Omni as a video generator and were underwhelmed, but the blog post frames it as an editing model - 'a Nano Banana for video' [1]. Reviewers who actually used it changed their minds: you can change a scene's entire setting, turn day into night while preserving shot structure, or alter a person's outfit with character consistency [1]. Demis Hassabis frames Omni as a step toward any-input-to-any-output models that could eventually generate everything from construction blueprints to gene sequences [1]. Still, in the wake of OpenAI shuttering Sora, more people are asking who video models like this are actually for [1].",
+      "bullets": [
+        {
+          "label": "Editing over generation:",
+          "text": "Omni's differentiator is efficient, instruction-following video-to-video editing, not best-in-class cinematic generation [1]."
+        },
+        {
+          "label": "Steerability is the unlock:",
+          "text": "Examples included swapping backgrounds, making a presenter invisible, and turning a daytime Big Ben shot into a New Year's fireworks scene with the clock updated [1]."
+        },
+        {
+          "label": "A bigger paradigm:",
+          "text": "Google positions Omni as the toy video version of a future universal multimodal model, the foundation of Hassabis's world-model thesis [1]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "Efficient video-to-video editing could become a real pillar of entertainment and hybrid production - but the open question is whether the audience is consumers, prosumers or professional studios [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - The Most Important AI News from Google I/O",
+          "url": "https://www.youtube.com/watch?v=G2HX30CelNk"
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "category": "AI . PRODUCT",
+      "title": "Gemini Spark is Google's bet on a 24/7 personal agent.",
+      "highlight_phrase": "24/7 personal agent",
+      "toc_summary": "Spark is a always-on personal agent built on Gemini 3.5 and Anti-Gravity that runs on Google Cloud VMs, but its target user - consumer or professional - is still unclear, and it isn't available yet.",
+      "quick_take": "Google described Spark as a 24/7 personal agent that navigates your digital life and acts on your behalf, running on Google Cloud VMs so you don't keep your laptop open [1][2]. It leans on Google's two decades of personal context and connects to your apps, chats, tasks and logged-in sites, and can even make purchases or share info before asking in some cases [3]. The positioning is muddled - some examples sound consumer (manage your inbox), others prosumer (draft a status update from your docs and sheets) [1][3]. It runs on Gemini 3.5 and is built on Anti-Gravity, but it's only 'coming this summer,' not available now [1].",
+      "bullets": [
+        {
+          "label": "Context is the pitch:",
+          "text": "'The winning assistant won't be the smartest empty chatbot, but the one with the deepest context about your actual life' - a claim the host partly pushes back on [2]."
+        },
+        {
+          "label": "Permissions creep:",
+          "text": "The leaked welcome screen says Spark may share info or make purchases without asking, and users have begun seeing new permission pop-ups [3]."
+        },
+        {
+          "label": "No pick-a-lane:",
+          "text": "Unlike OpenAI, Google is refusing to choose between consumer and work AI, and Spark embodies that ambiguity [2]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "Google has promised personalized agents for years; whether Spark finally delivers - and what consumers actually want an agent to do - is the real test when it ships this summer [2]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - The Most Important AI News from Google I/O",
+          "url": "https://www.youtube.com/watch?v=G2HX30CelNk"
+        },
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        },
+        {
+          "title": "Everlast AI - weekly KI-News (Gemini Spark preview)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "category": "AI . PRODUCT",
+      "title": "Anti-Gravity 2.0 chases Codex and Claude Code.",
+      "highlight_phrase": "chases Codex",
+      "toc_summary": "Google rebuilt Anti-Gravity as a standalone agentic coding app with multi-agent teams and scheduled tasks, reaching rough parity with Codex and Claude Code but not surpassing them.",
+      "quick_take": "Anti-Gravity 2.0 is a standalone desktop app with multi-agent teams, scheduled tasks, native voice and one-click Google integrations [1]. To demo it, Google rebuilt the core of a working operating system using 93 sub-agents and billions of tokens in about 12 hours [1]. The launch wobbled - the app briefly went down, and a Codex folder visible in the launch video invited unflattering comparisons [1]. Observers said 2.0 wisely pulls the agent system out of the IDE to make it the product, but nobody argued it had surpassed Claude Code or Codex [1].",
+      "bullets": [
+        {
+          "label": "Parity, not lead:",
+          "text": "At best Anti-Gravity 2.0 brings Google into the realm of parity with the leading coding harnesses [1]."
+        },
+        {
+          "label": "Awkward optics:",
+          "text": "A visible Codex folder in the demo, plus a derivative feel, drew jabs from the Codex team itself [1]."
+        },
+        {
+          "label": "Still unclear which tool:",
+          "text": "Anti-Gravity, AI Studio, Jules and Gemini CLI leave developers unsure which Google harness to invest in [1]."
+        }
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "2026 is the year of coding agents; Google needed to consolidate around one credible harness, and Anti-Gravity 2.0 is progress but not the clarity builders were hoping for [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - The Most Important AI News from Google I/O",
+          "url": "https://www.youtube.com/watch?v=G2HX30CelNk"
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "category": "AI . PRODUCT",
+      "title": "Gemini 3.5 Flash is fast, verbose and surprisingly pricey.",
+      "highlight_phrase": "fast, verbose and surprisingly pricey",
+      "toc_summary": "Flash is Google's most powerful model on some benchmarks and ~3x faster than 3.1 Pro, but it is token-inefficient, verbose and roughly 3x more expensive than the last Flash - and there is no Pro version yet.",
+      "quick_take": "By the numbers, Gemini 3.5 Flash is Google's strongest model - 76.2% on Terminal Bench 2.0 (beating Opus 4.7 but behind GPT-5.5) and 55.1% on SWE-bench Pro - and it's about 3x faster than 3.1 Pro [1]. But Flash no longer means cheap: it costs roughly 3x more than the last Flash and about 20x more than 2.0 Flash, and it burns far more tokens than GPT-5.5 Medium [1]. Early testers called it verbose and erratic - a 568-word answer to 'does this make sense?', emoji slop, avalanches of unnecessary tool calls [1]. Crucially, there's no Pro version at launch, which the host called surprising given the stakes [1].",
+      "bullets": [
+        {
+          "label": "Speed is the wrong pitch:",
+          "text": "If a model is fast but needs ~3.5x more tokens to reach the same answer, it erases both the speed and the cost advantage [1]."
+        },
+        {
+          "label": "Costs more than rivals:",
+          "text": "Theo from T3 found it cost ~2x more than Gemini 3.1 Pro on similar tasks and more than GPT-5.5 Medium [1]."
+        },
+        {
+          "label": "Rough agentic behavior:",
+          "text": "Tennibress reported it steamrolls ahead, rarely pauses to ask for help and hallucinates fake acronyms - 'sonnet-tier' code quality [1]."
+        }
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Developers' real pain is cost, not speed - so building 3.5 Flash around speed, at a higher price and lower token efficiency, missed the moment Google most needed to seize [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - The Most Important AI News from Google I/O",
+          "url": "https://www.youtube.com/watch?v=G2HX30CelNk"
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "category": "AI . BUSINESS",
+      "title": "Anthropic surges: $10.9B revenue, $30B raise, enterprise lead.",
+      "highlight_phrase": "$10.9B revenue",
+      "toc_summary": "Anthropic doubled Q2 revenue to $10.9B with its first operating profit, is closing a $30B raise at a $900B valuation, and has edged past OpenAI in enterprise adoption.",
+      "quick_take": "Anthropic doubled second-quarter revenue to $10.9B and posted its first operating profit, roughly $500M - a rare combination of growth and profit while training costs keep climbing [1]. The FT reports a near-done $30B round at a $900B valuation, co-led by Sequoia and Altimeter, which would nearly triple February's $380B Series G and edge past OpenAI's last valuation [2]. On the ground, Ramp data shows Anthropic has overtaken OpenAI in business adoption, 34.4% to 32.3% [3]. Claude Code, the enterprise API and the Sonnet-4.5 push are carrying the load while OpenAI stays operationally deep in the red [1].",
+      "bullets": [
+        {
+          "label": "Growth and profit:",
+          "text": "Q2 revenue $10.9B with ~$500M operating profit, unusual in a sector that burns billions to make billions [1]."
+        },
+        {
+          "label": "Valuation leapfrog:",
+          "text": "A $30B raise at $900B would put Anthropic ahead of OpenAI's last mark and rank among the largest venture rounds ever [2]."
+        },
+        {
+          "label": "Enterprise crossover:",
+          "text": "Ramp shows 34.4% of companies on Claude vs 32.3% on OpenAI - the first time Anthropic leads in business use [3]."
+        }
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Anthropic is no longer just competing in the lab race - it's setting a price floor for an eventual IPO and proving that the enterprise/work-AI bet can be profitable [1][2]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI KI News - Anthropic breaks the $10 billion mark",
+          "url": "https://x.com/kimmonismus/status/2057212753555894748"
+        },
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        },
+        {
+          "title": "Everlast AI - weekly KI-News (Ramp adoption data)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ],
+      "image": "whatsapp-images/2026-05-20T21-43-55-000Z__image.jpg",
+      "image_caption": "Anthropic's reported Q2 revenue and first operating profit, as shared in the WhatsApp feed."
+    },
+    {
+      "number": "07",
+      "category": "AI . CYBERSECURITY",
+      "title": "Claude 3 Mythos graduates from bug-finder to exploit-writer.",
+      "highlight_phrase": "bug-finder to exploit-writer",
+      "toc_summary": "Independent reviews show Anthropic's secretive Mythos model can chain bugs into working exploits, generate functional proofs, and pass cyberattack benchmarks at a step-change rate.",
+      "quick_take": "Cloudflare's review calls Mythos 'a different kind of tool doing a different kind of work' - it builds full exploit chains rather than flagging single bugs, and generates functional proofs it can test and refine, working 'more like a senior researcher than an automated bug scanner' [1]. Separately, researchers used Mythos to chain two bugs into a macOS kernel-memory exploit, notable because macOS is considered hardened [2]. Mozilla credited Mythos with finding 423 bugs in a month - more than the prior 15 months combined - and a new checkpoint passed the UK AI Security Institute's cyberattack benchmark 6 of 10 times, up from 2, with GPT-5.5 at 1 [2]. The distinction that matters: not just spotting a vulnerability, but proving exactly what to patch [1].",
+      "bullets": [
+        {
+          "label": "Exploit chains:",
+          "text": "Mythos synthesizes multiple attack primitives into a working exploit, then iterates if it fails the first time [1]."
+        },
+        {
+          "label": "Real-world proof:",
+          "text": "It both discovered and carried out a kernel-memory attack on macOS, generalizing across known bug classes [2]."
+        },
+        {
+          "label": "Benchmark jump:",
+          "text": "UK AISI: 6/10 on its automated cyberattack benchmark vs 2/10 before and 1/10 for GPT-5.5 [2]."
+        }
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Mythos turns the abstract 'AI and cybersecurity' debate concrete: defenders get senior-researcher-grade triage, but the same capability lowers the bar for offense - the conversation now has to be about secure software at scale [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - 9 Codex Tips (Cloudflare Mythos review)",
+          "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk"
+        },
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        }
+      ]
+    },
+    {
+      "number": "08",
+      "category": "AI . PRODUCT",
+      "title": "Cursor's Composer 2.5 hits frontier coding at a tenth of the cost.",
+      "highlight_phrase": "a tenth of the cost",
+      "toc_summary": "Cursor's in-house Composer 2.5 reaches near-frontier coding benchmarks while costing roughly half of Opus 4.7 or GPT-5.5 per token and claiming 10x efficiency, built on Moonshot's Kimi 2.5.",
+      "quick_take": "Composer 2.5 scored 69.3% on Terminal Bench 2.0 (just behind Opus 4.7) and ~80.5% on SWE-bench multilingual, comparable to Opus 4.7 and GPT-5.5 [1]. Cursor serves it at $0.50/$2.50 per million input/output tokens - about half the price of the frontier models - and ran SWE-bench at under $1 per task versus ~$5 (GPT-5.5) and ~$11 (Opus 4.7), claiming 10x efficiency [1]. It's built on Moonshot's Kimi 2.5 base, so the gains came purely from better reinforcement learning, hinting that open models can be post-trained to the frontier on discrete tasks [1]. Cursor is also training a from-scratch model on xAI's Colossus 2 cluster (~1M H100-equivalents) [1].",
+      "bullets": [
+        {
+          "label": "Cheap and trusted:",
+          "text": "Early users say 2.5 is 'almost as strong as Opus 4.7' and trustworthy enough for more than quick front-end tweaks [1]."
+        },
+        {
+          "label": "Harness-first lane:",
+          "text": "As enterprises worry about lock-in to OpenAI/Anthropic, harness-first labs like Cursor get an opening - 'controlling the tokens is controlling the spice' [1]."
+        },
+        {
+          "label": "Open base, RL gains:",
+          "text": "Built on Kimi 2.5, it suggests huge headroom to post-train leading open models for discrete coding tasks [1]."
+        }
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "THE BIG PICTURE",
+        "text": "If a harness-first company can match frontier quality at 10x lower cost by RL-tuning an open model, the moat of the big labs on routine coding work looks thinner than it did a quarter ago [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - 9 Codex Tips from the Codex Team",
+          "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk"
+        }
+      ]
+    },
+    {
+      "number": "09",
+      "category": "AI . PRODUCT",
+      "title": "Codex goes fully mobile as agents become persistent operators.",
+      "highlight_phrase": "persistent operators",
+      "toc_summary": "OpenAI put a full Codex experience in the ChatGPT mobile app and adopted a weekly release cadence, framing a shift from coding-by-hand to managing always-on agents from your phone.",
+      "quick_take": "Codex is now a full experience inside the ChatGPT mobile app - start work, review outputs, steer execution and approve steps entirely from your phone, going beyond Anthropic's remote-control feature [1][2]. OpenAI's ~4M weekly Codex users punch above their weight in token spend, and the company is moving to a predictable weekly Thursday release cadence [2]. Commentators framed mobile Codex as a modality shift: 'AI agents becoming persistent operators, not just chat interfaces,' where the human's job becomes triage, not execution [2]. Practically, people now keep an always-on Mac mini as 'home' and treat laptops as satellites, kicking off threads from a phone [2].",
+      "bullets": [
+        {
+          "label": "Untethered work:",
+          "text": "You can capture intent, redirect and steer long-running threads without sitting in front of a laptop [2]."
+        },
+        {
+          "label": "Token heavyweights:",
+          "text": "Codex's ~4M weekly users represent disproportionate token spend versus the 800-900M general ChatGPT users [2]."
+        },
+        {
+          "label": "Everlast's take:",
+          "text": "Leonard Schwedding demoed using phone-based remote control to run desktop Codex tasks on the go [3]."
+        }
+      ],
+      "callout": {
+        "type": "do_this_today",
+        "label": "DO THIS TODAY",
+        "text": "If you build with agents, set up a phone-to-desktop Codex loop so you can approve and steer long-running jobs while away from your machine [2]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        },
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        },
+        {
+          "title": "Everlast AI - weekly KI-News (Codex mobile demo)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "category": "AI . PRODUCT",
+      "title": "'Codex maxing': nine tips from the Codex team.",
+      "highlight_phrase": "Codex maxing",
+      "toc_summary": "Codex-team member Jason Lou's nine practices boil down to one shift - keep human and agent working in parallel without breaking the loop.",
+      "quick_take": "Jason Lou's 'Codex maxing' post lays out nine practices for treating Codex as a whole work system, not a chat box [1]. They include long-running durable mono-threads per workstream, voice ('the art of the ramble'), the steer feature to refine work in flight, and treating memory as checked-in files or an Obsidian vault rather than chat history [1]. Others cover computer/browser use as an 'evidence gatherer,' remote control via the mobile app, scheduled 'heartbeats' (e.g. check Slack/Gmail every 30 minutes), the /goal primitive (now also in Claude Code), and the side panel as 'where work happens' [1]. The overarching theme is 'don't break the loop' - parallel human-plus-agent work [1].",
+      "bullets": [
+        {
+          "label": "Durable threads:",
+          "text": "Improved compaction lets a single thread persist as a long-lived workspace per workstream [1]."
+        },
+        {
+          "label": "Memory as files:",
+          "text": "Serialize what a thread learns into a vault so knowledge survives the thread - 'different workers reading from the same notebook' [1]."
+        },
+        {
+          "label": "Heartbeats:",
+          "text": "Scheduled check-ins let threads wake up, scan Slack/Gmail and act without you sitting there [1]."
+        }
+      ],
+      "callout": {
+        "type": "do_this_today",
+        "label": "DO THIS TODAY",
+        "text": "Adopt one durable mono-thread per major workstream and start dictating context by voice - the messy version of your thinking produces better plans than the polished one [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - 9 Codex Tips from the Codex Team",
+          "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "category": "AI . PRODUCT",
+      "title": "Anthropic ships Agent View, +50% limits and Claude for Small Business.",
+      "highlight_phrase": "Agent View",
+      "toc_summary": "Anthropic raised weekly usage limits 50%, added an Agent View to orchestrate many parallel agents from one session, and launched a Claude for Small Business plugin pack.",
+      "quick_take": "Responding to Codex luring users with two months of free enterprise usage, Anthropic raised weekly usage limits by 50% - even on the $200 plan - easing the biggest recent pain point [1]. The new Agent View lets you orchestrate dozens of agents from a single session (launch with 'claude agents'), see and steer each sub-agent, and answer prompts without clicking into individual sessions [1]. Claude also added the /goal function, where it works toward an objective for hours or days [1]. And a new 'Claude for Small Business' plugin pack bundles ~34 skills with connectors to PayPal, HubSpot, Canva, Slack, Stripe and Square [1].",
+      "bullets": [
+        {
+          "label": "Parallel agents, one view:",
+          "text": "Agent View tackles the 'ten terminal tabs' problem by orchestrating sub-agents from a single global session [1]."
+        },
+        {
+          "label": "Limits eased:",
+          "text": "+50% weekly usage limits directly answers the complaint that even the $200 plan ran out fast [1]."
+        },
+        {
+          "label": "SMB push:",
+          "text": "Claude for Small Business targets accounting, month-end close, morning KPI briefings and Canva presentations [1]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "The Claude-vs-Codex arms race is now about throughput and orchestration - whoever makes running many agents in parallel feel effortless wins the daily-driver slot [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (Claude Agent View, Small Business)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "category": "AI . NEW LABS",
+      "title": "Thinking Machines Lab unveils a streaming Interaction Model.",
+      "highlight_phrase": "streaming Interaction Model",
+      "toc_summary": "Mira Murati's lab showed its first model - a continuous, multimodal speech-to-speech system that processes interleaved streams and delegates tool calls to a background model.",
+      "quick_take": "Thinking Machines Lab, Mira Murati's $2B-funded venture, finally showed its first concrete model: an 'Interaction Model' [1]. Unlike GPT Realtime, which is turn-based with bolt-on voice-activity detection, it processes input as continuous interleaved streams - a chunk every 200ms, roughly human speech reaction time [1]. It's multimodal (audio, text, image, video) and uses a separate background model to handle tool calls, so it can keep talking while it builds a chart or searches the web [1]. On the lab's own Timespeak benchmark - which checks whether a model speaks at the right moment with the right content - it scored 64.7% versus GPT Realtime's 4.3%, though it's not public yet, with a research preview promised in the coming months [1].",
+      "bullets": [
+        {
+          "label": "Continuous, not turns:",
+          "text": "200ms interleaved input/output chunks make conversations feel real-time without separate voice-activity detection [1]."
+        },
+        {
+          "label": "Two-model design:",
+          "text": "A background model handles agentic tool calls so the foreground keeps conversing - the reason it could chat while charting [1]."
+        },
+        {
+          "label": "Benchmark gap:",
+          "text": "64.7% vs 4.3% for GPT Realtime on the lab's Timespeak metric, a large jump on a self-built test [1]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "After months of vagueness, Thinking Machines is staking out real-time, talk-while-it-works interaction as its niche - the research preview will show whether the demo holds up [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (Thinking Machines Interaction Model)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "category": "AI . PHYSICAL WORLD",
+      "title": "Daniel Cremers: world models, not LLMs, are the next breakthrough.",
+      "highlight_phrase": "world models, not LLMs",
+      "toc_summary": "Computer-vision pioneer Daniel Cremers argues the real AI breakthrough was ImageNet 2015, that LLMs lack spatial understanding, and that energy efficiency and world models matter more than buzzwords.",
+      "quick_take": "In a long Everlast interview, TU Munich's Daniel Cremers argues the true AI breakthrough wasn't chess or ChatGPT but machines beating humans at ImageNet image classification in 2015, because visual understanding is a deeply human, evolved skill [1]. LLMs 'live in the language world' and lack real 3D understanding; humanoid robots, autonomous driving and everyday tasks need spatial intelligence with explicit physical representations [1]. He dismisses AGI, 'foundation models' and 'world models' as largely buzzwords - AI is a toolkit, and no single model will do everything [1]. His biggest open challenge is energy efficiency: the brain runs on ~20 watts while LLM training can consume more power than a country, pointing toward spiking neural nets and neuromorphic chips [1].",
+      "bullets": [
+        {
+          "label": "Camera over LiDAR:",
+          "text": "Cremers backs vision-only self-driving (the Tesla/Dickmanns line) because cameras are orders of magnitude cheaper, lighter and smaller than LiDAR [1]."
+        },
+        {
+          "label": "A 'Do-Tank' for Germany:",
+          "text": "He warns against building a national LLM/foundation/world model (citing failures like Bloomberg GPT) and calls for action over commentary [1]."
+        },
+        {
+          "label": "Quiet pedigree:",
+          "text": "His team built LSD-SLAM (2014) and a protein-structure neural net two-to-three years before AlphaFold [1]."
+        }
+      ],
+      "callout": {
+        "type": "long_arc",
+        "label": "THE LONG ARC",
+        "text": "If Cremers is right, the next wave is spatial intelligence and energy-efficient architectures for robotics and medicine - and chasing the last hype model is exactly the wrong move [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - Daniel Cremers on world models (interview)",
+          "url": "https://www.youtube.com/watch?v=FvSRHiwQN0w"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "category": "AI . PHYSICAL WORLD",
+      "title": "Humanoid robots start clocking real shifts.",
+      "highlight_phrase": "real shifts",
+      "toc_summary": "Figure locked its next-gen F04 design and live-streamed an autonomous 8-hour shift of Figure 3, while Unitree showed a rideable mech and opened an app store for humanoids.",
+      "quick_take": "Figure confirmed its next-generation F04 is in full design lock with first parts in production, calling it the biggest jump between robot generations yet while tempering expectations on timing [1]. In parallel, Figure is live-streaming a fully autonomous 8-hour shift of Figure 3 sorting packages and placing them face-down for downstream scanning [1]. Unitree, meanwhile, revealed a rideable mech billed as the first mass-produced manned robot, which folds into a four-legged vehicle and weighs ~500kg with a pilot [1]. Unitree also launched the UniStore - what it calls the first app store for humanoid robots - debuting with 24 ready-made motion apps [1].",
+      "bullets": [
+        {
+          "label": "Real work, today:",
+          "text": "Figure 3's streamed 8-hour package-sorting shift shows current-gen humanoids doing sustained autonomous labor [1]."
+        },
+        {
+          "label": "Next-gen locked:",
+          "text": "F04 is in design lock with parts in production, though Figure cautions a reveal isn't imminent [1]."
+        },
+        {
+          "label": "Apps for robots:",
+          "text": "Unitree's UniStore launches with 24 motion apps, hinting at a software ecosystem for humanoids [1]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "The story is shifting from robot demos to sustained autonomous shifts and an app ecosystem - the scaffolding of a real humanoid industry [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (Figure, Unitree)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "category": "AI . BUSINESS",
+      "title": "OpenAI builds a deployment army with the Tomoro deal.",
+      "highlight_phrase": "deployment army",
+      "toc_summary": "OpenAI is forming a deployment company and acquiring Tomoro for ~150 forward-deployed engineers, plus partnerships with 19 leading investment and consulting firms.",
+      "quick_take": "OpenAI is standing up an 'OpenAI Deployment Company' built on the Palantir-style forward-deployed-engineer model - consultants who implement and advise on the systems inside customers [1]. Concretely, it's acquiring Tomoro to bring on ~150 experienced forward-deployed engineers [1]. It's also partnering with 19 of the world's leading investment and consulting firms, which would naturally recommend OpenAI tools across their portfolio companies [1]. Anthropic is pursuing a similar strategy - the next phase of enterprise AI hinges on how effectively these systems get deployed in real workflows [1].",
+      "bullets": [
+        {
+          "label": "Forward-deployed model:",
+          "text": "OpenAI copies Palantir's playbook: embed engineers to implement AI inside enterprises, not just sell API access [1]."
+        },
+        {
+          "label": "Tomoro talent:",
+          "text": "The acquisition brings ~150 forward-deployed engineers in one move [1]."
+        },
+        {
+          "label": "Channel leverage:",
+          "text": "Partnerships with 19 investment/consulting firms create a built-in recommendation pipeline into portfolio companies [1]."
+        }
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "THE BIG PICTURE",
+        "text": "The labs increasingly compete on deployment, not just model quality - the winner may be whoever best closes the gap between AI capability and messy enterprise reality [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (OpenAI Deployment Company, Tomoro)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "category": "AI . LEGAL",
+      "title": "OpenAI weighs suing Apple as Apple leans on Claude.",
+      "highlight_phrase": "suing Apple",
+      "toc_summary": "OpenAI is reportedly considering a breach-of-contract suit over the lackluster ChatGPT/Apple Intelligence integration, while Apple is said to use Claude internally and test Claude and Gemini for iPhone.",
+      "quick_take": "The Information reports OpenAI is weighing legal action against Apple over the underwhelming ChatGPT integration in Apple Intelligence, which always felt like a half-commitment [1]. A source says OpenAI has tried to improve the relationship but sees a lack of effort from Apple, and would prefer not to sue unless Apple shows more interest [1]. Notably, OpenAI didn't even compete in the bake-off to power the new Siri, which Google won [1]. Apple is reportedly using Claude internally for coding and business work and testing native Claude and Gemini integrations for iPhone with the same access ChatGPT has [1].",
+      "bullets": [
+        {
+          "label": "Thin but notable:",
+          "text": "The host flags the sourcing as thin, but it lands amid an I/O week of AI-race discourse [1]."
+        },
+        {
+          "label": "Apple's hedges:",
+          "text": "Apple is said to use Claude internally and test Claude and Gemini for the iPhone, diversifying away from ChatGPT [1]."
+        },
+        {
+          "label": "Siri went to Google:",
+          "text": "OpenAI sat out the Siri contract bake-off, which Google won [1]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "A breakup between OpenAI and Apple would reshuffle which assistant sits closest to a billion iPhones - and Claude and Gemini are already in the building [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "category": "AI . BUSINESS",
+      "title": "Microsoft cancels Claude Code licenses for its own CLI.",
+      "highlight_phrase": "cancels Claude Code licenses",
+      "toc_summary": "Microsoft is ending Claude Code licenses at the end of June and shifting developers to the GitHub Copilot CLI, citing cost and a push for in-house tools.",
+      "quick_take": "Microsoft has begun canceling Claude Code licenses and moving developers to the GitHub Copilot CLI, with access ending in late June - conveniently at the start of its new fiscal year [1]. It first gave developers Claude Code in December, a quiet admission that its own tools had fallen behind [1]. Sources told The Verge that Anthropic's tools were extremely popular, 'maybe a little too popular,' and management saw the licenses as an easy cost to cut [1]. It doubles as an incentive to make Copilot good enough to compete [1].",
+      "bullets": [
+        {
+          "label": "Cost plus strategy:",
+          "text": "Ending licenses saves money and pressures Microsoft's own Copilot CLI to improve [1]."
+        },
+        {
+          "label": "Too popular:",
+          "text": "Claude Code was reportedly a hit with Microsoft developers, which is part of why it's being pulled [1]."
+        },
+        {
+          "label": "Timing:",
+          "text": "Licenses terminate at the end of June, aligning with Microsoft's new financial year [1]."
+        }
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Even as Anthropic's tools win on merit, platform owners like Microsoft will pull them to protect and force-improve their own - a recurring tension as the harness wars intensify [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "category": "AI . INFRASTRUCTURE",
+      "title": "'You don't need an API anymore' as browser agents mature.",
+      "highlight_phrase": "don't need an API anymore",
+      "toc_summary": "Everlast argues the long-standing missing-API barrier for the German Mittelstand is dissolving as Browser Use ships proactive agents, Kimi adds a Web Bridge, and Make releases a CLI.",
+      "quick_take": "Everlast's business idea of the week: the missing-interface barrier that blocked countless Mittelstand automation projects is being solved from several angles [1]. Browser Use released proactive agents that pursue goals in your browser and only come back with ideas to approve or requests for input [1]. Kimi's Web Bridge, from the Chinese open-source provider, is a browser-use agent you can drive directly from Claude Code, Cursor, Codex or other harnesses [1]. And Make shipped a CLI, finally embracing the shift to building automation workflows through agents rather than drag-and-drop, after losing ground to n8n [1].",
+      "bullets": [
+        {
+          "label": "Proactive browsing:",
+          "text": "Browser Use agents pursue goals in the browser and surface only approvals or questions [1]."
+        },
+        {
+          "label": "Harness-driven:",
+          "text": "Kimi Web Bridge can be steered from Claude Code, Cursor, Codex or Hermes to automate browser tasks [1]."
+        },
+        {
+          "label": "Make catches up:",
+          "text": "The new Make CLI signals a pivot toward agent-built workflows, an answer to n8n [1]."
+        }
+      ],
+      "callout": {
+        "type": "do_this_today",
+        "label": "DO THIS TODAY",
+        "text": "Revisit the automation use cases you once declined for lack of an API - browser agents may now make them viable [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (Browser Use, Kimi Web Bridge, Make CLI)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "category": "AI . INFRASTRUCTURE",
+      "title": "Augustus wants to rebuild the bank as code for agents.",
+      "highlight_phrase": "rebuild the bank as code",
+      "toc_summary": "A 25-year-old founder, Ferdinand Ditz, is building Augustus - a 24/7, agent-optimized clearing bank 'made of code' designed for non-deterministic, agent-initiated workflows.",
+      "quick_take": "Everlast highlighted Augustus, founded by Ferdinand Ditz, reportedly banking's youngest CEO at 25, building a bank explicitly optimized for the AI era [1]. The pitch: classic banks run on human workflows - business hours, SWIFT, manual compliance - and are closed ~115 days a year, so why not a 24/7, always-on, agent-optimized bank [1]. Augustus says its core banking infrastructure is built from the ground up for non-deterministic, agent-initiated workflows, implying even AI agents could become customers [1]. The aim is to 'replace paper with code' and rethink the clearing bank as an AI application [1].",
+      "bullets": [
+        {
+          "label": "Agent-native banking:",
+          "text": "Core infrastructure is designed for non-deterministic, agent-initiated workflows - even agents as customers [1]."
+        },
+        {
+          "label": "Always on:",
+          "text": "A 24/7 bank challenges incumbents that are effectively closed ~115 days a year [1]."
+        },
+        {
+          "label": "Paper to code:",
+          "text": "Augustus wants to rebuild the clearing layer itself as software [1]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "The agent economy needs financial rails agents can actually use - KYC and bank accounts are a real blocker today, and Augustus is an early bet on fixing it [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (Augustus AI bank)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "category": "AI . PRODUCT",
+      "title": "Nurses who lean on AI pull ahead by up to 51 points.",
+      "highlight_phrase": "51 points",
+      "toc_summary": "A study shared in the feed finds nurses who use AI intensively outperform peers most in high-stakes clinical workflows, with gaps up to 51 percentage points.",
+      "quick_take": "A finding shared in the WhatsApp feed shows that nurses who use AI intensively pull ahead exactly where it matters clinically [1]. Power-users lead by 51 percentage points on clinical decision support, 50 on medication management and 46 on care-plan personalization [1]. The striking pattern: the higher the patient risk, the wider the gap - routine workflows like shift planning or patient communication show a 39-point gap, while sensitive clinical workflows show 42 to 51 [1]. AI-savvy nurses are building their own league, and the distance grows where mistakes are most costly [1].",
+      "bullets": [
+        {
+          "label": "Biggest in high-stakes work:",
+          "text": "The capability gap widens with patient risk, peaking at 51 points in clinical decision support [1]."
+        },
+        {
+          "label": "Not just admin:",
+          "text": "Even routine workflows show a 39-point gap, but sensitive clinical tasks reach 42-51 [1]."
+        },
+        {
+          "label": "Compounding advantage:",
+          "text": "Heavy AI users keep extending their lead precisely where errors are most expensive [1]."
+        }
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "AI adoption in healthcare isn't a uniform lift - it most rewards the highest-stakes decisions, which raises both the upside and the equity stakes of who gets trained to use it [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI KI News - The AI divide in nursing",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "number": "21",
+      "category": "FUTURE TECH . NEUROTECH",
+      "title": "Zander's brain interfaces give AI an 'emotional fingerprint'.",
+      "highlight_phrase": "emotional fingerprint",
+      "toc_summary": "Prof. Thorsten Zander's passive brain-computer interfaces read biosignals to infer a user's emotional and cognitive state, which he argues could solve LLMs' missing understanding - backed by EUR30M.",
+      "quick_take": "Both the WhatsApp feed and the Everlast interview spotlight Prof. Thorsten Zander (Zander Labs / BTU Cottbus) and passive brain-computer interfaces [1][2]. Rather than mental control (a thought-based button press), passive BCIs read EEG, facial expression, voice and heart rate to compute an 'emotional fingerprint' - monitoring whether you're tense, bored or excited [1]. Zander's thesis: the next AI generation will be steered by your state, not just prompts, addressing the empathy/understanding gap that LLMs lack [1][2]. Backed by EUR30M from Germany's Cyberagentur, the lab runs pilots with Airbus, VW, Bosch and Google DeepMind, with no paying customers yet and first contracts expected within ~2 years [2].",
+      "bullets": [
+        {
+          "label": "State, not commands:",
+          "text": "Passive BCIs monitor cognitive and emotional state to hand machines context rather than explicit instructions [1]."
+        },
+        {
+          "label": "An alignment angle:",
+          "text": "Zander frames it as a path to the empathy/understanding that pure language models can't reproduce [2]."
+        },
+        {
+          "label": "Funded, piloting:",
+          "text": "EUR30M from the Cyberagentur; pilots with Airbus, VW, Bosch and Google DeepMind, customers expected in ~2 years [2]."
+        }
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "If machines can read emotional state, the line between understanding and manipulation - in therapy, recruiting, education and marketing - becomes the central question [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI KI News - AI gains access to your feelings",
+          "url": "https://www.youtube.com/watch?v=tCzQOiqzuuc"
+        },
+        {
+          "title": "Everlast AI - weekly KI-News (Zander BCI interview)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "22",
+      "category": "AI . BUSINESS",
+      "title": "LinkedIn cuts 606 California jobs amid an 'AI restructuring'.",
+      "highlight_phrase": "606 California jobs",
+      "toc_summary": "A WARN filing confirms LinkedIn will lay off 606 employees in July, framed around AI initiatives, though Reuters says the real driver is an org-chart consolidation.",
+      "quick_take": "Microsoft's LinkedIn filed a WARN notice confirming 606 layoffs effective July 13 [1]. The hardest hit is the Mountain View HQ with 352 roles plus 66 regional remote roles, then 108 in San Francisco, 50 in Sunnyvale and 21 in Carpinteria, spanning engineering, marketing, product and business operations [1]. The cuts come just weeks after a quarter with 12% revenue growth, with the official rationale being restructuring around AI initiatives [1]. Reuters, however, reports AI isn't the main driver - it's an org-chart consolidation under the new CEO [1].",
+      "bullets": [
+        {
+          "label": "Where it lands:",
+          "text": "352 roles at the Mountain View HQ lead the cuts, with engineering, marketing, product and ops affected [1]."
+        },
+        {
+          "label": "Despite growth:",
+          "text": "The layoffs follow a quarter of 12% revenue growth, undercutting a pure cost narrative [1]."
+        },
+        {
+          "label": "AI as framing:",
+          "text": "Officially tied to AI initiatives, but Reuters attributes it to consolidation under the new CEO [1]."
+        }
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "THE BIG PICTURE",
+        "text": "Even growing, Microsoft-backed platforms are reshaping their org charts as if the next product generation won't be human-scaled - 'AI restructuring' is becoming the default label whatever the real cause [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI KI News - LinkedIn cuts 606 jobs",
+          "url": "https://nypost.com/2026/05/19/business/panic-in-california-as-linkedin-announces-hundreds-of-layoffs/"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "category": "AI . CONSUMER PLATFORMS",
+      "title": "A real Monet got mistaken for AI slop.",
+      "highlight_phrase": "mistaken for AI slop",
+      "toc_summary": "In a social experiment, a genuine Monet water-lilies painting was posted as 'AI-generated', and self-styled experts confidently explained why it was inferior to a 'real' Monet.",
+      "quick_take": "Everlast closed with a social experiment worth sending to skeptics who insist they can always spot AI [1]. A user posted a real Monet water-lilies painting, claimed it was AI-generated, and asked people to explain why it was inferior to a genuine Monet [1]. Commenters duly produced numerous reasons the image fell short - except the picture was an authentic Monet, not AI at all [1]. The point: the very experts who claim to detect AI's inferiority can no longer recognize genuine human work [1].",
+      "bullets": [
+        {
+          "label": "Confidently wrong:",
+          "text": "Viewers told a real Monet was AI listed many reasons it was 'worse' than a real Monet [1]."
+        },
+        {
+          "label": "Detection illusion:",
+          "text": "The experiment suggests human-vs-AI 'tells' are often post-hoc rationalization [1]."
+        },
+        {
+          "label": "A 'Made by Human' seal?:",
+          "text": "Everlast speculates a human-made quality label could emerge, like an organic-food seal [1]."
+        }
+      ],
+      "callout": {
+        "type": "long_arc",
+        "label": "THE LONG ARC",
+        "text": "As provenance becomes unrecognizable by eye, value may shift to verified labels of origin rather than perceived quality - a 'human-made' seal for a post-AI culture [1]."
+      },
+      "sources": [
+        {
+          "title": "Everlast AI - weekly KI-News (Monet social experiment)",
+          "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        }
+      ]
+    },
+    {
+      "number": "24",
+      "category": "AI . BUSINESS",
+      "title": "Figma's AI features revive its battered stock.",
+      "highlight_phrase": "AI features revive",
+      "toc_summary": "Figma, a victim of the SaaS-apocalypse narrative, accelerated revenue growth to 46% on the back of AI features and is charging for token use above a cap without hurting retention.",
+      "quick_take": "Figma is the latest software company to come back from the dead on AI revenue, after its stock fell as much as 50% this year amid the SaaS-apocalypse narrative [1]. Thursday's earnings showed revenue growing 46%, accelerating from 40% the prior quarter, with the CFO crediting AI features for strengthening its pitch [1]. Notably, Figma introduced a usage cap in early March and charges for token use above it, yet says 75% of customers still use AI features within the cap or by paying more [1]. The market rewarded it, sending shares up 8% after hours [1].",
+      "bullets": [
+        {
+          "label": "Growth re-accelerates:",
+          "text": "Revenue grew 46% versus 40% the prior quarter, attributed to AI features [1]."
+        },
+        {
+          "label": "Usage caps stick:",
+          "text": "75% of customers stayed engaged despite token-usage charges introduced in March [1]."
+        },
+        {
+          "label": "End of the subsidy era:",
+          "text": "Figma is an example of vendors successfully moving to usage-based AI pricing without churn [1]."
+        }
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "THE BIG PICTURE",
+        "text": "AI features are reviving 'SaaS-apocalypse' losers, and usage-based pricing is proving durable - evidence the subsidy era can end without breaking retention [1]."
+      },
+      "sources": [
+        {
+          "title": "The AI Daily Brief - What Google Needs to Do at I/O This Week",
+          "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY"
+        }
+      ]
+    }
+  ],
+  "editorial": {
+    "title": "Two theories of how to win",
+    "highlight_phrase": "two theories",
+    "intro": "On the same day Google flooded its biggest stage with products, the more revealing story was how differently the leading labs now define winning.",
+    "body": "Google's I/O was a study in abundance without focus: Omni, Spark, Anti-Gravity 2.0 and a Gemini 3.5 Flash that is fast, verbose and oddly expensive, wrapped in a fog of overlapping product names. Yet the same week, Anthropic doubled revenue to $10.9B with its first operating profit, lined up a $30B raise at a $900B valuation, edged past OpenAI in enterprise adoption, and watched Mythos turn from bug-finder into exploit-writer. OpenAI, for its part, kept narrowing - shipping Codex to mobile, building a deployment army through the Tomoro deal, and treating the work user as the whole game. The pattern is a split between a company betting that distribution and breadth will carry it (Google), and rivals betting that depth, focus and developer love compound faster. Underneath all of it sits the quieter argument from Daniel Cremers: that the language-model era is just one branch, and the next breakthroughs - spatial intelligence, world models, energy-efficient architectures - may not look like a chatbot at all.",
+    "pull_quote": "The labs are no longer racing toward the same finish line; they are racing toward different ones.",
+    "outro": "The agent-coding race, the security step-change in Mythos, and the slow arrival of humanoid shifts all point the same way: the experimentation era is ending, and the era of tradeoffs - cost, focus, deployment - has begun.",
+    "takeaway": {
+      "label": "IF YOU TAKE ONE THING FROM THIS",
+      "text": "Breadth wins distribution, but focus wins the work - and right now Anthropic and OpenAI are out-focusing a Google that is trying to be everywhere at once."
+    }
+  }
+}
