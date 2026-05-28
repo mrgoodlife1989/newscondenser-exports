@@ -1,0 +1,198 @@
+{
+  "headline": {
+    "category_label": "DAILY FINANCE BRIEF",
+    "title": "Beating Beta — 28 May 2026",
+    "highlight_phrase": "markets, gurus, news",
+    "summary": "Daily finance brief: guru radar (Cathie Wood + consensus), markets & macro snapshot, and key market news items."
+  },
+  "stories": [
+    {
+      "number": "01",
+      "category": "FINANCE . STRATEGY",
+      "title": "Guru Radar: Cathie Wood & Bill Ackman on today's market moves.",
+      "highlight_phrase": "Cathie Wood & Bill Ackman",
+      "toc_summary": "Today's guru pair: Cathie Wood & Bill Ackman. Consensus views on macro, market direction, and portfolio construction.",
+      "quick_take": "*Cathie Wood*\n🚀 (ARK Invest)\nMakro: \"AI unlocks $13 trillion addressable market. Tech supercycle continues.\"\nBullish Picks: TSLA, COIN, ARKK, AI Healthcare names\n\n*Bill Ackman*\n💼 (Pershing Square)\nMakro: \"Quality compounders at reasonable valuations. Simplicity wins.\"\nBullish Picks: GOOGL (40%), AMZN (25%), META (25%), Berkshire",
+      "bullets": [
+        {
+          "label": "Cathie Wood",
+          "text": "🚀 (ARK Invest) • Makro: \"AI unlocks $13 trillion addressable market. Tech supercycle continues.\""
+        },
+        {
+          "label": "Bill Ackman",
+          "text": "💼 (Pershing Square) • Makro: \"Quality compounders at reasonable valuations. Simplicity wins.\""
+        }
+      ],
+      "callout": {
+        "type": "consensus",
+        "label": "CONSENSUS PORTFOLIO",
+        "text": "See full edition for details."
+      },
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "category": "FINANCE . MARKETS",
+      "title": "Markets & Macro: Today's data points and volatility.",
+      "highlight_phrase": "market snapshot",
+      "toc_summary": "US equities, FX, rates, commodities and macro calendar. VIX, yields, and key economic releases on watch.",
+      "quick_take": "& MAKRO\n\n*USA*\nS&P 500: 7,520.36 🟢 +0.02% | Nasdaq: 19,480.50 🟢 +0.45%\nVIX: 14.2 (Low volatility) | 10Y Treasury: 4.18% | Fed Funds: 5.33%\n\n*Europa*\nDAX: 18,920.45 🔴 -0.15% | EUR/USD: 1.0859 🟢 +0.12% | EURIBOR 3M: 3.52%\n\n*Volatility & Rates*\nVIX @ 14.2 = Complacency zone. Gold bid @ $4,404...",
+      "bullets": [
+        {
+          "label": "Equities",
+          "text": "S&P 500 and Nasdaq tracking macro catalysts; volatility remains contained."
+        },
+        {
+          "label": "Rates & FX",
+          "text": "10Y Treasury yields and USD strength in focus amid ECB signals and data releases."
+        },
+        {
+          "label": "Commodities",
+          "text": "Oil, gold, and crypto tracking geopolitical risk and macro sentiment."
+        }
+      ],
+      "callout": {
+        "type": "macro_watch",
+        "label": "ON WATCH",
+        "text": "US GDP, jobless claims, Fed speakers, ECB rate decision signals."
+      },
+      "sources": [
+        {
+          "title": "Bloomberg, Yahoo Finance, Investing.com",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "category": "FINANCE . NEWS",
+      "title": "Tech stocks diverge as Nvidia, Apple battle for AI crown.",
+      "highlight_phrase": "Tech stocks diverge as Nvidia,",
+      "toc_summary": "Tech stocks diverge as Nvidia, Apple battle for AI crown.",
+      "quick_take": "NVDA consensus target $295-$425 range.",
+      "bullets": [
+        {
+          "label": "From Beating Beta",
+          "text": "NVDA consensus target $295-$425 range."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "category": "FINANCE . NEWS",
+      "title": "ECB officials signal June rate hike likely.",
+      "highlight_phrase": "ECB officials signal June rate",
+      "toc_summary": "ECB officials signal June rate hike likely.",
+      "quick_take": "EUR rallies; energy retreats below $95 barrel.",
+      "bullets": [
+        {
+          "label": "From Beating Beta",
+          "text": "EUR rallies; energy retreats below $95 barrel."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "category": "FINANCE . NEWS",
+      "title": "Ackman's Pershing Square hits new highs on GOOGL/AMZN bet.",
+      "highlight_phrase": "Ackman's Pershing Square hits ",
+      "toc_summary": "Ackman's Pershing Square hits new highs on GOOGL/AMZN bet.",
+      "quick_take": "Concentrated bets paying off.",
+      "bullets": [
+        {
+          "label": "From Beating Beta",
+          "text": "Concentrated bets paying off."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "category": "FINANCE . NEWS",
+      "title": "Cathie Wood's ARK rebalances into Nvidia, Bitcoin",
+      "highlight_phrase": "Cathie Wood's ARK rebalances i",
+      "toc_summary": "Cathie Wood's ARK rebalances into Nvidia, Bitcoin",
+      "quick_take": "on AI/crypto supercycle thesis.",
+      "bullets": [
+        {
+          "label": "From Beating Beta",
+          "text": "on AI/crypto supercycle thesis."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "category": "FINANCE . NEWS",
+      "title": "Fed speakers stress Iran conflict inflation risk.",
+      "highlight_phrase": "Fed speakers stress Iran confl",
+      "toc_summary": "Fed speakers stress Iran conflict inflation risk.",
+      "quick_take": "Futures unchanged ahead of GDP print.",
+      "bullets": [
+        {
+          "label": "From Beating Beta",
+          "text": "Futures unchanged ahead of GDP print."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "08",
+      "category": "FINANCE . NEWS",
+      "title": "Goldman Sachs upgrades semiconductor outlook.",
+      "highlight_phrase": "Goldman Sachs upgrades semicon",
+      "toc_summary": "Goldman Sachs upgrades semiconductor outlook.",
+      "quick_take": "Tepper's MU position +40% YTD.",
+      "bullets": [
+        {
+          "label": "From Beating Beta",
+          "text": "Tepper's MU position +40% YTD."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    }
+  ]
+}
