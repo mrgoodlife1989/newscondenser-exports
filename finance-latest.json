@@ -1,26 +1,26 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 28 May 2026",
+    "title": "Beating Beta — 1 Jun 2026",
     "highlight_phrase": "markets, gurus, news",
-    "summary": "Daily finance brief: guru radar (Cathie Wood + consensus), markets & macro snapshot, and key market news items."
+    "summary": "Daily finance brief: guru radar (Warren Buffett + consensus), markets & macro snapshot, and key market news items."
   },
   "stories": [
     {
       "number": "01",
       "category": "FINANCE . STRATEGY",
-      "title": "Guru Radar: Cathie Wood & Bill Ackman on today's market moves.",
-      "highlight_phrase": "Cathie Wood & Bill Ackman",
-      "toc_summary": "Today's guru pair: Cathie Wood & Bill Ackman. Consensus views on macro, market direction, and portfolio construction.",
-      "quick_take": "*Cathie Wood*\n🚀 (ARK Invest)\nMakro: \"AI unlocks $13 trillion addressable market. Tech supercycle continues.\"\nBullish Picks: TSLA, COIN, ARKK, AI Healthcare names\n\n*Bill Ackman*\n💼 (Pershing Square)\nMakro: \"Quality compounders at reasonable valuations. Simplicity wins.\"\nBullish Picks: GOOGL (40%), AMZN (25%), META (25%), Berkshire",
+      "title": "Guru Radar: Warren Buffett & Stanley Druckenmiller on today's market moves.",
+      "highlight_phrase": "Warren Buffett & Stanley Druckenmiller",
+      "toc_summary": "Today's guru pair: Warren Buffett & Stanley Druckenmiller. Consensus views on macro, market direction, and portfolio construction.",
+      "quick_take": "*Warren Buffett*\n💼 Berkshire Hathaway — vorsichtig und defensiv positioniert.\nSitzt auf rund $381 Mrd. Cash und hält den breiten Markt für überbewertet.\nBullish auf KO, AXP, OXY. Leitsatz: \"Be fearful when others are greedy.\"\n\n*Stanley Druckenmiller*\n💼 Duquesne Family Office — selektiv bullish.\nSetzt auf den AI-Infrastruktur-Zyklus und mag Cyclicals mit Rückenwind.\nBullish auf AMZN, META, GOOGL, TSM. Leitsatz: \"Don't get scared out of good stocks.\"",
       "bullets": [
         {
-          "label": "Cathie Wood",
-          "text": "🚀 (ARK Invest) • Makro: \"AI unlocks $13 trillion addressable market. Tech supercycle continues.\""
+          "label": "Warren Buffett",
+          "text": "💼 Berkshire Hathaway — vorsichtig und defensiv positioniert. • Sitzt auf rund $381 Mrd. Cash und hält den breiten Markt für überbewertet."
         },
         {
-          "label": "Bill Ackman",
-          "text": "💼 (Pershing Square) • Makro: \"Quality compounders at reasonable valuations. Simplicity wins.\""
+          "label": "Stanley Druckenmiller",
+          "text": "💼 Duquesne Family Office — selektiv bullish. • Setzt auf den AI-Infrastruktur-Zyklus und mag Cyclicals mit Rückenwind."
         }
       ],
       "callout": {
@@ -41,7 +41,7 @@
       "title": "Markets & Macro: Today's data points and volatility.",
       "highlight_phrase": "market snapshot",
       "toc_summary": "US equities, FX, rates, commodities and macro calendar. VIX, yields, and key economic releases on watch.",
-      "quick_take": "& MAKRO\n\n*USA*\nS&P 500: 7,520.36 🟢 +0.02% | Nasdaq: 19,480.50 🟢 +0.45%\nVIX: 14.2 (Low volatility) | 10Y Treasury: 4.18% | Fed Funds: 5.33%\n\n*Europa*\nDAX: 18,920.45 🔴 -0.15% | EUR/USD: 1.0859 🟢 +0.12% | EURIBOR 3M: 3.52%\n\n*Volatility & Rates*\nVIX @ 14.2 = Complacency zone. Gold bid @ $4,404...",
+      "quick_take": "& MAKRO\nS&P 500: 7580.06 +0.22% | Nasdaq: 26972.62 +0.20% | Dow: 51032.46 +0.72% | DAX: 25104.70 +0.05%. VIX 15.32 -2.67%, 10Y 4.45%, Fear & Greed 60 (Greed). Gold $4552, WTI $87.36, EUR/USD 1.1664, Bitcoin $73754 -0.38%. Risk-on bei niedriger Vola; Gold steigt als Hedge. Heutiger Trigger:...",
       "bullets": [
         {
           "label": "Equities",
@@ -71,14 +71,14 @@
     {
       "number": "03",
       "category": "FINANCE . NEWS",
-      "title": "Tech stocks diverge as Nvidia, Apple battle for AI crown.",
-      "highlight_phrase": "Tech stocks diverge as Nvidia,",
-      "toc_summary": "Tech stocks diverge as Nvidia, Apple battle for AI crown.",
-      "quick_take": "NVDA consensus target $295-$425 range.",
+      "title": "Dell springt über 30%",
+      "highlight_phrase": "Dell springt über 30%",
+      "toc_summary": "Dell springt über 30%",
+      "quick_take": "— starke AI-Server-Nachfrage befeuert die gesamte Tech-Rally.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "NVDA consensus target $295-$425 range."
+          "text": "— starke AI-Server-Nachfrage befeuert die gesamte Tech-Rally."
         }
       ],
       "callout": null,
@@ -92,14 +92,14 @@
     {
       "number": "04",
       "category": "FINANCE . NEWS",
-      "title": "ECB officials signal June rate hike likely.",
-      "highlight_phrase": "ECB officials signal June rate",
-      "toc_summary": "ECB officials signal June rate hike likely.",
-      "quick_take": "EUR rallies; energy retreats below $95 barrel.",
+      "title": "Wall Street nahe Rekordhochs",
+      "highlight_phrase": "Wall Street nahe Rekordhochs",
+      "toc_summary": "Wall Street nahe Rekordhochs",
+      "quick_take": "— robustes Gewinnwachstum trägt die Indizes in den Juni.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "EUR rallies; energy retreats below $95 barrel."
+          "text": "— robustes Gewinnwachstum trägt die Indizes in den Juni."
         }
       ],
       "callout": null,
@@ -113,14 +113,14 @@
     {
       "number": "05",
       "category": "FINANCE . NEWS",
-      "title": "Ackman's Pershing Square hits new highs on GOOGL/AMZN bet.",
-      "highlight_phrase": "Ackman's Pershing Square hits ",
-      "toc_summary": "Ackman's Pershing Square hits new highs on GOOGL/AMZN bet.",
-      "quick_take": "Concentrated bets paying off.",
+      "title": "CrowdStrike +9%",
+      "highlight_phrase": "CrowdStrike +9%",
+      "toc_summary": "CrowdStrike +9%",
+      "quick_take": "— Snowflake und Palantir ziehen mit, Software-Rally gewinnt Breite.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "Concentrated bets paying off."
+          "text": "— Snowflake und Palantir ziehen mit, Software-Rally gewinnt Breite."
         }
       ],
       "callout": null,
@@ -134,14 +134,14 @@
     {
       "number": "06",
       "category": "FINANCE . NEWS",
-      "title": "Cathie Wood's ARK rebalances into Nvidia, Bitcoin",
-      "highlight_phrase": "Cathie Wood's ARK rebalances i",
-      "toc_summary": "Cathie Wood's ARK rebalances into Nvidia, Bitcoin",
-      "quick_take": "on AI/crypto supercycle thesis.",
+      "title": "US und Iran ohne Deal",
+      "highlight_phrase": "US und Iran ohne Deal",
+      "toc_summary": "US und Iran ohne Deal",
+      "quick_take": "— Trump nicht in Eile, Geopolitik bleibt die Wildcard.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "on AI/crypto supercycle thesis."
+          "text": "— Trump nicht in Eile, Geopolitik bleibt die Wildcard."
         }
       ],
       "callout": null,
@@ -155,14 +155,14 @@
     {
       "number": "07",
       "category": "FINANCE . NEWS",
-      "title": "Fed speakers stress Iran conflict inflation risk.",
-      "highlight_phrase": "Fed speakers stress Iran confl",
-      "toc_summary": "Fed speakers stress Iran conflict inflation risk.",
-      "quick_take": "Futures unchanged ahead of GDP print.",
+      "title": "Rohöl und Renditen schwächer",
+      "highlight_phrase": "Rohöl und Renditen schwächer",
+      "toc_summary": "Rohöl und Renditen schwächer",
+      "quick_take": "— Gold fester als sicherer Hafen, Risikobild gemischt.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "Futures unchanged ahead of GDP print."
+          "text": "— Gold fester als sicherer Hafen, Risikobild gemischt."
         }
       ],
       "callout": null,
@@ -176,14 +176,14 @@
     {
       "number": "08",
       "category": "FINANCE . NEWS",
-      "title": "Goldman Sachs upgrades semiconductor outlook.",
-      "highlight_phrase": "Goldman Sachs upgrades semicon",
-      "toc_summary": "Goldman Sachs upgrades semiconductor outlook.",
-      "quick_take": "Tepper's MU position +40% YTD.",
+      "title": "Juni-Kalender voll",
+      "highlight_phrase": "Juni-Kalender voll",
+      "toc_summary": "Juni-Kalender voll",
+      "quick_take": "— Tech-Earnings und Arbeitsmarktdaten als nächste Katalysatoren.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "Tepper's MU position +40% YTD."
+          "text": "— Tech-Earnings und Arbeitsmarktdaten als nächste Katalysatoren."
         }
       ],
       "callout": null,
