@@ -1,32 +1,32 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 1 Jun 2026",
+    "title": "Beating Beta — 2 Jun 2026",
     "highlight_phrase": "markets, gurus, news",
-    "summary": "Daily finance brief: guru radar (Warren Buffett + consensus), markets & macro snapshot, and key market news items."
+    "summary": "Daily finance brief: guru radar (Ray Dalio + Michael Burry), markets & macro snapshot, and key market news items."
   },
   "stories": [
     {
       "number": "01",
       "category": "FINANCE . STRATEGY",
-      "title": "Guru Radar: Warren Buffett & Stanley Druckenmiller on today's market moves.",
-      "highlight_phrase": "Warren Buffett & Stanley Druckenmiller",
-      "toc_summary": "Today's guru pair: Warren Buffett & Stanley Druckenmiller. Consensus views on macro, market direction, and portfolio construction.",
-      "quick_take": "*Warren Buffett*\n💼 Berkshire Hathaway — vorsichtig und defensiv positioniert.\nSitzt auf rund $381 Mrd. Cash und hält den breiten Markt für überbewertet.\nBullish auf KO, AXP, OXY. Leitsatz: \"Be fearful when others are greedy.\"\n\n*Stanley Druckenmiller*\n💼 Duquesne Family Office — selektiv bullish.\nSetzt auf den AI-Infrastruktur-Zyklus und mag Cyclicals mit Rückenwind.\nBullish auf AMZN, META, GOOGL, TSM. Leitsatz: \"Don't get scared out of good stocks.\"",
+      "title": "Guru Radar: Ray Dalio & Michael Burry on today's market moves.",
+      "highlight_phrase": "Ray Dalio & Michael Burry",
+      "toc_summary": "Today's guru pair: Ray Dalio & Michael Burry. Defensive macro vs. active short-bias against the AI momentum names.",
+      "quick_take": "*Ray Dalio*\n🌊 Bridgewater Associates — defensiv positioniert.\nWarnt vor einer AI-Bewertungsblase und hoher US-Verschuldung; setzt auf Gold, Non-US-Aktien, Anleihen und breite Diversifikation. Leitsatz: \"Diversify well.\"\n\n*Michael Burry*\n🐻 Scion Asset Management — aktiv bärisch.\nShort PLTR (~$912M Puts) und NVDA (~$186M Puts), long Value-Namen wie EL, LULU, REGN. Leitsatz: \"Know what you own.\"",
       "bullets": [
         {
-          "label": "Warren Buffett",
-          "text": "💼 Berkshire Hathaway — vorsichtig und defensiv positioniert. • Sitzt auf rund $381 Mrd. Cash und hält den breiten Markt für überbewertet."
+          "label": "Ray Dalio",
+          "text": "🌊 Defensiv — bullish Gold, Non-US, Bonds • Warnt vor AI-Bewertungsblase und Konzentrationsrisiko im S&P 500."
         },
         {
-          "label": "Stanley Druckenmiller",
-          "text": "💼 Duquesne Family Office — selektiv bullish. • Setzt auf den AI-Infrastruktur-Zyklus und mag Cyclicals mit Rückenwind."
+          "label": "Michael Burry",
+          "text": "🐻 Short-Bias — Puts auf PLTR und NVDA • Long out-of-favor Value (EL, LULU, REGN)."
         }
       ],
       "callout": {
         "type": "consensus",
         "label": "CONSENSUS PORTFOLIO",
-        "text": "See full edition for details."
+        "text": "Beide warnen vor Konzentration im AI-Komplex — Gewinne in Hochfliegern sichern, Gold/Cash als Puffer. Volle Edition mit 11-Positionen-Musterportfolio."
       },
       "sources": [
         {
@@ -40,30 +40,30 @@
       "category": "FINANCE . MARKETS",
       "title": "Markets & Macro: Today's data points and volatility.",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "US equities, FX, rates, commodities and macro calendar. VIX, yields, and key economic releases on watch.",
-      "quick_take": "& MAKRO\nS&P 500: 7580.06 +0.22% | Nasdaq: 26972.62 +0.20% | Dow: 51032.46 +0.72% | DAX: 25104.70 +0.05%. VIX 15.32 -2.67%, 10Y 4.45%, Fear & Greed 60 (Greed). Gold $4552, WTI $87.36, EUR/USD 1.1664, Bitcoin $73754 -0.38%. Risk-on bei niedriger Vola; Gold steigt als Hedge. Heutiger Trigger:...",
+      "toc_summary": "US-Aktien nahe Rekord; VIX 16, 10Y ~4.45%, WTI +5.8%, Bitcoin -3.8%.",
+      "quick_take": "S&P 500 7.584 🔼 +0.05% · Nasdaq 100 30.333 🔼 +0.36% · DAX 24.195 🔽 -0.31%. VIX 16.05 (+4.8%), 10Y Treasury ~4.45%. Gold $4.524 🔼, WTI Öl $92.43 🚀 +5.8%, EUR/USD 1.1637. Bitcoin $70.844 💥 -3.8%.",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 and Nasdaq tracking macro catalysts; volatility remains contained."
+          "text": "S&P 500 und Nasdaq nahe Rekord; Risk-on intakt, Software führt (ORCL, SNOW, CRWD)."
         },
         {
           "label": "Rates & FX",
-          "text": "10Y Treasury yields and USD strength in focus amid ECB signals and data releases."
+          "text": "10Y ~4.45% nahe 3-Wochen-Tief; EUR/USD 1.1637."
         },
         {
           "label": "Commodities",
-          "text": "Oil, gold, and crypto tracking geopolitical risk and macro sentiment."
+          "text": "WTI +5.8% auf Nahost-Spannungen; Gold als Hedge fester; Bitcoin schwach."
         }
       ],
       "callout": {
         "type": "macro_watch",
         "label": "ON WATCH",
-        "text": "US GDP, jobless claims, Fed speakers, ECB rate decision signals."
+        "text": "Snowflake Investor Day, Iran-Gespräche (Ölrisiko), JOLTS-Arbeitsmarktdaten."
       },
       "sources": [
         {
-          "title": "Bloomberg, Yahoo Finance, Investing.com",
+          "title": "CNBC, Yahoo Finance, Investing.com",
           "url": null
         }
       ]
@@ -71,14 +71,14 @@
     {
       "number": "03",
       "category": "FINANCE . NEWS",
-      "title": "Dell springt über 30%",
-      "highlight_phrase": "Dell springt über 30%",
-      "toc_summary": "Dell springt über 30%",
-      "quick_take": "— starke AI-Server-Nachfrage befeuert die gesamte Tech-Rally.",
+      "title": "US-Indizes auf neuen Rekordständen",
+      "highlight_phrase": "US-Indizes auf neuen Rekordstä",
+      "toc_summary": "US-Indizes auf neuen Rekordständen",
+      "quick_take": "Alle drei großen US-Indizes starten den Juni auf bzw. nahe Allzeithochs.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— starke AI-Server-Nachfrage befeuert die gesamte Tech-Rally."
+          "text": "Alle drei großen US-Indizes starten den Juni auf bzw. nahe Allzeithochs."
         }
       ],
       "callout": null,
@@ -92,14 +92,14 @@
     {
       "number": "04",
       "category": "FINANCE . NEWS",
-      "title": "Wall Street nahe Rekordhochs",
-      "highlight_phrase": "Wall Street nahe Rekordhochs",
-      "toc_summary": "Wall Street nahe Rekordhochs",
-      "quick_take": "— robustes Gewinnwachstum trägt die Indizes in den Juni.",
+      "title": "NVIDIA stellt neuen PC-AI-Chip vor",
+      "highlight_phrase": "NVIDIA stellt neuen PC-AI-Chip",
+      "toc_summary": "NVIDIA stellt neuen PC-AI-Chip vor",
+      "quick_take": "NVDA +2% auf den neuen Chip; Dell +10% und HP +8% ziehen mit.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— robustes Gewinnwachstum trägt die Indizes in den Juni."
+          "text": "NVDA +2% auf den neuen Chip; Dell +10% und HP +8% ziehen mit."
         }
       ],
       "callout": null,
@@ -113,14 +113,14 @@
     {
       "number": "05",
       "category": "FINANCE . NEWS",
-      "title": "CrowdStrike +9%",
-      "highlight_phrase": "CrowdStrike +9%",
-      "toc_summary": "CrowdStrike +9%",
-      "quick_take": "— Snowflake und Palantir ziehen mit, Software-Rally gewinnt Breite.",
+      "title": "Oracle springt ~+11%",
+      "highlight_phrase": "Oracle springt ~+11%",
+      "toc_summary": "Oracle springt ~+11%",
+      "quick_take": "ORCL rallyt auf Stargate-/AI-Cloud-Momentum und führt die Software-Gruppe an.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— Snowflake und Palantir ziehen mit, Software-Rally gewinnt Breite."
+          "text": "ORCL rallyt auf Stargate-/AI-Cloud-Momentum und führt die Software-Gruppe an."
         }
       ],
       "callout": null,
@@ -134,14 +134,14 @@
     {
       "number": "06",
       "category": "FINANCE . NEWS",
-      "title": "US und Iran ohne Deal",
-      "highlight_phrase": "US und Iran ohne Deal",
-      "toc_summary": "US und Iran ohne Deal",
-      "quick_take": "— Trump nicht in Eile, Geopolitik bleibt die Wildcard.",
+      "title": "Snowflake +9%",
+      "highlight_phrase": "Snowflake +9%",
+      "toc_summary": "Snowflake +9%",
+      "quick_take": "Summit-Konferenz + Q1-Umsatz $1.39 Mrd (+34% YoY) treiben die Aktie; Investor Day heute.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— Trump nicht in Eile, Geopolitik bleibt die Wildcard."
+          "text": "Summit-Konferenz + Q1-Umsatz $1.39 Mrd (+34% YoY) treiben die Aktie; Investor Day heute."
         }
       ],
       "callout": null,
@@ -155,14 +155,14 @@
     {
       "number": "07",
       "category": "FINANCE . NEWS",
-      "title": "Rohöl und Renditen schwächer",
-      "highlight_phrase": "Rohöl und Renditen schwächer",
-      "toc_summary": "Rohöl und Renditen schwächer",
-      "quick_take": "— Gold fester als sicherer Hafen, Risikobild gemischt.",
+      "title": "CrowdStrike auf 52-Wochen-Hoch",
+      "highlight_phrase": "CrowdStrike auf 52-Wochen-Hoch",
+      "toc_summary": "CrowdStrike auf 52-Wochen-Hoch",
+      "quick_take": "CRWD +5.9% nach Analysten-Upgrades, neues Hoch bei ~$775.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— Gold fester als sicherer Hafen, Risikobild gemischt."
+          "text": "CRWD +5.9% nach Analysten-Upgrades, neues Hoch bei ~$775."
         }
       ],
       "callout": null,
@@ -176,14 +176,14 @@
     {
       "number": "08",
       "category": "FINANCE . NEWS",
-      "title": "Juni-Kalender voll",
-      "highlight_phrase": "Juni-Kalender voll",
-      "toc_summary": "Juni-Kalender voll",
-      "quick_take": "— Tech-Earnings und Arbeitsmarktdaten als nächste Katalysatoren.",
+      "title": "ISM-Industrie über Erwartung",
+      "highlight_phrase": "ISM-Industrie über Erwartung",
+      "toc_summary": "ISM-Industrie über Erwartung",
+      "quick_take": "ISM Mai bei 54 (Konsens 53.2); WTI-Öl +5.8% auf Nahost-Spannungen.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— Tech-Earnings und Arbeitsmarktdaten als nächste Katalysatoren."
+          "text": "ISM Mai bei 54 (Konsens 53.2); WTI-Öl +5.8% auf Nahost-Spannungen."
         }
       ],
       "callout": null,
