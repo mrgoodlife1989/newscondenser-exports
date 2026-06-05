@@ -1,47 +1,18 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 4 Jun 2026",
+    "title": "Beating Beta — 5 Jun 2026",
     "highlight_phrase": "markets, gurus, news",
-    "summary": "Daily finance brief: guru radar (David Tepper + consensus), markets & macro snapshot, and key market news items."
+    "summary": "Daily finance brief: guru radar (Today + consensus), markets & macro snapshot, and key market news items."
   },
   "stories": [
-    {
-      "number": "01",
-      "category": "FINANCE . STRATEGY",
-      "title": "Guru Radar: David Tepper & Howard Marks on today's market moves.",
-      "highlight_phrase": "David Tepper & Howard Marks",
-      "toc_summary": "Today's guru pair: David Tepper & Howard Marks. Consensus views on macro, market direction, and portfolio construction.",
-      "quick_take": "*David Tepper*\n💼 Appaloosa — bullish, aggressiv. Halbleiter-Superzyklus, KI-Hardware ist die Dekaden-Wette; Rücksetzer sind Kaufgelegenheiten.\nBullish: NVDA, TSM, MU, ASML — MU-Position verdreifacht. \"Be long and wrong sometimes.\"\n\n*Howard Marks*\n💼 Oaktree — vorsichtig, defensiv. Spätzyklus, Bewertungen hoch, Risikoprämien dünn; Kapitalerhalt vor Rendite.\nAbsicherung: SPY-Puts als Hedge, hält Pulver trocken. \"You can't predict, but you can prepare.\"",
-      "bullets": [
-        {
-          "label": "David Tepper",
-          "text": "💼 Appaloosa — bullish, aggressiv. Halbleiter-Superzyklus, KI-Hardware ist die Dekaden-Wette; Rücksetzer sind Kaufgelegenheiten. • Bullish: NVDA, TSM, MU, ASML — MU-Position verdreifacht. \"Be long and wrong sometimes.\""
-        },
-        {
-          "label": "Howard Marks",
-          "text": "💼 Oaktree — vorsichtig, defensiv. Spätzyklus, Bewertungen hoch, Risikoprämien dünn; Kapitalerhalt vor Rendite. • Absicherung: SPY-Puts als Hedge, hält Pulver trocken. \"You can't predict, but you can prepare.\""
-        }
-      ],
-      "callout": {
-        "type": "consensus",
-        "label": "CONSENSUS PORTFOLIO",
-        "text": "See full edition for details."
-      },
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
     {
       "number": "02",
       "category": "FINANCE . MARKETS",
       "title": "Markets & Macro: Today's data points and volatility.",
       "highlight_phrase": "market snapshot",
       "toc_summary": "US equities, FX, rates, commodities and macro calendar. VIX, yields, and key economic releases on watch.",
-      "quick_take": "& MAKRO\nS&P 500: 7.553 (-0,7%). Nasdaq: 26.854 (-0,9%). Dow: -1,2%. DAX: 25.105 (+0,1%). VIX: 16,1 (+1,8%). US 10J: 4,45%. Gold: 4.483 USD (+0,4%). WTI Öl: 95,4 USD (über 95 nach US-Iran-Schlägen). EUR/USD: 1,165. Bitcoin: 64.195 USD (-4,0%). Fear and Greed: 54 (Neutral). Heutiger Trigger:...",
+      "quick_take": "& MAKRO\nStand: 4. Juni 2026 (letzter Schluss)\n\n🇺🇸 *USA*\nS&P 500 7.584 (+0,41%) · Dow 51.562 (+1,73%, Rekord) · Nasdaq 100 rund 30.180 (~flat). Defensive Rotation: Healthcare, Financials und Real Estate fuehren.\n\n🇪🇺 *Europa*\nDAX 24.877 (+0,33%) · EUR/USD 1,1620 — der Euro haelt die 1,16-Mark...",
       "bullets": [
         {
           "label": "Equities",
@@ -71,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE . NEWS",
-      "title": "Broadcom",
-      "highlight_phrase": "Broadcom",
-      "toc_summary": "Broadcom",
-      "quick_take": "nachbörslich zweistellig im Minus — schwacher KI-Ausblick enttäuscht trotz vorheriger Chip-Rally.",
+      "title": "Broadcom stuerzt rund 15% ab",
+      "highlight_phrase": "Broadcom stuerzt rund 15% ab",
+      "toc_summary": "Broadcom stuerzt rund 15% ab",
+      "quick_take": "Q2-Umsatz 22,19 Mrd. $ knapp unter Erwartung, schwacher KI-Chip-Ausblick loest Halbleiter-Selloff aus.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "nachbörslich zweistellig im Minus — schwacher KI-Ausblick enttäuscht trotz vorheriger Chip-Rally."
+          "text": "Q2-Umsatz 22,19 Mrd. $ knapp unter Erwartung, schwacher KI-Chip-Ausblick loest Halbleiter-Selloff aus."
         }
       ],
       "callout": null,
@@ -92,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE . NEWS",
-      "title": "CrowdStrike",
-      "highlight_phrase": "CrowdStrike",
-      "toc_summary": "CrowdStrike",
-      "quick_take": "rund -10% nachbörslich trotz +26% Umsatz, 4-zu-1-Split und angehobener Jahresprognose — die Erwartungen lagen hoch.",
+      "title": "Dow auf Rekordhoch (+1,73% auf 51.562)",
+      "highlight_phrase": "Dow auf Rekordhoch (+1,73% auf",
+      "toc_summary": "Dow auf Rekordhoch (+1,73% auf 51.562)",
+      "quick_take": "Anleger rotieren in Healthcare, Financials und Real Estate.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "rund -10% nachbörslich trotz +26% Umsatz, 4-zu-1-Split und angehobener Jahresprognose — die Erwartungen lagen hoch."
+          "text": "Anleger rotieren in Healthcare, Financials und Real Estate."
         }
       ],
       "callout": null,
@@ -113,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE . NEWS",
-      "title": "Öl springt über 95 Dollar",
-      "highlight_phrase": "Öl springt über 95 Dollar",
-      "toc_summary": "Öl springt über 95 Dollar",
-      "quick_take": "nach neuen US-Iran-Luftschlägen — Energie führt, Russell 2000 -1,3%, Treasury-Renditen steigen.",
+      "title": "WTI-Oel -3,1% auf 93,0 $ trotz eskalierender US-Iran-Spannungen",
+      "highlight_phrase": "WTI-Oel -3,1% auf 93,0 $ trotz",
+      "toc_summary": "WTI-Oel -3,1% auf 93,0 $ trotz eskalierender US-Iran-Spannungen",
+      "quick_take": "sechste Woche fallender US-Lagerbestaende.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "nach neuen US-Iran-Luftschlägen — Energie führt, Russell 2000 -1,3%, Treasury-Renditen steigen."
+          "text": "sechste Woche fallender US-Lagerbestaende."
         }
       ],
       "callout": null,
@@ -134,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE . NEWS",
-      "title": "AMD auf Allzeithoch",
-      "highlight_phrase": "AMD auf Allzeithoch",
-      "toc_summary": "AMD auf Allzeithoch",
-      "quick_take": "bei rund 534 Dollar — Chip-Momentum trotzt dem breiten Risk-off.",
+      "title": "US-Erstantraege springen auf 225k",
+      "highlight_phrase": "US-Erstantraege springen auf 2",
+      "toc_summary": "US-Erstantraege springen auf 225k",
+      "quick_take": "hoechster Stand seit Anfang Februar, +13k zur Vorwoche.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "bei rund 534 Dollar — Chip-Momentum trotzt dem breiten Risk-off."
+          "text": "hoechster Stand seit Anfang Februar, +13k zur Vorwoche."
         }
       ],
       "callout": null,
@@ -155,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE . NEWS",
-      "title": "Snowflake faellt 8,7%",
-      "highlight_phrase": "Snowflake faellt 8,7%",
-      "toc_summary": "Snowflake faellt 8,7%",
-      "quick_take": "— Software-Namen geben nach der jüngsten Rally wieder nach.",
+      "title": "UnitedHealth +5% fuehrt den Dow",
+      "highlight_phrase": "UnitedHealth +5% fuehrt den Do",
+      "toc_summary": "UnitedHealth +5% fuehrt den Dow",
+      "quick_take": "defensive Schwergewichte JPMorgan und Walmart legen zu.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— Software-Namen geben nach der jüngsten Rally wieder nach."
+          "text": "defensive Schwergewichte JPMorgan und Walmart legen zu."
         }
       ],
       "callout": null,
@@ -176,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE . NEWS",
-      "title": "Zehnjaehrige Treasury-Rendite bei 4,45%",
-      "highlight_phrase": "Zehnjaehrige Treasury-Rendite ",
-      "toc_summary": "Zehnjaehrige Treasury-Rendite bei 4,45%",
-      "quick_take": "— öl-getriebener Inflationsdruck hält den Zinsdruck hoch.",
+      "title": "Gold nahe Rekord (rund 4.480 $), 10J-Rendite faellt auf 4,48%",
+      "highlight_phrase": "Gold nahe Rekord (rund 4.480 $",
+      "toc_summary": "Gold nahe Rekord (rund 4.480 $), 10J-Rendite faellt auf 4,48%",
+      "quick_take": "der Markt sucht Sicherheit vor den Jobdaten.",
       "bullets": [
         {
           "label": "From Beating Beta",
-          "text": "— öl-getriebener Inflationsdruck hält den Zinsdruck hoch."
+          "text": "der Markt sucht Sicherheit vor den Jobdaten."
         }
       ],
       "callout": null,
