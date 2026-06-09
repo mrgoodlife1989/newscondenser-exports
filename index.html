@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NewsStream</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0d0f14">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="NewsStream">
+<link rel="apple-touch-icon" href="icon.svg">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d0f14;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;font-size:15px;line-height:1.6;min-height:100vh;-webkit-tap-highlight-color:transparent}
+a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
+
+/* HEADER */
+.hdr{background:#111420;border-bottom:1px solid #1e2536;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+.hdr-logo{font-size:18px;font-weight:700;letter-spacing:.03em;color:#fff}.hdr-logo span{color:#4f7ef8}
+.hdr-right{display:flex;align-items:center;gap:12px}
+.hdr-date{font-size:12px;color:#6b7fa3}
+.refresh-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:13px;padding:5px 10px;cursor:pointer;transition:all .2s}.refresh-btn:hover{color:#e2e8f0;border-color:#4f7ef8}
+
+/* TABS */
+.tabs{background:#111420;border-bottom:1px solid #1e2536;display:flex;overflow-x:auto;padding:0 16px;gap:4px;position:sticky;top:53px;z-index:99;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab-btn{flex-shrink:0;padding:12px 16px;font-size:14px;font-weight:500;color:#6b7fa3;background:none;border:none;border-bottom:2px solid transparent;cursor:pointer;transition:all .2s}
+.tab-btn:hover{color:#c0cce4}
+.tab-btn.active{color:#e2e8f0;border-bottom-color:#4f7ef8}
+
+/* MAIN */
+.main{max-width:900px;margin:0 auto;padding:20px 16px}
+.tab-panel{display:none}.tab-panel.active{display:block}
+
+/* LOADING */
+.loading{display:flex;flex-direction:column;align-items:center;gap:16px;padding:60px 20px;color:#6b7fa3}
+.spinner{width:36px;height:36px;border:3px solid #252d3d;border-top-color:#4f7ef8;border-radius:50%;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.error-box{background:#1a1216;border:1px solid #7f1d1d;border-radius:10px;padding:20px;color:#fca5a5;font-size:14px;line-height:1.6}
+.error-box a{color:#fca5a5}
+
+/* SECTION HEADER */
+.sec-hdr{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#4f7ef8;margin:0 0 16px}
+.sec-divider{height:1px;background:#1e2536;margin:24px 0}
+
+/* HEADLINE CARD */
+.headline-card{background:linear-gradient(135deg,#161b27 0%,#111827 100%);border:1px solid #252d3d;border-radius:12px;padding:22px;margin-bottom:24px}
+.headline-label{font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#4f7ef8;margin-bottom:8px}
+.headline-title{font-size:20px;font-weight:700;color:#f8fafc;line-height:1.35;margin-bottom:10px}
+.headline-title .hl{color:#f59e0b;font-style:italic}
+.headline-summary{font-size:13px;color:#9caec5;line-height:1.65}
+.story-count{margin-top:12px;font-size:12px;color:#4f7ef8;font-weight:600}
+
+/* STORY CARD */
+.story{background:#161b27;border:1px solid #1e2536;border-radius:10px;margin-bottom:8px;overflow:hidden;transition:border-color .2s}
+.story:hover{border-color:#2d3a52}
+.story-hdr{padding:14px 16px;cursor:pointer;display:flex;align-items:flex-start;gap:12px;user-select:none}
+.story-num{font-size:11px;font-weight:700;color:#4f7ef8;width:20px;flex-shrink:0;padding-top:2px}
+.story-meta{flex:1;min-width:0}
+.story-cat{font-size:10px;font-weight:700;letter-spacing:.08em;color:#6b7fa3;text-transform:uppercase;margin-bottom:4px}
+.story-title{font-size:14px;font-weight:600;color:#e2e8f0;line-height:1.4}
+.story-title .hl{color:#f59e0b}
+.story-toc{font-size:12px;color:#9caec5;margin-top:4px;line-height:1.5}
+.story-chevron{font-size:11px;color:#6b7fa3;flex-shrink:0;padding-top:4px;transition:transform .25s}
+.story.open .story-chevron{transform:rotate(180deg)}
+.story-body{display:none;padding:0 16px 16px 48px}
+.story.open .story-body{display:block}
+.story-qt{font-size:13px;color:#c0cce4;line-height:1.65;margin-bottom:12px;padding:10px 12px;background:#0d0f14;border-radius:8px;border-left:3px solid #252d3d}
+.bullets{list-style:none;margin-bottom:12px}
+.bullet{display:flex;gap:10px;padding:6px 0;border-bottom:1px solid #1a2030;font-size:13px}
+.bullet:last-child{border-bottom:none}
+.bullet-label{font-weight:700;color:#e2e8f0;white-space:nowrap;min-width:100px;flex-shrink:0}
+.bullet-text{color:#9caec5}
+.callout{margin-top:12px;padding:10px 12px;border-radius:8px;border-left:3px solid #4f7ef8;background:#131929}
+.callout.big_picture{border-left-color:#8b5cf6}
+.callout.long_arc{border-left-color:#22c55e}
+.callout.what_to_watch{border-left-color:#f59e0b}
+.callout-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#6b7fa3;margin-bottom:4px}
+.callout-text{font-size:13px;color:#b0bfd8;line-height:1.6}
+.sources{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}
+.source-link{font-size:11px;color:#4f7ef8;background:#111827;border:1px solid #1e2536;border-radius:20px;padding:3px 10px}
+
+/* EDITORIAL */
+.editorial{background:#161b27;border:1px solid #252d3d;border-radius:10px;margin-top:8px;overflow:hidden}
+.editorial-hdr{padding:14px 16px;cursor:pointer;display:flex;align-items:flex-start;justify-content:space-between;gap:12px;user-select:none}
+.editorial-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#8b5cf6}
+.editorial-title{font-size:15px;font-weight:600;color:#e2e8f0;margin-top:3px;line-height:1.35}
+.editorial-title .hl{color:#f59e0b;font-style:italic}
+.editorial-body{display:none;padding:0 16px 18px}
+.editorial.open .editorial-body{display:block}
+.editorial.open .story-chevron{transform:rotate(180deg)}
+.pull-quote{font-size:16px;font-style:italic;color:#c0cce4;border-left:3px solid #8b5cf6;padding:8px 14px;margin:12px 0;line-height:1.5}
+.ed-text{font-size:13px;color:#9caec5;line-height:1.7;margin-bottom:10px}
+.takeaway{background:#111420;border-radius:8px;padding:12px;margin-top:12px;border:1px solid #8b5cf6}
+.takeaway-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#8b5cf6;margin-bottom:5px}
+.takeaway-text{font-size:13px;color:#c0cce4;font-weight:600;line-height:1.5}
+
+/* FINANCE */
+.stale-badge{display:inline-block;background:#2a1f0e;border:1px solid #f59e0b;color:#f59e0b;font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;margin-bottom:16px}
+.market-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-bottom:20px}
+.market-item{background:#161b27;border:1px solid #1e2536;border-radius:8px;padding:10px 12px}
+.market-label{font-size:10px;color:#6b7fa3;text-transform:uppercase;letter-spacing:.06em;margin-bottom:3px}
+.market-val{font-size:17px;font-weight:700;color:#f8fafc}
+.fin-story{background:#161b27;border:1px solid #1e2536;border-radius:10px;margin-bottom:8px;overflow:hidden}
+.fin-story-hdr{padding:12px 16px;cursor:pointer;display:flex;align-items:flex-start;gap:10px;user-select:none}
+.fin-story.open .story-chevron{transform:rotate(180deg)}
+.fin-body{display:none;padding:0 16px 14px}
+.fin-story.open .fin-body{display:block}
+.fin-qt{font-size:13px;color:#9caec5;line-height:1.65;white-space:pre-wrap}
+
+/* SOFC */
+.signal-card{background:#161b27;border:1px solid #1e2536;border-radius:10px;padding:14px 16px;margin-bottom:8px;display:flex;gap:12px}
+.signal-n{font-size:22px;font-weight:800;color:#4f7ef8;flex-shrink:0;line-height:1.1}
+.signal-title{font-size:14px;font-weight:700;color:#e2e8f0;margin-bottom:4px}
+.signal-text{font-size:13px;color:#9caec5;line-height:1.6}
+.signal-sources{margin-top:7px;display:flex;flex-wrap:wrap;gap:6px}
+.sofc-section{background:#161b27;border:1px solid #1e2536;border-radius:10px;margin-bottom:8px;overflow:hidden}
+.sofc-section-hdr{padding:13px 16px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;font-weight:600;font-size:14px;color:#c0cce4;user-select:none}
+.sofc-section.open .story-chevron{transform:rotate(180deg)}
+.sofc-section-body{display:none;padding:0 16px 14px}
+.sofc-section.open .sofc-section-body{display:block}
+.sofc-item{font-size:13px;color:#9caec5;padding:7px 0;border-bottom:1px solid #1a2030;line-height:1.6}
+.sofc-item:last-child{border-bottom:none}
+.sofc-quiet{font-size:13px;color:#4a5568;font-style:italic;padding:8px 0}
+.lcoe-box{background:#1a1400;border:1px solid #f59e0b;border-radius:8px;padding:12px 14px}
+.lcoe-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#f59e0b;margin-bottom:8px}
+
+/* ECONOMIST */
+.eco-card{background:#161b27;border:1px solid #c72b2b;border-radius:12px;padding:28px;text-align:center;margin-bottom:20px}
+.eco-logo{font-size:26px;font-weight:800;color:#e03434;letter-spacing:-.02em;margin-bottom:10px;font-family:Georgia,serif}
+.eco-desc{font-size:13px;color:#9caec5;line-height:1.7;max-width:480px;margin:0 auto 18px}
+.eco-btn{display:inline-block;background:#e03434;color:#fff;font-size:14px;font-weight:700;padding:11px 26px;border-radius:8px;text-decoration:none}
+.eco-note{font-size:11px;color:#4a5568;margin-top:12px}
+.eco-links{background:#161b27;border:1px solid #1e2536;border-radius:10px;padding:18px}
+.eco-link-item{display:block;padding:9px 0;border-bottom:1px solid #1a2030;font-size:14px;color:#c0cce4}
+.eco-link-item:last-child{border-bottom:none}
+
+@media(max-width:480px){
+  .headline-title{font-size:17px}
+  .bullet{flex-direction:column;gap:3px}
+  .bullet-label{min-width:auto}
+  .market-grid{grid-template-columns:repeat(2,1fr)}
+}
+</style>
+</head>
+<body>
+
+<div class="hdr">
+  <div class="hdr-logo">News<span>Stream</span></div>
+  <div class="hdr-right">
+    <div class="hdr-date" id="hdr-date"></div>
+    <button class="refresh-btn" onclick="loadData(true)">↺ Refresh</button>
+  </div>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="switchTab('ai',this)">🤖 AI</button>
+  <button class="tab-btn" onclick="switchTab('finance',this)">📈 Finance</button>
+  <button class="tab-btn" onclick="switchTab('sofc',this)">⚡ SOFC/AI</button>
+  <button class="tab-btn" onclick="switchTab('economist',this)">🗞 Economist</button>
+</div>
+
+<div class="main">
+  <div id="tab-ai"        class="tab-panel active"></div>
+  <div id="tab-finance"   class="tab-panel"></div>
+  <div id="tab-sofc"      class="tab-panel"></div>
+  <div id="tab-economist" class="tab-panel"></div>
+</div>
+
+<script>
+// ── CONFIG ────────────────────────────────────────────────────────────────────
+const RAW = 'https://raw.githubusercontent.com/mrgoodlife1989/newscondenser-exports/main/';
+
+// ── UTILS ─────────────────────────────────────────────────────────────────────
+function esc(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function hl(text, phrase){
+  if(!phrase) return esc(text);
+  const idx = String(text).toLowerCase().indexOf(String(phrase).toLowerCase());
+  if(idx===-1) return esc(text);
+  return esc(text.slice(0,idx))+'<span class="hl">'+esc(text.slice(idx,idx+phrase.length))+'</span>'+esc(text.slice(idx+phrase.length));
+}
+function toggle(el){ el.classList.toggle('open'); }
+function loading(id){ document.getElementById(id).innerHTML='<div class="loading"><div class="spinner"></div><div>Loading…</div></div>'; }
+function showErr(id, msg, url){
+  document.getElementById(id).innerHTML=`<div class="error-box">⚠ ${esc(msg)}${url?` <a href="${esc(url)}" target="_blank">Check source →</a>`:''}. <br><br>If you're offline, the last cached version may appear after reload.</div>`;
+}
+
+// ── RENDER: AI ────────────────────────────────────────────────────────────────
+function renderAI(d){
+  let h='';
+  h+=`<div class="headline-card">
+    <div class="headline-label">${esc(d.headline.category_label)}</div>
+    <div class="headline-title">${hl(d.headline.title,d.headline.highlight_phrase)}</div>
+    <div class="headline-summary">${esc(d.headline.summary)}</div>
+    <div class="story-count">${d.stories.length} stories</div>
+  </div>`;
+  h+=`<div class="sec-hdr">Stories</div>`;
+  (d.stories||[]).forEach((s,i)=>{
+    h+=`<div class="story" id="s${i}">
+      <div class="story-hdr" onclick="toggle(document.getElementById('s${i}'))">
+        <div class="story-num">${esc(s.number)}</div>
+        <div class="story-meta">
+          <div class="story-cat">${esc(s.category)}</div>
+          <div class="story-title">${hl(s.title,s.highlight_phrase)}</div>
+          <div class="story-toc">${esc(s.toc_summary)}</div>
+        </div>
+        <div class="story-chevron">▼</div>
+      </div>
+      <div class="story-body">
+        <div class="story-qt">${esc(s.quick_take)}</div>
+        <ul class="bullets">${(s.bullets||[]).map(b=>`<li class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></li>`).join('')}</ul>
+        ${s.callout?`<div class="callout ${esc(s.callout.type)}"><div class="callout-label">${esc(s.callout.label)}</div><div class="callout-text">${esc(s.callout.text)}</div></div>`:''}
+        <div class="sources">${(s.sources||[]).map(src=>src.url?`<a href="${esc(src.url)}" target="_blank" class="source-link">↗ ${esc(src.title)}</a>`:`<span class="source-link">${esc(src.title)}</span>`).join('')}</div>
+      </div>
+    </div>`;
+  });
+  const ed=d.editorial||{};
+  if(ed.title){
+    h+=`<div class="sec-divider"></div>
+    <div class="editorial" id="editorial">
+      <div class="editorial-hdr" onclick="toggle(document.getElementById('editorial'))">
+        <div><div class="editorial-label">Editorial</div><div class="editorial-title">${hl(ed.title,ed.highlight_phrase)}</div></div>
+        <div class="story-chevron">▼</div>
+      </div>
+      <div class="editorial-body">
+        <div class="pull-quote">"${esc(ed.pull_quote)}"</div>
+        <div class="ed-text">${esc(ed.body)}</div>
+        ${ed.takeaway?`<div class="takeaway"><div class="takeaway-label">${esc(ed.takeaway.label)}</div><div class="takeaway-text">${esc(ed.takeaway.text)}</div></div>`:''}
+      </div>
+    </div>`;
+  }
+  document.getElementById('tab-ai').innerHTML=h;
+}
+
+// ── RENDER: FINANCE ───────────────────────────────────────────────────────────
+function renderFinance(raw){
+  const title=(raw.headline&&raw.headline.title)||'Finance Brief';
+  const stories=raw.stories||[];
+  let h=`<div class="stale-badge">📊 ${esc(title)}</div>`;
+
+  // Story 02 = markets: extract key values with regex for the grid
+  const mkt=stories.find(s=>s.number==='02')||{};
+  const qt=mkt.quick_take||'';
+  const val=(p,fb)=>{const m=qt.match(p);return m?m[1]:fb||'—';};
+  const sp=val(/S&P\s*500[:\s]+([0-9,]+(?:\.[0-9]+)?)/,'—');
+  const nq=val(/Nasdaq[:\s]+([0-9,]+(?:\.[0-9]+)?)/,'—');
+  const dx=val(/DAX[:\s]+([0-9,]+(?:\.[0-9]+)?)/,'—');
+  const vx=val(/VIX[:\s]+([0-9]+(?:\.[0-9]+)?)/,'—');
+  const gl=val(/Gold[:\s\$]+([0-9,]+(?:\.[0-9]+)?)/,'—');
+  const oi=val(/WTI[:\s\$]+([0-9.]+)/,'—');
+  const eu=val(/EUR\/USD[:\s]+([0-9.]+)/,'—');
+  const bt=val(/Bitcoin[:\s\$]+([0-9,]+)/,'—');
+  const y10=val(/10Y[:\s]+([0-9.]+%?)/,'—');
+  const fg=val(/Fear.*?Greed.*?([0-9]+\s+\([A-Za-z]+\))/,'—');
+
+  if(sp!=='—'){
+    h+=`<div class="sec-hdr">Market Snapshot</div>
+    <div class="market-grid">
+      <div class="market-item"><div class="market-label">S&amp;P 500</div><div class="market-val">${esc(sp)}</div></div>
+      <div class="market-item"><div class="market-label">Nasdaq</div><div class="market-val">${esc(nq)}</div></div>
+      <div class="market-item"><div class="market-label">DAX</div><div class="market-val">${esc(dx)}</div></div>
+      <div class="market-item"><div class="market-label">VIX</div><div class="market-val">${esc(vx)}</div></div>
+      <div class="market-item"><div class="market-label">Gold</div><div class="market-val">$${esc(gl)}</div></div>
+      <div class="market-item"><div class="market-label">WTI</div><div class="market-val">$${esc(oi)}</div></div>
+      <div class="market-item"><div class="market-label">EUR/USD</div><div class="market-val">${esc(eu)}</div></div>
+      <div class="market-item"><div class="market-label">Bitcoin</div><div class="market-val">$${esc(bt)}</div></div>
+      <div class="market-item"><div class="market-label">10Y Yield</div><div class="market-val">${esc(y10)}</div></div>
+      <div class="market-item"><div class="market-label">Fear &amp; Greed</div><div class="market-val" style="font-size:13px">${esc(fg)}</div></div>
+    </div><div class="sec-divider"></div>`;
+  }
+
+  h+=`<div class="sec-hdr">Full Edition</div>`;
+  stories.forEach((s,i)=>{
+    h+=`<div class="fin-story" id="fin${i}">
+      <div class="fin-story-hdr" onclick="toggle(document.getElementById('fin${i}'))">
+        <div class="story-num">${esc(s.number)}</div>
+        <div class="story-meta">
+          <div class="story-cat">${esc(s.category)}</div>
+          <div class="story-title">${esc(s.title)}</div>
+        </div>
+        <div class="story-chevron">▼</div>
+      </div>
+      <div class="fin-body">
+        <div class="fin-qt">${esc(s.quick_take||'')}</div>
+        ${(s.bullets||[]).map(b=>`<div class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></div>`).join('')}
+      </div>
+    </div>`;
+  });
+  document.getElementById('tab-finance').innerHTML=h;
+}
+
+// ── RENDER: SOFC ──────────────────────────────────────────────────────────────
+function renderSOFC(d){
+  let h='';
+  h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}</div>`;
+  (d.topSignals||[]).forEach(s=>{
+    h+=`<div class="signal-card">
+      <div class="signal-n">${s.n}</div>
+      <div>
+        <div class="signal-title">${esc(s.title)}</div>
+        <div class="signal-text">${esc(s.text)}</div>
+        ${s.url?`<div class="signal-sources"><a href="${esc(s.url)}" target="_blank" class="source-link">↗ Source</a></div>`:''}
+      </div>
+    </div>`;
+  });
+  h+=`<div class="sec-divider"></div><div class="sec-hdr">Sections</div>`;
+  (d.sections||[]).forEach((sec,i)=>{
+    const quiet=sec.items.length===1&&sec.items[0].toLowerCase().startsWith('quiet day');
+    h+=`<div class="sofc-section" id="sofc${i}">
+      <div class="sofc-section-hdr" onclick="toggle(document.getElementById('sofc${i}'))">
+        <span>${esc(sec.title)}</span><span class="story-chevron">▼</span>
+      </div>
+      <div class="sofc-section-body">
+        ${quiet?`<div class="sofc-quiet">${esc(sec.items[0])}</div>`:sec.items.map(it=>`<div class="sofc-item">${esc(it)}</div>`).join('')}
+      </div>
+    </div>`;
+  });
+  if((d.lcoe||[]).length){
+    h+=`<div class="sec-divider"></div><div class="sec-hdr">⚠ LCOE-Relevant Datapoints</div>
+    <div class="lcoe-box"><div class="lcoe-label">Flag for INOCEL model update</div>
+    ${d.lcoe.map(it=>`<div class="sofc-item">${esc(it)}</div>`).join('')}
+    </div>`;
+  }
+  document.getElementById('tab-sofc').innerHTML=h;
+}
+
+// ── RENDER: ECONOMIST ─────────────────────────────────────────────────────────
+function renderEconomist(){
+  document.getElementById('tab-economist').innerHTML=`
+  <div class="eco-card">
+    <div class="eco-logo">The Economist</div>
+    <div class="eco-desc">Open the latest edition directly in the browser.</div>
+    <a href="https://www.economist.com/the-world-this-week" target="_blank" class="eco-btn">Open The Economist →</a>
+    <div class="eco-note">economist.com/the-world-this-week</div>
+  </div>
+  <div class="eco-links">
+    <div class="sec-hdr" style="margin-bottom:10px">Quick Links</div>
+    <a href="https://www.economist.com" target="_blank" class="eco-link-item">🌐 Homepage</a>
+    <a href="https://www.economist.com/technology" target="_blank" class="eco-link-item">💻 Technology</a>
+    <a href="https://www.economist.com/finance-and-economics" target="_blank" class="eco-link-item">📊 Finance &amp; Economics</a>
+    <a href="https://www.economist.com/science-and-technology" target="_blank" class="eco-link-item">🔬 Science &amp; Technology</a>
+    <a href="https://www.economist.com/business" target="_blank" class="eco-link-item">🏢 Business</a>
+    <a href="https://www.economist.com/international" target="_blank" class="eco-link-item">🌍 International</a>
+  </div>`;
+}
+
+// ── TAB SWITCHING ─────────────────────────────────────────────────────────────
+function switchTab(name, btn){
+  document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('tab-'+name).classList.add('active');
+  btn.classList.add('active');
+}
+
+// ── DATA LOADING ──────────────────────────────────────────────────────────────
+async function fetchJSON(url){
+  const r=await fetch(url+'?_='+Date.now());
+  if(!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+
+async function loadData(force){
+  // Update header date
+  const now=new Date();
+  document.getElementById('hdr-date').textContent=now.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short',year:'numeric'});
+
+  loading('tab-ai');
+  loading('tab-finance');
+  loading('tab-sofc');
+  renderEconomist();
+
+  const [ai, fin, sofc]=await Promise.allSettled([
+    fetchJSON(RAW+'stories-latest.json'),
+    fetchJSON(RAW+'finance-latest.json'),
+    fetchJSON(RAW+'sofc-latest.json'),
+  ]);
+
+  if(ai.status==='fulfilled'){
+    try{ renderAI(ai.value); }catch(e){ showErr('tab-ai','Render error: '+e.message); }
+  } else {
+    showErr('tab-ai','Could not load AI brief',RAW+'stories-latest.json');
+  }
+
+  if(fin.status==='fulfilled'){
+    try{ renderFinance(fin.value); }catch(e){ showErr('tab-finance','Render error: '+e.message); }
+  } else {
+    showErr('tab-finance','Could not load Finance data',RAW+'finance-latest.json');
+  }
+
+  if(sofc.status==='fulfilled'){
+    try{ renderSOFC(sofc.value); }catch(e){ showErr('tab-sofc','Render error: '+e.message); }
+  } else {
+    showErr('tab-sofc','Could not load SOFC data',RAW+'sofc-latest.json');
+  }
+}
+
+// ── SERVICE WORKER ────────────────────────────────────────────────────────────
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+}
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>

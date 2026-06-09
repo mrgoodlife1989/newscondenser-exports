@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-08",
+  "topSignals": [
+    {
+      "title": "FuelCell Energy Q2 FY26 backlog & pipeline surge",
+      "text": "Backlog $1.14B (as of April 30); sales pipeline 4 GW in Q2 2026, up 267% from Q1. Torrington, CT capacity expansion + ExxonMobil carbon capture modules en route to Rotterdam. Signal: mid-cap fuel cell player pivoting aggressively to data center power.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000886128/000110465926071181/fcel-20260608xex99d1.htm",
+      "n": 1
+    },
+    {
+      "title": "SOFC deployment speed advantage crystallizing",
+      "text": "Data shows SOFC systems build in ~90 days vs. 18–24 months for grid interconnection. Industry consensus: 32% of U.S. data centers targeting fully off-grid SOFC operation by 2030. Accelerates baseline demand for fleet deployments.",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-up-to-245gw-of-bloom-fuel-cells-at-new-mexico-data-center/",
+      "n": 2
+    },
+    {
+      "title": "Chinese electrolyzer dominance widens CAPEX gap",
+      "text": "Alkaline electrolyzer CAPEX now $300–$450/kW in China (65–70% global market share) vs. $500–$1,000/kW Western makers. Green H2 subsidized projects confirmed <$1/kg. LCOE impact: accelerates H2-transition economics for SOFC by 3–5 years if supply chain diversifies.",
+      "url": "https://energy-solutions.co/articles/sub/green-hydrogen-production-costs",
+      "n": 3
+    }
+  ],
+  "sections": [
+    {
+      "title": "Stack & Cell Technology",
+      "items": [
+        "Quiet day on stack announcements. Confirmation of prior Ceres/Doosan/Sunfire/SolydEra capacity already in June 7 digest. No new manufacturing milestones or efficiency breakthroughs reported."
+      ]
+    },
+    {
+      "title": "AI Data Center Deployments",
+      "items": [
+        "Oracle New Mexico site detail: Up to 2.45–2.85 GW Bloom Energy SOFC deployment (site-specific expansion of prior Oracle commitments). Reinforces gigawatt-scale ordering pattern already reported in June 7 digest.",
+        "Global SOFC market forecast: $2.2–3.2B valuation in 2026; 25–35% CAGR through 2033. Confirms acceleration beyond 2025 baseline."
+      ]
+    },
+    {
+      "title": "Regulations & Policy",
+      "items": [
+        "Quiet day. FERC June 2026 deadline and Senate GRID Act already covered in June 7 digest. No new regulatory filings or state-level bills identified in this cycle's searches."
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        "Quiet day. SMR partnerships and PEM comparisons already addressed in June 7 digest. No new nuclear or battery announcements."
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        "Bloom Energy CFO appointment: Simon Edwards (ex–scaling tech companies, digital infrastructure expertise) becomes CFO effective April 13, 2026. Signals leadership depth as Bloom scales manufacturing and deployment."
+      ]
+    },
+    {
+      "title": "Research & IP",
+      "items": [
+        "Micro-SOFC cooling innovation: Hamburg UAS μT-SOFC stack achieved 57% electrical efficiency in 3,294-cell simulation (2 mm cells, integrated cooling). Pathway to portable/small-scale applications."
+      ]
+    }
+  ],
+  "lcoe": [
+    "Electrolyzer CAPEX regional divergence (NEW): Chinese manufacturers $300–$450/kW (alkaline, 65–70% market share); Western equivalents $500–$1,000/kW; PEM midpoint $1,600/kW; SOEC $2,500/kW. Implication: H2-transition capex delta narrowing faster than anticipated if supply chains diversify.",
+    "Deployment timeline acceleration (NEW): SOFC build time ~90 days vs. grid interconnection 18–24 months = ~7–16x speed advantage. Quantifies capex savings from avoided grid extension.",
+    "Off-grid SOFC adoption target (NEW): 32% of U.S. data centers planning full off-grid operation by 2030 with SOFC. Baseline demand signal for fleet economics.",
+    "FuelCell Energy sales pipeline: 4 GW Q2 2026 (↑267% from Q1 2026). Reflects strong competitive posture despite backlog correction. Monitor for Q2 revenue and margin in next earnings."
+  ]
+}
