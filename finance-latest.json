@@ -1,84 +1,9 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 9 Jun 2026",
-    "highlight_phrase": "Dalio & Burry",
-    "summary": "Guru pair: Ray Dalio (defensive, All-Weather) vs. Michael Burry (bearish on AI momentum). CPI trigger day. Chip rebound +7%."
+    "title": "Beating Beta — 11 Jun 2026",
+    "highlight_phrase": "markets, gurus, news",
+    "summary": "Daily finance brief: guru radar (Today + consensus), markets & macro snapshot, and key market news items."
   },
-  "stories": [
-    {
-      "number": "01",
-      "category": "FINANCE · GURU RADAR",
-      "title": "Ray Dalio & Michael Burry: Defensive vs. Contrarian",
-      "highlight_phrase": "Ray Dalio & Michael Burry",
-      "toc_summary": "Dalio warns of AI bubble; Burry holds PLTR/NVDA shorts. Consensus: market running on narrow base.",
-      "quick_take": "Ray Dalio (Bridgewater) — DEFENSIVE: AI valuation bubble risk + rising yields (4.57%) confirm All-Weather thesis. Bullish: Gold, non-US equities, bonds. Bearish: US Tech megacaps.\n\nMichael Burry (Scion) — BEARISH on AI momentum: Holds PLTR $912M puts + NVDA $186M puts. Chip rebound (MU +10%) tests his thesis — holding so far. Bullish: EL, LULU, REGN.\n\nSynthesis: Both agree market runs on too narrow a base. PLTR-position critical — two gurus bearish with real capital. CPI (Jun 10) is the next directional test.",
-      "bullets": [
-        {"label": "Ray Dalio", "text": "All-Weather Portfolio — Gold, EM, Bonds. Bearish on concentrated US Tech. Gold at $4,330 = hedge working."},
-        {"label": "Michael Burry", "text": "Short PLTR ($912M puts) + NVDA ($186M puts). Contrarian long: EL, LULU, REGN — neglected quality compounders."},
-        {"label": "Consensus", "text": "Market on narrow foundation. Gold exposure justified even without full bear conviction. Watch CPI Jun 10."}
-      ],
-      "callout": {"type": "what_to_watch", "label": "KEY WATCH", "text": "CPI May 2026 — Jun 10, 8:30 ET (consensus +3.8% YoY). Hot number = bond selloff, Burry thesis strengthens."},
-      "sources": [{"title": "Beating Beta Daily Edition", "url": null}]
-    },
-    {
-      "number": "02",
-      "category": "FINANCE · MARKETS",
-      "title": "Markets & Macro: Chip rebound, elevated VIX, CPI tomorrow",
-      "highlight_phrase": "Chip rebound",
-      "toc_summary": "S&P 500 ~7,406 +0.3%. Semis +7% best day in over a year. VIX ~20. 10Y 4.57%.",
-      "quick_take": "S&P 500: 7,406 +0.3% | Nasdaq: 25,930 +0.86% | DAX: N/A | VIX 20 ⚠️ (elevated after Friday chip selloff). 10Y 4.57%, Fear & Greed 40 (Fear). Gold $4,330, WTI $89, EUR/USD 1.07, Bitcoin $61,279 +1.2%. Stagflation risk in market pricing: high yields + elevated VIX. Chip rebound (MU +10%, SOXX +7%) likely short-squeeze, not fundamental shift.",
-      "bullets": [
-        {"label": "Equities", "text": "S&P 500 +10% YTD, tech-led. SOXX +7% Mon — best semis day in over a year (MU +10%, Marvell +14%, Intel +12%)."},
-        {"label": "Rates & FX", "text": "10Y Treasury 4.57% (2-week high after strong jobs). Market pricing 70% chance of rate hike Dec 2026."},
-        {"label": "Commodities", "text": "Gold $4,330 (Iran ceasefire slows rally). Brent -2%, WTI ~$89. Bitcoin $61,279 +1.2%."}
-      ],
-      "callout": {"type": "what_to_watch", "label": "TRIGGERS", "text": "Jun 10: CPI May (8:30 ET) + Oracle earnings (after close, IV 153 vs 52W-high 85, Call/Put 2.1:1 bullish). Jun 11: Adobe earnings."},
-      "sources": [{"title": "CNBC, Yahoo Finance, MarketRebellion", "url": null}]
-    },
-    {
-      "number": "03",
-      "category": "FINANCE · NEWS",
-      "title": "Chip Sector Rebound: MU +10%, SOXX +7%, Marvell +14%",
-      "highlight_phrase": "MU +10%, SOXX +7%",
-      "toc_summary": "Best semis day in over a year after Friday selloff.",
-      "quick_take": "Strongest semiconductors day in over a year — likely short-squeeze after Friday's oversold selloff, not a fundamental reversal. Intel +12%.",
-      "bullets": [{"label": "From Beating Beta", "text": "MU +10%, SOXX +7%, Marvell +14%, Intel +12% — best single-day semis move in 12+ months."}],
-      "callout": null,
-      "sources": [{"title": "CNBC, 8 Jun", "url": null}]
-    },
-    {
-      "number": "04",
-      "category": "FINANCE · NEWS",
-      "title": "Amazon-Corning Multibillion Fiber Deal for US Data Centers",
-      "highlight_phrase": "Amazon-Corning",
-      "toc_summary": "AMZN +1.2% on $249, 1,000 jobs planned in NC.",
-      "quick_take": "Multibillion fiber-optic agreement for US data center buildout. Confirms AI capex cycle is real infra spend, not just hype.",
-      "bullets": [{"label": "From Beating Beta", "text": "AMZN +1.2% to $249. 1,000 jobs planned in North Carolina. Druckenmiller + Ackman both bullish AMZN."}],
-      "callout": null,
-      "sources": [{"title": "CNBC, 8 Jun", "url": null}]
-    },
-    {
-      "number": "05",
-      "category": "FINANCE · NEWS",
-      "title": "Iran-Israel Ceasefire: Geopolitical Risk Premium Declining",
-      "highlight_phrase": "Iran-Israel Ceasefire",
-      "toc_summary": "Both sides halt attacks. Trump signals Iran deal progress.",
-      "quick_take": "Mutual ceasefire slows Gold's rally (still at $4,330). Oil down 2%. Trump signals progress on Iran nuclear deal — geopolitical wildcard reduced.",
-      "bullets": [{"label": "From Beating Beta", "text": "Gold rally paused at $4,330. Brent -2%. Risk-off premium partially unwound — but Dalio still holds Gold as structural hedge."}],
-      "callout": null,
-      "sources": [{"title": "Reuters, 9 Jun", "url": null}]
-    },
-    {
-      "number": "06",
-      "category": "FINANCE · NEWS",
-      "title": "Oracle Earnings Jun 10: High IV, 2.1:1 Call/Put Ratio",
-      "highlight_phrase": "Oracle Earnings",
-      "toc_summary": "Options market expects big move. Weekly IV 153 vs 52W-high 85.",
-      "quick_take": "Market expects a major post-earnings move. Weekly implied volatility 153 vs 52-week high of 85. Call/Put ratio 2.1:1 — options market skewed bullish.",
-      "bullets": [{"label": "From Beating Beta", "text": "ORCL reports after close Jun 10. Cloud + AI infrastructure thesis in focus. Adobe (ADBE) follows Jun 11."}],
-      "callout": null,
-      "sources": [{"title": "MarketRebellion, 9 Jun", "url": null}]
-    }
-  ]
+  "stories": []
 }
