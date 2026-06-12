@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-12",
   "topSignals": [
     {
-      "title": "FuelCell Energy Q2 FY26 backlog & pipeline surge",
-      "text": "Backlog $1.14B (as of April 30); sales pipeline 4 GW in Q2 2026, up 267% from Q1. Torrington, CT capacity expansion + ExxonMobil carbon capture modules en route to Rotterdam. Signal: mid-cap fuel cell player pivoting aggressively to data center power.",
-      "url": "https://www.sec.gov/Archives/edgar/data/0000886128/000110465926071181/fcel-20260608xex99d1.htm",
+      "title": "Google identified as hyperscaler behind Project Jade; Black Hills confirms Bloom's 900 MW SOFC scope intact",
+      "text": "Blockspace.media reported that Crusoe Energy was pushed out of the 1.8 GW Cheyenne, WY data center (Project Jade) after Google surfaced concerns — Google is now working directly with the remaining partners to acquire computing capacity from the site. Black Hills Corp issued an official statement on June 10 confirming the project continues on schedule: service target remains early 2028, and the customer has already paid $200M+ in refundable construction contributions. Bloom Energy's 900 MW behind-the-meter fuel cell scope is unchanged. Key takeaway: this is a developer swap, not a project cancellation. The Bloom pipeline entry is intact; headline risk recedes.",
+      "url": "https://blockspace.media/insight/crusoe-pushed-out-wyoming-ai-campus-google/",
       "n": 1
     },
     {
-      "title": "SOFC deployment speed advantage crystallizing",
-      "text": "Data shows SOFC systems build in ~90 days vs. 18–24 months for grid interconnection. Industry consensus: 32% of U.S. data centers targeting fully off-grid SOFC operation by 2030. Accelerates baseline demand for fleet deployments.",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-up-to-245gw-of-bloom-fuel-cells-at-new-mexico-data-center/",
+      "title": "Bloom Energy (BE) drops >10% to ~$234, then recovers; Morgan Stanley $310 Overweight and RBC Outperform both reiterated",
+      "text": "BE closed June 10 at ~$234 (low $230.61, high $258.78) — a decline from ~$286 pre-Crusoe-news, making the total selloff >17% over the prior week. Morgan Stanley issued a note stating the Crusoe pause \"does not break the AI power thesis\"; it reiterated Overweight and $310 price target, noting AEP contractual protections safeguard Bloom's earnings. RBC Capital reiterated Outperform. Stock had begun a partial recovery by June 11–12. Key context: the underlying Google customer commitment of $200M+ in sunk construction costs confirms demand is real.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-plunged-193610107.html",
       "n": 2
     },
     {
-      "title": "Chinese electrolyzer dominance widens CAPEX gap",
-      "text": "Alkaline electrolyzer CAPEX now $300–$450/kW in China (65–70% global market share) vs. $500–$1,000/kW Western makers. Green H2 subsidized projects confirmed <$1/kg. LCOE impact: accelerates H2-transition economics for SOFC by 3–5 years if supply chain diversifies.",
-      "url": "https://energy-solutions.co/articles/sub/green-hydrogen-production-costs",
+      "title": "Carnegie Endowment June 2026 report — \"Beyond the Hype\": hyperscaler nuclear commitments may not materialise",
+      "text": "Carnegie Endowment published \"Beyond the Hype: Assessing Hyperscaler Nuclear Commitments Against U.S. Energy Realities\" in June 2026, finding that the White House Ratepayer Protection Pledge (March 2026, signed by big tech) is politically symbolic but legally toothless, and questioning whether tech companies are actually willing to make firm long-term bets on nuclear capacity. The report's skepticism aligns with the ongoing 2027–2030+ SMR deployment timeline gap — structural tailwind for SOFC's 90-day deployment window remains in place.",
+      "url": "https://carnegieendowment.org/research/2026/06/beyond-the-hype-assessing-hyperscaler-nuclear-commitments-against-us-energy-realities",
       "n": 3
     }
   ],
@@ -24,45 +24,49 @@
     {
       "title": "Stack & Cell Technology",
       "items": [
-        "Quiet day on stack announcements. Confirmation of prior Ceres/Doosan/Sunfire/SolydEra capacity already in June 7 digest. No new manufacturing milestones or efficiency breakthroughs reported."
+        "Quiet day. No new stack or cell announcements from Bloom, Elcogen, Ceres, Sunfire, SolydEra, or other players. Elcogen E3000 G2 (June 9) and Ceres Endura (June 10) remain the most recent product milestones. Frontiers Research Topic on next-generation SOFCs has a submission deadline of June 26, 2026 — relevant papers may surface late June/early July."
       ]
     },
     {
       "title": "AI Data Center Deployments",
       "items": [
-        "Oracle New Mexico site detail: Up to 2.45–2.85 GW Bloom Energy SOFC deployment (site-specific expansion of prior Oracle commitments). Reinforces gigawatt-scale ordering pattern already reported in June 7 digest.",
-        "Global SOFC market forecast: $2.2–3.2B valuation in 2026; 25–35% CAGR through 2033. Confirms acceleration beyond 2025 baseline."
+        "Project Jade / Cheyenne (key update): See Top Signal #1. The project's underlying demand is Google-originated. With Crusoe out and Black Hills working directly with Google, the $200M+ committed by the customer and the 900 MW Bloom Energy fuel cell contract are structurally sound. Bloom CEO's earlier NIMBY commentary (June 11) is reinforced: Google's continued commitment despite developer change underscores that off-grid SOFC power is the chosen solution, not a fallback.",
+        "Ceres Power new shares begin trading on LSE today (June 12): 18,000,000 new ordinary shares from the £103M capital raise admitted to the London Stock Exchange at 8:00 a.m. London time. Total shares in issue: 213,797,576. Growth capital finalised; Ceres now fully funded for Endura partner scale-up and IP investment."
       ]
     },
     {
       "title": "Regulations & Policy",
       "items": [
-        "Quiet day. FERC June 2026 deadline and Senate GRID Act already covered in June 7 digest. No new regulatory filings or state-level bills identified in this cycle's searches."
+        "FERC RM26-4 still pending: No ruling issued. End-of-June 2026 deadline remains in force. The June 12 FERC open meeting agenda has not surfaced a RM26-4 order. Watch daily for the Commission's action — outcome will directly shape co-located generation treatment and cost allocation for behind-the-meter SOFC deployments.",
+        "EU data center rating scheme: Still not formally published as of June 12. Commission consultation closed April 23; Q2 2026 target publication has slipped. No further EC communication identified today.",
+        "Germany EnEfG July 1 deadline: 19 days away. No further regulatory news today. New data centers opening from July 1 must comply with PUE ≤1.2 at commissioning. SOFC CHP (ERF ≥10%) qualifies for compliance."
       ]
     },
     {
       "title": "Competing On-Site Power",
       "items": [
-        "Quiet day. SMR partnerships and PEM comparisons already addressed in June 7 digest. No new nuclear or battery announcements."
+        "Carnegie nuclear skepticism (see Top Signal #3): Structurally reinforces SOFC's deployment-speed advantage. If hyperscalers are not willing to make legally binding nuclear commitments, the pipeline for SMR-powered data centers remains speculative, and SOFC (90-day deployment) remains the only proven fast-to-market baseload option at scale.",
+        "Quiet day on new battery, PEM, or gas turbine announcements affecting SOFC competitive position."
       ]
     },
     {
       "title": "Market & Financials",
       "items": [
-        "Bloom Energy CFO appointment: Simon Edwards (ex–scaling tech companies, digital infrastructure expertise) becomes CFO effective April 13, 2026. Signals leadership depth as Bloom scales manufacturing and deployment."
+        "Bloom Energy (NYSE:BE): June 10 close ~$234.06 (range $230.61–$258.78); down >10% from prior day on Crusoe pause. Recovery underway June 11–12. Morgan Stanley Overweight, $310 target (reiterated post-selloff). RBC Capital Outperform (reiterated). 52-week range: $19.97–$322.83. FY26 revenue guidance unchanged: $3.4–3.8B.",
+        "Ceres Power (LON:CWR): New shares trading from today. +199% YTD into the admission. No new financial releases.",
+        "Quiet day on FuelCell Energy, Elcogen, Sunfire financial news."
       ]
     },
     {
       "title": "Research & IP",
       "items": [
-        "Micro-SOFC cooling innovation: Hamburg UAS μT-SOFC stack achieved 57% electrical efficiency in 3,294-cell simulation (2 mm cells, integrated cooling). Pathway to portable/small-scale applications."
+        "Quiet day. No new papers or patents identified. Frontiers Research Topic submission deadline June 26 — potential new SOFC papers expected early July."
       ]
     }
   ],
   "lcoe": [
-    "Electrolyzer CAPEX regional divergence (NEW): Chinese manufacturers $300–$450/kW (alkaline, 65–70% market share); Western equivalents $500–$1,000/kW; PEM midpoint $1,600/kW; SOEC $2,500/kW. Implication: H2-transition capex delta narrowing faster than anticipated if supply chains diversify.",
-    "Deployment timeline acceleration (NEW): SOFC build time ~90 days vs. grid interconnection 18–24 months = ~7–16x speed advantage. Quantifies capex savings from avoided grid extension.",
-    "Off-grid SOFC adoption target (NEW): 32% of U.S. data centers planning full off-grid operation by 2030 with SOFC. Baseline demand signal for fleet economics.",
-    "FuelCell Energy sales pipeline: 4 GW Q2 2026 (↑267% from Q1 2026). Reflects strong competitive posture despite backlog correction. Monitor for Q2 revenue and margin in next earnings."
+    "Project cancellation risk reassessment (NEW): Black Hills' June 10 statement — $200M+ in sunk customer construction contributions for the Cheyenne project — establishes a concrete precedent for the scale of customer commitment required to lock in SOFC supply. For INOCEL modeling: large (>500 MW) SOFC deployments now demonstrably carry customer commitment buffers of this magnitude; adjust project risk discount rates accordingly for projects with similar upfront contribution structures.",
+    "Google as revealed hyperscaler (NEW context): Google's role as Project Jade customer validates that Tier-1 hyperscalers (not just Oracle/OpenAI/Brookfield-aligned parties) are committing to behind-the-meter SOFC for multi-GW campuses. Broadens the addressable customer base assumption in SOFC LCOE models beyond a single hyperscaler cluster.",
+    "Natural gas price: No new Henry Hub spot data retrieved today. May 2026 average $2.94/MMBtu (EIA June STEO) remains current best reference. SOFC fuel cost ≈ $0.028–$0.034/kWh at current spot. Full-year 2026 forecast: $3.34/MMBtu."
   ]
 }
