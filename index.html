@@ -188,7 +188,7 @@ function updateRefreshBtn(){
 async function manualRefresh(){
   // Clear SW cache for data files so network is always hit
   try{
-    const cache=await caches.open('newsstream-v2');
+    const cache=await caches.open('newsstream-v4');
     const keys=await cache.keys();
     await Promise.all(keys.filter(r=>r.url.includes('raw.githubusercontent.com')).map(r=>cache.delete(r)));
   }catch(e){}
@@ -423,4 +423,14 @@ async function loadData(force){
   }
 }
 
-// ── SERVICE WORKER ────────────────────�
+// ── SERVICE WORKER ────────────────────────────────────────────────────────────
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+}
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+updateRefreshBtn();
+loadData();
+</script>
+</body>
+</html>
