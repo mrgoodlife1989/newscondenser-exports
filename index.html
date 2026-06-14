@@ -21,7 +21,7 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .hdr-logo{font-size:18px;font-weight:700;letter-spacing:.03em;color:#fff}.hdr-logo span{color:#4f7ef8}
 .hdr-right{display:flex;align-items:center;gap:12px}
 .hdr-date{font-size:12px;color:#6b7fa3}
-.refresh-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:13px;padding:5px 10px;cursor:pointer;transition:all .2s}.refresh-btn:hover:not(:disabled){color:#e2e8f0;border-color:#4f7ef8}.refresh-btn:disabled{opacity:.35;cursor:not-allowed}
+.refresh-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:13px;padding:5px 10px;cursor:pointer;transition:all .2s}.refresh-btn.ready{color:#22c55e;border-color:#22c55e}.refresh-btn.ready:hover{background:#0d2818;color:#4ade80;border-color:#4ade80}.refresh-btn:disabled{opacity:.35;cursor:not-allowed;color:#6b7fa3;border-color:#252d3d}
 
 /* TABS */
 .tabs{background:#111420;border-bottom:1px solid #1e2536;display:flex;overflow-x:auto;padding:0 16px;gap:4px;position:sticky;top:53px;z-index:99;scrollbar-width:none}
@@ -182,9 +182,16 @@ function updateRefreshBtn(){
   if(!btn) return;
   const done=getLastRefresh()===TODAY_KEY;
   btn.disabled=done;
+  btn.classList.toggle('ready',!done);
   btn.title=done?'Already refreshed today — come back tomorrow':'Refresh all tabs';
 }
-function manualRefresh(){
+async function manualRefresh(){
+  // Clear SW cache for data files so network is always hit
+  try{
+    const cache=await caches.open('newsstream-v2');
+    const keys=await cache.keys();
+    await Promise.all(keys.filter(r=>r.url.includes('raw.githubusercontent.com')).map(r=>cache.delete(r)));
+  }catch(e){}
   setLastRefresh();
   updateRefreshBtn();
   loadData(true);
@@ -374,8 +381,9 @@ function switchTab(name, btn){
 }
 
 // ── DATA LOADING ──────────────────────────────────────────────────────────────
-async function fetchJSON(url){
-  const r=await fetch(url+'?_='+Date.now());
+async function fetchJSON(url, force){
+  const opts=force?{cache:'reload'}:{};
+  const r=await fetch(url+(force?'?_='+Date.now():''),opts);
   if(!r.ok) throw new Error(`HTTP ${r.status}`);
   return r.json();
 }
@@ -391,9 +399,9 @@ async function loadData(force){
   renderEconomist();
 
   const [ai, fin, sofc]=await Promise.allSettled([
-    fetchJSON(RAW+'stories-latest.json'),
-    fetchJSON(RAW+'finance-latest.json'),
-    fetchJSON(RAW+'sofc-latest.json'),
+    fetchJSON(RAW+'stories-latest.json',force),
+    fetchJSON(RAW+'finance-latest.json',force),
+    fetchJSON(RAW+'sofc-latest.json',force),
   ]);
 
   if(ai.status==='fulfilled'){
@@ -415,14 +423,4 @@ async function loadData(force){
   }
 }
 
-// ── SERVICE WORKER ────────────────────────────────────────────────────────────
-if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('./sw.js').catch(()=>{});
-}
-
-// ── INIT ──────────────────────────────────────────────────────────────────────
-updateRefreshBtn();
-loadData();
-</script>
-</body>
-</html>
+// ── SERVICE WORKER ────────────────────�
