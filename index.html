@@ -21,7 +21,7 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .hdr-logo{font-size:18px;font-weight:700;letter-spacing:.03em;color:#fff}.hdr-logo span{color:#4f7ef8}
 .hdr-right{display:flex;align-items:center;gap:12px}
 .hdr-date{font-size:12px;color:#6b7fa3}
-.refresh-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:13px;padding:5px 10px;cursor:pointer;transition:all .2s}.refresh-btn:hover{color:#e2e8f0;border-color:#4f7ef8}
+.refresh-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:13px;padding:5px 10px;cursor:pointer;transition:all .2s}.refresh-btn:hover:not(:disabled){color:#e2e8f0;border-color:#4f7ef8}.refresh-btn:disabled{opacity:.35;cursor:not-allowed}
 
 /* TABS */
 .tabs{background:#111420;border-bottom:1px solid #1e2536;display:flex;overflow-x:auto;padding:0 16px;gap:4px;position:sticky;top:53px;z-index:99;scrollbar-width:none}
@@ -151,7 +151,7 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
   <div class="hdr-logo">News<span>Stream</span></div>
   <div class="hdr-right">
     <div class="hdr-date" id="hdr-date"></div>
-    <button class="refresh-btn" onclick="loadData(true)">↺ Refresh</button>
+    <button id="refresh-btn" class="refresh-btn" onclick="manualRefresh()">↺ Refresh</button>
   </div>
 </div>
 
@@ -172,6 +172,23 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 <script>
 // ── CONFIG ────────────────────────────────────────────────────────────────────
 const RAW = 'https://raw.githubusercontent.com/mrgoodlife1989/newscondenser-exports/main/';
+
+// ── REFRESH STATE ─────────────────────────────────────────────────────────────
+const TODAY_KEY = new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD local date
+function getLastRefresh(){ try{ return localStorage.getItem('lastRefreshDate'); }catch(e){ return null; } }
+function setLastRefresh(){ try{ localStorage.setItem('lastRefreshDate',TODAY_KEY); }catch(e){} }
+function updateRefreshBtn(){
+  const btn=document.getElementById('refresh-btn');
+  if(!btn) return;
+  const done=getLastRefresh()===TODAY_KEY;
+  btn.disabled=done;
+  btn.title=done?'Already refreshed today — come back tomorrow':'Refresh all tabs';
+}
+function manualRefresh(){
+  setLastRefresh();
+  updateRefreshBtn();
+  loadData(true);
+}
 
 // ── UTILS ─────────────────────────────────────────────────────────────────────
 function esc(s){
@@ -404,6 +421,7 @@ if('serviceWorker' in navigator){
 }
 
 // ── INIT ──────────────────────────────────────────────────────────────────────
+updateRefreshBtn();
 loadData();
 </script>
 </body>
