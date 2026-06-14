@@ -123,6 +123,7 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .sofc-section.open .sofc-section-body{display:block}
 .sofc-item{font-size:13px;color:#9caec5;padding:7px 0;border-bottom:1px solid #1a2030;line-height:1.6}
 .sofc-item:last-child{border-bottom:none}
+.sofc-item-sources{margin-top:6px;display:flex;flex-wrap:wrap;gap:5px}
 .sofc-quiet{font-size:13px;color:#4a5568;font-style:italic;padding:8px 0}
 .lcoe-box{background:#1a1400;border:1px solid #f59e0b;border-radius:8px;padding:12px 14px}
 .lcoe-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#f59e0b;margin-bottom:8px}
@@ -318,6 +319,15 @@ function renderFinance(raw){
 }
 
 // ── RENDER: SOFC ──────────────────────────────────────────────────────────────
+function sofcItem(it){
+  // handles both old string format and new {text, url, sources} object format
+  if(typeof it==='string') return `<div class="sofc-item">${esc(it)}</div>`;
+  const srcs=(it.sources&&it.sources.length)?it.sources:(it.url?[{title:'Source',url:it.url}]:[]);
+  const srcHtml=srcs.length
+    ?`<div class="sofc-item-sources">${srcs.map(s=>s.url?`<a href="${esc(s.url)}" target="_blank" class="source-link">↗ ${esc(s.title)}</a>`:`<span class="source-link">${esc(s.title)}</span>`).join('')}</div>`
+    :'';
+  return `<div class="sofc-item">${esc(it.text)}${srcHtml}</div>`;
+}
 function renderSOFC(d){
   let h='';
   h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}</div>`;
@@ -333,20 +343,22 @@ function renderSOFC(d){
   });
   h+=`<div class="sec-divider"></div><div class="sec-hdr">Sections</div>`;
   (d.sections||[]).forEach((sec,i)=>{
-    const quiet=sec.items.length===1&&sec.items[0].toLowerCase().startsWith('quiet day');
+    const firstItem=sec.items[0];
+    const firstText=typeof firstItem==='string'?firstItem:(firstItem&&firstItem.text)||'';
+    const quiet=sec.items.length===1&&firstText.toLowerCase().startsWith('quiet day');
     h+=`<div class="sofc-section" id="sofc${i}">
       <div class="sofc-section-hdr" onclick="toggle(document.getElementById('sofc${i}'))">
         <span>${esc(sec.title)}</span><span class="story-chevron">▼</span>
       </div>
       <div class="sofc-section-body">
-        ${quiet?`<div class="sofc-quiet">${esc(sec.items[0])}</div>`:sec.items.map(it=>`<div class="sofc-item">${esc(it)}</div>`).join('')}
+        ${quiet?`<div class="sofc-quiet">${esc(firstText)}</div>`:sec.items.map(sofcItem).join('')}
       </div>
     </div>`;
   });
   if((d.lcoe||[]).length){
     h+=`<div class="sec-divider"></div><div class="sec-hdr">⚠ LCOE-Relevant Datapoints</div>
     <div class="lcoe-box"><div class="lcoe-label">Flag for INOCEL model update</div>
-    ${d.lcoe.map(it=>`<div class="sofc-item">${esc(it)}</div>`).join('')}
+    ${d.lcoe.map(sofcItem).join('')}
     </div>`;
   }
   document.getElementById('tab-sofc').innerHTML=h;
@@ -417,20 +429,4 @@ async function loadData(force){
   }
 
   if(sofc.status==='fulfilled'){
-    try{ renderSOFC(sofc.value); }catch(e){ showErr('tab-sofc','Render error: '+e.message); }
-  } else {
-    showErr('tab-sofc','Could not load SOFC data',RAW+'sofc-latest.json');
-  }
-}
-
-// ── SERVICE WORKER ────────────────────────────────────────────────────────────
-if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('./sw.js').catch(()=>{});
-}
-
-// ── INIT ──────────────────────────────────────────────────────────────────────
-updateRefreshBtn();
-loadData();
-</script>
-</body>
-</html>
+    try{ renderSOFC(sofc.value); }catch(e){ showErr('tab-sofc',
