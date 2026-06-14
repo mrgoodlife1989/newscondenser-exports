@@ -1,5 +1,5 @@
 // NewsStream Service Worker — network-first, offline fallback
-const CACHE = 'newsstream-v4';
+const CACHE = 'newsstream-v5';
 const SHELL = ['./','./manifest.json','./icon.svg','./icon-maskable.svg'];
 
 self.addEventListener('install', e => {
@@ -17,7 +17,6 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  // For GitHub raw data: network first, cache on success, fall back to cache
   const url = e.request.url;
   if (url.includes('raw.githubusercontent.com')) {
     e.respondWith(
@@ -31,7 +30,6 @@ self.addEventListener('fetch', e => {
     );
     return;
   }
-  // For app shell: cache first
   if (e.request.method === 'GET') {
     e.respondWith(
       caches.match(e.request).then(cached => {
