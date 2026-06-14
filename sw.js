@@ -1,5 +1,5 @@
 // NewsStream Service Worker — network-first, offline fallback
-const CACHE = 'newsstream-v3';
+const CACHE = 'newsstream-v4';
 const SHELL = ['./','./manifest.json','./icon.svg','./icon-maskable.svg'];
 
 self.addEventListener('install', e => {
