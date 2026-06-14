@@ -429,4 +429,20 @@ async function loadData(force){
   }
 
   if(sofc.status==='fulfilled'){
-    try{ renderSOFC(sofc.value); }catch(e){ showErr('tab-sofc',
+    try{ renderSOFC(sofc.value); }catch(e){ showErr('tab-sofc','Render error: '+e.message); }
+  } else {
+    showErr('tab-sofc','Could not load SOFC data',RAW+'sofc-latest.json');
+  }
+}
+
+// ────────────────────────────────────────────────────────────────────────────────────
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+}
+
+// ────────────────────────────────────────────────────────────────────────────────────
+updateRefreshBtn();
+loadData();
+</script>
+</body>
+</html>
