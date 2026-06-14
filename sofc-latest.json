@@ -24,51 +24,156 @@
     {
       "title": "Stack & Cell Technology",
       "items": [
-        "Quiet day. No new stack or cell announcements from Bloom, Elcogen, Sunfire, SolydEra, Ceres, or Mitsubishi. Weekend news cycle; Frontiers Research Topic on next-gen SOFCs (submission deadline June 26) may yield early-July papers.",
-        "Ceres Endura primary scope confirmed (see Top Signal #2): The Centrica partnership newsroom confirms Endura's dual-mode capability (SOFC/SOEC) and lower-carbon NG operation with explicit H2 fuel pathway — directly applicable for INOCEL competitive benchmarking vs. Bloom on European deployments."
+        {
+          "text": "Quiet day. No new stack or cell announcements from Bloom, Elcogen, Sunfire, SolydEra, Ceres, or Mitsubishi. Weekend news cycle; Frontiers Research Topic on next-gen SOFCs (submission deadline June 26) may yield early-July papers.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Endura primary scope confirmed (see Top Signal #2): The Centrica partnership newsroom confirms Endura's dual-mode capability (SOFC/SOEC) and lower-carbon NG operation with explicit H2 fuel pathway — directly applicable for INOCEL competitive benchmarking vs. Bloom on European deployments.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
       "title": "AI Data Center Deployments",
       "items": [
-        "Ceres/Centrica/Delta multi-GW Europe pipeline (see Top Signal #2): First time primary source fully summarised. No new specific MW commitments announced this weekend.",
-        "Quiet day on new hyperscaler, colocation, or pilot announcements. Post-Crusoe/Project Jade resolution (June 12 digest), no further deployment updates surfaced."
+        {
+          "text": "Ceres/Centrica/Delta multi-GW Europe pipeline (see Top Signal #2): First time primary source fully summarised. No new specific MW commitments announced this weekend.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Quiet day on new hyperscaler, colocation, or pilot announcements. Post-Crusoe/Project Jade resolution (June 12 digest), no further deployment updates surfaced.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
       "title": "Regulations & Policy",
       "items": [
-        "FERC RM26-4 countdown: ~16 days to end-of-June deadline. No ruling issued over the weekend. FERC's stated goal is a \"quick, efficient and legally durable\" action addressing large load (>20 MW) interconnection queue reform, cost allocation, and co-located generation treatment. Outcome directly shapes whether behind-the-meter SOFC economics improve or worsen relative to grid interconnection for US data centers.",
-        "Germany EnEfG July 1 deadline: 17 days away. New data centers opening from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥15% (waste heat reuse). From January 1, 2027: 100% renewable electricity mandatory. SOFC CHP (ERF ≥10%) compliant on the heat metric from day one; 100% renewable requirement requires renewable gas/H2 blend or additionality accounting.",
-        "EU data center rating scheme: Still not formally published. Consultation closed April 23; Q2 2026 target has slipped. No EC communication over the weekend.",
-        "EU SMR strategy (COM/2026/117, March 2026): Commission SMR strategy adopted March 2026 targets first EU SMRs online by early 2030s. No EU construction licences granted as of February 2026. Structural gap vs. SOFC 90-day deployment remains intact through at least 2030."
+        {
+          "text": "FERC RM26-4 countdown: ~16 days to end-of-June deadline. No ruling issued over the weekend. FERC's stated goal is a \"quick, efficient and legally durable\" action addressing large load (>20 MW) interconnection queue reform, cost allocation, and co-located generation treatment. Outcome directly shapes whether behind-the-meter SOFC economics improve or worsen relative to grid interconnection for US data centers.",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC RM26-4 docket",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        },
+        {
+          "text": "Germany EnEfG July 1 deadline: 17 days away. New data centers opening from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥15% (waste heat reuse). From January 1, 2027: 100% renewable electricity mandatory. SOFC CHP (ERF ≥10%) compliant on the heat metric from day one; 100% renewable requirement requires renewable gas/H2 blend or additionality accounting.",
+          "url": "https://www.ashurst.com/en/insights/germany-national-data-centre-strategy/",
+          "sources": [
+            {
+              "title": "Ashurst: EnEfG strategy",
+              "url": "https://www.ashurst.com/en/insights/germany-national-data-centre-strategy/"
+            },
+            {
+              "title": "Orrick: draft amendment",
+              "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
+            }
+          ]
+        },
+        {
+          "text": "EU data center rating scheme: Still not formally published. Consultation closed April 23; Q2 2026 target has slipped. No EC communication over the weekend.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "EU SMR strategy (COM/2026/117, March 2026): Commission SMR strategy adopted March 2026 targets first EU SMRs online by early 2030s. No EU construction licences granted as of February 2026. Structural gap vs. SOFC 90-day deployment remains intact through at least 2030.",
+          "url": "https://energy.ec.europa.eu/news/commission-unveils-strategy-bring-europes-first-smrs-online-early-2030s-2026-03-10_en",
+          "sources": [
+            {
+              "title": "EC SMR strategy",
+              "url": "https://energy.ec.europa.eu/news/commission-unveils-strategy-bring-europes-first-smrs-online-early-2030s-2026-03-10_en"
+            }
+          ]
+        }
       ]
     },
     {
       "title": "Competing On-Site Power",
       "items": [
-        "Ballard + Vertiv zero-emission UPS (PEM, not SOFC): 400 kW proof-of-concept delivered at Vertiv's Ohio facility; solution integrates Ballard PEM fuel cells with Liebert EXL S1 UPS, HPL Li-Ion batteries, and Vertiv DynaFlex energy management. Targets backup/UPS (not prime power) segment. PEM fuel cells for UPS are a competing signal in the backup power niche; SOFC's continuous baseload advantage at 95%+ capacity factor remains the prime-power differentiator. SOFC backup/UPS applications (hot standby mode) require different operating profiles and are not this stack's strength.",
-        "Quiet day on new nuclear, SMR, grid-scale battery, or gas turbine announcements. Carnegie nuclear skepticism (June 12 digest) and EU SMR 2030+ timeline unchanged."
+        {
+          "text": "Ballard + Vertiv zero-emission UPS (PEM, not SOFC): 400 kW proof-of-concept delivered at Vertiv's Ohio facility; solution integrates Ballard PEM fuel cells with Liebert EXL S1 UPS, HPL Li-Ion batteries, and Vertiv DynaFlex energy management. Targets backup/UPS (not prime power) segment. PEM fuel cells for UPS are a competing signal in the backup power niche; SOFC's continuous baseload advantage at 95%+ capacity factor remains the prime-power differentiator. SOFC backup/UPS applications (hot standby mode) require different operating profiles and are not this stack's strength.",
+          "url": "https://fuelcellsworks.com/2025/02/06/green-technology/ballard-and-vertiv-partner-to-deliver-industry-first-zero-emission-ups-for-data-centers/",
+          "sources": [
+            {
+              "title": "Ballard/Vertiv: Fuel Cells Works",
+              "url": "https://fuelcellsworks.com/2025/02/06/green-technology/ballard-and-vertiv-partner-to-deliver-industry-first-zero-emission-ups-for-data-centers/"
+            },
+            {
+              "title": "Ballard press release",
+              "url": "https://www.ballard.com/press-release/ballard-and-vertiv-announce-strategic-technology-partnership-to-support-alternative-energy-usage-for-data-centers/"
+            }
+          ]
+        },
+        {
+          "text": "Quiet day on new nuclear, SMR, grid-scale battery, or gas turbine announcements. Carnegie nuclear skepticism (June 12 digest) and EU SMR 2030+ timeline unchanged.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
       "title": "Market & Financials",
       "items": [
-        "Quiet day (weekend). No new earnings releases, funding rounds, or analyst moves.",
-        "Bloom Energy (NYSE:BE) last close: Recovering from ~$234 trough (June 10) toward pre-Crusoe $287–300 range. Consensus: Morgan Stanley $310 Overweight, Daiwa $324 Outperform, UBS $322 Buy, RBC Outperform. FY2026 guidance $3.4–3.8B unchanged.",
-        "Ceres Power (LON:CWR): New capital raise shares (18M) admitted June 12; +199% YTD. Next catalyst: H1 2026 trading update expected July 2026."
+        {
+          "text": "Quiet day (weekend). No new earnings releases, funding rounds, or analyst moves.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Bloom Energy (NYSE:BE) last close: Recovering from ~$234 trough (June 10) toward pre-Crusoe $287–300 range. Consensus: Morgan Stanley $310 Overweight, Daiwa $324 Outperform, UBS $322 Buy, RBC Outperform. FY2026 guidance $3.4–3.8B unchanged.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Power (LON:CWR): New capital raise shares (18M) admitted June 12; +199% YTD. Next catalyst: H1 2026 trading update expected July 2026.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
       "title": "Research & IP",
       "items": [
-        "Quiet day. No new papers or patents identified. Frontiers Research Topic deadline June 26 — potential output early July."
+        {
+          "text": "Quiet day. No new papers or patents identified. Frontiers Research Topic deadline June 26 — potential output early July.",
+          "url": "",
+          "sources": []
+        }
       ]
     }
   ],
   "lcoe": [
-    "Germany ERF ≥15% waste heat reuse (NEW from strategy detail): From July 1, 2026, German DCs must achieve 15% energy reuse factor; rising to 20% from July 2028. SOFC CHP systems (typically ERF 10–30% depending on heat integration design) can reach ≥15% with proper heat offtake. Implication for LCOE model: Heat credit in Germany is now a regulatory mandate, not just an efficiency option — increases effective SOFC value proposition in German market vs. non-CHP alternatives. Model should include ERF compliance premium.",
-    "Vertiv data center capex signal: Q1 2026 Vertiv revenue $2.65B (+30%), Americas organic +44%. At this run-rate, total 2026 data center infrastructure investment is tracking well above prior forecasts — reinforces the multi-year demand backdrop underpinning SOFC backlog assumptions.",
-    "Henry Hub: No new spot data this cycle. Last confirmed: June 11 spot ~$3.19/MMBtu. EIA 2H26 forecast $3.34/MMBtu. SOFC fuel input ≈ $0.030–$0.037/kWh remains current best estimate."
+    {
+      "text": "Germany ERF ≥15% waste heat reuse (NEW from strategy detail): From July 1, 2026, German DCs must achieve 15% energy reuse factor; rising to 20% from July 2028. SOFC CHP systems (typically ERF 10–30% depending on heat integration design) can reach ≥15% with proper heat offtake. Implication for LCOE model: Heat credit in Germany is now a regulatory mandate, not just an efficiency option — increases effective SOFC value proposition in German market vs. non-CHP alternatives. Model should include ERF compliance premium.",
+      "url": "https://www.ashurst.com/en/insights/germany-national-data-centre-strategy/",
+      "sources": [
+        {
+          "title": "Ashurst",
+          "url": "https://www.ashurst.com/en/insights/germany-national-data-centre-strategy/"
+        },
+        {
+          "title": "Orrick",
+          "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
+        }
+      ]
+    },
+    {
+      "text": "Vertiv data center capex signal: Q1 2026 Vertiv revenue $2.65B (+30%), Americas organic +44%. At this run-rate, total 2026 data center infrastructure investment is tracking well above prior forecasts — reinforces the multi-year demand backdrop underpinning SOFC backlog assumptions.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Henry Hub: No new spot data this cycle. Last confirmed: June 11 spot ~$3.19/MMBtu. EIA 2H26 forecast $3.34/MMBtu. SOFC fuel input ≈ $0.030–$0.037/kWh remains current best estimate.",
+      "url": "",
+      "sources": []
+    }
   ]
 }
