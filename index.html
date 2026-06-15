@@ -432,4 +432,47 @@ async function fetchJSON(url, force){
 
 async function loadData(force){
   // Update header date
-  const now=new 
+  const now=new Date();
+  document.getElementById('hdr-date').textContent=now.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short',year:'numeric'});
+
+  loading('tab-ai');
+  loading('tab-finance');
+  loading('tab-sofc');
+  renderEconomist();
+
+  const [ai, fin, sofc]=await Promise.allSettled([
+    fetchJSON(RAW+'stories-latest.json',force),
+    fetchJSON(RAW+'finance-latest.json',force),
+    fetchJSON(RAW+'sofc-latest.json',force),
+  ]);
+
+  if(ai.status==='fulfilled'){
+    try{ renderAI(ai.value); }catch(e){ showErr('tab-ai','Render error: '+e.message); }
+  } else {
+    showErr('tab-ai','Could not load AI brief',RAW+'stories-latest.json');
+  }
+
+  if(fin.status==='fulfilled'){
+    try{ renderFinance(fin.value); }catch(e){ showErr('tab-finance','Render error: '+e.message); }
+  } else {
+    showErr('tab-finance','Could not load Finance data',RAW+'finance-latest.json');
+  }
+
+  if(sofc.status==='fulfilled'){
+    try{ renderSOFC(sofc.value); }catch(e){ showErr('tab-sofc','Render error: '+e.message); }
+  } else {
+    showErr('tab-sofc','Could not load SOFC data',RAW+'sofc-latest.json');
+  }
+}
+
+// ── SERVICE WORKER ────────────────────────────────────────────────────────────
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+}
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+updateRefreshBtn();
+loadData();
+</script>
+</body>
+</html>
