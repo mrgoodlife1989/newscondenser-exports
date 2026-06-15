@@ -127,6 +127,8 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .sofc-quiet{font-size:13px;color:#4a5568;font-style:italic;padding:8px 0}
 .lcoe-box{background:#1a1400;border:1px solid #f59e0b;border-radius:8px;padding:12px 14px}
 .lcoe-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#f59e0b;margin-bottom:8px}
+.signal-card-img{width:80px;height:52px;object-fit:cover;border-radius:4px;flex-shrink:0;background:#1a2030;display:block;align-self:flex-start}
+.sofc-item-img{width:64px;height:42px;object-fit:cover;border-radius:4px;flex-shrink:0;background:#1a2030;display:block}
 
 /* ECONOMIST */
 .eco-card{background:#161b27;border:1px solid #c72b2b;border-radius:12px;padding:28px;text-align:center;margin-bottom:20px}
@@ -336,7 +338,9 @@ function sofcItem(it){
   const srcHtml=srcs.length
     ?`<div class="sofc-item-sources">${srcs.map(s=>s.url?`<a href="${esc(s.url)}" target="_blank" class="source-link">↗ ${esc(s.title)}</a>`:`<span class="source-link">${esc(s.title)}</span>`).join('')}</div>`
     :'';
-  return `<div class="sofc-item">${esc(it.text)}${srcHtml}</div>`;
+  const imgHtml=it.url?`<img class="sofc-item-img" data-link="${esc(it.url)}" src="" alt="">`:'';
+  return `<div class="sofc-item" style="${it.url?'display:flex;gap:9px;align-items:flex-start':''}">
+    ${imgHtml}<div>${esc(it.text)}${srcHtml}</div></div>`;
 }
 function renderSOFC(d){
   let h='';
@@ -344,11 +348,12 @@ function renderSOFC(d){
   (d.topSignals||[]).forEach(s=>{
     h+=`<div class="signal-card">
       <div class="signal-n">${s.n}</div>
-      <div>
+      <div style="flex:1">
         <div class="signal-title">${esc(s.title)}</div>
         <div class="signal-text">${esc(s.text)}</div>
         ${s.url?`<div class="signal-sources"><a href="${esc(s.url)}" target="_blank" class="source-link">↗ Source</a></div>`:''}
       </div>
+      ${s.url?`<img class="signal-card-img" data-link="${esc(s.url)}" src="" alt="">`:''}
     </div>`;
   });
   h+=`<div class="sec-divider"></div><div class="sec-hdr">Sections</div>`;
@@ -372,6 +377,23 @@ function renderSOFC(d){
     </div>`;
   }
   document.getElementById('tab-sofc').innerHTML=h;
+  // Lazy-load og:image thumbnails for SOFC items
+  const sofcObs=new IntersectionObserver((entries,ob)=>{
+    entries.forEach(e=>{
+      if(!e.isIntersecting)return;
+      ob.unobserve(e.target);
+      const link=e.target.dataset.link;
+      if(!link)return;
+      fetch('https://corsproxy.io/?'+encodeURIComponent(link))
+        .then(r=>r.text())
+        .then(html=>{
+          const m=html.match(/property="og:image"\s+content="([^"]+)"/)
+                 ||html.match(/content="([^"]+)"\s+property="og:image"/);
+          if(m?.[1])e.target.src=m[1];
+        }).catch(()=>{});
+    });
+  },{rootMargin:'300px'});
+  document.querySelectorAll('.signal-card-img,.sofc-item-img').forEach(img=>sofcObs.observe(img));
 }
 
 // ── RENDER: ECONOMIST ─────────────────────────────────────────────────────────
