@@ -3,19 +3,19 @@
   "topSignals": [
     {
       "title": "Bloom Energy Q1 2026: Revenue +130% YoY, FY guidance raised to $3.4–3.8B",
-      "text": "— Q1 revenue $751M (product revenue +208% YoY); non-GAAP gross margin 31.5%; adjusted EBITDA $143M; operating cash flow $73.6M. Full-year guidance implies ~80% YoY growth at midpoint. (Bloom Energy Q1 2026 Earnings Call, April 28)",
+      "text": "— Q1 revenue $751M (product revenue +208% YoY); non-GAAP gross margin 31.5%; adjusted EBITDA $143M; operating cash flow $73.6M. Full-year guidance implies ~80% YoY growth at midpoint.",
       "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-and-Oracle-Expand-Strategic-Partnership-to-Deploy-up-to-2-8-GW-to-Accelerate-AI-Infrastructure-Build-Out/default.aspx",
       "n": 1
     },
     {
       "title": "Oracle Project Jupiter: 2.45 GW Bloom fuel cell campus in New Mexico",
-      "text": "— Oracle, BorderPlex Digital Assets, and Bloom Energy confirmed Project Jupiter will run entirely on Bloom fuel cells, replacing previously planned gas turbines and diesel generators. Single largest announced fuel cell data center installation globally. Initial 1.2 GW contracted; full 2.45 GW targeting 2027 completion. (Oracle Press Release, April 27)",
+      "text": "— Oracle, BorderPlex Digital Assets, and Bloom Energy confirmed Project Jupiter will run entirely on Bloom fuel cells, replacing previously planned gas turbines and diesel generators. Single largest announced fuel cell data center installation globally. Initial 1.2 GW contracted; full 2.45 GW targeting 2027 completion.",
       "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/",
       "n": 2
     },
     {
       "title": "FuelCell Energy exits SOFC market, takes $64.5M impairment; launches 12.5 MW MCFC data center power block",
-      "text": "— Strategic pivot away from solid oxide technology; FCEL stock fell ~10% in early June on the news (trading ~$22). Company redirects focus to molten carbonate fuel cells and new packaged 12.5 MW utility-grade power block product targeting data centers. (FuelCell Energy press release)",
+      "text": "— Strategic pivot away from solid oxide technology; FCEL stock fell ~10% in early June on the news (trading ~$22). Company redirects focus to molten carbonate fuel cells and new packaged 12.5 MW utility-grade power block product targeting data centers.",
       "url": "https://investor.fce.com/press-releases/press-release-details/2026/FuelCell-Energy-Scales-Up-for-Data-Centers-with-Packaged-12-5-MW-UtilityGrade-Power-Block-Solution-and-Manufacturing-Expansion-Plans/default.aspx",
       "n": 3
     }
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Ceres Power new 10.8 kW solid oxide stack — Unveiled for data center on-site power and green hydrogen production, positioned as modular buildingblock for large installations. Centrica partnership (signed March 2026) explores natural-gas-fuelled SOFC for European data centres and industrial sites. (Gasworld)",
+          "text": "Ceres Power new 10.8 kW solid oxide stack — Unveiled for data center on-site power and green hydrogen production, positioned as modular buildingblock for large installations. Centrica partnership (signed March 2026) explores natural-gas-fuelled SOFC for European data centres and industrial sites.",
           "url": "https://www.gasworld.com/story/ceres-unveils-new-solid-oxide-stack-for-power-generation-and-hydrogen-production/2246526.article/",
           "sources": [
             {
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "text": "Elcogen factory output — Tallinn factory (opened Sept 2025) reporting degradation <0.3%/1,000 h via gadolinium-doped ceria layers; 10-year warranties becoming market differentiator. (Elcogen)",
+          "text": "Elcogen factory output — Tallinn factory (opened Sept 2025) reporting degradation <0.3%/1,000 h via gadolinium-doped ceria layers; 10-year warranties becoming market differentiator.",
           "url": "https://elcogen.com/",
           "sources": [
             {
@@ -60,7 +60,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Oracle + Bloom 2.8 GW strategic partnership (April 13–27) — 1.2 GW contracted, deployment underway through 2027; Project Jupiter (New Mexico) is anchor deployment at 2.45 GW. Bloom stock +22% on announcement day. (DCD)",
+          "text": "Oracle + Bloom 2.8 GW strategic partnership (April 13–27) — 1.2 GW contracted, deployment underway through 2027; Project Jupiter (New Mexico) is anchor deployment at 2.45 GW. Bloom stock +22% on announcement day.",
           "url": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-up-to-245gw-of-bloom-fuel-cells-at-new-mexico-data-center/",
           "sources": [
             {
@@ -85,7 +85,7 @@
           "sources": []
         },
         {
-          "text": "FuelCell Energy + SDCL: 450 MW pipeline — January 2026 strategic partnership to jointly develop up to 450 MW of fuel cell power systems for data centers. (EnkiAI)",
+          "text": "FuelCell Energy + SDCL: 450 MW pipeline — January 2026 strategic partnership to jointly develop up to 450 MW of fuel cell power systems for data centers.",
           "url": "https://enkiai.com/fuel-cell/fuel-cell-energy-data-center/",
           "sources": [
             {
@@ -115,7 +115,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Gas turbine capex still elevated — Construction costs up ~66% over two years (material/labour inflation from data center demand surge); delays in large gas turbine orders continue to benefit SOFC competitiveness on installed cost per kW. (TechCrunch)",
+          "text": "Gas turbine capex still elevated — Construction costs up ~66% over two years (material/labour inflation from data center demand surge); delays in large gas turbine orders continue to benefit SOFC competitiveness on installed cost per kW.",
           "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
           "sources": [
             {
@@ -135,7 +135,7 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Q1 2026 revenue $751M (+130% YoY), FY guidance $3.4–3.8B. Non-GAAP EPS guidance $1.85–$2.25. Stock surged ~22% on Oracle deal (April 14). (Investing.com)",
+          "text": "Bloom Energy (BE): Q1 2026 revenue $751M (+130% YoY), FY guidance $3.4–3.8B. Non-GAAP EPS guidance $1.85–$2.25. Stock surged ~22% on Oracle deal (April 14).",
           "url": "https://www.investing.com/news/company-news/bloom-energy-q1-2026-slides-revenue-surges-130-guidance-raised-93CH-4643316",
           "sources": [
             {
@@ -145,7 +145,7 @@
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL): Stock down ~10% in early June to ~$22; Q4 FY2025 revenue $55M (+12% YoY); backlog $1.24B; cash $278M. SOFC exit weighing on sentiment. (247WallSt)",
+          "text": "FuelCell Energy (FCEL): Stock down ~10% in early June to ~$22; Q4 FY2025 revenue $55M (+12% YoY); backlog $1.24B; cash $278M. SOFC exit weighing on sentiment.",
           "url": "https://247wallst.com/investing/2026/06/03/fuelcell-energy-plunges-10-plug-power-falls-6-in-fuel-cell-rout-as-bloom-energy-slips/",
           "sources": [
             {
@@ -177,5 +177,41 @@
       ]
     }
   ],
-  "lcoe": []
+  "lcoe": [
+    {
+      "text": "CAPEX 2025–2026 (unsubsidized): $6,639–$7,224/kW (~$6.6–7.2M/MW) before incentives.",
+      "url": "https://introl.com/blog/fuel-cells-data-center-power-dark-horse-7-billion",
+      "sources": [
+        {
+          "title": "Introl",
+          "url": "https://introl.com/blog/fuel-cells-data-center-power-dark-horse-7-billion"
+        }
+      ]
+    },
+    {
+      "text": "LCOE at current NG prices (~$3.34/MMBtu): Bottom of the $130–205/MWh range applies (~$130/MWh unsubsidized, lower with ITC 48E). CHP-adjusted (with heat credit) can reach $120/MWh.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Fuel cell data center market size 2026: $361M; forecast $1.19B by 2033 (CAGR 18.6%).",
+      "url": "https://www.persistencemarketresearch.com/market-research/fuel-cell-for-data-center-market.asp",
+      "sources": [
+        {
+          "title": "Persistence MR",
+          "url": "https://www.persistencemarketresearch.com/market-research/fuel-cell-for-data-center-market.asp"
+        }
+      ]
+    },
+    {
+      "text": "FuelCell Energy 12.5 MW block: packaged product; capex/MW economics TBD but targeting utility-grade cost competitiveness.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Manufacturing scale-up: Bloom doubling to 2 GW/yr; FCEL expanding CT plant from ~100 to 350 MW — both should pressure $/kW downward through 2026–2027.",
+      "url": "",
+      "sources": []
+    }
+  ]
 }
