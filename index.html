@@ -151,6 +151,21 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .eco-article-title a:hover{color:#e03434}
 .eco-article-desc{font-size:12px;color:#7a90b0;line-height:1.45}
 
+
+/* COMPACT STORY LIST — Economist-style flat rows (AI + SOFC signals) */
+.cmp-list{background:#161b27;border:1px solid #1e2536;border-radius:10px;padding:0 18px;margin-bottom:16px}
+.cmp-item{padding:9px 0;border-bottom:1px solid #1a2030;cursor:pointer;user-select:none;transition:background .15s}
+.cmp-item:last-child{border-bottom:none}
+.cmp-item:hover .cmp-title{color:#f8fafc}
+.cmp-item-hdr{display:flex;justify-content:space-between;align-items:baseline;gap:6px;margin-bottom:2px}
+.cmp-cat{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#4f7ef8}
+.cmp-num{font-size:10px;color:#4a5568;flex-shrink:0}
+.cmp-title{font-size:13px;font-weight:600;color:#e2e8f0;line-height:1.35;margin-bottom:2px;transition:color .15s}
+.cmp-title .hl{color:#f59e0b}
+.cmp-abstract{font-size:12px;color:#7a90b0;line-height:1.45}
+.cmp-expand{display:none;padding-top:10px;margin-top:8px;border-top:1px solid #1a2030}
+.cmp-item.open .cmp-abstract{display:none}
+.cmp-item.open .cmp-expand{display:block}
 @media(max-width:480px){
   .headline-title{font-size:17px}
   .bullet{flex-direction:column;gap:3px}
@@ -236,26 +251,26 @@ function renderAI(d){
     <div class="headline-summary">${esc(d.headline.summary)}</div>
     <div class="story-count">${d.stories.length} stories</div>
   </div>`;
-  h+=`<div class="sec-hdr">Stories</div>`;
+  h+=`<div class="cmp-list">`;
   (d.stories||[]).forEach((s,i)=>{
-    h+=`<div class="story" id="s${i}">
-      <div class="story-hdr" onclick="toggle(document.getElementById('s${i}'))">
-        <div class="story-num">${esc(s.number)}</div>
-        <div class="story-meta">
-          <div class="story-cat">${esc(s.category)}</div>
-          <div class="story-title">${hl(s.title,s.highlight_phrase)}</div>
-          <div class="story-toc">${esc(s.toc_summary)}</div>
-        </div>
-        <div class="story-chevron">▼</div>
-      </div>
-      <div class="story-body">
-        <div class="story-qt">${esc(s.quick_take)}</div>
-        <ul class="bullets">${(s.bullets||[]).map(b=>`<li class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></li>`).join('')}</ul>
-        ${s.callout?`<div class="callout ${esc(s.callout.type)}"><div class="callout-label">${esc(s.callout.label)}</div><div class="callout-text">${esc(s.callout.text)}</div></div>`:''}
-        <div class="sources">${(s.sources||[]).map(src=>src.url?`<a href="${esc(src.url)}" target="_blank" class="source-link">↗ ${esc(src.title)}</a>`:`<span class="source-link">${esc(src.title)}</span>`).join('')}</div>
+    const srcHtml=(s.sources||[]).map(src=>src.url
+      ?`<a href="${esc(src.url)}" target="_blank" class="source-link">↗ ${esc(src.title)}</a>`
+      :`<span class="source-link">${esc(src.title)}</span>`).join('');
+    const bulletsHtml=(s.bullets||[]).map(b=>`<li class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></li>`).join('');
+    const calloutHtml=s.callout?`<div class="callout ${esc(s.callout.type)}"><div class="callout-label">${esc(s.callout.label)}</div><div class="callout-text">${esc(s.callout.text)}</div></div>`:'';
+    h+=`<div class="cmp-item" id="s${i}" onclick="toggle(this)">
+      <div class="cmp-item-hdr"><div class="cmp-cat">${esc(s.category)}</div><div class="cmp-num">${esc(s.number)}</div></div>
+      <div class="cmp-title">${hl(s.title,s.highlight_phrase)}</div>
+      ${s.toc_summary?`<div class="cmp-abstract">${esc(s.toc_summary)}</div>`:''}
+      <div class="cmp-expand">
+        ${s.quick_take?`<div class="story-qt">${esc(s.quick_take)}</div>`:''}
+        ${bulletsHtml?`<ul class="bullets">${bulletsHtml}</ul>`:''}
+        ${calloutHtml}
+        ${srcHtml?`<div class="sources">${srcHtml}</div>`:''}
       </div>
     </div>`;
   });
+  h+=`</div>`;
   const ed=d.editorial||{};
   if(ed.title){
     h+=`<div class="sec-divider"></div>
@@ -346,17 +361,21 @@ function sofcItem(it){
 function renderSOFC(d){
   let h='';
   h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}</div>`;
-  (d.topSignals||[]).forEach(s=>{
-    h+=`<div class="signal-card">
-      <div class="signal-n">${s.n}</div>
-      <div style="flex:1">
-        <div class="signal-title">${esc(s.title)}</div>
-        <div class="signal-text">${esc(s.text)}</div>
+  h+=`<div class="cmp-list">`;
+  (d.topSignals||[]).forEach((s,i)=>{
+    const abstract=s.text.length>130?s.text.slice(0,130).replace(/\s\w+$/,'')+'…':s.text;
+    h+=`<div class="cmp-item" id="sig${i}" onclick="toggle(this)">
+      <div class="cmp-item-hdr"><div class="cmp-cat">Signal</div><div class="cmp-num">${s.n}</div></div>
+      <div class="cmp-title">${esc(s.title)}</div>
+      <div class="cmp-abstract">${esc(abstract)}</div>
+      <div class="cmp-expand">
+        <div style="font-size:13px;color:#c0cce4;line-height:1.6;margin-bottom:8px">${esc(s.text)}</div>
         ${s.url?`<div class="signal-sources"><a href="${esc(s.url)}" target="_blank" class="source-link">↗ Source</a></div>`:''}
+        ${s.url?`<img class="signal-card-img" data-link="${esc(s.url)}" src="" alt="">`:''  }
       </div>
-      ${s.url?`<img class="signal-card-img" data-link="${esc(s.url)}" src="" alt="">`:''}
     </div>`;
   });
+  h+=`</div>`;
   h+=`<div class="sec-divider"></div><div class="sec-hdr">Sections</div>`;
   (d.sections||[]).forEach((sec,i)=>{
     const firstItem=sec.items[0];
