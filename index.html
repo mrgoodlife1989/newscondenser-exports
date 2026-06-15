@@ -137,14 +137,16 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .eco-links{background:#161b27;border:1px solid #1e2536;border-radius:10px;padding:18px}
 .eco-link-item{display:block;padding:9px 0;border-bottom:1px solid #1a2030;font-size:14px;color:#c0cce4}
 .eco-link-item:last-child{border-bottom:none}
-.eco-article{padding:13px 0;border-bottom:1px solid #1a2030}
+.eco-article{display:flex;gap:10px;padding:7px 0;border-bottom:1px solid #1a2030;align-items:flex-start}
 .eco-article:last-child{border-bottom:none}
-.eco-article-section{font-size:10px;font-weight:700;color:#e03434;text-transform:uppercase;letter-spacing:.08em;margin-bottom:4px}
-.eco-article-title{font-size:14px;font-weight:600;color:#e2e8f0;line-height:1.4;margin-bottom:5px}
+.eco-thumb{width:76px;height:50px;object-fit:cover;border-radius:4px;flex-shrink:0;background:#1a2030;display:block}
+.eco-article-body{flex:1;min-width:0}
+.eco-article-section{font-size:10px;font-weight:700;color:#e03434;text-transform:uppercase;letter-spacing:.08em;margin-bottom:2px}
+.eco-article-title{font-size:13px;font-weight:600;color:#e2e8f0;line-height:1.35;margin-bottom:2px}
 .eco-article-title a{color:inherit;text-decoration:none}
 .eco-article-title a:hover{color:#e03434}
-.eco-article-desc{font-size:12px;color:#7a90b0;line-height:1.6}
-.eco-article-meta{font-size:11px;color:#4a5568;margin-top:4px}
+.eco-article-desc{font-size:12px;color:#7a90b0;line-height:1.45}
+.eco-article-meta{font-size:11px;color:#4a5568;margin-top:2px}
 
 @media(max-width:480px){
   .headline-title{font-size:17px}
@@ -407,14 +409,34 @@ function renderEconomist(){
       const raw=it.description||it.content||'';
       const desc=raw.replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim().slice(0,200);
       h+=`<div class="eco-article">
-        <div class="eco-article-section">${esc(it._sec)}</div>
-        <div class="eco-article-title"><a href="${esc(it.link)}" target="_blank">${esc(it.title)}</a></div>
-        ${desc?`<div class="eco-article-desc">${esc(desc)}${desc.length>=200?'…':''}</div>`:''}
-        ${date?`<div class="eco-article-meta">${date}</div>`:''}
+        <img class="eco-thumb" data-link="${esc(it.link)}" src="" alt="">
+        <div class="eco-article-body">
+          <div class="eco-article-section">${esc(it._sec)}</div>
+          <div class="eco-article-title"><a href="${esc(it.link)}" target="_blank">${esc(it.title)}</a></div>
+          ${desc?`<div class="eco-article-desc">${esc(desc)}${desc.length>=200?'…':''}</div>`:''}
+          ${date?`<div class="eco-article-meta">${date}</div>`:''}
+        </div>
       </div>`;
     });
     h+=`</div>`;
     panel.innerHTML=h;
+    // Lazy-load og:image for each article via corsproxy
+    const imgObs=new IntersectionObserver((entries,ob)=>{
+      entries.forEach(e=>{
+        if(!e.isIntersecting)return;
+        ob.unobserve(e.target);
+        const link=e.target.dataset.link;
+        if(!link)return;
+        fetch('https://corsproxy.io/?'+encodeURIComponent(link))
+          .then(r=>r.text())
+          .then(html=>{
+            const m=html.match(/property="og:image"\s+content="([^"]+)"/)
+                   ||html.match(/content="([^"]+)"\s+property="og:image"/);
+            if(m?.[1])e.target.src=m[1];
+          }).catch(()=>{});
+      });
+    },{rootMargin:'400px'});
+    panel.querySelectorAll('.eco-thumb').forEach(img=>imgObs.observe(img));
   });
 }
 
