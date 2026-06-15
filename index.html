@@ -375,8 +375,9 @@ function renderSOFC(d){
 // ── RENDER: ECONOMIST ─────────────────────────────────────────────────────────
 function renderEconomist(){
   const panel=document.getElementById('tab-economist');
-  panel.innerHTML='<div class="loading">Loading The Economist…</div>';
-  const PROXY='https://api.rss2json.com/v1/api.json?count=6&rss_url=';
+  panel.innerHTML='<div class="loading"><div class="spinner"></div><div>Loading…</div></div>';
+  // allorigins.win: CORS proxy that returns {contents: rawXML}
+  const PROXY='https://api.allorigins.win/get?url=';
   const feeds=[
     {url:'https://www.economist.com/leaders/rss.xml',label:'Leaders'},
     {url:'https://www.economist.com/business/rss.xml',label:'Business'},
@@ -385,14 +386,31 @@ function renderEconomist(){
     {url:'https://www.economist.com/science-and-technology/rss.xml',label:'Science & Tech'},
     {url:'https://www.economist.com/international/rss.xml',label:'International'},
   ];
+  function parseRSS(xmlText, label){
+    try{
+      const doc=new DOMParser().parseFromString(xmlText,'text/xml');
+      // get text of a child element, handles CDATA
+      const txt=el=>el?el.textContent||'':'';
+      return Array.from(doc.querySelectorAll('item')).slice(0,6).map(it=>({
+        title:txt(it.querySelector('title')),
+        link:txt(it.querySelector('link')),
+        description:txt(it.querySelector('description')),
+        pubDate:txt(it.querySelector('pubDate')),
+        _sec:label
+      }));
+    }catch(e){return [];}
+  }
   Promise.all(feeds.map(f=>
     fetch(PROXY+encodeURIComponent(f.url),{cache:'no-store'})
       .then(r=>r.json())
-      .then(d=>(d.items||[]).map(it=>({...it,_sec:f.label})))
+      .then(data=>parseRSS(data.contents||'',f.label))
       .catch(()=>[])
   )).then(results=>{
     const all=results.flat().sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate));
-    if(!all.length){panel.innerHTML='<div class="empty">RSS unavailable — <a href="https://www.economist.com" target="_blank" style="color:#e03434">open economist.com</a></div>';return;}
+    if(!all.length){
+      panel.innerHTML='<div class="error-box">RSS unavailable — <a href="https://www.economist.com" target="_blank" style="color:#e03434">open economist.com ↗</a></div>';
+      return;
+    }
     let h=`<div style="padding:0 0 10px;display:flex;justify-content:space-between;align-items:center">
       <span class="sec-hdr" style="margin-bottom:0">The Economist</span>
       <a href="https://www.economist.com" target="_blank" style="font-size:11px;color:#e03434;text-decoration:none">economist.com ↗</a>
@@ -400,7 +418,7 @@ function renderEconomist(){
     h+=`<div style="background:#161b27;border:1px solid #1e2536;border-radius:10px;padding:0 18px">`;
     all.forEach(it=>{
       const date=it.pubDate?new Date(it.pubDate).toLocaleDateString('en',{month:'short',day:'numeric'}):'';
-      const raw=it.description||it.content||'';
+      const raw=it.description||'';
       const desc=raw.replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim().slice(0,200);
       h+=`<div class="eco-article">
         <div class="eco-article-section">${esc(it._sec)}</div>
