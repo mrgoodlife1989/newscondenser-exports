@@ -1,71 +1,30 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 12 Jun 2026",
+    "title": "Beating Beta — 2026-06-15",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: All-Star Consensus on today's market moves.",
-      "highlight_phrase": "All-Star Consensus",
-      "toc_summary": "Today's guru pair: All-Star Consensus. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\nStance: 🐻 Selektiv bearish\nMacro: $381B Cash — wartet auf echten Einbruch. Zinsdruck + Geopolitik sprechen für Geduld.\nBullish: KO, AXP, OXY\n\n⚡ Stanley Druckenmiller\nStance: 🐂 Bullish AI-Cycle\nMacro: AI-Infrastruktur-Superzyklus intakt. Geopolitik-Entspannung schiebt Cyclicals.\nBullish: AMZN, META, GOOGL, TSM, Cyclicals\n\n🌊 Ray Dalio\nStance: 🛡 Defensiv\nMacro: KI-Blase-Warnung. PPI +6.5% YoY rechtfertigt Gold-Exposure.\nBullish: Gold, non-US Equities, Bonds\n\n🐻 Michael Burry\nStance: 🔴 Short-heavy\nMacro: Short PLTR ($912M Puts), Short NVDA ($186M Puts). Contra-positioniert vs. Hype.\nLong: EL, LULU, REGN",
-      "bullets": [
-        {
-          "label": "Warren Buffett",
-          "text": "Stance: 🐻 Selektiv bearish · Macro: $381B Cash — wartet auf echten Einbruch. Zinsdruck + Geopolitik sprechen für Geduld."
-        },
-        {
-          "label": "Stanley Druckenmiller",
-          "text": "Stance: 🐂 Bullish AI-Cycle · Macro: AI-Infrastruktur-Superzyklus intakt. Geopolitik-Entspannung schiebt Cyclicals."
-        },
-        {
-          "label": "Ray Dalio",
-          "text": "Stance: 🛡 Defensiv · Macro: KI-Blase-Warnung. PPI +6.5% YoY rechtfertigt Gold-Exposure."
-        },
-        {
-          "label": "Michael Burry",
-          "text": "Stance: 🔴 Short-heavy · Macro: Short PLTR ($912M Puts), Short NVDA ($186M Puts). Contra-positioniert vs. Hype."
-        },
-        {
-          "label": "Cathie Wood",
-          "text": "Stance: 🚀 Ultra-bullish · Macro: AI erschliesst $13T Markt. SpaceX-IPO morgen = Innovationssentiment-Boost."
-        },
-        {
-          "label": "Bill Ackman",
-          "text": "Stance: 🐂 Quality-Compounder · Macro: 40% Portfolio in GOOGL+AMZN+META. Qualitaets-Compounding in unsicherem Makro."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 12 Jun 2026",
+      "title": "Markets Snapshot — 2026-06-15",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.431,46 · Nasdaq 29.635,95 · VIX 17,68 · 10Y 4,49% · Gold $4.355,70 · Oil $80,11 · BTC $65.424,72 · F&G N/A",
+      "quick_take": "S&P 500: 7.431,46\nNasdaq: 29.635,95\nVIX: 17,68 · 10Y: 4,49%\nGold: $4.355,70 · Oil: $80,11\nBitcoin: $65.424,72\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
+          "text": "S&P 500 7.431,46 · Nasdaq 29.635,95"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
+          "text": "10Y 4,49% · VIX 17,68"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+          "text": "Gold $4.355,70 · WTI $80,11 · BTC $65.424,72"
         },
         {
           "label": "Sentiment",
@@ -83,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Trump bricht Iran-Angriff ab",
-      "highlight_phrase": "Trump bricht Iran-Angriff ab",
-      "toc_summary": "Trump bricht Iran-Angriff ab",
-      "quick_take": "US-Maerkte explodieren: S&P +1.75%, Nasdaq +2.54%, Dow +930 Pkte in einer Session",
+      "title": "US-Aktienfutures steigen, Öl fällt",
+      "highlight_phrase": "US-Aktienfutures steigen, Öl fällt",
+      "toc_summary": "US-Aktienfutures steigen, Öl fällt",
+      "quick_take": "Trump verkündet Friedensabkommen mit Iran",
       "bullets": [
         {
           "label": "Detail",
-          "text": "US-Maerkte explodieren: S&P +1.75%, Nasdaq +2.54%, Dow +930 Pkte in einer Session"
+          "text": "Trump verkündet Friedensabkommen mit Iran"
         }
       ],
       "callout": null,
@@ -104,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Q1 Earnings historisch stark: Marge 14.8% (Rekord seit 2009), Wachstum +28.6%",
-      "highlight_phrase": "Q1 Earnings historisch stark: Marge 14.8",
-      "toc_summary": "Q1 Earnings historisch stark: Marge 14.8% (Rekord seit 2009), Wachstum +28.6%",
-      "quick_take": "doppelt so hoch wie erwartet",
+      "title": "Kevin Warsh vor erster Fed-Sitzung",
+      "highlight_phrase": "Kevin Warsh vor erster Fed-Sitzung",
+      "toc_summary": "Kevin Warsh vor erster Fed-Sitzung",
+      "quick_take": "Ökonomen rätseln über seinen Kurs",
       "bullets": [
         {
           "label": "Detail",
-          "text": "doppelt so hoch wie erwartet"
+          "text": "Ökonomen rätseln über seinen Kurs"
         }
       ],
       "callout": null,
@@ -125,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Semiconductor-Sektor feiert",
-      "highlight_phrase": "Semiconductor-Sektor feiert",
-      "toc_summary": "Semiconductor-Sektor feiert",
-      "quick_take": "AMD +8%, Micron +11%, Lam Research +12.7%, Intel +10% nach BofA-Upgrade",
+      "title": "Renten-Event: Versprechen von \"Überrendite\" durch Annuitäten",
+      "highlight_phrase": "Renten-Event: Versprechen von \"Überrendi",
+      "toc_summary": "Renten-Event: Versprechen von \"Überrendite\" durch Annuitäten",
+      "quick_take": "zu gut, um wahr zu sein?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "AMD +8%, Micron +11%, Lam Research +12.7%, Intel +10% nach BofA-Upgrade"
+          "text": "zu gut, um wahr zu sein?"
         }
       ],
       "callout": null,
@@ -146,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "SpaceX-IPO morgen (13. Jun) erwartet",
-      "highlight_phrase": "SpaceX-IPO morgen (13. Jun) erwartet",
-      "toc_summary": "SpaceX-IPO morgen (13. Jun) erwartet",
-      "quick_take": "Innovationssentiment im Tech-Sektor zuendet",
+      "title": "Pimco warnt",
+      "highlight_phrase": "Pimco warnt",
+      "toc_summary": "Pimco warnt",
+      "quick_take": "Zahlungsausfälle in Schuldenmärkten nehmen wieder zu",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Innovationssentiment im Tech-Sektor zuendet"
+          "text": "Zahlungsausfälle in Schuldenmärkten nehmen wieder zu"
         }
       ],
       "callout": null,
@@ -167,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "PPI +6.5% YoY: Wholesale-Inflation auf hoechstem Stand seit Ende 2022",
-      "highlight_phrase": "PPI +6.5% YoY: Wholesale-Inflation auf h",
-      "toc_summary": "PPI +6.5% YoY: Wholesale-Inflation auf hoechstem Stand seit Ende 2022",
-      "quick_take": "ECB erstmals seit 2023 mit Zinserhöhung",
+      "title": "Charlie Javice sucht angeblich Begnadigung durch Trump",
+      "highlight_phrase": "Charlie Javice sucht angeblich Begnadigu",
+      "toc_summary": "Charlie Javice sucht angeblich Begnadigung durch Trump",
+      "quick_take": "Charlie Javice sucht angeblich Begnadigung durch Trump",
       "bullets": [
         {
           "label": "Detail",
-          "text": "ECB erstmals seit 2023 mit Zinserhöhung"
+          "text": "Charlie Javice sucht angeblich Begnadigung durch Trump"
         }
       ],
       "callout": null,
@@ -188,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "NVDA: 74 Buy / 1 Hold Ratings, Analyst-Ziel $305, aktuell $205",
-      "highlight_phrase": "NVDA: 74 Buy / 1 Hold Ratings, Analyst-Z",
-      "toc_summary": "NVDA: 74 Buy / 1 Hold Ratings, Analyst-Ziel $305, aktuell $205",
-      "quick_take": "48% Upside laut Wall Street\n\n━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "title": "JPMorgan",
+      "highlight_phrase": "JPMorgan",
+      "toc_summary": "JPMorgan",
+      "quick_take": "Diese chinesische Konsumaktie könnte sich bei globaler Industrie-Wende verdoppeln",
       "bullets": [
         {
           "label": "Detail",
-          "text": "48% Upside laut Wall Street\n\n━━━━━━━━━━━━━━━━━━━━━━━━━"
+          "text": "Diese chinesische Konsumaktie könnte sich bei globaler Industrie-Wende verdoppeln"
         }
       ],
       "callout": null,
