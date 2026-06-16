@@ -166,6 +166,16 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .cmp-expand{display:none;padding-top:10px;margin-top:8px;border-top:1px solid #1a2030}
 .cmp-item.open .cmp-abstract{display:none}
 .cmp-item.open .cmp-expand{display:block}
+
+/* STALENESS BADGES */
+.badge{display:inline-block;font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px;margin-left:8px;vertical-align:middle;letter-spacing:.04em}
+.badge.fresh{background:#0d2818;color:#22c55e;border:1px solid #22c55e}
+.badge.stale1{background:#2a1e0e;color:#f59e0b;border:1px solid #f59e0b}
+.badge.stale{background:#2a1010;color:#ef4444;border:1px solid #ef4444}
+/* TAB TOOLBAR */
+.tab-toolbar{display:flex;justify-content:flex-end;margin-bottom:8px}
+.expand-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:11px;padding:4px 10px;cursor:pointer;transition:all .2s}
+.expand-btn:hover{color:#c0cce4;border-color:#3d4f6e}
 @media(max-width:480px){
   .headline-title{font-size:17px}
   .bullet{flex-direction:column;gap:3px}
@@ -204,15 +214,15 @@ const RAW = 'https://raw.githubusercontent.com/mrgoodlife1989/newscondenser-expo
 
 // ── REFRESH STATE ─────────────────────────────────────────────────────────────
 const TODAY_KEY = new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD local date
-function getLastRefresh(){ try{ return localStorage.getItem('lastRefreshDate'); }catch(e){ return null; } }
-function setLastRefresh(){ try{ localStorage.setItem('lastRefreshDate',TODAY_KEY); }catch(e){} }
+function getLastRefresh(){ try{ return localStorage.getItem('lastRefreshTs'); }catch(e){ return null; } }
+function setLastRefresh(){ try{ localStorage.setItem('lastRefreshTs',Date.now().toString()); }catch(e){} }
 function updateRefreshBtn(){
   const btn=document.getElementById('refresh-btn');
   if(!btn) return;
-  const done=getLastRefresh()===TODAY_KEY;
-  btn.disabled=done;
-  btn.classList.toggle('ready',!done);
-  btn.title=done?'Already refreshed today — come back tomorrow':'Refresh all tabs';
+  const ts=getLastRefresh();
+  if(ts){ const ago=Math.round((Date.now()-parseInt(ts))/60000); btn.title=ago<1?'Just refreshed':`Last refreshed ${ago}m ago`; }
+  else btn.title='Refresh all tabs';
+  btn.disabled=false; btn.classList.add('ready');
 }
 async function manualRefresh(){
   // Clear SW cache for data files so network is always hit
@@ -230,13 +240,45 @@ async function manualRefresh(){
 function esc(s){
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
+function staleBadge(dateStr){
+  if(!dateStr) return '';
+  const d=new Date(dateStr+'T00:00:00');
+  const today=new Date(); today.setHours(0,0,0,0);
+  const diff=Math.floor((today-d)/86400000);
+  if(diff<=0) return '<span class="badge fresh">Today</span>';
+  if(diff===1) return '<span class="badge stale1">Yesterday</span>';
+  return `<span class="badge stale">${diff}d ago</span>`;
+}
+function setThumbFallback(img){
+  img.style.background='linear-gradient(135deg,#1e2a42 0%,#252d3d 100%)';
+  img.removeAttribute('src');
+}
+function toggleAll(tabId){
+  const items=[...document.querySelectorAll(`#${tabId} .cmp-item,#${tabId} .story,#${tabId} .sofc-section,#${tabId} .editorial`)];
+  const anyOpen=items.some(el=>el.classList.contains('open'));
+  items.forEach(el=>el.classList[anyOpen?'remove':'add']('open'));
+  const btn=document.querySelector(`#${tabId} .expand-btn`);
+  if(btn) btn.textContent=anyOpen?'Expand all':'Collapse all';
+}
 function hl(text, phrase){
   if(!phrase) return esc(text);
   const idx = String(text).toLowerCase().indexOf(String(phrase).toLowerCase());
   if(idx===-1) return esc(text);
   return esc(text.slice(0,idx))+'<span class="hl">'+esc(text.slice(idx,idx+phrase.length))+'</span>'+esc(text.slice(idx+phrase.length));
 }
-function toggle(el){ el.classList.toggle('open'); }
+function toggle(el){
+  el.classList.toggle('open');
+  if(el.classList.contains('open')){
+    setTimeout(()=>el.scrollIntoView({behavior:'smooth',block:'nearest'}),80);
+  }
+  const id=el.id||'';
+  if(id.startsWith('sofc')||id.startsWith('sig')){
+    try{
+      const open=[...document.querySelectorAll('#tab-sofc .sofc-section.open,#tab-sofc .cmp-item.open')].map(e=>e.id).filter(Boolean);
+      localStorage.setItem('sofc_open',JSON.stringify(open));
+    }catch(e){}
+  }
+}
 function loading(id){ document.getElementById(id).innerHTML='<div class="loading"><div class="spinner"></div><div>Loading…</div></div>'; }
 function showErr(id, msg, url){
   document.getElementById(id).innerHTML=`<div class="error-box">⚠ ${esc(msg)}${url?` <a href="${esc(url)}" target="_blank">Check source →</a>`:''}. <br><br>If you're offline, the last cached version may appear after reload.</div>`;
@@ -249,8 +291,9 @@ function renderAI(d){
     <div class="headline-label">${esc(d.headline.category_label)}</div>
     <div class="headline-title">${hl(d.headline.title,d.headline.highlight_phrase)}</div>
     <div class="headline-summary">${esc(d.headline.summary)}</div>
-    <div class="story-count">${d.stories.length} stories</div>
+    <div class="story-count">${d.stories.length} stories${staleBadge(d.date||d.generated_date||'')}</div>
   </div>`;
+  h+=`<div class="tab-toolbar"><button class="expand-btn" onclick="toggleAll('tab-ai')">Expand all</button></div>`;
   h+=`<div class="cmp-list">`;
   (d.stories||[]).forEach((s,i)=>{
     const srcHtml=(s.sources||[]).map(src=>src.url
@@ -293,9 +336,8 @@ function renderAI(d){
 function renderFinance(raw){
   const title=(raw.headline&&raw.headline.title)||'Finance Brief';
   const stories=raw.stories||[];
-  let h=`<div class="stale-badge">📊 ${esc(title)}</div>`;
+  let h=`<div class="stale-badge">📊 ${esc(title)}${staleBadge(raw.date)}</div>`;
 
-  // Story 02 = markets: extract key values with regex for the grid
   const mkt=stories.find(s=>s.number==='02')||{};
   const qt=mkt.quick_take||'';
   const val=(p,fb)=>{const m=qt.match(p);return m?m[1]:fb||'—';};
@@ -326,23 +368,21 @@ function renderFinance(raw){
     </div><div class="sec-divider"></div>`;
   }
 
-  h+=`<div class="sec-hdr">Full Edition</div>`;
+  h+=`<div class="tab-toolbar"><button class="expand-btn" onclick="toggleAll('tab-finance')">Expand all</button></div>`;
+  h+=`<div class="sec-hdr">Full Edition</div><div class="cmp-list">`;
   stories.forEach((s,i)=>{
-    h+=`<div class="fin-story" id="fin${i}">
-      <div class="fin-story-hdr" onclick="toggle(document.getElementById('fin${i}'))">
-        <div class="story-num">${esc(s.number)}</div>
-        <div class="story-meta">
-          <div class="story-cat">${esc(s.category)}</div>
-          <div class="story-title">${esc(s.title)}</div>
-        </div>
-        <div class="story-chevron">▼</div>
-      </div>
-      <div class="fin-body">
+    const abstract=(s.toc_summary||s.quick_take||'').slice(0,130);
+    h+=`<div class="cmp-item" id="fin${i}" onclick="toggle(this)">
+      <div class="cmp-item-hdr"><div class="cmp-cat">${esc(s.category)}</div><div class="cmp-num">${esc(s.number)}</div></div>
+      <div class="cmp-title">${esc(s.title)}</div>
+      ${abstract?`<div class="cmp-abstract">${esc(abstract+(abstract.length>=130?'…':''))}</div>`:''}
+      <div class="cmp-expand">
         <div class="fin-qt">${esc(s.quick_take||'')}</div>
         ${(s.bullets||[]).map(b=>`<div class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></div>`).join('')}
       </div>
     </div>`;
   });
+  h+=`</div>`;
   document.getElementById('tab-finance').innerHTML=h;
 }
 
@@ -360,7 +400,8 @@ function sofcItem(it){
 }
 function renderSOFC(d){
   let h='';
-  h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}</div>`;
+  h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}${staleBadge(d.date)}</div>`;
+  h+=`<div class="tab-toolbar"><button class="expand-btn" onclick="toggleAll('tab-sofc')">Expand all</button></div>`;
   h+=`<div class="cmp-list">`;
   (d.topSignals||[]).forEach((s,i)=>{
     const abstract=s.text.length>130?s.text.slice(0,130).replace(/\s\w+$/,'')+'…':s.text;
@@ -397,6 +438,11 @@ function renderSOFC(d){
     </div>`;
   }
   document.getElementById('tab-sofc').innerHTML=h;
+  // Restore previously open SOFC sections
+  try{
+    const _so=JSON.parse(localStorage.getItem('sofc_open')||'[]');
+    _so.forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('open');});
+  }catch(e){}
   // Lazy-load og:image thumbnails for SOFC items
   const sofcObs=new IntersectionObserver((entries,ob)=>{
     entries.forEach(e=>{
@@ -409,8 +455,8 @@ function renderSOFC(d){
         .then(html=>{
           const m=html.match(/property="og:image"\s+content="([^"]+)"/)
                  ||html.match(/content="([^"]+)"\s+property="og:image"/);
-          if(m?.[1])e.target.src=m[1];
-        }).catch(()=>{});
+          if(m?.[1])e.target.src=m[1]; else setThumbFallback(e.target);
+        }).catch(()=>setThumbFallback(e.target));
     });
   },{rootMargin:'300px'});
   document.querySelectorAll('.signal-card-img,.sofc-item-img').forEach(img=>sofcObs.observe(img));
@@ -476,8 +522,8 @@ function renderEconomist(){
           .then(html=>{
             const m=html.match(/property="og:image"\s+content="([^"]+)"/)
                    ||html.match(/content="([^"]+)"\s+property="og:image"/);
-            if(m?.[1])e.target.src=m[1];
-          }).catch(()=>{});
+            if(m?.[1])e.target.src=m[1]; else setThumbFallback(e.target);
+          }).catch(()=>setThumbFallback(e.target));
       });
     },{rootMargin:'400px'});
     panel.querySelectorAll('.eco-thumb').forEach(img=>imgObs.observe(img));
@@ -485,11 +531,14 @@ function renderEconomist(){
 }
 
 // ── TAB SWITCHING ─────────────────────────────────────────────────────────────
+let _econLoaded=false;
 function switchTab(name, btn){
   document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
   document.getElementById('tab-'+name).classList.add('active');
   btn.classList.add('active');
+  if(name==='economist'&&!_econLoaded){ _econLoaded=true; renderEconomist(); }
+  btn.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
 }
 
 // ── DATA LOADING ──────────────────────────────────────────────────────────────
@@ -508,7 +557,6 @@ async function loadData(force){
   loading('tab-ai');
   loading('tab-finance');
   loading('tab-sofc');
-  renderEconomist();
 
   const [ai, fin, sofc]=await Promise.allSettled([
     fetchJSON(RAW+'stories-latest.json',force),
@@ -534,6 +582,24 @@ async function loadData(force){
     showErr('tab-sofc','Could not load SOFC data',RAW+'sofc-latest.json');
   }
 }
+
+
+// ── TOUCH: SWIPE + PULL-TO-REFRESH ────────────────────────────────────────────
+(()=>{
+  const TABS=['ai','finance','sofc','economist'];
+  let tx=0,ty=0;
+  document.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY;},{passive:true});
+  document.addEventListener('touchend',e=>{
+    const dx=e.changedTouches[0].clientX-tx;
+    const dy=e.changedTouches[0].clientY-ty;
+    if(Math.abs(dy)>Math.abs(dx)&&dy>90&&window.scrollY===0){ manualRefresh(); return; }
+    if(Math.abs(dx)>60&&Math.abs(dy)<50){
+      const cur=TABS.findIndex(t=>document.getElementById('tab-'+t).classList.contains('active'));
+      const next=dx<0?Math.min(cur+1,TABS.length-1):Math.max(cur-1,0);
+      if(next!==cur){ const btns=[...document.querySelectorAll('.tab-btn')]; switchTab(TABS[next],btns[next]); }
+    }
+  },{passive:true});
+})();
 
 // ── SERVICE WORKER ────────────────────────────────────────────────────────────
 if('serviceWorker' in navigator){
