@@ -1,55 +1,22 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-15",
+    "title": "Beating Beta — 2026-06-16",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "02",
-      "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-15",
-      "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.431,46 · Nasdaq 29.635,95 · VIX 17,68 · 10Y 4,49% · Gold $4.355,70 · Oil $80,11 · BTC $65.424,72 · F&G N/A",
-      "quick_take": "S&P 500: 7.431,46\nNasdaq: 29.635,95\nVIX: 17,68 · 10Y: 4,49%\nGold: $4.355,70 · Oil: $80,11\nBitcoin: $65.424,72\nFear & Greed: N/A",
-      "bullets": [
-        {
-          "label": "Equities",
-          "text": "S&P 500 7.431,46 · Nasdaq 29.635,95"
-        },
-        {
-          "label": "Rates & Vol",
-          "text": "10Y 4,49% · VIX 17,68"
-        },
-        {
-          "label": "Commodities & Crypto",
-          "text": "Gold $4.355,70 · WTI $80,11 · BTC $65.424,72"
-        },
-        {
-          "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Yahoo Finance · Bloomberg · CNBC",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "US-Aktienfutures steigen, Öl fällt",
-      "highlight_phrase": "US-Aktienfutures steigen, Öl fällt",
-      "toc_summary": "US-Aktienfutures steigen, Öl fällt",
-      "quick_take": "Trump verkündet Friedensabkommen mit Iran",
+      "title": "Das größte Risiko für deine Rente ist kein Börsencrash – sondern eine Krise, für",
+      "highlight_phrase": "Das größte Risiko für deine Rente ist ke",
+      "toc_summary": "Das größte Risiko für deine Rente ist kein Börsencrash – sondern eine Krise, für",
+      "quick_take": "Das größte Risiko für deine Rente ist kein Börsencrash – sondern eine Krise, für die du wahrscheinlich nicht vorgesorgt hast",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Trump verkündet Friedensabkommen mit Iran"
+          "text": "Das größte Risiko für deine Rente ist kein Börsencrash – sondern eine Krise, für die du wahrscheinlich nicht vorgesorgt hast"
         }
       ],
       "callout": null,
@@ -63,14 +30,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Kevin Warsh vor erster Fed-Sitzung",
-      "highlight_phrase": "Kevin Warsh vor erster Fed-Sitzung",
-      "toc_summary": "Kevin Warsh vor erster Fed-Sitzung",
-      "quick_take": "Ökonomen rätseln über seinen Kurs",
+      "title": "So arbeitest du im Ruhestand, ohne dass deine Sozialversicherungsleistungen gekü",
+      "highlight_phrase": "So arbeitest du im Ruhestand, ohne dass ",
+      "toc_summary": "So arbeitest du im Ruhestand, ohne dass deine Sozialversicherungsleistungen gekü",
+      "quick_take": "So arbeitest du im Ruhestand, ohne dass deine Sozialversicherungsleistungen gekürzt werden",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ökonomen rätseln über seinen Kurs"
+          "text": "So arbeitest du im Ruhestand, ohne dass deine Sozialversicherungsleistungen gekürzt werden"
         }
       ],
       "callout": null,
@@ -84,14 +51,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Renten-Event: Versprechen von \"Überrendite\" durch Annuitäten",
-      "highlight_phrase": "Renten-Event: Versprechen von \"Überrendi",
-      "toc_summary": "Renten-Event: Versprechen von \"Überrendite\" durch Annuitäten",
-      "quick_take": "zu gut, um wahr zu sein?",
+      "title": "Brauchst du einen Bonitäts-Boost? Ruf deine Kreditkartenfirma an und frag nach d",
+      "highlight_phrase": "Brauchst du einen Bonitäts-Boost? Ruf de",
+      "toc_summary": "Brauchst du einen Bonitäts-Boost? Ruf deine Kreditkartenfirma an und frag nach d",
+      "quick_take": "Brauchst du einen Bonitäts-Boost? Ruf deine Kreditkartenfirma an und frag nach diesem – aber sei vorsichtig",
       "bullets": [
         {
           "label": "Detail",
-          "text": "zu gut, um wahr zu sein?"
+          "text": "Brauchst du einen Bonitäts-Boost? Ruf deine Kreditkartenfirma an und frag nach diesem – aber sei vorsichtig"
         }
       ],
       "callout": null,
@@ -105,14 +72,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Pimco warnt",
-      "highlight_phrase": "Pimco warnt",
-      "toc_summary": "Pimco warnt",
-      "quick_take": "Zahlungsausfälle in Schuldenmärkten nehmen wieder zu",
+      "title": "RoKu-Verkauf an Fox für 22 Milliarden Dollar wirft eine große Frage auf",
+      "highlight_phrase": "RoKu-Verkauf an Fox für 22 Milliarden Do",
+      "toc_summary": "RoKu-Verkauf an Fox für 22 Milliarden Dollar wirft eine große Frage auf",
+      "quick_take": "RoKu-Verkauf an Fox für 22 Milliarden Dollar wirft eine große Frage auf",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Zahlungsausfälle in Schuldenmärkten nehmen wieder zu"
+          "text": "RoKu-Verkauf an Fox für 22 Milliarden Dollar wirft eine große Frage auf"
         }
       ],
       "callout": null,
@@ -126,14 +93,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Charlie Javice sucht angeblich Begnadigung durch Trump",
-      "highlight_phrase": "Charlie Javice sucht angeblich Begnadigu",
-      "toc_summary": "Charlie Javice sucht angeblich Begnadigung durch Trump",
-      "quick_take": "Charlie Javice sucht angeblich Begnadigung durch Trump",
+      "title": "Menschen in China schauen die WM dieses Mal anders",
+      "highlight_phrase": "Menschen in China schauen die WM dieses ",
+      "toc_summary": "Menschen in China schauen die WM dieses Mal anders",
+      "quick_take": "Menschen in China schauen die WM dieses Mal anders",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Charlie Javice sucht angeblich Begnadigung durch Trump"
+          "text": "Menschen in China schauen die WM dieses Mal anders"
         }
       ],
       "callout": null,
@@ -147,14 +114,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "JPMorgan",
-      "highlight_phrase": "JPMorgan",
-      "toc_summary": "JPMorgan",
-      "quick_take": "Diese chinesische Konsumaktie könnte sich bei globaler Industrie-Wende verdoppeln",
+      "title": "CFTC-Chef Selig verteidigt Entscheidung zur Zulassung von \"Perps\" in den USA",
+      "highlight_phrase": "CFTC-Chef Selig verteidigt Entscheidung ",
+      "toc_summary": "CFTC-Chef Selig verteidigt Entscheidung zur Zulassung von \"Perps\" in den USA",
+      "quick_take": "CFTC-Chef Selig verteidigt Entscheidung zur Zulassung von \"Perps\" in den USA",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Diese chinesische Konsumaktie könnte sich bei globaler Industrie-Wende verdoppeln"
+          "text": "CFTC-Chef Selig verteidigt Entscheidung zur Zulassung von \"Perps\" in den USA"
         }
       ],
       "callout": null,
