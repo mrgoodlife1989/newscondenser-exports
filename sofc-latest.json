@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "topSignals": [
     {
-      "title": "FERC large-load interconnection ruling due tomorrow (June 18)",
-      "text": "FERC has pinned its long-awaited decision on Docket RM26-4-000 — large-load grid interconnection reform for data centers and heavy industry — to June 18. The ruling follows a DOE-directed ANOPR from Oct 2025 and comes one day ahead of FirstEnergy's concurrent proposal (filed June 5) urging FERC to require data centers to fund their own transmission upgrades rather than socialising costs. Separately, FERC already approved PJM's Expedited Interconnection Track on June 9: up to 10 shovel-ready projects ≥250 MW per year can fast-track to online within 3 years; effective July 31, expires end-2027. The June 18 ruling is the single most consequential regulatory event for SOFC competitiveness this month — a lenient cost-allocation outcome would ease grid-connected alternatives; a strict \"developers pay\" outcome reinforces SOFC's behind-the-meter advantage. (FERC commitment; Utility Dive: PJM fast-track; Utility Dive: FirstEnergy filing)",
-      "url": "https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026",
+      "title": "Bernstein initiates Bloom Energy at Market Perform / $276 — first bulge-bracket cautious note (June 16)",
+      "text": "Bernstein SocGen initiated coverage with a neutral stance and $276 target vs. BE trading at ~$281 (+240% YTD). Praise: \"quickest to develop\" generation tech in its coverage universe. Concerns: no clear free cash flow pathway independent of one-time contract timing, and manufacturing scale-up visibility needed. First major research house to set a price target below current price — a notable counterweight to the 74% Buy consensus. (Investing.com: Bernstein initiation; Yahoo Finance: RBC still bullish at 240% YTD)",
+      "url": "https://www.investing.com/news/analyst-ratings/bernstein-initiates-bloom-energy-stock-coverage-with-276-target-93CH-4745945",
       "n": 1
     },
     {
-      "title": "Nebius + Bloom Energy: $2.6B master fuel cell capacity agreement (May 14, 2026 — first coverage)",
-      "text": "European AI neocloud Nebius entered a Master Fuel Cell Capacity Agreement with Bloom Energy covering 328 MW initial capacity (three 10-year phases, $2.6B total contract value). First phase expected live in 2026. Bloom installs, operates, and maintains; Nebius purchases power output — effectively a SOFC-as-a-service PPA model. Deployment at Nebius AI data center sites. This is the first European AI-cloud operator to sign a large SOFC capacity agreement and establishes a repeatable commercial structure. (Nebius newsroom; Fierce Network; Yahoo Finance analysis)",
-      "url": "https://nebius.com/newsroom/nebius-and-bloom-energy-partner-to-power-ai-infrastructure-build-out",
+      "title": "EIA June STEO (June 16) raises Henry Hub 2026 full-year avg to $3.60/MMBtu",
+      "text": "Up from $3.50/MMBtu in May STEO and above the $3.34/MMBtu figure cited in this digest's June 10 issue. Driver: oil-price-linked associated gas production growth (+3.3% US output in 2026). At $3.60/MMBtu, SOFC fuel input cost rises to ~$0.034–$0.042/kWh at 55–60% LHV efficiency — roughly $3–5/MWh upward LCOE pressure. LCOE model flag. (Rigzone: EIA raises HH forecasts; EIA June STEO)",
+      "url": "https://www.rigzone.com/news/usa_eia_raises_2026_2027_henry_hub_price_forecasts-16-jun-2026-183897-article/",
       "n": 2
     },
     {
-      "title": "Crusoe pauses 1.8 GW Cheyenne AI factory (June 10) — uncovered risk to Bloom backlog",
-      "text": "Crusoe halted development of Project Jade (1.8 GW AI Factory in Cheyenne, WY) at a customer's request, causing Bloom Energy stock to drop >10% on June 10. Bloom was contracted to supply ~900 MW of SOFC for the first phase (alongside AEP); the project's pause clouds ~$2.65B of potential BE-linked revenue. Partial offsets: (a) Black Hills Corp (grid infrastructure provider) confirmed it is working directly with the end customer and still expects the project to proceed by early 2028; (b) the Nebius $2.6B deal partially replaces the backlog signal. Net effect: headline risk to Bloom's volume ramp, but not a cancellation. Monitor customer identity and 2028 restart timeline. (Motley Fool: Bloom plunge; TS2 Space: Crusoe pause; KuCoin: Crusoe halts WY)",
-      "url": "https://www.fool.com/investing/2026/06/10/why-bloom-energy-stock-plunged-over-10-today/",
+      "title": "Doosan Enerbility: 1,480 MW CCGT steam turbines for unnamed US big-tech Texas DC (May 27 — first digest coverage)",
+      "text": "Follow-on to March 2026 first North American contract; four 370 MW steam turbines for a single hyperscaler campus, deliveries sequentially through 2029. Competing power signal: large gas-fired CCGT is being contracted in parallel with SOFC by the same customer tier. SOFC's near-term advantage (90-day deployment) holds — CCGT 3 years out. Strategically notable: Doosan simultaneously supplies Ceres Power-licensed SOFC stacks, competing in both markets. (Seoul Economic Daily; Turbomachinery Magazine)",
+      "url": "https://en.sedaily.com/finance/2026/05/27/doosan-enerbility-to-supply-four-more-steam-turbines-to-us",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Quiet day. No new stack, manufacturing, or efficiency announcements from Bloom, Ceres, Elcogen, Sunfire, SolydEra, or Mitsubishi since June 15 digest.",
+          "text": "Quiet day. No new announcements from Bloom, Ceres, Elcogen, Sunfire, SolydEra, Mitsubishi, or Topsoe.",
           "url": "",
           "sources": []
         }
@@ -35,12 +35,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Nebius + Bloom $2.6B (328 MW) — see Top Signals #2. PPA-style delivery model (Bloom owns and operates; Nebius buys power) is emerging as the dominant commercial structure for large SOFC deployments. First phase live 2026.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Crusoe Cheyenne pause — see Top Signals #3. Black Hills expects 1.8 GW project to resume by early 2028; Bloom retains Oracle (2.45 GW), Brookfield ($5B), AEP ($2.65B), and Equinix (100 MW+) as confirmed pipeline items not affected.",
+          "text": "Quiet day. No new SOFC deployment announcements. Existing confirmed pipeline (Oracle 2.45 GW, Nebius $2.6B, Brookfield $5B, AEP $2.65B, Equinix 100 MW+) all previously reported.",
           "url": "",
           "sources": []
         }
@@ -50,44 +45,26 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC June 18 ruling (tomorrow): See Top Signals #1. Key watch: whether the Commission adopts strict cost-allocation for large loads (strengthens SOFC BTM case) or adopts a socialised transmission cost model (reduces BTM premium). (FERC; HData blog: what it means)",
-          "url": "https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026",
+          "text": "FERC RM26-4 ruling imminent (expected on or around June 18): As of June 17, no formal order published. FERC committed to end-of-June action; ruling widely anticipated today/tomorrow. Cost-allocation model (developer-funded vs. socialised transmission costs) is the key variable for SOFC behind-the-meter economics. Monitor ferc.gov/rm26-4. (National Law Review: industry anticipation)",
+          "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
-              "title": "FERC",
-              "url": "https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026"
+              "title": "ferc.gov/rm26-4",
+              "url": "https://www.ferc.gov/rm26-4"
             },
             {
-              "title": "HData blog: what it means",
-              "url": "https://blog.hdata.com/2026-ferc-rulemaking-large-loads"
+              "title": "National Law Review: industry anticipation",
+              "url": "https://natlawreview.com/article/industry-participants-anticipate-ferc-ruling-could-alter-regulatory-framework-data"
             }
           ]
         },
         {
-          "text": "FERC approves PJM Expedited Interconnection Track (June 9): 10 shovel-ready projects ≥250 MW/year, online within 3 years, effective July 31, 2026; expires end-2027. Developers fund 100% of network upgrades + post $500K study deposit + $15K/MW readiness. Speeds grid-connected alternatives — slight competitive headwind for SOFC BTM in PJM region, but cost burden and 3-year lead time still much longer than SOFC's 90-day advantage. (Utility Dive; MGrId)",
-          "url": "https://www.utilitydive.com/news/ferc-pjm-fast-track-expedited-interconnection-eit/822479/",
+          "text": "Germany EnEfG: July 1 deadline in 14 days. New DCs commissioning from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥10% (rising to 15% in 2027, 20% in 2028); 100% renewable electricity from July 2027. No new compliance amendments or guidance issued today. (Orrick: EnEfG draft amendment)",
+          "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
           "sources": [
             {
-              "title": "Utility Dive",
-              "url": "https://www.utilitydive.com/news/ferc-pjm-fast-track-expedited-interconnection-eit/822479/"
-            },
-            {
-              "title": "MGrId",
-              "url": "https://mgrid.org/2026/06/09/ferc-approves-pjm-fast-track-interconnection-10-projects-a-year-250-mw-minimum-online-within-3-years/"
-            }
-          ]
-        },
-        {
-          "text": "FirstEnergy FERC filing (June 5): Proposes data centers pay 100% of transmission upgrade costs needed for interconnection (analogous to gas pipeline precedent). If adopted by FERC June 18, raises cost of grid-connected alternatives; SOFC BTM deployment unaffected. (Utility Dive; Energy Central)",
-          "url": "https://www.utilitydive.com/news/firstenergy-ferc-data-center-transmission-interconnection/822333/",
-          "sources": [
-            {
-              "title": "Utility Dive",
-              "url": "https://www.utilitydive.com/news/firstenergy-ferc-data-center-transmission-interconnection/822333/"
-            },
-            {
-              "title": "Energy Central",
-              "url": "https://www.energycentral.com/energy-management/post/news-firstenergy-thinks-data-centers-should-pay-their-way-onto-the-grid-5Rh3ecktlO1pMck"
+              "title": "Orrick: EnEfG draft amendment",
+              "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
             }
           ]
         }
@@ -97,9 +74,23 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day. No new SMR, gas turbine, or battery announcements since June 15. FERC PJM fast-track (above) is the only structural shift; applies to generators, not directly to demand-side.",
+          "text": "Doosan Enerbility 1,480 MW CCGT for Texas big-tech DC (May 27 — first coverage): See Top Signals #3. Follow-on steam turbine supply contract; combined-cycle deliveries through 2029. Largest single CCGT commitment identified for a US hyperscaler data center to date.",
           "url": "",
           "sources": []
+        },
+        {
+          "text": "Fermi America Project Matador (Amarillo TX, up to 11 GW): Geotechnical work started; GE TM2500 gas turbines (157.5 MW) bridging first phase targeting 2026; AP1000 nuclear reactors (Doosan/Hyundai E&C partnership) expected online ~2032. Largest planned energy/data campus globally. No SOFC impact before 2030+; long-term nuclear alternative signal. (Data Center Dynamics: Fermi America; Carbon Credits: Project Matador)",
+          "url": "https://www.datacenterdynamics.com/en/news/fermi-america-inks-reactor-supply-and-design-deals-for-up-to-11gw-data-center-campus-in-amarillo-texas/",
+          "sources": [
+            {
+              "title": "Data Center Dynamics: Fermi America",
+              "url": "https://www.datacenterdynamics.com/en/news/fermi-america-inks-reactor-supply-and-design-deals-for-up-to-11gw-data-center-campus-in-amarillo-texas/"
+            },
+            {
+              "title": "Carbon Credits: Project Matador",
+              "url": "https://carboncredits.com/project-matador-americas-90b-nuclear-power-solution-for-ai-semiconductors-and-data-centers/"
+            }
+          ]
         }
       ]
     },
@@ -107,32 +98,27 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Fuel cell stocks — June 15 session: BE +7%, FCEL +1%, PLUG +2%. YTD: BE +219%, FCEL +135%, PLUG trailing. Bloom share price ~$278, market cap ~$79B. (24/7 Wall St. June 15)",
+          "text": "Bernstein initiates BE at Market Perform / $276 (June 16): See Top Signals #1. BE at ~$281 (+240% YTD); first major research house with a sub-market price target, signalling valuation debate is opening.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "RBC bullish on BE at 240% YTD: Maintains positive stance, argues AI demand pipeline justifies continued multiple expansion. (Yahoo Finance)",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-already-240-2026-193954665.html",
+          "sources": [
+            {
+              "title": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-already-240-2026-193954665.html"
+            }
+          ]
+        },
+        {
+          "text": "FuelCell Energy Q2 FY2026 (period ending April 30) additional detail: Revenue $35.59M (–5% YoY); operating loss $77.91M including $42.57M non-cash impairment on the Groton Project (separate from the $64.5M SOFC exit impairment reported in the June 15 digest). Combined Q2 impairments ~$107M. FCEL shares ~$17 (market cap ~$1.16B). (24/7 Wall St.)",
           "url": "https://247wallst.com/investing/2026/06/15/which-fuel-cell-stock-has-dominated-in-2026-plug-power-fuelcell-or-bloom-energy/",
           "sources": [
             {
-              "title": "24/7 Wall St. June 15",
+              "title": "24/7 Wall St.",
               "url": "https://247wallst.com/investing/2026/06/15/which-fuel-cell-stock-has-dominated-in-2026-plug-power-fuelcell-or-bloom-energy/"
-            }
-          ]
-        },
-        {
-          "text": "Analyst targets raised: Daiwa and UBS revised BE price targets to $260–$320 range; Morgan Stanley reiterates Overweight with $310 target. Consensus: 74% Buy. (StocksToTrade: BE rally)",
-          "url": "https://stockstotrade.com/news/bloom-energy-corporation-be-news-2026_06_12/",
-          "sources": [
-            {
-              "title": "StocksToTrade: BE rally",
-              "url": "https://stockstotrade.com/news/bloom-energy-corporation-be-news-2026_06_12/"
-            }
-          ]
-        },
-        {
-          "text": "Ceres Power (CWR:LON): +22% week-on-week following June 10 capital raise close; cumulative 1,000%+ gain over past year; market cap ~£1.2B ($1.6B). (Bitget News)",
-          "url": "https://www.bitget.com/amp/news/detail/12560605393745",
-          "sources": [
-            {
-              "title": "Bitget News",
-              "url": "https://www.bitget.com/amp/news/detail/12560605393745"
             }
           ]
         }
@@ -142,41 +128,26 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "MS-SOFC comprehensive review (Springer, 2026): \"Comprehensive review of current trends and future directions of metal-supported solid oxide fuel cell: From materials to applications,\" published in the International Journal of Minerals, Metallurgy and Materials. Provides systematic analysis of MS-SOFCs as next-generation energy conversion devices — covers materials selection, fabrication, and durability pathways relevant to INOCEL technology benchmarking. DOI: 10.1007/s12613-026-3402-0",
-          "url": "https://link.springer.com/article/10.1007/s12613-026-3402-0",
-          "sources": [
-            {
-              "title": "10.1007/s12613-026-3402-0",
-              "url": "https://link.springer.com/article/10.1007/s12613-026-3402-0"
-            }
-          ]
-        },
-        {
-          "text": "Second MS-SOFC review (Springer, April 2026): \"A comprehensive review on the progress and evaluation of metal supported solid oxide fuel cells (MS-SOFC),\" Journal of Solid State Electrochemistry. Covers performance metrics and scale-up pathways. DOI: 10.1007/s10008-026-06571-7",
-          "url": "https://link.springer.com/article/10.1007/s10008-026-06571-7",
-          "sources": [
-            {
-              "title": "10.1007/s10008-026-06571-7",
-              "url": "https://link.springer.com/article/10.1007/s10008-026-06571-7"
-            }
-          ]
+          "text": "Quiet day. No new papers, patents, or national-lab results.",
+          "url": "",
+          "sources": []
         }
       ]
     }
   ],
   "lcoe": [
     {
-      "text": "FERC PJM fast-track cost signal (NEW): Grid-connected alternatives in PJM now face $500K study deposit + $15K/MW readiness deposit + 100% network upgrade funding. For a 250 MW project: ~$3.75M upfront + network upgrades (often $10–50M/project). Raises effective cost of grid-connected power vs. SOFC BTM for US East Coast projects. (Utility Dive)",
-      "url": "https://www.utilitydive.com/news/ferc-pjm-fast-track-expedited-interconnection-eit/822479/",
+      "text": "Henry Hub 2026 full-year revised to $3.60/MMBtu (EIA June STEO, June 16) — MODEL UPDATE: Previous digest baseline was $3.34/MMBtu (June 10 STEO) for 2H26. EIA's June 16 update revises 2026 full-year average to $3.60/MMBtu (up from $3.50/MMBtu in May STEO). 2H26 specific: $3.34/MMBtu. 2027 raised to $3.46/MMBtu (from ~$3.18 previously). At $3.60/MMBtu, SOFC fuel cost ≈ $0.034–$0.042/kWh (55–60% LHV), adding ~$3–5/MWh vs. prior baseline. LCOE range revises to approximately $133–210/MWh (from $130–205/MWh) unsubsidized; CHP-adjusted lower bound ~$123/MWh. (Rigzone)",
+      "url": "https://www.rigzone.com/news/usa_eia_raises_2026_2027_henry_hub_price_forecasts-16-jun-2026-183897-article/",
       "sources": [
         {
-          "title": "Utility Dive",
-          "url": "https://www.utilitydive.com/news/ferc-pjm-fast-track-expedited-interconnection-eit/822479/"
+          "title": "Rigzone",
+          "url": "https://www.rigzone.com/news/usa_eia_raises_2026_2027_henry_hub_price_forecasts-16-jun-2026-183897-article/"
         }
       ]
     },
     {
-      "text": "NG price: no new data this cycle. EIA Henry Hub baseline from June 10 digest ($3.34/MMBtu FY2026 avg) remains current. Monitor EIA Thursday weekly report.",
+      "text": "CCGT build-time datapoint (NEW context): Doosan steam turbine deliveries confirmed through 2029 for a May 2026 order — 3-year lead time for large CCGT equipment. Quantifies the opportunity window for SOFC before competing gas-fired capacity reaches operation.",
       "url": "",
       "sources": []
     }
