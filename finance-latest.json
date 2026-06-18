@@ -1,22 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-17",
+    "title": "Beating Beta — 2026-06-18",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "02",
+      "category": "FINANCE · MARKETS",
+      "title": "Markets Snapshot — 2026-06-18",
+      "highlight_phrase": "market snapshot",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "bullets": [
+        {
+          "label": "Equities",
+          "text": "S&P 500 N/A · Nasdaq N/A"
+        },
+        {
+          "label": "Rates & Vol",
+          "text": "10Y N/A% · VIX N/A"
+        },
+        {
+          "label": "Commodities & Crypto",
+          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+        },
+        {
+          "label": "Sentiment",
+          "text": "Fear & Greed Index: N/A"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Yahoo Finance · Bloomberg · CNBC",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Was haben die USA und der Iran vereinbart? Darauf fokussieren sich die Maerkte.",
-      "highlight_phrase": "Was haben die USA und der Iran vereinbar",
-      "toc_summary": "Was haben die USA und der Iran vereinbart? Darauf fokussieren sich die Maerkte.",
-      "quick_take": "Was haben die USA und der Iran vereinbart? Darauf fokussieren sich die Maerkte.",
+      "title": "Hinter den Kulissen",
+      "highlight_phrase": "Hinter den Kulissen",
+      "toc_summary": "Hinter den Kulissen",
+      "quick_take": "Der Druck, Washingtons schärfste Finanzaufsicht zu schwächen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Was haben die USA und der Iran vereinbart? Darauf fokussieren sich die Maerkte."
+          "text": "Der Druck, Washingtons schärfste Finanzaufsicht zu schwächen"
         }
       ],
       "callout": null,
@@ -30,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Amerikas Geburtenrate ist auf einem Rekordtief – Smartphones und vier finanziell",
-      "highlight_phrase": "Amerikas Geburtenrate ist auf einem Reko",
-      "toc_summary": "Amerikas Geburtenrate ist auf einem Rekordtief – Smartphones und vier finanziell",
-      "quick_take": "Amerikas Geburtenrate ist auf einem Rekordtief – Smartphones und vier finanzielle Realitaeten werden verantwortlich gemacht.",
+      "title": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überw",
+      "highlight_phrase": "Angst, das Rentengeld auszugeben? Ein We",
+      "toc_summary": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überw",
+      "quick_take": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überwinden",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Amerikas Geburtenrate ist auf einem Rekordtief – Smartphones und vier finanzielle Realitaeten werden verantwortlich gemacht."
+          "text": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überwinden"
         }
       ],
       "callout": null,
@@ -51,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Oel koennte zuerst durch die Strasse von Hormus gelangen und Duengerlieferungen ",
-      "highlight_phrase": "Oel koennte zuerst durch die Strasse von",
-      "toc_summary": "Oel koennte zuerst durch die Strasse von Hormus gelangen und Duengerlieferungen ",
-      "quick_take": "Oel koennte zuerst durch die Strasse von Hormus gelangen und Duengerlieferungen blockieren.",
+      "title": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinde",
+      "highlight_phrase": "Geerbtes IRA mit 500.000 USD – lässt sic",
+      "toc_summary": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinde",
+      "quick_take": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinderbildung senken?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Oel koennte zuerst durch die Strasse von Hormus gelangen und Duengerlieferungen blockieren."
+          "text": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinderbildung senken?"
         }
       ],
       "callout": null,
@@ -72,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Intel macht einen grossen Schritt zur Wende eines verlustreichen Geschaeftsberei",
-      "highlight_phrase": "Intel macht einen grossen Schritt zur We",
-      "toc_summary": "Intel macht einen grossen Schritt zur Wende eines verlustreichen Geschaeftsberei",
-      "quick_take": "Intel macht einen grossen Schritt zur Wende eines verlustreichen Geschaeftsbereichs.",
+      "title": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwen",
+      "highlight_phrase": "Rumble erhält 22.000 Nvidia-Chips – CEO ",
+      "toc_summary": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwen",
+      "quick_take": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwende",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Intel macht einen grossen Schritt zur Wende eines verlustreichen Geschaeftsbereichs."
+          "text": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwende"
         }
       ],
       "callout": null,
@@ -93,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Michael Burry sagt, er sei versucht, gegen SpaceX zu wetten, verzichtet aber auf",
-      "highlight_phrase": "Michael Burry sagt, er sei versucht, geg",
-      "toc_summary": "Michael Burry sagt, er sei versucht, gegen SpaceX zu wetten, verzichtet aber auf",
-      "quick_take": "Michael Burry sagt, er sei versucht, gegen SpaceX zu wetten, verzichtet aber auf teure Optionen.",
+      "title": "Jeffrey Gundlach",
+      "highlight_phrase": "Jeffrey Gundlach",
+      "toc_summary": "Jeffrey Gundlach",
+      "quick_take": "Fed-Chef Warsh wird nicht der \"Easy-Money\"-Chairman, den viele erhofften",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Michael Burry sagt, er sei versucht, gegen SpaceX zu wetten, verzichtet aber auf teure Optionen."
+          "text": "Fed-Chef Warsh wird nicht der \"Easy-Money\"-Chairman, den viele erhofften"
         }
       ],
       "callout": null,
@@ -114,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Fed-Chef Warsh wird voraussichtlich den \"Punkt\" aus dem Zinsausblick der Notenba",
-      "highlight_phrase": "Fed-Chef Warsh wird voraussichtlich den ",
-      "toc_summary": "Fed-Chef Warsh wird voraussichtlich den \"Punkt\" aus dem Zinsausblick der Notenba",
-      "quick_take": "Fed-Chef Warsh wird voraussichtlich den \"Punkt\" aus dem Zinsausblick der Notenbank herauslassen.",
+      "title": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhö",
+      "highlight_phrase": "Chairman Warsh enthält sich Zinsprognose",
+      "toc_summary": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhö",
+      "quick_take": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhöhung 2026",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Fed-Chef Warsh wird voraussichtlich den \"Punkt\" aus dem Zinsausblick der Notenbank herauslassen."
+          "text": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhöhung 2026"
         }
       ],
       "callout": null,
