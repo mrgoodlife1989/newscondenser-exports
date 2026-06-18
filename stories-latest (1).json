@@ -1,0 +1,482 @@
+{
+  "headline": {
+    "category_label": "TODAY'S HEADLINE",
+    "title": "Apple ships Siri AI at last, and the bar has moved.",
+    "highlight_phrase": "Siri AI",
+    "summary": "Two years after Apple Intelligence overpromised, Apple rebrands its assistant as Siri AI and bakes it directly into OS 27 — on-device, context-aware, and free this fall. Casual users may finally find Siri useful; anyone who has touched a frontier model will notice the demos feel generations behind. Meanwhile OpenAI declares a 'third phase' and quietly files IPO paperwork."
+  },
+  "source_headlines": [
+    {"source": "The Rundown AI (email)", "title": "Apple's Siri AI overhaul is here (sort of)"},
+    {"source": "The Rundown AI (email, sponsored)", "title": "Don't put all your API eggs in the latency basket (You.com guide)"},
+    {"source": "The Rundown AI (email)", "title": "The new 'third phase' of OpenAI"},
+    {"source": "The Rundown AI (email)", "title": "Cut recurring meetings with Claude + Granola"},
+    {"source": "The Rundown AI (email, sponsored)", "title": "Be the doctor AI recommends (Tely AI)"},
+    {"source": "The Rundown AI (email)", "title": "Argentina courts AI with 'non-human corporations'"},
+    {"source": "The Rundown AI (email, sponsored)", "title": "Trending tools: Incogni personal data removal"},
+    {"source": "The Rundown AI (email)", "title": "Trending tools: NotebookLM, Google's upgraded research agent platform"},
+    {"source": "The Rundown AI (email)", "title": "Trending tools: Meta Enterprise Agent for customer sales and support"},
+    {"source": "The Rundown AI (email)", "title": "Trending tools: Devin Desktop, Cognition's Windsurf rebrand"},
+    {"source": "The Rundown AI (email)", "title": "Google updates NotebookLM with agentic chat and sandboxed code execution"},
+    {"source": "The Rundown AI (email)", "title": "OpenAI files a confidential draft S-1 with the SEC"},
+    {"source": "The Rundown AI (email)", "title": "Moonshot AI set to raise $1–2B at an estimated $30B valuation"},
+    {"source": "The Rundown AI (email)", "title": "UK launches £1.1B AI Hardware Plan with supercomputer and chip funding"},
+    {"source": "The Rundown AI (email)", "title": "Google and Nvidia work with Intel as a TSMC fallback"},
+    {"source": "The Rundown AI (email)", "title": "Community workflow: a Lovable-built canteen nutrition app"},
+    {"source": "Everlast AI (YouTube)", "title": "20 AI tools 99% have never heard of — the four-layer 2026 tool stack"},
+    {"source": "Everlast AI (email)", "title": "AI tools: how to build the stack of the top 1 percent"},
+    {"source": "KI Bubble (email)", "title": "Microsoft touts clean AI training data; its own paper says otherwise"},
+    {"source": "KI Bubble (email)", "title": "Local models now answer 71.3% of everyday queries correctly (Stanford)"},
+    {"source": "KI Bubble (email)", "title": "Coding agents now share a collective memory (Hivemind)"},
+    {"source": "KI Bubble (email)", "title": "Kimi for Work starts up to 300 agents locally on your machine"},
+    {"source": "KI Bubble (email)", "title": "Apple brings AI directly into the OS of hundreds of millions of iPhones"},
+    {"source": "KI Bubble (email)", "title": "NVIDIA brings the foundation-model principle to every bank transfer"},
+    {"source": "KI Bubble (email)", "title": "Chart of the day: Copilot leads, Claude Code is the fastest riser"},
+    {"source": "KI Bubble (email)", "title": "Humanoids now work for €1.70 an hour"},
+    {"source": "KI Bubble (email)", "title": "MATRIX-3: a humanoid with soft skin and full-body pressure sensors"},
+    {"source": "KI Bubble (email)", "title": "Tool recommendation: CorporateLLM (GDPR-compliant enterprise AI platform)"}
+  ],
+  "stories": [
+    {
+      "number": "01",
+      "category": "AI . CONSUMER PLATFORMS",
+      "title": "Apple reboots Siri as Siri AI, baking intelligence into the OS.",
+      "highlight_phrase": "Siri AI",
+      "toc_summary": "At WWDC 2026, Apple rebranded its assistant to Siri AI and pushed intelligence into OS 27 itself — on-device, app-aware, free this fall, but absent from the EU and China at launch.",
+      "quick_take": "Apple opened WWDC 2026 with the second act of its AI overhaul, rebranding its assistant as Siri AI two years after the original Apple Intelligence rollout overpromised and underdelivered [1]. The assistant is powered by Apple's own models, custom-built in collaboration with Google's Gemini — though not the same models Google offers its own users [1]. Rather than another chatbot, the intelligence moves directly into the operating system of hundreds of millions of iPhones: context-aware, on-device, and woven into the apps people already have open [2]. Reviewers' early verdict: a real improvement for casual users, but demos that feel like 2024-era AI to anyone who uses frontier models [1].",
+      "bullets": [
+        {"label": "OS-level powers:", "text": "Siri AI can reason from on-screen content, pull context from apps like Photos and Messages, and take systemwide app actions to chain workflows together [1]."},
+        {"label": "A dedicated app:", "text": "A new Siri AI app serves as the chatbot hub, privately linking past conversations across devices [1]."},
+        {"label": "Privacy-first plumbing:", "text": "Requests process on-device or via Private Cloud Compute without saving any data — privacy runs through the entire rollout [1]."},
+        {"label": "Rollout terms:", "text": "Free update this fall for iPhone 15 Pro or newer, public beta next month — and no availability in the EU or China at launch [1]."},
+        {"label": "The bigger play:", "text": "Invisible, OS-embedded AI could give the mass market its first real taste of useful AI: nobody has to learn a new app, the familiar iPhone simply gets smarter [2]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "For an iPhone user with no AI experience this is a big upgrade; for anyone who has touched a frontier LLM, the demos look generations behind [1]. But distribution is Apple's superpower — putting even 2024-level AI in front of hundreds of millions of users by default may matter more than benchmark parity [2]."
+      },
+      "sources": [
+        {"title": "The Rundown AI", "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of"},
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"},
+        {"title": "Apple WWDC 2026 keynote", "url": "https://www.youtube.com/watch?v=hF8swzNR1-o"}
+      ]
+    },
+    {
+      "number": "02",
+      "category": "AI . POLICY",
+      "title": "OpenAI declares a third phase: the economy now runs on AI.",
+      "highlight_phrase": "third phase",
+      "toc_summary": "Altman and Pachocki's 'Built to benefit everyone' post sets three goals — automated research, economic acceleration, personal AGI — and proposes a global body that could pause frontier AI.",
+      "quick_take": "Sam Altman and chief scientist Jakub Pachocki published a blog post titled 'Built to benefit everyone', framing OpenAI's current era as a 'third phase' after its pure-research roots and product-shipping years — one in which 'the economy is now being shaped around AI' [1]. The post lays out three core goals: building AI that automates the research process, accelerating the economy, and giving everyone 'a personal AGI' [1]. Strikingly, it also proposes a global coordination body that could rein in or even pause frontier AI work — echoing a similar proposition from Anthropic just last week [1].",
+      "bullets": [
+        {"label": "Limits by design:", "text": "OpenAI writes that 'entirely automating everything is not the future we want', adding that AI should help people pursue their goals, 'not become untethered from them' [1]."},
+        {"label": "Three goals:", "text": "Automated AI research, an AI-accelerated economy, and a personal AGI for every person form the stated agenda for the third phase [1]."},
+        {"label": "A pause mechanism:", "text": "The proposed global coordination body with authority to slow or pause frontier work follows Anthropic's recursive self-improvement post a week earlier — the two top labs now converging on the same existential framing [1]."}
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "Both leading labs publishing pause-scenario language in the same fortnight is not a coincidence — it suggests both expect their next releases (potentially Mythos and GPT 5.6) to be consequential enough to warrant pre-emptive governance positioning [1]."
+      },
+      "sources": [
+        {"title": "The Rundown AI", "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of"},
+        {"title": "OpenAI — Built to benefit everyone", "url": "https://openai.com/index/built-to-benefit-everyone-our-plan/"}
+      ]
+    },
+    {
+      "number": "03",
+      "category": "AI . BUSINESS",
+      "title": "OpenAI files its confidential S-1, one week after Anthropic.",
+      "highlight_phrase": "confidential S-1",
+      "toc_summary": "OpenAI submitted draft IPO paperwork to the SEC without settling on timing — the second top lab to file in a week.",
+      "quick_take": "OpenAI filed a confidential draft S-1 with the SEC, publicly announcing the submission while stressing it has not settled on timing [1]. The move follows Anthropic's own confidential filing last week, turning the long-rumored AI IPO wave into a concrete two-horse procession toward the public markets [1]. Coming the same week as the 'third phase' manifesto, the filing underlines how deliberately OpenAI is positioning itself as economic infrastructure [2].",
+      "bullets": [
+        {"label": "Confidential route:", "text": "A draft S-1 lets OpenAI iterate with the SEC privately before committing to a public prospectus or a listing date [1]."},
+        {"label": "Back-to-back filings:", "text": "Anthropic filed its own confidential draft S-1 last week — the two leading labs are moving in lockstep toward public ownership [1]."},
+        {"label": "Manifesto meets paperwork:", "text": "The S-1 landed alongside the 'Built to benefit everyone' post, pairing governance philosophy with concrete capital-markets mechanics [2]."}
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "BIG PICTURE",
+        "text": "The largest private companies in tech history are preparing to hand the public a stake. How the S-1s price AGI risk — and who gets to own the upside — will define the next phase of the AI economy [1]."
+      },
+      "sources": [
+        {"title": "OpenAI — confidential S-1 announcement", "url": "https://openai.com/index/openai-submits-confidential-s-1/"},
+        {"title": "The Rundown AI", "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of"}
+      ]
+    },
+    {
+      "number": "04",
+      "category": "AI . MODELS",
+      "title": "Microsoft sells clean training data; its own paper disagrees.",
+      "highlight_phrase": "clean training data",
+      "toc_summary": "Build 2026's pitch of 'enterprise-grade, commercially licensed' training data collides with the MAI-Thinking-1 paper, which discloses 1.2 trillion web-crawled pages and Common Crawl in the pipeline.",
+      "quick_take": "At Build 2026 Microsoft presented seven fully in-house AI models, marketed as trained on enterprise-grade, clean, and commercially licensed data — a pitch aimed squarely at banks, hospitals, insurers, and government agencies that need provenance guarantees amid ongoing copyright litigation [1]. But the technical paper for MAI-Thinking-1 tells a different story: the pipeline starts with 1.2 trillion pages crawled from the open web, filtered down to 794 billion, plus 24.2 billion pages from Common Crawl — an archive with no licensing guarantees that itself sits at the center of several copyright suits [1]. The backdrop: the April 2026 separation from OpenAI is forcing Microsoft to deliver its own models at speed [1].",
+      "bullets": [
+        {"label": "The pitch:", "text": "Seven self-built models sold on data cleanliness to regulated industries that must know where training data comes from [1]."},
+        {"label": "The paper:", "text": "MAI-Thinking-1's disclosed pipeline — 1.2T open-web pages filtered to 794B, plus 24.2B Common Crawl pages — directly undercuts the licensing claim [1]."},
+        {"label": "The pressure:", "text": "Post-OpenAI-split, Microsoft needs frontier-credible in-house models fast, and the marketing has sprinted ahead of the documentation [1]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Regulated buyers are being sold provenance as a feature. If the flagship paper contradicts the keynote, enterprise customers — and copyright plaintiffs — will read the paper [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "05",
+      "category": "AI . RESEARCH",
+      "title": "Stanford: local models now handle 71.3% of everyday queries.",
+      "highlight_phrase": "71.3%",
+      "toc_summary": "A new Stanford study finds locally-run models answer 71.3% of real chat and reasoning queries correctly — up from 23.2% in 2023 — at a fraction of frontier-API cost.",
+      "quick_take": "A new Stanford study dismantles the narrative that every task needs a frontier model: locally-running models today answer 71.3% of real-world chat and reasoning queries correctly, up from a meager 23.2% in 2023 [1]. They do it at a fraction of the cost and energy consumption of a frontier API call [1]. The conclusion is a multi-model world — small, open, and local for the bulk of workloads, with the expensive API reserved for tasks that truly demand it [1].",
+      "bullets": [
+        {"label": "Threefold jump:", "text": "Correct-answer rates for local models tripled from 23.2% (2023) to 71.3% today on real chat and reasoning queries [1]."},
+        {"label": "Economics:", "text": "Local inference costs a fraction of frontier-API pricing in both money and energy — for most workloads the premium buys little [1]."},
+        {"label": "Enterprise upshot:", "text": "Data sovereignty and cost control without quality loss for the majority of everyday workloads [1]."}
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "BIG PICTURE",
+        "text": "The frontier keeps moving, but the floor is rising faster. When three quarters of everyday usage can run on hardware you own, the API business model concentrates on the hardest — and priciest — quartile [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "06",
+      "category": "AI . LEGAL",
+      "title": "Argentina invents the non-human corporation, run entirely by AI.",
+      "highlight_phrase": "non-human corporation",
+      "toc_summary": "Milei's government submitted legislation creating AI-owned, AI-run companies with liability protection — Harari warns of an unregulatable 'AI state'.",
+      "quick_take": "Argentina submitted legislation creating a new legal category called the 'non-human corporation' — a company owned and run by AI — with President Javier Milei writing a Financial Times op-ed branding the country as the world's deregulated home for AI [1]. The bill aims to make Argentina the easiest place on earth to run a company, in line with Milei's broader deregulation drive [1]. These AI-run entities would still receive liability protection plus favorable corporate tax and governance treatment [1]. Historian Yuval Noah Harari pushed back with his own opinion piece, warning that AI legal personhood could produce an 'AI state' impossible to regulate [1].",
+      "bullets": [
+        {"label": "First-mover law:", "text": "The legislation skates to where the technology is heading — AI systems that can genuinely operate a business end to end [1]."},
+        {"label": "Full corporate perks:", "text": "Non-human corporations get liability shields and favorable tax and governance treatment, just like human-owned firms [1]."},
+        {"label": "The Harari rebuttal:", "text": "Granting AI legal personhood, he argues, risks entities that accumulate wealth and power with no human accountable [1]."}
+      ],
+      "callout": {
+        "type": "long_arc",
+        "label": "LONG ARC",
+        "text": "When things go wrong inside an AI-run company, who is held responsible — and how? Milei's bill answers the incorporation question while leaving the accountability question wide open [1]."
+      },
+      "sources": [
+        {"title": "Buenos Aires Times via The Rundown AI", "url": "https://www.batimes.com.ar/news/argentina/milei-promises-tech-firms-new-laws-and-unregulated-ai-in-argentina.phtml"}
+      ]
+    },
+    {
+      "number": "07",
+      "category": "AI . PRODUCT",
+      "title": "NotebookLM goes agentic: every notebook gets its own computer.",
+      "highlight_phrase": "goes agentic",
+      "toc_summary": "Google upgraded NotebookLM with agentic chat — each notebook now has a sandboxed computer that writes and runs code, and outputs PDFs, spreadsheets, and slides.",
+      "quick_take": "Google updated NotebookLM with agentic chat, giving each notebook a sandboxed computer that can write and run code [1]. The research tool that built its reputation on strictly source-grounded answers now produces new output formats including PDFs, spreadsheets, and slides [1]. The Rundown simultaneously lists it among trending tools as Google's 'newly upgraded research agent platform' — a notable shift in framing from note-taking aid to agent [1].",
+      "bullets": [
+        {"label": "Sandboxed compute:", "text": "Each notebook gets its own isolated computer to write and execute code against your uploaded sources [1]."},
+        {"label": "Deliverable outputs:", "text": "Beyond briefings and audio overviews, NotebookLM now generates PDFs, spreadsheets, and slide decks [1]."},
+        {"label": "Source-grounded by design:", "text": "NotebookLM answers only from uploaded sources with traceable citations — which makes its agentic turn unusually auditable [2]."}
+      ],
+      "callout": {
+        "type": "do_this_today",
+        "label": "DO THIS TODAY",
+        "text": "Load a research notebook you already trust and ask it to build a spreadsheet or slide deck from its own sources — the upgrade converts grounded research directly into work products [1]."
+      },
+      "sources": [
+        {"title": "Google blog via The Rundown AI", "url": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/"},
+        {"title": "Everlast AI", "url": "https://everlastai.substack.com/p/ki-tools-so-baust-du-den-stack-der"}
+      ]
+    },
+    {
+      "number": "08",
+      "category": "AI . PRODUCT",
+      "title": "Kimi for Work puts 300 parallel agents on your desktop.",
+      "highlight_phrase": "300 parallel agents",
+      "toc_summary": "Moonshot's native macOS/Windows app runs up to 300 local agents in parallel, steering real browsers via WebBridge with persistent cross-session memory.",
+      "quick_take": "Moonshot is shipping its agent as a native desktop app for macOS and Windows called Kimi for Work [1]. Up to 300 agents can be launched locally in parallel, each working independently on its own subtask [1]. Through the WebBridge system the agents steer real browsers — clicking, researching, and filling forms like a human — while a dedicated memory system holds context across sessions [1]. A chat window becomes a small workforce of digital employees running in the background while you move on to the next thing [1].",
+      "bullets": [
+        {"label": "Local-first scale:", "text": "Up to 300 parallel agents run on your own machine rather than in Moonshot's cloud [1]."},
+        {"label": "Real browser control:", "text": "WebBridge lets agents operate actual browsers — clicking, researching, form-filling — like a human would [1]."},
+        {"label": "Persistent memory:", "text": "A built-in memory system carries context across sessions, so the workforce doesn't forget between tasks [1]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "The desktop, not the cloud, is becoming the battleground for agent swarms — and a Chinese lab is shipping consumer-grade multi-agent orchestration while Western labs gate it behind APIs [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "09",
+      "category": "AI . BUSINESS",
+      "title": "Moonshot eyes a $30 billion valuation on Kimi's momentum.",
+      "highlight_phrase": "$30 billion",
+      "toc_summary": "The Chinese AI startup is reportedly set to raise $1–2B at an estimated $30B valuation, driven by strong Kimi model growth.",
+      "quick_take": "Chinese AI startup Moonshot is reportedly set to raise between $1 billion and $2 billion at an estimated $30 billion valuation [1]. The round is driven by the strong growth of its Kimi models [1], and lands the same week the company ships Kimi for Work, its local multi-agent desktop app [2]. China's AI race keeps intensifying, with its leading labs now commanding valuations that rival established Western players [1].",
+      "bullets": [
+        {"label": "The raise:", "text": "$1–2B in fresh funding at a roughly $30B valuation, per SCMP reporting [1]."},
+        {"label": "What's driving it:", "text": "Kimi's model line has seen strong adoption growth, giving Moonshot one of the hottest trajectories among China's AI labs [1]."},
+        {"label": "Product proof:", "text": "The simultaneous Kimi for Work launch shows the model momentum converting into shipped, differentiated product [2]."}
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "BIG PICTURE",
+        "text": "While US labs file S-1s, China's top labs raise privately at accelerating valuations — two financing systems funding the same race [1]."
+      },
+      "sources": [
+        {"title": "SCMP via The Rundown AI", "url": "https://www.scmp.com/tech/article/3356348/moonshot-ai-eyes-us30-billion-valuation-chinas-ai-race-intensifies"},
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "10",
+      "category": "WORLD . POLICY",
+      "title": "The UK bets £1.1 billion on homegrown AI hardware.",
+      "highlight_phrase": "£1.1 billion",
+      "toc_summary": "A new AI Hardware Plan backs British chip startups, including £750M for a national supercomputer.",
+      "quick_take": "The UK government launched a £1.1 billion AI Hardware Plan aimed at backing homegrown chip startups [1]. The package includes £750 million for a national supercomputer [1]. It is a sovereignty play in miniature: after years of relying on US accelerators and cloud capacity, Britain is buying itself a domestic on-ramp to AI compute [1].",
+      "bullets": [
+        {"label": "The headline number:", "text": "£1.1B total, with £750M earmarked for a national supercomputer [1]."},
+        {"label": "Startup focus:", "text": "The plan explicitly targets homegrown chip companies rather than subsidizing foreign fabs [1]."},
+        {"label": "The pattern:", "text": "It joins a global wave of sovereign-compute programs as governments treat AI hardware like critical infrastructure [1]."}
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "Whether £750M buys a globally relevant supercomputer in 2026's GPU market — and which UK chip startups actually capture the remainder [1]."
+      },
+      "sources": [
+        {"title": "Reuters via The Rundown AI", "url": "https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/"}
+      ]
+    },
+    {
+      "number": "11",
+      "category": "AI . INFRASTRUCTURE",
+      "title": "Google and Nvidia quietly audition Intel as their TSMC fallback.",
+      "highlight_phrase": "TSMC fallback",
+      "toc_summary": "Both companies are reportedly working with Intel as a backup manufacturer, with Google ordering 3M+ AI chips for 2028 production.",
+      "quick_take": "Google and Nvidia are both reportedly working with Intel as a fallback manufacturer to TSMC [1]. Google has gone furthest, ordering more than 3 million of its AI chips for 2028 production [1]. With essentially all frontier AI silicon flowing through one Taiwanese foundry, the industry's two biggest chip designers are paying real money to de-risk the single most concentrated dependency in the AI supply chain [1].",
+      "bullets": [
+        {"label": "The hedge:", "text": "Intel becomes the designated plan B for both Google and Nvidia against TSMC concentration risk [1]."},
+        {"label": "Real volume:", "text": "Google's 3M+ chip order for 2028 turns the hedge from an option into a committed production line [1]."},
+        {"label": "Intel's stakes:", "text": "Landing sustained foundry work from the two marquee AI chip designers would be the validation Intel's foundry business has chased for years [1]."}
+      ],
+      "callout": {
+        "type": "big_picture",
+        "label": "BIG PICTURE",
+        "text": "Geopolitical risk around Taiwan is now priced into chip roadmaps years ahead. A credible second foundry changes the bargaining structure of the entire AI buildout [1]."
+      },
+      "sources": [
+        {"title": "The Information via The Rundown AI", "url": "https://www.theinformation.com/articles/google-nvidia-consider-intel-backup-chip-manufacturer"}
+      ]
+    },
+    {
+      "number": "12",
+      "category": "AI . BUSINESS",
+      "title": "Copilot still leads coding AI, but Claude Code grew sixfold.",
+      "highlight_phrase": "Claude Code",
+      "toc_summary": "Workplace survey: GitHub Copilot holds 29%, Claude Code and Cursor tie at 18% — with Claude Code up from 3% in about a year.",
+      "quick_take": "GitHub Copilot remains the most-used AI coding tool at work with 29% [1]. Behind it the field tightens: Claude Code and Cursor are tied at 18% each [1]. The remarkable number is the velocity — Claude Code jumped from 3% to 18% in roughly a year, a sixfold increase, and 24% of developers in the US and Canada already use it at work [1]. JetBrains AI Assistant follows at 9%, Google Antigravity at 6%, Junie at 5%, and OpenAI Codex at 3% [1].",
+      "bullets": [
+        {"label": "The standings:", "text": "Copilot 29%, Claude Code 18%, Cursor 18%, JetBrains AI Assistant 9%, Google Antigravity 6%, Junie 5%, OpenAI Codex 3% [1]."},
+        {"label": "Fastest riser:", "text": "Claude Code went from 3% to 18% in about a year — and to 24% among US/Canada developers [1]."},
+        {"label": "Incumbent advantage eroding:", "text": "Copilot's IDE-bundled distribution lead is shrinking as agentic CLI tools take share from autocomplete-era products [1]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "The coding-tool market is re-ranking around agentic capability rather than editor integration. A sixfold share jump in one year is what a paradigm change looks like in adoption data [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "13",
+      "category": "AI . PRODUCT",
+      "title": "Hivemind gives coding agents a shared, self-improving memory.",
+      "highlight_phrase": "shared, self-improving memory",
+      "toc_summary": "The open-source tool distills traces from Claude Code, Codex, and Cursor into reusable skills — +19.1 accuracy points in Claude Code, +24.8 in Codex.",
+      "quick_take": "Hivemind inverts how teams teach AI agents: instead of training each agent individually, it collects execution traces from every agent a team uses — Claude Code, Codex, Cursor — and distills them into reusable skills [1]. Those skills flow back to all agents, so shared capability grows with every completed task, all stored on the team's own cloud storage [1]. The built-in SkillOpt module actively trains the skills further and posts hard numbers: +19.1 accuracy points in Claude Code and +24.8 in Codex, ranking best or tied in all 52 tested setups [1]. It is open source with a one-line install [1].",
+      "bullets": [
+        {"label": "Cross-agent learning:", "text": "Traces from all of a team's agents are distilled into skills that work across Claude Code, Codex, and Cursor alike [1]."},
+        {"label": "Measured gains:", "text": "SkillOpt delivers +19.1 points accuracy in Claude Code and +24.8 in Codex, best or tied across all 52 setups tested [1]."},
+        {"label": "Own your memory:", "text": "Everything lives on the team's own cloud storage — the collective memory is an asset you keep, not a vendor lock-in [1]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Skills earned in one agent transferring to all others turns team experience into compounding infrastructure — and makes the agent layer more interchangeable, not less [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "14",
+      "category": "AI . APPLICATIONS",
+      "title": "NVIDIA turns every bank transfer into a token to be modeled.",
+      "highlight_phrase": "every bank transfer",
+      "toc_summary": "Transaction Foundation Models apply the LLM principle to money flows — Revolut and Mastercard already run them on NVIDIA's stack.",
+      "quick_take": "What language models do with text, Transaction Foundation Models are meant to do with money flows: build trained understanding from billions of individual financial events — payments, transfers, behavioral signals — instead of rigid rule sets [1]. Revolut and Mastercard are already running the approach on NVIDIA's accelerator stack, trained on their own proprietary data [1]. NVIDIA claims better fraud detection, more precise credit scoring, and sharper personalization than classical methods deliver [1].",
+      "bullets": [
+        {"label": "The analogy:", "text": "Transactions become the tokens; the model learns the grammar of money the way an LLM learns the grammar of language [1]."},
+        {"label": "Production users:", "text": "Revolut and Mastercard are live on NVIDIA's stack with models trained on their proprietary transaction data [1]."},
+        {"label": "Claimed wins:", "text": "Fraud detection, credit scoring, and personalization all reportedly beat classical rule- and feature-based approaches [1]."}
+      ],
+      "callout": {
+        "type": "long_arc",
+        "label": "LONG ARC",
+        "text": "The next competition in banking won't run on features but on whose model truly understands its data. Foundation models are escaping text into every domain with an event stream [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "15",
+      "category": "AI . PHYSICAL WORLD",
+      "title": "A humanoid shop assistant now works for €1.70 an hour.",
+      "highlight_phrase": "€1.70 an hour",
+      "toc_summary": "Schotti, a Unitree G1-based robot, guides customers through a German discount hardware store at operating costs that reframe service labor.",
+      "quick_take": "In a German discount hardware store, a humanoid robot called Schotti — built on the Unitree G1 — works as a sales advisor [1]. Customers ask where a product is, and Schotti walks them personally to the right shelf [1]. The real shift is in the arithmetic: €1.70 per hour in operating costs [1]. At that price, the question of which service work stays human and which goes to machines starts answering itself [1].",
+      "bullets": [
+        {"label": "From stage to aisle:", "text": "First came dance demos, now real customers; next come grasping and delivering products — humanoids are seeping into services step by step [1]."},
+        {"label": "The number that matters:", "text": "€1.70/hour operating cost makes the robot dramatically cheaper than any human staffing model for basic floor assistance [1]."},
+        {"label": "Off-the-shelf base:", "text": "Schotti runs on Unitree's G1 platform, showing how quickly commodity humanoid hardware can be dressed for retail work [1]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "Service-sector automation arrives not with one breakthrough but with a price tag. At €1.70/hour, the discussion shifts from whether robots can do the job to which jobs survive the comparison [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "16",
+      "category": "AI . PHYSICAL WORLD",
+      "title": "MATRIX-3 gives humanoids soft skin that can actually feel.",
+      "highlight_phrase": "soft skin",
+      "toc_summary": "Matrix Robotics' Shanghai-unveiled humanoid has artificial skin with full-body pressure sensors — collisions become information, not risk.",
+      "quick_take": "In Shanghai, Matrix Robotics unveiled MATRIX-3, a humanoid with soft artificial skin and pressure sensors integrated across its entire surface [1]. Touch becomes measurable; collisions become information rather than danger [1]. Its hands grip tools as securely as fragile objects, with precisely dosed force [1]. It is the step from a machine that only knows strength to one that develops a sense of touch — the capability that decides whether robots can truly work beside humans in factories and homes [1].",
+      "bullets": [
+        {"label": "Full-body sensing:", "text": "Pressure sensors under soft synthetic skin cover the whole robot, making every contact a data point [1]."},
+        {"label": "Dosed grip:", "text": "The same hands handle tools and fragile objects, modulating force precisely per object [1]."},
+        {"label": "Safety unlock:", "text": "When collisions are sensed rather than survived, humanoids can share space with people instead of being caged off [1]."}
+      ],
+      "callout": {
+        "type": "long_arc",
+        "label": "LONG ARC",
+        "text": "Tactile sensing is the quiet prerequisite for household and factory humanoids. Whoever solves touch at scale decides when robots leave the demo floor for daily life [1]."
+      },
+      "sources": [
+        {"title": "KI Bubble", "url": "https://www.kibubble.news/p/microsoft-wirbt-mit-sauberen-ki-daten"}
+      ]
+    },
+    {
+      "number": "17",
+      "category": "AI . APPLICATIONS",
+      "title": "Everlast maps the four-layer tool stack of AI power users.",
+      "highlight_phrase": "four-layer tool stack",
+      "toc_summary": "From 1,250 tested tools, 20 picks across agent layer, agent tools, daily drivers, and monitoring — with Codex used by just 0.5% of ChatGPT users.",
+      "quick_take": "Everlast AI published its 2026 tool stack — via a YouTube deep-dive and matching newsletter — distilling 1,250 tested AI tools down to the 20 that deliver, organized in four layers: agent layer, agent tools, daily drivers, and monitoring [1][2]. The agent layer pairs Codex (used by only ~0.5% of ChatGPT users despite targeting all knowledge workers), Claude Code (orchestrating up to 1,000 subagents via Ultra-Code workflows), Cursor (whose SpaceX-co-developed Composer model codes up to 4× faster), and Google AI Studio [1][2]. The thesis: individual tools matter less than a coherent, GDPR-capable stack where agents, tool access, foundations, and monitoring interlock [2].",
+      "bullets": [
+        {"label": "Agent tools via MCP/CLI/Skills:", "text": "Browser Use, Excalidraw MCP, n8n-MCP, Meta Ads CLI, Higgsfield CLI, Google Workspace CLI, AgentMail (a separate inbox so agents never touch your private mail), and Remotion for code-generated video [1][2]."},
+        {"label": "Daily drivers:", "text": "Supabase as combined SQL + vector single source of truth, Ollama for local models (2× faster with MLX), Cloudflare Zero Trust/Workers for secure deployment, NotebookLM, Voicely for EU-hosted dictation, and Magnific for creative workflows [1][2]."},
+        {"label": "Monitoring layer:", "text": "Langfuse — the Berlin open-source project acquired by ClickHouse — logs every model call with prompt, latency, and cost, plus LLM-as-a-judge quality scoring [1][2]."},
+        {"label": "Memorable line:", "text": "'I have a Claude that instructs my other Claudes. I don't even talk to Claude directly anymore.' [1]"}
+      ],
+      "callout": {
+        "type": "do_this_today",
+        "label": "DO THIS TODAY",
+        "text": "Audit your own setup against the four layers: if you have agents but no monitoring, or tools but no agent-accessible interfaces (MCP/CLI), you have a collection — not a stack [2]."
+      },
+      "sources": [
+        {"title": "Everlast AI (YouTube)", "url": "https://www.youtube.com/watch?v=w2fVxiUPTv4"},
+        {"title": "Everlast AI (Substack)", "url": "https://everlastai.substack.com/p/ki-tools-so-baust-du-den-stack-der"}
+      ]
+    },
+    {
+      "number": "18",
+      "category": "AI . APPLICATIONS",
+      "title": "Claude plus Granola can cut your recurring meetings in half.",
+      "highlight_phrase": "recurring meetings",
+      "toc_summary": "The Rundown's guide: connect Granola to Claude, audit five instances of one recurring meeting, and automate the pre-read.",
+      "quick_take": "The Rundown published a hands-on guide for shortening recurring meetings with Claude and Granola [1]. The workflow: connect Granola as a Claude connector, then have Claude audit the five most recent instances of one recurring meeting for repeated status updates, delayed decisions, unresolved topics, and tasks AI could handle before the meeting [1]. From the audit, Claude produces a one-page pre-read, a list of pre-meeting AI tasks, and a workflow that can flow into Calendar, Notion, or Slack [1].",
+      "bullets": [
+        {"label": "Setup:", "text": "Connect Granola via Customize > Connectors > Browse connectors in Claude, then authenticate [1]."},
+        {"label": "The audit prompt:", "text": "Ask Claude to scan five recent instances of one meeting for friction: repeated updates, stalled decisions, repetitive questions, automatable tasks [1]."},
+        {"label": "Make it stick:", "text": "Have Claude build a Granola note template (decisions, action items, unresolved topics) and automations that populate the pre-read before every recurrence [1]."}
+      ],
+      "callout": {
+        "type": "do_this_today",
+        "label": "DO THIS TODAY",
+        "text": "Pick your most painful recurring meeting and run the audit — the pre-read alone typically replaces the status-update half of the agenda [1]."
+      },
+      "sources": [
+        {"title": "The Rundown AI guide", "url": "https://app.therundown.ai/guides/cut-recurring-meeting-times-in-half-claude-granola"}
+      ]
+    },
+    {
+      "number": "19",
+      "category": "AI . PRODUCT",
+      "title": "Cognition folds Windsurf into Devin Desktop for managing agents.",
+      "highlight_phrase": "Devin Desktop",
+      "toc_summary": "The Windsurf IDE re-emerges as Devin Desktop, Cognition's hub for managing coding agents.",
+      "quick_take": "Cognition has rebranded Windsurf as Devin Desktop, repositioning the IDE it acquired as a hub for managing coding agents [1]. The move completes the absorption of Windsurf into the Devin product family after Cognition picked up the company's assets in 2025 [1]. It also tracks the industry-wide pattern of the day: development environments re-architected around supervising agents rather than writing code by hand [1].",
+      "bullets": [
+        {"label": "The rebrand:", "text": "Windsurf becomes Devin Desktop, listed among the week's trending AI tools as a manager for coding agents [1]."},
+        {"label": "Strategic fit:", "text": "Cognition pairs its autonomous Devin agent with a desktop surface where humans assign, watch, and steer agent work [1]."},
+        {"label": "The pattern:", "text": "Like Cursor's parallel-agent push and Kimi for Work, the IDE is morphing into an agent control room [1]."}
+      ],
+      "callout": {
+        "type": "what_to_watch",
+        "label": "WHAT TO WATCH",
+        "text": "Whether standalone agent-management surfaces survive as products, or get absorbed into the terminals and editors developers already live in [1]."
+      },
+      "sources": [
+        {"title": "The Rundown AI", "url": "https://www.rundown.ai/tools/devin-desktop"}
+      ]
+    },
+    {
+      "number": "20",
+      "category": "AI . APPLICATIONS",
+      "title": "A ten-minute Lovable app solved a whole campus's lunch problem.",
+      "highlight_phrase": "ten-minute Lovable app",
+      "toc_summary": "A Rundown reader in Freiberg built a canteen nutrition-coach app with Lovable in 10 minutes — demand drained his credits within days.",
+      "quick_take": "The Rundown's community workflow comes from reader Fabian in Freiberg, Germany, whose company canteen publishes menus online but buries the nutritional information [1]. Using Lovable, he built an app in ten minutes that extracts the nutritional values of all daily meals in the background and recommends the ideal dish — complete with a built-in nutrition coach that asks for weight, activity level, and goals [1]. After he shared it internally, usage was so heavy his credits were completely drained within the first few days [1].",
+      "bullets": [
+        {"label": "Ten minutes, real product:", "text": "Menu scraping, nutrition extraction, and a personalized recommendation engine — assembled in a single short Lovable session [1]."},
+        {"label": "Built-in coaching:", "text": "The app interviews users about weight, activity, and goals before recommending the day's ideal meal [1]."},
+        {"label": "Demand signal:", "text": "Internal sharing drained his credits within days — workplace micro-apps find their audiences instantly [1]."}
+      ],
+      "callout": {
+        "type": "why_it_matters",
+        "label": "WHY IT MATTERS",
+        "text": "The gap between 'minor everyday annoyance' and 'software worth building' has collapsed to ten minutes. Workplaces are full of these unbuilt apps — and now anyone can build them [1]."
+      },
+      "sources": [
+        {"title": "The Rundown AI", "url": "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of"}
+      ]
+    }
+  ],
+  "editorial": {
+    "title": "AI stops being a destination and starts being the substrate.",
+    "highlight_phrase": "the substrate",
+    "intro": "The unifying thread in today's haul is disappearance: the most consequential AI news is about AI vanishing into things that already exist.",
+    "body": "Apple's Siri AI is the loudest example — not a better chatbot but intelligence dissolved into the operating system of hundreds of millions of phones, invisible until summoned by context. The same dissolution shows up everywhere else. NVIDIA pushes foundation models into bank transfers. Argentina writes AI directly into corporate law. Stanford documents that three-quarters of everyday AI work now runs on hardware people own, not APIs they rent. Hivemind dissolves the boundary between coding agents by giving them one shared memory; Kimi for Work dissolves the boundary between chat window and workforce. Even the financial news fits the pattern: OpenAI's 'third phase' essay and its confidential S-1 are two halves of the same claim — that AI is no longer a product category but the thing the economy is being reshaped around. When both top labs propose pause-capable global coordination bodies in the same fortnight while filing IPO paperwork, they are telling us they believe their own thesis.",
+    "pull_quote": "The most consequential AI news is about AI vanishing into things that already exist.",
+    "outro": "The frontier still matters — but today's stories suggest the frontier's main job now is to feed the substrate: the OS, the bank, the law, the local machine. That is where the users are.",
+    "takeaway": {
+      "label": "IF YOU TAKE ONE THING FROM THIS",
+      "text": "Stop evaluating AI as apps and start evaluating it as infrastructure. The winners of this phase are choosing where intelligence gets embedded — in the OS, in the transaction stream, in the legal code — not who has the best chatbot."
+    }
+  }
+}
