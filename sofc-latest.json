@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "topSignals": [
     {
-      "title": "FERC RM26-4 open meeting today — large-load interconnection ruling for data centers imminent",
-      "text": "FERC held its monthly open meeting on June 18 with Agenda Item E-1 (Docket RM26-4-000) — the long-awaited ruling on interconnection of large loads (≥20 MW) to the interstate transmission system. The Commission may issue a Notice of Proposed Rulemaking or a final order. Pre-meeting stakeholder positions show two camps: (a) DOE proposal and utilities/PIOs favor 100% network upgrade cost assignment to the large load developer; (b) hyperscalers (Google, Microsoft, OpenAI, Meta) and the Data Center Coalition support expedited pathways with thresholds raised to 75–200 MW. RTOs (PJM, MISO, SPP) push for regional flexibility. A \"developer pays 100%\" outcome raises effective cost of grid-connected data center power by $10–50M+ per 250 MW project, structurally strengthening SOFC behind-the-meter economics. Ruling text expected at ferc.gov/rm26-4 later today. (White & Case: FERC June 2026 Agenda Summary; FERC docket)",
-      "url": "https://www.whitecase.com/insight-alert/summary-ferc-meeting-agenda-june-2026",
+      "title": "FERC RM26-4 confirmed (June 18): landmark Section 206 \"show cause\" orders to all six US grid operators.",
+      "text": "After being flagged as imminent in this digest since June 16, FERC issued six tailored orders under Section 206 of the Federal Power Act to PJM, MISO, SPP, CAISO, ISO-NE, and NYISO. Each operator must \"defend or revise\" large-load interconnection tariffs within 60 days; FERC's preliminary finding is that existing tariffs are \"unjust and unreasonable\" for large loads (data centers, manufacturing). Focus areas: cost transparency, co-location rules, study process reform. DOE Secretary Wright formally applauded the action. SOFC read: This is not a final cost-allocation rule — RTOs have 60 days to respond and final tariff changes will take 9–12+ months. BTM SOFC deployment advantage remains fully intact during that transition; the FERC process validates on-site power as a parallel track. (FERC fact sheet; Akin Gump; DOE applauds; Power Magazine)",
+      "url": "https://www.ferc.gov/news-events/news/fact-sheet-ferc-takes-action-supercharge-americas-grid-efficiency-reliability-and",
       "n": 1
     },
     {
-      "title": "Google confirmed as Project Jade customer; Tallgrass replaces Crusoe, project \"full steam ahead\"",
-      "text": "Bloomberg (reported via Blockspace) identified Google as the customer behind the 1.8 GW Cheyenne, Wyoming data center campus that triggered Crusoe's exit. Google raised concerns about costs and construction timetable; Tallgrass Energy is now sole developer and confirmed operations proceeding \"full steam ahead.\" Google contributed $200M+ in refundable construction contributions. Phase 1 targeted mid-2027; service to Google by early 2028. Planning documents show Bloom Energy fuel cells alongside Tallgrass natural gas generation infrastructure. This resolves the customer identity monitor flag from the June 16 digest and largely removes the headline overhang on Bloom's Cheyenne-linked pipeline. (Blockspace: Crusoe pushed out by Google; Cowboy State Daily: project continues)",
-      "url": "https://blockspace.media/insight/crusoe-pushed-out-wyoming-ai-campus-google/",
+      "title": "Bloom Energy hits all-time high $329.51 (+15.4% on June 18) on FERC catalyst — now +250%+ YTD, market cap ~$92B.",
+      "text": "The FERC ruling was the dominant driver; UBS maintained Buy at $322 target, calling FERC \"a clear positive for Bloom — more data centers are likely to bring their own power, and more utilities may partner with Bloom.\" Bernstein's cautious MP initiation at $276 (June 16) now sits 16% below market. Bloom's mid-year Data Center Power Report reinforces the 32% full off-grid target among US data centers. (TipRanks: BE ATH; Investing.com: ATH; StocksToTrade)",
+      "url": "https://www.tipranks.com/news/heres-why-bloom-energy-stock-be-hit-a-new-52-week-high-on-thursday-6-18-2026",
       "n": 2
     },
     {
-      "title": "Bloom Energy board grants CEO KR Sridhar 271K performance PSUs; market cap at $79B (8-K June 17)",
-      "text": "Bloom's board approved 271,076 performance-based restricted stock units for CEO KR Sridhar on June 15, tied to multi-year aggregate revenue targets with a mandatory hold until December 31, 2031. Market cap: ~$79B, up from ~$5B at end-2024 (+1,480% in 18 months). Signal: board's 5-year lock-up on a revenue-linked grant indicates internal conviction that AI data center fuel cell demand supports sustained multi-year growth, not a transitory spike. (Minichart: Bloom 8-K June 2026)",
-      "url": "https://www.minichart.com.sg/2026/06/18/bloom-energy-awards-performance-based-stock-units-amid-explosive-growth-details-from-june-2026-8-k-filing/",
+      "title": "EIA Q2 2026 Henry Hub spot confirmed ~$2.92/MMBtu — materially below FY2026 forecast.",
+      "text": "Q2 2026 average running at ~$2.92/MMBtu, below the $3.60/MMBtu FY2026 average and $3.34/MMBtu 2H26 forecast from the June 16 STEO. Muted summer demand is the driver; FY average rises with winter. LCOE flag: at $2.92/MMBtu, SOFC fuel input cost ≈ $0.028–$0.034/kWh at 55–60% LHV efficiency — among the lowest in recent years — pushing the near-term LCOE range toward the bottom of the $125–200/MWh unsubsidized band. (EIA STEO)",
+      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Quiet day. No new announcements from Bloom, Ceres, Elcogen, Sunfire, SolydEra, Mitsubishi, or Topsoe since June 17 digest.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -35,21 +35,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Jade / Google / Tallgrass (see Top Signals #2): Full buildout up to 2.7 GW, 600+ acres in Laramie County, WY. First buildings mid-2027. Bloom Energy fuel cells planned alongside Tallgrass natural gas infrastructure. Google's $200M+ upfront contribution signals firm commitment post-Crusoe. (Cowboy State Daily; Blockspace)",
-          "url": "https://cowboystatedaily.com/2026/06/11/partner-pulling-out-doesnt-slow-huge-2-7gw-cheyenne-project-jade-data-center/",
-          "sources": [
-            {
-              "title": "Cowboy State Daily",
-              "url": "https://cowboystatedaily.com/2026/06/11/partner-pulling-out-doesnt-slow-huge-2-7gw-cheyenne-project-jade-data-center/"
-            },
-            {
-              "title": "Blockspace",
-              "url": "https://blockspace.media/insight/crusoe-pushed-out-wyoming-ai-campus-google/"
-            }
-          ]
-        },
-        {
-          "text": "Confirmed pipeline (unchanged): Oracle 2.45 GW, Nebius $2.6B, Brookfield $5B, AEP $2.65B, Equinix 100 MW+ — all previously reported.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -59,12 +45,25 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC RM26-4 open meeting (today): See Top Signals #1. Ruling text pending at ferc.gov/rm26-4. Key watch: NOPR (proposed rules, 6-12 month comment period before binding) vs. final order (acts immediately). Cost-allocation model is the critical variable for SOFC BTM economics in US markets.",
-          "url": "",
-          "sources": []
+          "text": "FERC RM26-4 outcome (June 18): See Top Signals #1. RTOs have 60 days (filings due ~mid-August 2026) to defend or revise tariffs; final tariff changes not expected before Q1 2027. Grid-connected alternatives face at least 9–12 months of continued regulatory uncertainty, preserving SOFC BTM advantage. (Latitude Media; ENR; Data Center Knowledge)",
+          "url": "https://www.latitudemedia.com/news/ferc-to-grid-operators-connect-large-loads-to-transmission-faster/",
+          "sources": [
+            {
+              "title": "Latitude Media",
+              "url": "https://www.latitudemedia.com/news/ferc-to-grid-operators-connect-large-loads-to-transmission-faster/"
+            },
+            {
+              "title": "ENR",
+              "url": "https://www.enr.com/articles/63195-ferc-orders-grid-operators-to-rework-data-center-power-rules"
+            },
+            {
+              "title": "Data Center Knowledge",
+              "url": "https://www.datacenterknowledge.com/build-design/ferc-targets-grid-rules-for-data-centers-and-large-loads"
+            }
+          ]
         },
         {
-          "text": "Germany EnEfG: 13 days to July 1 deadline. New data centers commissioning from July 1 must achieve PUE ≤1.2 and ERF ≥10%; SOFC CHP qualifies. No new guidance or amendments today.",
+          "text": "Germany EnEfG: 12 days to July 1 deadline. New DCs commissioning from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥10%; 100% renewable electricity from January 1, 2027. No new guidance or amendments issued.",
           "url": "",
           "sources": []
         }
@@ -74,7 +73,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day. No new SMR, CCGT, gas turbine, or battery announcements since June 17.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -84,17 +83,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (NYSE:BE): Board conviction confirmed via CEO PSU grant (see Top Signals #3). Market cap $79B. Analyst consensus: Moderate Buy, avg target $203-$267 (18-21 analysts); Morgan Stanley OW $310, Bernstein MP $276 (cautious outlier, June 16). BE trading ~$280.",
-          "url": "",
-          "sources": []
+          "text": "Bloom Energy (NYSE:BE): Closed $329.51 on June 18, +15.4%; all-time high. Market cap ~$92B. UBS Buy $322 maintained post-FERC. BE +250%+ YTD. Bernstein MP $276 now 16% below market. (TradingKey)",
+          "url": "https://www.tradingkey.com/news/market-movers/261976796-market-movers-be-20260618",
+          "sources": [
+            {
+              "title": "TradingKey",
+              "url": "https://www.tradingkey.com/news/market-movers/261976796-market-movers-be-20260618"
+            }
+          ]
         },
         {
-          "text": "FuelCell Energy (NASDAQ:FCEL): No new developments. Shares ~$17. MCFC 12.5 MW block product in market.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Quiet day on Ceres Power, Elcogen, Sunfire financial news.",
+          "text": "Quiet day on FuelCell Energy (FCEL ~$17), Ceres Power (CWR), Elcogen, Sunfire.",
           "url": "",
           "sources": []
         }
@@ -104,7 +103,7 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Quiet day. No new papers, patents, or national-lab results.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -113,17 +112,17 @@
   ],
   "lcoe": [
     {
-      "text": "FERC cost-allocation outcome — SOFC BTM advantage quantification (pending ruling today): If FERC adopts 100% developer-pays network upgrade cost assignment, grid-connected data center power in PJM faces: $500K study deposit + $15K/MW readiness + 100% network upgrade costs ($10-50M per project). For a 250 MW project: $3.75M deposits + $10-50M network upgrades upfront — structurally widening the SOFC BTM cost advantage for US East Coast/Midwest deployments. If ruling is a NOPR, watch for comment deadline ~Q4 2026. (White & Case: FERC Agenda)",
-      "url": "https://www.whitecase.com/insight-alert/summary-ferc-meeting-agenda-june-2026",
+      "text": "Henry Hub Q2 2026 ~$2.92/MMBtu (NEW granular data): Q2 spot average running below both the FY2026 avg ($3.60/MMBtu) and 2H26 avg ($3.34/MMBtu) from the June 16 STEO. At $2.92/MMBtu, SOFC fuel input ≈ $0.028–$0.034/kWh (55–60% LHV). Near-term LCOE bottom of range: ~$125/MWh unsubsidized, potentially below $118/MWh CHP-adjusted. FY average expected to rise with winter demand; use $3.34–$3.60/MMBtu for H2 and FY planning scenarios. (EIA STEO)",
+      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
       "sources": [
         {
-          "title": "White & Case: FERC Agenda",
-          "url": "https://www.whitecase.com/insight-alert/summary-ferc-meeting-agenda-june-2026"
+          "title": "EIA STEO",
+          "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf"
         }
       ]
     },
     {
-      "text": "Henry Hub baseline: $3.60/MMBtu FY2026 avg (EIA June 16 STEO, covered June 17 digest) remains current. Q3 2026 quarterly forecast $3.22/MMBtu. No new weekly data this cycle.",
+      "text": "FERC reform timeline as LCOE factor (NEW context): RTO filings due ~mid-August 2026; final tariff changes Q1 2027 earliest. Grid-connected alternatives (PJM) continue to face $500K study deposit + $15K/MW readiness + 100% network upgrade costs until reforms finalize. SOFC BTM cost advantage quantification unchanged for at least 9–12 months. Use for project risk tables in LCOE model.",
       "url": "",
       "sources": []
     }
