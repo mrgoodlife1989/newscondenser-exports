@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-18",
+    "title": "Beating Beta — 2026-06-19",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,10 +9,10 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-18",
+      "title": "Markets Snapshot — 2026-06-19",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G 38",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: 38",
       "bullets": [
         {
           "label": "Equities",
@@ -28,7 +28,7 @@
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
+          "text": "Fear & Greed Index: 38"
         }
       ],
       "callout": null,
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Hinter den Kulissen",
-      "highlight_phrase": "Hinter den Kulissen",
-      "toc_summary": "Hinter den Kulissen",
-      "quick_take": "Der Druck, Washingtons schärfste Finanzaufsicht zu schwächen",
+      "title": "Tesla und KI",
+      "highlight_phrase": "Tesla und KI",
+      "toc_summary": "Tesla und KI",
+      "quick_take": "Worauf Anleger achten sollten.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Der Druck, Washingtons schärfste Finanzaufsicht zu schwächen"
+          "text": "Worauf Anleger achten sollten."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überw",
-      "highlight_phrase": "Angst, das Rentengeld auszugeben? Ein We",
-      "toc_summary": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überw",
-      "quick_take": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überwinden",
+      "title": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen.",
+      "highlight_phrase": "Kann ein 60-Sekunden-Spa-Besuch MRTs ers",
+      "toc_summary": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen.",
+      "quick_take": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Angst, das Rentengeld auszugeben? Ein Weg, die Furcht vor dem Leerstand zu überwinden"
+          "text": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinde",
-      "highlight_phrase": "Geerbtes IRA mit 500.000 USD – lässt sic",
-      "toc_summary": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinde",
-      "quick_take": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinderbildung senken?",
+      "title": "Mit 55 Jahren und 6 Jahren bis zur Rente",
+      "highlight_phrase": "Mit 55 Jahren und 6 Jahren bis zur Rente",
+      "toc_summary": "Mit 55 Jahren und 6 Jahren bis zur Rente",
+      "quick_take": "Sollte ich jetzt in Roth 401(k) umschichten?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Geerbtes IRA mit 500.000 USD – lässt sich die Steuerlast durch Nutzung für Kinderbildung senken?"
+          "text": "Sollte ich jetzt in Roth 401(k) umschichten?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwen",
-      "highlight_phrase": "Rumble erhält 22.000 Nvidia-Chips – CEO ",
-      "toc_summary": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwen",
-      "quick_take": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwende",
+      "title": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien.",
+      "highlight_phrase": "Trumps Iran-Abkommen als massives Kaufsi",
+      "toc_summary": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien.",
+      "quick_take": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Rumble erhält 22.000 Nvidia-Chips – CEO betont, dies sei keine modische Kehrtwende"
+          "text": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Jeffrey Gundlach",
-      "highlight_phrase": "Jeffrey Gundlach",
-      "toc_summary": "Jeffrey Gundlach",
-      "quick_take": "Fed-Chef Warsh wird nicht der \"Easy-Money\"-Chairman, den viele erhofften",
+      "title": "SpaceX-Aktie",
+      "highlight_phrase": "SpaceX-Aktie",
+      "toc_summary": "SpaceX-Aktie",
+      "quick_take": "Durchschnittskäufer nach IPO fast unter Wasser.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Fed-Chef Warsh wird nicht der \"Easy-Money\"-Chairman, den viele erhofften"
+          "text": "Durchschnittskäufer nach IPO fast unter Wasser."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhö",
-      "highlight_phrase": "Chairman Warsh enthält sich Zinsprognose",
-      "toc_summary": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhö",
-      "quick_take": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhöhung 2026",
+      "title": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank.",
+      "highlight_phrase": "Märkte rechnen mit deutlich hawkisherer ",
+      "toc_summary": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank.",
+      "quick_take": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Chairman Warsh enthält sich Zinsprognose – mehrere Mitglieder signalisieren Erhöhung 2026"
+          "text": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank."
         }
       ],
       "callout": null,
