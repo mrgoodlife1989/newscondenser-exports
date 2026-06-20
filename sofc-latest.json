@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "topSignals": [
     {
-      "title": "FERC RM26-4 confirmed (June 18): landmark Section 206 \"show cause\" orders to all six US grid operators.",
-      "text": "After being flagged as imminent in this digest since June 16, FERC issued six tailored orders under Section 206 of the Federal Power Act to PJM, MISO, SPP, CAISO, ISO-NE, and NYISO. Each operator must \"defend or revise\" large-load interconnection tariffs within 60 days; FERC's preliminary finding is that existing tariffs are \"unjust and unreasonable\" for large loads (data centers, manufacturing). Focus areas: cost transparency, co-location rules, study process reform. DOE Secretary Wright formally applauded the action. SOFC read: This is not a final cost-allocation rule — RTOs have 60 days to respond and final tariff changes will take 9–12+ months. BTM SOFC deployment advantage remains fully intact during that transition; the FERC process validates on-site power as a parallel track. (FERC fact sheet; Akin Gump; DOE applauds; Power Magazine)",
-      "url": "https://www.ferc.gov/news-events/news/fact-sheet-ferc-takes-action-supercharge-americas-grid-efficiency-reliability-and",
+      "title": "Topsoe hibernates Denmark SOEC factory, cancels US plant (May 26, 2026 — first digest coverage)",
+      "text": "Topsoe announced it will hibernate its Herning, Denmark SOEC factory after demonstrating commercial-scale manufacturing capability, and has cancelled its planned second SOEC factory in Chesterfield, Virginia. The restructuring cuts ~440 jobs and follows the termination of a 5 GW First Ammonia electrolyzer agreement (March 2026) and a 100 MW SOEC supply deal. CEO Elena Scaltritti: \"slower than expected development in targeted clean hydrogen markets.\" Topsoe raises its operating margin guidance by narrowing focus. SOFC read: A major European SOEC player pulling back from scale-up signals the green H2 supply chain for SOFC-H2 transition is developing slower than the optimistic electrolyzer ramp implied in prior digests. Near-term SOFC on natural gas is unaffected; long-term H2-fueled LCOE scenarios should flag Western SOEC supply chain risk. (Topsoe press release; QC Intel; Fuel Cells Works)",
+      "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated",
       "n": 1
     },
     {
-      "title": "Bloom Energy hits all-time high $329.51 (+15.4% on June 18) on FERC catalyst — now +250%+ YTD, market cap ~$92B.",
-      "text": "The FERC ruling was the dominant driver; UBS maintained Buy at $322 target, calling FERC \"a clear positive for Bloom — more data centers are likely to bring their own power, and more utilities may partner with Bloom.\" Bernstein's cautious MP initiation at $276 (June 16) now sits 16% below market. Bloom's mid-year Data Center Power Report reinforces the 32% full off-grid target among US data centers. (TipRanks: BE ATH; Investing.com: ATH; StocksToTrade)",
-      "url": "https://www.tipranks.com/news/heres-why-bloom-energy-stock-be-hit-a-new-52-week-high-on-thursday-6-18-2026",
+      "title": "InterContinental Energy P2(H2)Node: <$48/MWh off-grid green AI compute in Asia (May 12, 2026 — first digest coverage)",
+      "text": "Australian firm ICE unveiled an integrated architecture combining 1 GW nodes (200 MW AI data center + 800 MW green H2 production) delivering 99.995% uptime and all-in power costs claimed at below $48/MWh, achieved by co-locating wind/solar, electrolysis, and data center infrastructure to share CAPEX. Targets AI hyperscalers in Asia and Australia. Not SOFC — uses PEM hydrogen — but establishes a competing off-grid power model at a claimed cost well below SOFC standalone LCOE. LCOE watch: the $48/MWh is not directly comparable (H2 revenue offsets data center power cost); see LCOE section. (ICE press release; Fuel Cells Works)",
+      "url": "https://intercontinentalenergy.com/intercontinental-energys-game-changing-p2h2node-system-cuts-green-hydrogen-costs-and-scales-global-production/",
       "n": 2
     },
     {
-      "title": "EIA Q2 2026 Henry Hub spot confirmed ~$2.92/MMBtu — materially below FY2026 forecast.",
-      "text": "Q2 2026 average running at ~$2.92/MMBtu, below the $3.60/MMBtu FY2026 average and $3.34/MMBtu 2H26 forecast from the June 16 STEO. Muted summer demand is the driver; FY average rises with winter. LCOE flag: at $2.92/MMBtu, SOFC fuel input cost ≈ $0.028–$0.034/kWh at 55–60% LHV efficiency — among the lowest in recent years — pushing the near-term LCOE range toward the bottom of the $125–200/MWh unsubsidized band. (EIA STEO)",
-      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "title": "EFCF Lucerne — European SOFC/SOEC conference in 10 days (June 30 – July 3)",
+      "text": "The European Fuel Cell Forum convenes in Lucerne, chaired by Dr. Subhasish Mukerjee of Ceres Power. Program covers high-temperature fuel cells, electrolysers, and hydrogen; expected presentations from Elcogen (E3000 G2 commercial rollout data), Sunfire (pressurized stacks), SolydEra, academic MS-SOFC research, and Topsoe (post-restructuring positioning). Watch for new stack efficiency records, degradation benchmarks, and supply chain announcements. (EFCF 2026; Swiss Congress listing)",
+      "url": "https://www.efcf.com/2026",
       "n": 3
     }
   ],
@@ -35,7 +35,21 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "FuelCell Energy + Inuverse: 100 MW MCFC, Daegu, South Korea (first digest coverage): FCEL signed a Memorandum of Understanding with Inuverse for up to 100 MW of molten carbonate fuel cells at an AI-focused data center in Daegu, South Korea. Not SOFC, but marks FCEL's first announced Asian data center fuel cell deployment after pivoting from SOFC to MCFC. (FCEL press releases; Data Center Dynamics)",
+          "url": "https://investor.fce.com/press-releases/default.aspx",
+          "sources": [
+            {
+              "title": "FCEL press releases",
+              "url": "https://investor.fce.com/press-releases/default.aspx"
+            },
+            {
+              "title": "Data Center Dynamics",
+              "url": "https://www.datacenterdynamics.com/en/news/fuelcell-energy-launches-125mw-modular-energy-solution-for-data-center-sector/"
+            }
+          ]
+        },
+        {
+          "text": "Confirmed SOFC pipeline (unchanged): Oracle 2.45 GW (NM), Project Jade/Google/Tallgrass 2.7 GW (WY), Nebius $2.6B, Brookfield $5B, AEP $2.65B, Equinix 100 MW+.",
           "url": "",
           "sources": []
         }
@@ -45,27 +59,24 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC RM26-4 outcome (June 18): See Top Signals #1. RTOs have 60 days (filings due ~mid-August 2026) to defend or revise tariffs; final tariff changes not expected before Q1 2027. Grid-connected alternatives face at least 9–12 months of continued regulatory uncertainty, preserving SOFC BTM advantage. (Latitude Media; ENR; Data Center Knowledge)",
-          "url": "https://www.latitudemedia.com/news/ferc-to-grid-operators-connect-large-loads-to-transmission-faster/",
+          "text": "Germany EnEfG July 1 deadline: 10 days. New DCs commissioning from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥10% (rising to 15% in 2027, 20% in 2028); 100% renewable electricity from January 1, 2027. SOFC CHP waste heat qualifies for ERF ≥10%. No new guidance today. (Orrick: EnEfG draft amendment)",
+          "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
           "sources": [
             {
-              "title": "Latitude Media",
-              "url": "https://www.latitudemedia.com/news/ferc-to-grid-operators-connect-large-loads-to-transmission-faster/"
-            },
-            {
-              "title": "ENR",
-              "url": "https://www.enr.com/articles/63195-ferc-orders-grid-operators-to-rework-data-center-power-rules"
-            },
-            {
-              "title": "Data Center Knowledge",
-              "url": "https://www.datacenterknowledge.com/build-design/ferc-targets-grid-rules-for-data-centers-and-large-loads"
+              "title": "Orrick: EnEfG draft amendment",
+              "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
             }
           ]
         },
         {
-          "text": "Germany EnEfG: 12 days to July 1 deadline. New DCs commissioning from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥10%; 100% renewable electricity from January 1, 2027. No new guidance or amendments issued.",
-          "url": "",
-          "sources": []
+          "text": "FERC RM26-4: RTOs have until ~mid-August 2026 to respond to Section 206 show-cause orders. Final tariff changes expected Q1 2027. SOFC BTM advantage intact. (FERC.gov)",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC.gov",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
         }
       ]
     },
@@ -73,7 +84,17 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Topsoe SOEC pullback (see Top Signals #1): Reduces European electrolyzer supply capacity for green H2 — broadly negative for long-term SOFC-H2 transition timeline, though near-term natural-gas-fueled SOFC is unaffected.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "InterContinental Energy P2(H2)Node (see Top Signals #2): Competing off-grid model for Asia at claimed <$48/MWh via co-production of H2 and AI compute. Fundamentally different from dedicated SOFC BTM power delivery; relevant for SOFC positioning in Asian markets.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Quiet day. No new nuclear SMR, gas turbine, or battery announcements since June 19.",
           "url": "",
           "sources": []
         }
@@ -83,17 +104,12 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (NYSE:BE): Closed $329.51 on June 18, +15.4%; all-time high. Market cap ~$92B. UBS Buy $322 maintained post-FERC. BE +250%+ YTD. Bernstein MP $276 now 16% below market. (TradingKey)",
-          "url": "https://www.tradingkey.com/news/market-movers/261976796-market-movers-be-20260618",
-          "sources": [
-            {
-              "title": "TradingKey",
-              "url": "https://www.tradingkey.com/news/market-movers/261976796-market-movers-be-20260618"
-            }
-          ]
+          "text": "Bloom Energy (NYSE:BE): Holding ATH consolidation zone ~$328–330 on June 19 following ATH close of $329.51 on June 18. No new analyst actions today. Current targets: UBS Buy $322, Morgan Stanley OW $310, Bernstein MP $276. Manufacturing on track for 2 GW by end-2026.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Quiet day on FuelCell Energy (FCEL ~$17), Ceres Power (CWR), Elcogen, Sunfire.",
+          "text": "Quiet day on FuelCell Energy (FCEL ~$17), Ceres Power (CWR:LON), Elcogen, Sunfire financial news.",
           "url": "",
           "sources": []
         }
@@ -112,17 +128,35 @@
   ],
   "lcoe": [
     {
-      "text": "Henry Hub Q2 2026 ~$2.92/MMBtu (NEW granular data): Q2 spot average running below both the FY2026 avg ($3.60/MMBtu) and 2H26 avg ($3.34/MMBtu) from the June 16 STEO. At $2.92/MMBtu, SOFC fuel input ≈ $0.028–$0.034/kWh (55–60% LHV). Near-term LCOE bottom of range: ~$125/MWh unsubsidized, potentially below $118/MWh CHP-adjusted. FY average expected to rise with winter demand; use $3.34–$3.60/MMBtu for H2 and FY planning scenarios. (EIA STEO)",
-      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "text": "Topsoe SOEC pullback — Western H2 supply chain risk flag (NEW): Topsoe hibernating Herning + cancelling Chesterfield US plant reduces Western SOEC capacity. Prior digest established Western electrolyzer CAPEX at $700–1,000/kW vs. Chinese $300–450/kW. Topsoe's exit concentrates European SOEC development in Sunfire and smaller players. For SOFC LCOE H2-transition scenarios: add 2–3 additional years of supply chain delay risk vs. prior baseline for European deployments; Chinese SOEC trajectory unchanged. (Topsoe; QC Intel)",
+      "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated",
       "sources": [
         {
-          "title": "EIA STEO",
-          "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf"
+          "title": "Topsoe",
+          "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated"
+        },
+        {
+          "title": "QC Intel",
+          "url": "https://www.qcintel.com/hydrogen/article/topsoe-cancels-second-soec-factory-in-us-herning-to-be-hibernated-65139.html"
         }
       ]
     },
     {
-      "text": "FERC reform timeline as LCOE factor (NEW context): RTO filings due ~mid-August 2026; final tariff changes Q1 2027 earliest. Grid-connected alternatives (PJM) continue to face $500K study deposit + $15K/MW readiness + 100% network upgrade costs until reforms finalize. SOFC BTM cost advantage quantification unchanged for at least 9–12 months. Use for project risk tables in LCOE model.",
+      "text": "InterContinental Energy $48/MWh benchmark (NEW — requires interpretation): ICE's <$48/MWh AI compute power is achieved by co-producing 800 MW of H2 alongside 200 MW of data center capacity, netting H2 revenues against power costs. Not a standalone power generation LCOE and not directly comparable to SOFC ($125–200/MWh unsubsidized). Relevant for competitive benchmarking in Asian markets with strong H2 offtake; less applicable for European/US SOFC BTM deployments. (ICE; Hydrocarbon Processing)",
+      "url": "https://intercontinentalenergy.com",
+      "sources": [
+        {
+          "title": "ICE",
+          "url": "https://intercontinentalenergy.com"
+        },
+        {
+          "title": "Hydrocarbon Processing",
+          "url": "https://www.hydrocarbonprocessing.com/news/2026/05/intercontinental-energy-s-p2-h2-node-integrates-ai-data-center-capability-to-deliver-low-cost-ultra-reliable-green-compute/"
+        }
+      ]
+    },
+    {
+      "text": "Henry Hub (unchanged from June 19 digest): Q2 2026 spot ~$2.92/MMBtu; 2H26 forecast $3.34/MMBtu; FY2026 avg $3.60/MMBtu (EIA June 16 STEO). At current spot, SOFC fuel input ≈ $0.028–$0.034/kWh. No new weekly data today; EIA publishes Thursday.",
       "url": "",
       "sources": []
     }
