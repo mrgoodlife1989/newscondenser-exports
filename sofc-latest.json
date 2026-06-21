@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "topSignals": [
     {
-      "title": "Topsoe hibernates Denmark SOEC factory, cancels US plant (May 26, 2026 — first digest coverage)",
-      "text": "Topsoe announced it will hibernate its Herning, Denmark SOEC factory after demonstrating commercial-scale manufacturing capability, and has cancelled its planned second SOEC factory in Chesterfield, Virginia. The restructuring cuts ~440 jobs and follows the termination of a 5 GW First Ammonia electrolyzer agreement (March 2026) and a 100 MW SOEC supply deal. CEO Elena Scaltritti: \"slower than expected development in targeted clean hydrogen markets.\" Topsoe raises its operating margin guidance by narrowing focus. SOFC read: A major European SOEC player pulling back from scale-up signals the green H2 supply chain for SOFC-H2 transition is developing slower than the optimistic electrolyzer ramp implied in prior digests. Near-term SOFC on natural gas is unaffected; long-term H2-fueled LCOE scenarios should flag Western SOEC supply chain risk. (Topsoe press release; QC Intel; Fuel Cells Works)",
-      "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated",
+      "title": "Iran War \"Islamabad MOU\" (June 18): Strait of Hormuz ceasefire extended — European TTF peaked at >€60/MWh during crisis.",
+      "text": "The 2026 Iran war (US/Israeli operations vs. Iran from Feb 28) closed the Strait of Hormuz, disrupting 20% of global oil and ~20% of global LNG. European TTF gas prices nearly doubled to over €60/MWh by mid-March 2026; Asian LNG spot prices surged 140%; QatarEnergy declared force majeure. An initial April 8 ceasefire broke down (Iran reinstated blockade in mid-June citing US MOU breaches), but a new \"Islamabad MOU\" signed June 18 aims to extend the ceasefire 60 days and reopen Hormuz. Critical LCOE flag for INOCEL model: At €60/MWh TTF, SOFC fuel input cost ≈ €0.088–0.107/kWh (55–60% LHV) — vs. US Henry Hub $2.92/MMBtu where fuel input is $0.028–0.034/kWh. European NG-fueled SOFC was severely impaired at peak crisis. Post-MOU TTF recovery trajectory is now the #1 European LCOE variable. Storage remains critically low (~30% capacity mid-March vs. normal 60–70%). (Wikipedia: 2026 Iran war fuel crisis; Euronews: European gas prices; Al Jazeera: US-Iran MOU June 18; Wikipedia: 2026 Iran war ceasefire)",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis",
       "n": 1
     },
     {
-      "title": "InterContinental Energy P2(H2)Node: <$48/MWh off-grid green AI compute in Asia (May 12, 2026 — first digest coverage)",
-      "text": "Australian firm ICE unveiled an integrated architecture combining 1 GW nodes (200 MW AI data center + 800 MW green H2 production) delivering 99.995% uptime and all-in power costs claimed at below $48/MWh, achieved by co-locating wind/solar, electrolysis, and data center infrastructure to share CAPEX. Targets AI hyperscalers in Asia and Australia. Not SOFC — uses PEM hydrogen — but establishes a competing off-grid power model at a claimed cost well below SOFC standalone LCOE. LCOE watch: the $48/MWh is not directly comparable (H2 revenue offsets data center power cost); see LCOE section. (ICE press release; Fuel Cells Works)",
-      "url": "https://intercontinentalenergy.com/intercontinental-energys-game-changing-p2h2node-system-cuts-green-hydrogen-costs-and-scales-global-production/",
+      "title": "BLM fast-tracks Green Chile pipeline for Project Jupiter (May 7 — first digest coverage)",
+      "text": "Bureau of Land Management granted expedited right-of-way for the ~18-mile, $60M Green Chile Natural Gas Pipeline using DOI emergency powers (14-day review vs. standard 1-year). Pipeline moves up to 400 MMcf/day from El Paso Natural Gas to the Bloom SOFC site in Doña Ana County, NM, for Oracle/OpenAI's Project Jupiter (2.45 GW Bloom SOFC). Partially resolves the gas supply uncertainty flagged in the June 9 digest. Remaining hurdles: (1) NM State Land Office denied state trust land rights; (2) FERC staff challenged Transwestern's application as incomplete; (3) NM environmental groups filed formal objections. Progress, not resolution. (Source NM: BLM fast-track; PGJ Online: BLM approves; Organ Mountain News)",
+      "url": "https://sourcenm.com/2026/05/07/blm-fast-tracks-green-chile-pipeline-construction-review-for-new-mexico-data-center-project-jupiter/",
       "n": 2
     },
     {
-      "title": "EFCF Lucerne — European SOFC/SOEC conference in 10 days (June 30 – July 3)",
-      "text": "The European Fuel Cell Forum convenes in Lucerne, chaired by Dr. Subhasish Mukerjee of Ceres Power. Program covers high-temperature fuel cells, electrolysers, and hydrogen; expected presentations from Elcogen (E3000 G2 commercial rollout data), Sunfire (pressurized stacks), SolydEra, academic MS-SOFC research, and Topsoe (post-restructuring positioning). Watch for new stack efficiency records, degradation benchmarks, and supply chain announcements. (EFCF 2026; Swiss Congress listing)",
-      "url": "https://www.efcf.com/2026",
+      "title": "Bloom Energy risk flags intensify: $61M insider selling, 27× sales multiple, Morningstar \"highly overvalued\".",
+      "text": "Counter-signal to BE's ATH rally (+250% YTD, ~$329 as of June 20 close). Company insiders and directors liquidated >$61M in shares over the past 90 days. Morningstar flags stock \"highly overvalued\" at ~27× projected 2026 sales. Bernstein's MP initiation at $276 (June 16) sits ~16% below market. BMO Capital separately flagged that the Green Chile pipeline has not met FERC blanket certificate requirements — a potential Project Jupiter deployment bottleneck. No guidance revision expected by BMO, but the convergence of valuation pressure and infrastructure risk is a material counterweight heading into Q2 FY26 earnings (expected late July). (TradingKey: BE risks June 20; Investing.com: Bernstein initiation; Investing.com: BMO pipeline concerns)",
+      "url": "https://www.tradingkey.com/news/market-movers/261979237-market-movers-be-20260620",
       "n": 3
     }
   ],
@@ -35,18 +35,9 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "FuelCell Energy + Inuverse: 100 MW MCFC, Daegu, South Korea (first digest coverage): FCEL signed a Memorandum of Understanding with Inuverse for up to 100 MW of molten carbonate fuel cells at an AI-focused data center in Daegu, South Korea. Not SOFC, but marks FCEL's first announced Asian data center fuel cell deployment after pivoting from SOFC to MCFC. (FCEL press releases; Data Center Dynamics)",
-          "url": "https://investor.fce.com/press-releases/default.aspx",
-          "sources": [
-            {
-              "title": "FCEL press releases",
-              "url": "https://investor.fce.com/press-releases/default.aspx"
-            },
-            {
-              "title": "Data Center Dynamics",
-              "url": "https://www.datacenterdynamics.com/en/news/fuelcell-energy-launches-125mw-modular-energy-solution-for-data-center-sector/"
-            }
-          ]
+          "text": "Green Chile pipeline progress for Project Jupiter (see Top Signals #2): BLM fast-track is a partial win for Bloom's 2.45 GW Oracle deployment; remaining NM State Land Office and FERC hurdles still need resolution. Project costs: pipeline ~$60M ≈ $25/kW of installed SOFC capacity at 2.45 GW.",
+          "url": "",
+          "sources": []
         },
         {
           "text": "Confirmed SOFC pipeline (unchanged): Oracle 2.45 GW (NM), Project Jade/Google/Tallgrass 2.7 GW (WY), Nebius $2.6B, Brookfield $5B, AEP $2.65B, Equinix 100 MW+.",
@@ -59,7 +50,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Germany EnEfG July 1 deadline: 10 days. New DCs commissioning from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥10% (rising to 15% in 2027, 20% in 2028); 100% renewable electricity from January 1, 2027. SOFC CHP waste heat qualifies for ERF ≥10%. No new guidance today. (Orrick: EnEfG draft amendment)",
+          "text": "Germany EnEfG: July 1 deadline in 10 days. New DCs commissioning from July 1 must achieve PUE ≤1.2 at commissioning and ERF ≥10% (rising to 15% by 2027, 20% by 2028); 100% renewable electricity from January 1, 2027. SOFC CHP waste heat qualifies for ERF ≥10%. No new compliance guidance or amendments today. (Orrick: EnEfG draft amendment)",
           "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
           "sources": [
             {
@@ -69,12 +60,26 @@
           ]
         },
         {
-          "text": "FERC RM26-4: RTOs have until ~mid-August 2026 to respond to Section 206 show-cause orders. Final tariff changes expected Q1 2027. SOFC BTM advantage intact. (FERC.gov)",
+          "text": "FERC RM26-4: RTOs have until ~mid-August 2026 to respond to Section 206 show-cause orders. Final tariff changes Q1 2027 earliest. SOFC BTM advantage intact during transition. (FERC.gov)",
           "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
               "title": "FERC.gov",
               "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        },
+        {
+          "text": "US Fed June 17 FOMC (first digest coverage): Rates held at 3.50–3.75% (12-0 vote). Dot plot hawkish: 2026 median rate revised to 3.8% (from 3.4% in March); 9 of 12 members back at least one hike. Fed Chair Warsh's first meeting. 2026 inflation revised up to 3.6% headline (from 2.7%), driven partly by Iran war energy prices. Higher rates increase WACC for SOFC project financing and data center investment. (CNBC: Fed June 17; StockTitan)",
+          "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
+          "sources": [
+            {
+              "title": "CNBC: Fed June 17",
+              "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
+            },
+            {
+              "title": "StockTitan",
+              "url": "https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026"
             }
           ]
         }
@@ -84,17 +89,21 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Topsoe SOEC pullback (see Top Signals #1): Reduces European electrolyzer supply capacity for green H2 — broadly negative for long-term SOFC-H2 transition timeline, though near-term natural-gas-fueled SOFC is unaffected.",
-          "url": "",
-          "sources": []
+          "text": "Iran war energy shock strengthens BTM SOFC case in Europe (see Top Signals #1): At peak TTF €60/MWh, European grid electricity costs surged sharply → on-site generation (including SOFC) with contracted or stored fuel gained structural appeal. Post-ceasefire, European energy markets face structural tightness: storage critically low, recovery will take months. Long-term argument for energy independence and on-site generation in Europe is reinforced. (Euronews: European gas prices; Wikipedia: 2026 Strait of Hormuz crisis)",
+          "url": "https://www.euronews.com/business/2026/04/09/why-oil-and-gas-prices-could-stay-high-in-europe-even-if-the-iran-war-ends",
+          "sources": [
+            {
+              "title": "Euronews: European gas prices",
+              "url": "https://www.euronews.com/business/2026/04/09/why-oil-and-gas-prices-could-stay-high-in-europe-even-if-the-iran-war-ends"
+            },
+            {
+              "title": "Wikipedia: 2026 Strait of Hormuz crisis",
+              "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+            }
+          ]
         },
         {
-          "text": "InterContinental Energy P2(H2)Node (see Top Signals #2): Competing off-grid model for Asia at claimed <$48/MWh via co-production of H2 and AI compute. Fundamentally different from dedicated SOFC BTM power delivery; relevant for SOFC positioning in Asian markets.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Quiet day. No new nuclear SMR, gas turbine, or battery announcements since June 19.",
+          "text": "Quiet day on new nuclear SMR, CCGT, or grid-scale battery announcements since June 20.",
           "url": "",
           "sources": []
         }
@@ -104,12 +113,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (NYSE:BE): Holding ATH consolidation zone ~$328–330 on June 19 following ATH close of $329.51 on June 18. No new analyst actions today. Current targets: UBS Buy $322, Morgan Stanley OW $310, Bernstein MP $276. Manufacturing on track for 2 GW by end-2026.",
+          "text": "Bloom Energy (NYSE:BE): ~$329 on June 20 (Friday close), consolidating near ATH. Market cap ~$92B. Insider selling flag and valuation debate growing (see Top Signals #3). Next catalysts: Q2 FY26 earnings (expected late July) and EFCF technical signals (June 30).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Quiet day on FuelCell Energy (FCEL ~$17), Ceres Power (CWR:LON), Elcogen, Sunfire financial news.",
+          "text": "Ceres Power (CWR:LON): No new developments since June 16 capital raise close. EFCF Lucerne (June 30) is a key next event (Dr. Mukerjee chairs). Monitoring for royalty and Endura deployment updates.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Quiet day on FuelCell Energy (FCEL ~$17), Elcogen, Sunfire financial news.",
           "url": "",
           "sources": []
         }
@@ -128,35 +142,41 @@
   ],
   "lcoe": [
     {
-      "text": "Topsoe SOEC pullback — Western H2 supply chain risk flag (NEW): Topsoe hibernating Herning + cancelling Chesterfield US plant reduces Western SOEC capacity. Prior digest established Western electrolyzer CAPEX at $700–1,000/kW vs. Chinese $300–450/kW. Topsoe's exit concentrates European SOEC development in Sunfire and smaller players. For SOFC LCOE H2-transition scenarios: add 2–3 additional years of supply chain delay risk vs. prior baseline for European deployments; Chinese SOEC trajectory unchanged. (Topsoe; QC Intel)",
-      "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated",
+      "text": "European TTF gas price shock — Iran war (NEW, critical for INOCEL): TTF peaked at over €60/MWh by mid-March 2026 during Hormuz closure. Conversion: €60/MWh ≈ €6.50/MMBtu. At this price, SOFC fuel input cost ≈ €0.088–0.107/kWh (55–60% LHV efficiency) — vs. US Henry Hub $2.92/MMBtu where fuel input is $0.028–0.034/kWh. European SOFC economics during crisis were severely impaired on fuel cost alone. Post-MOU, European TTF is expected to ease but remains uncertain pending Hormuz reopening verification and storage rebuild. Recommended model action: add a European NG price scenario range (€20/MWh normal, €40/MWh elevated, €60/MWh crisis) to the LCOE sensitivity table; corresponding SOFC fuel cost: €0.029/kWh, €0.058/kWh, €0.088/kWh respectively at 60% LHV. (Wikipedia: 2026 Iran war fuel crisis; Euronews)",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis",
       "sources": [
         {
-          "title": "Topsoe",
-          "url": "https://www.topsoe.com/investors/financial-releases/topsoe-adjusts-soec-commercialization-pathway-to-match-market-outlook-financial-guidance-updated"
+          "title": "Wikipedia: 2026 Iran war fuel crisis",
+          "url": "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis"
         },
         {
-          "title": "QC Intel",
-          "url": "https://www.qcintel.com/hydrogen/article/topsoe-cancels-second-soec-factory-in-us-herning-to-be-hibernated-65139.html"
+          "title": "Euronews",
+          "url": "https://www.euronews.com/business/2026/04/09/why-oil-and-gas-prices-could-stay-high-in-europe-even-if-the-iran-war-ends"
         }
       ]
     },
     {
-      "text": "InterContinental Energy $48/MWh benchmark (NEW — requires interpretation): ICE's <$48/MWh AI compute power is achieved by co-producing 800 MW of H2 alongside 200 MW of data center capacity, netting H2 revenues against power costs. Not a standalone power generation LCOE and not directly comparable to SOFC ($125–200/MWh unsubsidized). Relevant for competitive benchmarking in Asian markets with strong H2 offtake; less applicable for European/US SOFC BTM deployments. (ICE; Hydrocarbon Processing)",
-      "url": "https://intercontinentalenergy.com",
+      "text": "Fed dot plot WACC implication (NEW): If Fed executes 1+ hike in 2H26 per dot plot (3.50–3.75% → toward 3.75–4.00%), SOFC project financing WACC increases ~25–50 bps. At 10% WACC, a $7M/MW SOFC installation's annualized capital cost rises ~$50–100/kW/year. Add WACC sensitivity (9%, 10%, 11%) to LCOE model. (CNBC: Fed June 17)",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
       "sources": [
         {
-          "title": "ICE",
-          "url": "https://intercontinentalenergy.com"
-        },
-        {
-          "title": "Hydrocarbon Processing",
-          "url": "https://www.hydrocarbonprocessing.com/news/2026/05/intercontinental-energy-s-p2-h2-node-integrates-ai-data-center-capability-to-deliver-low-cost-ultra-reliable-green-compute/"
+          "title": "CNBC: Fed June 17",
+          "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
         }
       ]
     },
     {
-      "text": "Henry Hub (unchanged from June 19 digest): Q2 2026 spot ~$2.92/MMBtu; 2H26 forecast $3.34/MMBtu; FY2026 avg $3.60/MMBtu (EIA June 16 STEO). At current spot, SOFC fuel input ≈ $0.028–$0.034/kWh. No new weekly data today; EIA publishes Thursday.",
+      "text": "Green Chile pipeline infrastructure cost context (NEW): Pipeline capex ~$60M for a 400 MMcf/day lateral serving 2.45 GW ≈ $25/kW of installed SOFC capacity. Documents the non-trivial gas infrastructure cost for large BTM deployments; relevant when modeling Project Jupiter-scale SOFC total cost. (PGJ Online)",
+      "url": "https://pgjonline.com/news/2026/may/blm-approves-green-chile-gas-pipeline-for-new-mexico-data-center",
+      "sources": [
+        {
+          "title": "PGJ Online",
+          "url": "https://pgjonline.com/news/2026/may/blm-approves-green-chile-gas-pipeline-for-new-mexico-data-center"
+        }
+      ]
+    },
+    {
+      "text": "US Henry Hub (unchanged from June 19 digest): Q2 2026 spot ~$2.92/MMBtu; 2H26 forecast $3.34/MMBtu; FY2026 avg $3.60/MMBtu (EIA June 16 STEO). Next EIA weekly data expected ~June 25.",
       "url": "",
       "sources": []
     }
