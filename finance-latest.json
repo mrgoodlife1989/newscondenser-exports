@@ -1,160 +1,22 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-19",
+    "title": "Beating Beta — 2026-06-22",
     "highlight_phrase": "markets & guru radar",
-    "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
+    "summary": "Daily finance brief: guru radar, markets snapshot, and 0 market news items."
   },
   "stories": [
     {
-      "number": "02",
-      "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-19",
-      "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G 38",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: 38",
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Warren Buffett on today's market moves.",
+      "highlight_phrase": "Warren Buffett",
+      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\n*Macro-View:* Bärisch – hält $381B Cash, sieht den Gesamtmarkt als überbewertet.\n*Bullish:* KO, AXP, OXY (Value-Werte mit starkem Cashflow).\n*Bearish:* Breiter US-Markt (Bewertung).",
       "bullets": [
         {
-          "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
-        },
-        {
-          "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
-        },
-        {
-          "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
-        },
-        {
-          "label": "Sentiment",
-          "text": "Fear & Greed Index: 38"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Yahoo Finance · Bloomberg · CNBC",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "03",
-      "category": "FINANCE · NEWS",
-      "title": "Tesla und KI",
-      "highlight_phrase": "Tesla und KI",
-      "toc_summary": "Tesla und KI",
-      "quick_take": "Worauf Anleger achten sollten.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Worauf Anleger achten sollten."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "04",
-      "category": "FINANCE · NEWS",
-      "title": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen.",
-      "highlight_phrase": "Kann ein 60-Sekunden-Spa-Besuch MRTs ers",
-      "toc_summary": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen.",
-      "quick_take": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Kann ein 60-Sekunden-Spa-Besuch MRTs ersetzen? Ein KI-Startup will es beweisen."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "05",
-      "category": "FINANCE · NEWS",
-      "title": "Mit 55 Jahren und 6 Jahren bis zur Rente",
-      "highlight_phrase": "Mit 55 Jahren und 6 Jahren bis zur Rente",
-      "toc_summary": "Mit 55 Jahren und 6 Jahren bis zur Rente",
-      "quick_take": "Sollte ich jetzt in Roth 401(k) umschichten?",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Sollte ich jetzt in Roth 401(k) umschichten?"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "06",
-      "category": "FINANCE · NEWS",
-      "title": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien.",
-      "highlight_phrase": "Trumps Iran-Abkommen als massives Kaufsi",
-      "toc_summary": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien.",
-      "quick_take": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Trumps Iran-Abkommen als massives Kaufsignal für Aktien."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "07",
-      "category": "FINANCE · NEWS",
-      "title": "SpaceX-Aktie",
-      "highlight_phrase": "SpaceX-Aktie",
-      "toc_summary": "SpaceX-Aktie",
-      "quick_take": "Durchschnittskäufer nach IPO fast unter Wasser.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Durchschnittskäufer nach IPO fast unter Wasser."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "08",
-      "category": "FINANCE · NEWS",
-      "title": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank.",
-      "highlight_phrase": "Märkte rechnen mit deutlich hawkisherer ",
-      "toc_summary": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank.",
-      "quick_take": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Märkte rechnen mit deutlich hawkisherer Warsh-Notenbank."
+          "label": "Warren Buffett",
+          "text": "*Macro-View:* Bärisch – hält $381B Cash, sieht den Gesamtmarkt als überbewertet. · *Bullish:* KO, AXP, OXY (Value-Werte mit starkem Cashflow)."
         }
       ],
       "callout": null,
