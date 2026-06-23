@@ -1,22 +1,127 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-22",
+    "title": "Beating Beta — 2026-06-23",
     "highlight_phrase": "markets & guru radar",
-    "summary": "Daily finance brief: guru radar, markets snapshot, and 0 market news items."
+    "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Warren Buffett on today's market moves.",
-      "highlight_phrase": "Warren Buffett",
-      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\n*Macro-View:* Bärisch – hält $381B Cash, sieht den Gesamtmarkt als überbewertet.\n*Bullish:* KO, AXP, OXY (Value-Werte mit starkem Cashflow).\n*Bearish:* Breiter US-Markt (Bewertung).",
+      "number": "03",
+      "category": "FINANCE · NEWS",
+      "title": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärt",
+      "highlight_phrase": "Diese 6 wachstumsstarken Aktien stehen a",
+      "toc_summary": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärt",
+      "quick_take": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärtechnologie.",
       "bullets": [
         {
-          "label": "Warren Buffett",
-          "text": "*Macro-View:* Bärisch – hält $381B Cash, sieht den Gesamtmarkt als überbewertet. · *Bullish:* KO, AXP, OXY (Value-Werte mit starkem Cashflow)."
+          "label": "Detail",
+          "text": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärtechnologie."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "category": "FINANCE · NEWS",
+      "title": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteilic",
+      "highlight_phrase": "Trump will Wall Street den Kauf von Eige",
+      "toc_summary": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteilic",
+      "quick_take": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteiliche Wohnungsbau-Gesetzesentwurf das tatsächlich?",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteiliche Wohnungsbau-Gesetzesentwurf das tatsächlich?"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "category": "FINANCE · NEWS",
+      "title": "Big Tech hat sich in zwei KI-Lager gespalten",
+      "highlight_phrase": "Big Tech hat sich in zwei KI-Lager gespa",
+      "toc_summary": "Big Tech hat sich in zwei KI-Lager gespalten",
+      "quick_take": "aber das kluge Geld jagt nicht dem nächsten OpenAI hinterher.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "aber das kluge Geld jagt nicht dem nächsten OpenAI hinterher."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "category": "FINANCE · NEWS",
+      "title": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könn",
+      "highlight_phrase": "Ein 40-prozentiger Marktcrash lauert in ",
+      "toc_summary": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könn",
+      "quick_take": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könnten ihn auslösen.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könnten ihn auslösen."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "category": "FINANCE · NEWS",
+      "title": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärk",
+      "highlight_phrase": "Kann jemand Musk im Billionärsclub beitr",
+      "toc_summary": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärk",
+      "quick_take": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärkten die besten Chancen.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärkten die besten Chancen."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "08",
+      "category": "FINANCE · NEWS",
+      "title": "Aktien mit den größten vorbörslichen Bewegungen",
+      "highlight_phrase": "Aktien mit den größten vorbörslichen Bew",
+      "toc_summary": "Aktien mit den größten vorbörslichen Bewegungen",
+      "quick_take": "Apogee Therapeutics, SpaceX, Arcosa & mehr.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Apogee Therapeutics, SpaceX, Arcosa & mehr."
         }
       ],
       "callout": null,
