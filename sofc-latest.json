@@ -1,12 +1,327 @@
 {
-  "date": "2026-06-23",
-  "signals": 4,
-  "top_signals": [
-    "July 1 regulatory triple deadline in 8 days — Virginia Tier 4 generator rules, Oklahoma large-load cost-attribution, Germany EnEfG all activate simultaneously:",
-    "Project Jupiter NM air permit: formal public hearing added, NMED decision delayed to July 21, 2026:",
-    "Henry Hub $3.23/MMBtu on June 23; TTF €42.09/MWh on June 22 — EU storage deficit persists at 14% below 5-year average:",
-    "LCOE flag:"
+  "date": "2026-06-24",
+  "topSignals": [
+    {
+      "title": "Bloom Energy hits record $329 on surging AI power demand",
+      "text": "— Shares jumped 15% on June 18 to a record close of $328.91 (+219% YTD), as Q1 2026 revenue came in at $751M (+130% YoY) and management raised full-year guidance to $3.4–3.8B backed by a $20B backlog. Oracle expanded its commitment to up to 2.8 GW total, with an initial 1.2 GW contracted for Project Jupiter (New Mexico). InvestorIdeas | StocksToTrade",
+      "url": "https://www.investorideas.com/news/2026/renewable-energy/06221-bloom-energy-record-ai-power-fuel-cell.asp",
+      "n": 1
+    },
+    {
+      "title": "FERC issues Section 206 orders to all US grid operators on large-load interconnection",
+      "text": "— On June 18, 2026, FERC launched \"aggressive targeted action\" at its open meeting, issuing tailored orders to all US RTOs/ISOs to reform large-load (>20 MW) interconnection rules; each operator must address five key issues including alternative transmission technologies, cost transparency, and co-located load study processes. Longer grid queues (5+ year delays) directly strengthen the on-site SOFC value proposition. FERC press release | Utility Dive",
+      "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration",
+      "n": 2
+    },
+    {
+      "title": "Ceres Power raises £103M and launches 10.8 kW data-center stack",
+      "text": "— New shares began trading on the London Stock Exchange on June 12, 2026; proceeds go toward commercial scale-up and partner support. Separately, Ceres unveiled a new 10.8 kW solid oxide stack aimed specifically at on-site data-center power and green hydrogen production cost reduction. Globe and Mail | Gasworld",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CPWHF/pressreleases/2413902/ceres-power-raises-ps103m-to-accelerate-solid-oxide-fuel-cell-growth/",
+      "n": 3
+    }
   ],
-  "body_md": "## 2026-06-23\n\n### Top Signals\n\n1. **July 1 regulatory triple deadline in 8 days — Virginia Tier 4 generator rules, Oklahoma large-load cost-attribution, Germany EnEfG all activate simultaneously:** Three independent regulatory changes take effect July 1, 2026: (a) **Virginia HB 507** requires data center backup generator air permit applications filed on or after July 1 to meet Tier 4 emissions standards (SCR systems, diesel particulate filters, continuous emissions monitoring systems), adding millions per hyperscale campus; (b) **Oklahoma Data Center Consumer Ratepayer Protection Act** (HB 2992, signed May 11, effective July 1) requires large-load AI/data center customers (≥75 MW) to fund their own electricity infrastructure costs, shielding residential ratepayers; (c) **Germany EnEfG** original law applies to new DCs commissioning from July 1: PUE ≤1.2 at commissioning, ERF ≥10% — draft amendment easing PUE to ≤1.3 has not yet passed the Bundestag. All three rules increase the cost or complexity of grid-connected or diesel-backed alternatives, while SOFC CHP qualifies under all three frameworks (low NOx emissions, on-site, waste heat for ERF). ([Data Center Knowledge: Virginia Tier 4](https://www.datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds); [DCD: Oklahoma enacts ratepayer bill](https://www.datacenterdynamics.com/en/news/oklahoma-enacts-bill-to-shield-ratepayers-from-cost-increases-associated-with-data-center-buildout/); [Orrick: EnEfG draft amendment](https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres))\n\n2. **Project Jupiter NM air permit: formal public hearing added, NMED decision delayed to July 21, 2026:** The New Mexico Environment Department, after receiving 7,000+ public comments on the updated Project Jupiter air permit application (Bloom Energy fuel cells replacing gas turbines), approved a formal public hearing and postponed the final permit decision to July 21. This adds 3-4 weeks of regulatory delay to the permitting track for Bloom's 2.45 GW Oracle deployment in Doña Ana County. Not a denial — the process is progressing — but compresses the construction window for Bloom's 2026 delivery targets. The NOx reduction claim (~92% vs. gas turbines) is being tested publicly; a permit grant would establish regulatory precedent for large-scale SOFC as a permissible air quality solution. ([Source NM: NMED hearing](https://sourcenm.com/briefs/nm-environment-officials-will-hold-public-hearing-on-project-jupiter-air-permits-push-back-decision/); [Prism News: decision delayed to July 2026](https://www.prismnews.com/local/san-juan-nm/nmed-schedules-public-hearing-on-project-jupiter-air-permits-delays-decision-to-july-2026))\n\n3. **Henry Hub $3.23/MMBtu on June 23; TTF €42.09/MWh on June 22 — EU storage deficit persists at 14% below 5-year average:** Henry Hub down 0.65% on June 23 to $3.23/MMBtu — slightly below EIA's 2H26 base case of $3.34/MMBtu. TTF essentially flat at €42.09/MWh. EU gas storage at 45.56% vs. 54.38% a year ago; experts project ~70% fill by October vs. the 80% target, sustaining structural European gas price elevation through Q4 2026. **LCOE flag:** European NG-fueled SOFC fuel input ≈ €0.063–0.076/kWh at €42/MWh TTF — more than double the US equivalent. ([TradingEconomics: EU Natural Gas](https://tradingeconomics.com/commodity/eu-natural-gas); [ING Think: LNG eases supply concerns](https://think.ing.com/articles/lng-surge-eases-european-gas-market-supply-concerns/); [Global LNG Hub: gas prices June 15](https://globallnghub.com/natural-gas-prices-weekly-update-jkm-ttf-and-henry-hub-15-june-2026.html))\n\n---\n\n### Stack & Cell Technology\n\nQuiet day. No new stack, manufacturing, or efficiency announcements from Bloom, Ceres, Elcogen, Sunfire, SolydEra, Mitsubishi, or Topsoe. **EFCF Lucerne (June 30 – July 3) in 7 days** — 17th European SOFC & SOE Forum; expected presentations on Elcogen E3000 G2 commercial rollout data, Sunfire pressurized stacks, academic MS-SOFC research. Watch for new degradation benchmarks and supply chain updates. ([EFCF 2026](https://www.efcf.com/2026))\n\n---\n\n### AI Data Center Deployments\n\n- **Project Jupiter permitting delay (see Top Signals #2):** NMED formal public hearing added; final permit decision pushed to July 21. Bloom's technology confirmed; both gas pipeline infrastructure and fuel cell air quality are in active regulatory review simultaneously. Monitor July 21 NMED hearing outcome.\n- Confirmed SOFC pipeline (unchanged): Oracle 2.45 GW (NM), Project Jade/Google/Tallgrass 2.7 GW (WY), Nebius $2.6B, Brookfield $5B, AEP $2.65B, Equinix 100 MW+.\n\n---\n\n### Regulations & Policy\n\n- **Virginia HB 507 Tier 4 generator standards (July 1 in 8 days — first digest coverage):** Data center backup generator air permit applications filed on or after July 1, 2026 must meet Tier 4 emissions standards — selective catalytic reduction (SCR), diesel particulate filters (DPF), and continuous emissions monitoring systems (CEMS). Virginia DEQ's basis: data center generators are \"no longer appropriate\" for emergency-only emission exemptions given actual operating patterns. Virginia is the #1 US data center state (~35% of US capacity, Loudoun County \"Data Center Alley\"). SCR/DPF/CEMS requirements add millions per hyperscale campus containing 50–100+ generators. Structural benefit for SOFC as a low-emission on-site prime power alternative. ([Data Center Knowledge: Virginia Tier 4 ruling](https://www.datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds); [Hunton: Virginia permitting guidance](https://www.hunton.com/the-nickel-report/what-data-center-developers-need-to-know-about-virginia-deqs-recent-air-permitting-guidance))\n- **Oklahoma Data Center Consumer Ratepayer Protection Act (July 1 in 8 days — first digest coverage):** HB 2992, signed by Gov. Stitt May 11, 2026; effective July 1. Large-load data centers, AI facilities, and cryptocurrency operations (≥75 MW) must fund their own electricity infrastructure costs; 60-day land acquisition disclosure requirement (non-compliance: $1,500/day fine). Oklahoma Corporation Commission retains rate oversight. Effectively replicates the \"developer-pays\" model FERC is pursuing nationally for the SPP/Oklahoma footprint. ([DCD: Oklahoma enacts bill](https://www.datacenterdynamics.com/en/news/oklahoma-enacts-bill-to-shield-ratepayers-from-cost-increases-associated-with-data-center-buildout/); [Daily Energy Insider: new law](https://dailyenergyinsider.com/news/52299-new-oklahoma-law-sets-ratepayer-protections-against-large-load-power-users/); [KGOU: Stitt signs bill](https://www.kgou.org/energy/2026-05-13/stitt-signs-bill-to-prevent-higher-utility-costs-from-data-centers-into-law))\n- **Germany EnEfG July 1 (8 days):** Original law in force — PUE ≤1.2 at commissioning, ERF ≥10% for all new DCs from July 1. Draft amendment (easing to PUE ≤1.3 long-term) has not yet passed the Bundestag/Bundesrat; parliamentary enactment expected Q3/Q4 2026. SOFC CHP qualifies under both versions. ([Orrick](https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres); [Taylor Wessing: EnEfG Novelle](https://www.taylorwessing.com/en/insights-and-events/insights/2026/04/enefg-novelle-ueberblick))\n- **FERC RM26-4:** RTO filing deadline ~mid-August 2026; no new tariff submissions reported. Final tariff changes Q1 2027 earliest. SOFC BTM advantage intact.\n\n---\n\n### Competing On-Site Power\n\n- **Virginia Tier 4 + Oklahoma cost-attribution structurally raise diesel/grid costs in two major US data center markets:** SCR + DPF + CEMS compliance adds estimated $50–200M+ capex across a large hyperscale campus of diesel backup generators (50–100+ units) in Virginia. Oklahoma large-load attribution adds $10–50M+ per project in infrastructure charges. Combined effect mirrors FERC's developer-pays direction: grid-connected data centers in these two states now face materially higher effective infrastructure costs, widening SOFC BTM economics advantage in these specific jurisdictions.\n- Quiet day on new SMR, CCGT, or grid-scale battery announcements since June 22 digest.\n\n---\n\n### Market & Financials\n\n- **Bloom Energy (NYSE:BE):** Holding near ATH (~$329 area) following the reversal of the June 22 S&P 500 speculation intraday spike (+10.7% intraday, ending barely positive). BE +278% YTD. Analyst consensus: 74% Buy, avg target ~$267 (28 analysts, StockAnalysis); Morgan Stanley OW $310, UBS Buy $322, Bernstein MP $276 (cautious outlier). Stock trading at ~23% premium over consensus avg target. Q2 FY26 earnings expected late July — next major fundamental catalyst alongside EFCF Lucerne (June 30). ([StockAnalysis: BE forecast](https://stockanalysis.com/stocks/be/forecast/); [Simply Wall St: BE S&P 500 analysis](https://simplywall.st/stocks/us/capital-goods/nyse-be/bloom-energy/news/bloom-energy-weighs-sp-500-prospects-as-ai-power-demand-buil))\n- Quiet day on FuelCell Energy (FCEL ~$17), Ceres Power (CWR:LON), Elcogen, Sunfire financial news.\n\n---\n\n### Research & IP\n\nQuiet day. No new papers, patents, or national-lab results. **EFCF Lucerne (June 30 – July 3) in 7 days** — primary upcoming European venue for SOFC/SOE research presentations. ([EFCF 2026](https://www.efcf.com/2026))\n\n---\n\n### LCOE-Relevant Datapoints\n\n**⚠️ Flag for INOCEL model update:**\n\n- **Henry Hub $3.23/MMBtu on June 23, 2026 (updated spot):** Slight decrease (-0.65%) from $3.20 on June 19. Still below EIA's 2H26 base case of $3.34/MMBtu; confirms summer demand is keeping US NG prices below forecast. At $3.23/MMBtu, SOFC fuel input ≈ $0.031–0.037/kWh (55–60% LHV). Retain $3.34/MMBtu as 2H26 planning base; use $3.23 as current spot scenario. ([EIA FRED: Henry Hub](https://fred.stlouisfed.org/series/DHHNGSP); [TradingEconomics: natural gas](https://tradingeconomics.com/commodity/natural-gas))\n- **TTF €42.09/MWh and EU storage 14% below 5-year average (no model change vs. June 22):** European baseline confirmed at €40–45/MWh; SOFC fuel input ≈ €0.063–0.076/kWh. Structural elevation through Q4 2026. Three-scenario table from June 21 digest (€20/€40/€60 per MWh) remains valid; current operating point is the €40 scenario. ([TradingEconomics: EU natural gas](https://tradingeconomics.com/commodity/eu-natural-gas))\n- **Virginia Tier 4 generator compliance cost (NEW context):** SCR + DPF + CEMS across a hyperscale campus with 50–100 diesel generators adds estimated $50–200M+ compliance capex — equivalent to ~$100–400/kW on a 500 MW campus. This is a direct per-kW cost adder for the grid + diesel backup model in Virginia, widening SOFC BTM cost advantage. Add to LCOE competitive comparison for Virginia-sited data centers. ([Data Center Knowledge: Virginia Tier 4](https://www.datacenterknowledge.com/build-design/virginia-deq-revises-data-center-generator-rules-as-community-pushback-builds))\n- **Oklahoma large-load cost-attribution (NEW):** Data centers ≥75 MW in Oklahoma/SPP region now pay full grid infrastructure costs. Treat as an Oklahoma-specific analog to the FERC developer-pays scenario ($10–50M per project). Directly increases effective LCOE of grid-connected alternatives in the SPP footprint. ([DCD: Oklahoma law](https://www.datacenterdynamics.com/en/news/oklahoma-enacts-bill-to-shield-ratepayers-from-cost-increases-associated-with-data-center-buildout/))\n- **Project Jupiter July 21 NMED decision — precedent watch:** If air permit is granted for 2.45 GW Bloom SOFC at Doña Ana County, it establishes that a large-scale NG-fueled SOFC deployment can clear air quality permitting in a desert airshed under full public scrutiny. A positive outcome is relevant to LCOE risk assessment for future large sites: reduces regulatory risk premium in permitting cost assumptions. ([Source NM](https://sourcenm.com/briefs/nm-environment-officials-will-hold-public-hearing-on-project-jupiter-air-permits-push-back-decision/))\n\n---\n\n**End of digest.**",
-  "source": "SOFC_AI_Datacenter_Monitor.md"
+  "sections": [
+    {
+      "title": "Stack & Cell Technology",
+      "items": [
+        {
+          "text": "Ceres Power £103M raise + 10.8 kW stack — see Top Signal #3. Doosan Fuel Cell (Ceres licensee) opened a 50 MW factory in South Korea in 2025 for natural-gas stationary systems; new stack targets data centers and low-cost green H2. Gasworld",
+          "url": "https://www.gasworld.com/story/ceres-unveils-new-solid-oxide-stack-for-power-generation-and-hydrogen-production/2246526.article/",
+          "sources": [
+            {
+              "title": "Gasworld",
+              "url": "https://www.gasworld.com/story/ceres-unveils-new-solid-oxide-stack-for-power-generation-and-hydrogen-production/2246526.article/"
+            }
+          ]
+        },
+        {
+          "text": "17th European SOFC & SOE Forum — Scheduled June 30 - July 3, 2026 (Lucerne). Largest annual European SOFC research/industry event; watch for stack efficiency, degradation, and manufacturing announcements next week. EFCF",
+          "url": "https://www.efcf.com/call",
+          "sources": [
+            {
+              "title": "EFCF",
+              "url": "https://www.efcf.com/call"
+            }
+          ]
+        },
+        {
+          "text": "Sunfire focus shift — Sunfire spun off its fuel cell business in 2024 to concentrate fully on SOEC (electrolysis); retained a combined backlog of >800 MW. Competitive implication: one fewer European SOFC stack supplier in the pure-power segment.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Market size — SOFC market valued at $2.89B in 2026; projected $16.53B by 2031 (41.7% CAGR). Bloom, Mitsubishi Power, Ceres, Sunfire, and FuelCell Energy hold ~60% of manufacturing capacity. Mordor Intelligence",
+          "url": "https://www.mordorintelligence.com/industry-reports/global-solid-oxide-fuel-cells-market-industry",
+          "sources": [
+            {
+              "title": "Mordor Intelligence",
+              "url": "https://www.mordorintelligence.com/industry-reports/global-solid-oxide-fuel-cells-market-industry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI Data Center Deployments",
+      "items": [
+        {
+          "text": "Oracle Project Jupiter (New Mexico) — Up to 2.45 GW Bloom SOFCs replacing previously planned gas turbines + diesel generators; single microgrid campus; 92% NOx reduction vs. gas turbines; announced April 27, 2026. Oracle | DCD",
+          "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/",
+          "sources": [
+            {
+              "title": "Oracle",
+              "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/"
+            },
+            {
+              "title": "DCD",
+              "url": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-up-to-245gw-of-bloom-fuel-cells-at-new-mexico-data-center/"
+            }
+          ]
+        },
+        {
+          "text": "Crusoe + Tallgrass Cheyenne AI Factory — 1.8 GW campus, 900 MW Phase 1 with Bloom SOFCs; specifically chose fuel cells to bypass grid interconnection queue; first data halls targeted for late 2026. enkiai.com",
+          "url": "https://enkiai.com/data-center/sofc-boom-2026-the-data-center-power-shortcut-for-ai",
+          "sources": [
+            {
+              "title": "enkiai.com",
+              "url": "https://enkiai.com/data-center/sofc-boom-2026-the-data-center-power-shortcut-for-ai"
+            }
+          ]
+        },
+        {
+          "text": "Equinix + Bloom — Expanded agreement for >100 MW SOFCs across 19+ data centers.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FuelCell Energy + SDCL — Strategic collaboration to jointly market and finance up to 450 MW of fuel cell systems for data centers globally. enkiai.com",
+          "url": "https://enkiai.com/fuel-cell/fuelcell-energy-grid-support-data/",
+          "sources": [
+            {
+              "title": "enkiai.com",
+              "url": "https://enkiai.com/fuel-cell/fuelcell-energy-grid-support-data/"
+            }
+          ]
+        },
+        {
+          "text": "Bloom + Brookfield $5B deployment partnership — Brookfield to fund Bloom SOFC deployments at AI data centers. DCD",
+          "url": "https://www.datacenterdynamics.com/en/news/bloom-energy-signs-5bn-partnership-with-brookfield-to-deploy-fuel-cell-tech-across-ai-data-centers/",
+          "sources": [
+            {
+              "title": "DCD",
+              "url": "https://www.datacenterdynamics.com/en/news/bloom-energy-signs-5bn-partnership-with-brookfield-to-deploy-fuel-cell-tech-across-ai-data-centers/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Regulations & Policy",
+      "items": [
+        {
+          "text": "FERC large-load interconnection orders (June 18, 2026) — See Top Signal #2. FERC directed RTOs/ISOs to develop tailored rules; key issues include alternative transmission technologies and cost transparency. FERC | Utility Dive",
+          "url": "https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026",
+          "sources": [
+            {
+              "title": "FERC",
+              "url": "https://www.ferc.gov/news-events/news/ferc-act-large-load-interconnection-docket-june-2026"
+            },
+            {
+              "title": "Utility Dive",
+              "url": "https://www.utilitydive.com/news/ferc-doe-data-center-interconnection/823360/"
+            }
+          ]
+        },
+        {
+          "text": "US ITC 48E — Effective for projects beginning construction after Dec 31, 2025, the OBBBA removes the zero-GHG-emissions requirement: natural gas, biogas, and blended fuel cells all qualify for the 30% Investment Tax Credit. Project Finance Law Q&A | Climate Solutions Law",
+          "url": "https://www.projectfinance.law/tax-equity-news/qa-fuel-cell-projects-eligible-for-itc-under-section-48e",
+          "sources": [
+            {
+              "title": "Project Finance Law Q&A",
+              "url": "https://www.projectfinance.law/tax-equity-news/qa-fuel-cell-projects-eligible-for-itc-under-section-48e"
+            },
+            {
+              "title": "Climate Solutions Law",
+              "url": "https://www.climatesolutionslaw.com/2026/04/biogas-meets-the-data-center-boom-how-sections-48e-and-45y-are-powering-the-next-wave-of-clean-electricity/"
+            }
+          ]
+        },
+        {
+          "text": "EU Cloud & AI Development Act (CADA, June 3 2026) — EU Tech Sovereignty Package commits to tripling EU DC capacity in 5-7 years (~€200B investment); Commission to develop minimum energy performance standards for data centers (needs assessment due 2027). Jones Day | Energy Connects",
+          "url": "https://www.jonesday.com/en/insights/2026/06/eu-data-center-rules-combine-expansion-incentives-with-new-energy-obligations",
+          "sources": [
+            {
+              "title": "Jones Day",
+              "url": "https://www.jonesday.com/en/insights/2026/06/eu-data-center-rules-combine-expansion-incentives-with-new-energy-obligations"
+            },
+            {
+              "title": "Energy Connects",
+              "url": "https://www.energyconnects.com/news/technology/2026/june/eu-sets-energy-standards-for-data-centres-amid-soaring-power-demand/"
+            }
+          ]
+        },
+        {
+          "text": "Germany EnEfG amendment (April 2026 draft) — Data centers going live from July 2026 must achieve PUE ≤ 1.2 and ERF ≥ 10%; 15% waste heat reuse required from July 2026 (20% from 2028); 100% green electricity from Jan 2027. SOFC heat-recovery (CHP) mode may help operators meet waste-heat targets. Orrick",
+          "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
+          "sources": [
+            {
+              "title": "Orrick",
+              "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        {
+          "text": "SMR/nuclear wave — As of May 2026, all major hyperscalers have signed at least one nuclear deal; 13 announced projects totaling >9.8 GW. Amazon signed a new 1,920 MW PPA with Talen Energy (TLN) through 2042, with SMR exploration in Pennsylvania. Microsoft holds 835 MW TMI Unit 1 restart (first electrons 2027). SMR Intel | enkiai.com",
+          "url": "https://smrintel.com/nuclear-data-center-deals/",
+          "sources": [
+            {
+              "title": "SMR Intel",
+              "url": "https://smrintel.com/nuclear-data-center-deals/"
+            },
+            {
+              "title": "enkiai.com",
+              "url": "https://enkiai.com/nuclear/microsoft-constellation-ai-data-centers/"
+            }
+          ]
+        },
+        {
+          "text": "CCGT capex inflation — New combined-cycle gas turbine plants now cost $2,000–2,200/kW (up from $1,300/kW in 2023), narrowing the SOFC cost gap in $/kW terms at scale. LCOE for new CCGTs: $45–100/MWh depending on gas price and capex.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Competitive position — SOFC 90-day deployment vs. 5+ year grid queue, and the ITC 48E credit, are the key differentiators over both CCGTs (slower, grid-dependent) and nuclear (10+ year lead times). Battery storage at $25/MWh LCOE (solar+storage) remains cheapest but unsuitable for 24/7 baseload AI workloads.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE) — Record close $328.91 (June 18, +15.4% single day); +219% YTD. Q1 2026: revenue $751M (+130% YoY). FY2026 guidance: $3.4–3.8B revenue. Backlog: $20B. Oracle deal total: up to 2.8 GW. Nebius Group MOU: up to $2.6B over three 10-year phases. SEC 8-K Q1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026027913/ex991_q126financialresults.htm",
+          "sources": [
+            {
+              "title": "SEC 8-K Q1",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026027913/ex991_q126financialresults.htm"
+            }
+          ]
+        },
+        {
+          "text": "FuelCell Energy (FCEL) — Q2 FY2026 (ended April 30, 2026) reported June 8, 2026. Backlog: $1.14B (down ~9.9% YoY from $1.26B). SEC 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000886128/000110465926071181/fcel-20260608xex99d1.htm",
+          "sources": [
+            {
+              "title": "SEC 8-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/0000886128/000110465926071181/fcel-20260608xex99d1.htm"
+            }
+          ]
+        },
+        {
+          "text": "SOFC market — Global market $2.89B in 2026, projected $16.53B by 2031 at 41.7% CAGR. Fuel cells poised to capture ~1/3 of data center power demand by 2030 per some analyst forecasts. Mordor Intelligence",
+          "url": "https://www.mordorintelligence.com/industry-reports/global-solid-oxide-fuel-cells-market-industry",
+          "sources": [
+            {
+              "title": "Mordor Intelligence",
+              "url": "https://www.mordorintelligence.com/industry-reports/global-solid-oxide-fuel-cells-market-industry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Research & IP",
+      "items": [
+        {
+          "text": "Frontiers Energy Research (2025) — \"Progress and outlook of solid oxide fuel cell technology for stationary power generation applications\" — reviews cogeneration/trigeneration (Rankine/Brayton exhaust integration) and identifies high ceramic stack cost ($4,000–6,000/kW vs. $1,000 target) as the central barrier. Frontiers",
+          "url": "https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2025.1650696/full",
+          "sources": [
+            {
+              "title": "Frontiers",
+              "url": "https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2025.1650696/full"
+            }
+          ]
+        },
+        {
+          "text": "Springer Journal of Solid State Electrochemistry (2025) — \"Three decades of solid oxide fuel cell research: trends, challenges & future directions\" — broad survey covering thermal stress, electrode degradation, and scaling. Springer",
+          "url": "https://link.springer.com/article/10.1007/s10008-025-06506-8",
+          "sources": [
+            {
+              "title": "Springer",
+              "url": "https://link.springer.com/article/10.1007/s10008-025-06506-8"
+            }
+          ]
+        },
+        {
+          "text": "ScienceDirect review (2025) — \"A review of solid oxide cell technologies for power, fuel, and reversible energy storage\" — covers reversible SOC (SOFC/SOEC dual-mode) as key for future data-center + grid-balancing use cases. ScienceDirect",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0016236125033502",
+          "sources": [
+            {
+              "title": "ScienceDirect",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0016236125033502"
+            }
+          ]
+        },
+        {
+          "text": "Watch: 17th EFCF (June 30 - July 3, Lucerne) — expect new stack efficiency data, durability results, and manufacturing cost disclosures from European players.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "lcoe": [
+    {
+      "text": "SOFC system capex: $4,000–6,000/kW (current commercial); long-term target $1,000/kW. Frontiers",
+      "url": "https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2025.1650696/full",
+      "sources": [
+        {
+          "title": "Frontiers",
+          "url": "https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2025.1650696/full"
+        }
+      ]
+    },
+    {
+      "text": "SOFC LCOE range: $130–205/MWh at $4/MMBtu natural gas; $150–225/MWh at $8/MMBtu. With CHP heat monetization: $120–200/MWh at $4/MMBtu. Base case: ~$6,000/kW capex, no CHP. ScienceDirect DC LCOE study",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352484725005803",
+      "sources": [
+        {
+          "title": "ScienceDirect DC LCOE study",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2352484725005803"
+        }
+      ]
+    },
+    {
+      "text": "US natural gas price: EIA outlook — $4.00/MMBtu avg 2025, $4.90/MMBtu forecast 2026. EIA AEO 2026",
+      "url": "https://www.eia.gov/outlooks/aeo/electricity_generation/",
+      "sources": [
+        {
+          "title": "EIA AEO 2026",
+          "url": "https://www.eia.gov/outlooks/aeo/electricity_generation/"
+        }
+      ]
+    },
+    {
+      "text": "CCGT capex: $2,000–2,200/kW in 2025 (up from $1,300/kW in 2023); LCOE $45–100/MWh.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Solar + battery storage: $25.11/MWh LCOE (most competitive on paper, but 24/7 baseload unsuitable).",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "ITC 48E benefit: 30% capital cost credit applicable to all fuel cell feedstocks (natural gas, biogas) for projects starting construction post-2025 — effectively reduces capex to $2,800–4,200/kW before financing.",
+      "url": "",
+      "sources": []
+    }
+  ]
 }
