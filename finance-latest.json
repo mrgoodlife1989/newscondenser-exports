@@ -1,22 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-23",
+    "title": "Beating Beta — 2026-06-25",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "02",
+      "category": "FINANCE · MARKETS",
+      "title": "Markets Snapshot — 2026-06-25",
+      "highlight_phrase": "market snapshot",
+      "toc_summary": "S&P 7.358,22 · Nasdaq 29.220,06 · VIX 18,63 · 10Y 4,40% · Gold $3.998,80 · Oil $69,41 · BTC $60.705,80 · F&G N/A",
+      "quick_take": "S&P 500: 7.358,22\nNasdaq: 29.220,06\nVIX: 18,63 · 10Y: 4,40%\nGold: $3.998,80 · Oil: $69,41\nBitcoin: $60.705,80\nFear & Greed: N/A",
+      "bullets": [
+        {
+          "label": "Equities",
+          "text": "S&P 500 7.358,22 · Nasdaq 29.220,06"
+        },
+        {
+          "label": "Rates & Vol",
+          "text": "10Y 4,40% · VIX 18,63"
+        },
+        {
+          "label": "Commodities & Crypto",
+          "text": "Gold $3.998,80 · WTI $69,41 · BTC $60.705,80"
+        },
+        {
+          "label": "Sentiment",
+          "text": "Fear & Greed Index: N/A"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Yahoo Finance · Bloomberg · CNBC",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärt",
-      "highlight_phrase": "Diese 6 wachstumsstarken Aktien stehen a",
-      "toc_summary": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärt",
-      "quick_take": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärtechnologie.",
+      "title": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit ",
+      "highlight_phrase": "Tesla und Waymo liefern sich ein Rennen ",
+      "toc_summary": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit ",
+      "quick_take": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit den höchsten Ausgaben baut gar keine Autos.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Diese 6 wachstumsstarken Aktien stehen an der Spitze der Raumfahrt- und Militärtechnologie."
+          "text": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit den höchsten Ausgaben baut gar keine Autos."
         }
       ],
       "callout": null,
@@ -30,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteilic",
-      "highlight_phrase": "Trump will Wall Street den Kauf von Eige",
-      "toc_summary": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteilic",
-      "quick_take": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteiliche Wohnungsbau-Gesetzesentwurf das tatsächlich?",
+      "title": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert ",
+      "highlight_phrase": "Warum SK Hynix‘ 30-Milliarden-Börsengang",
+      "toc_summary": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert ",
+      "quick_take": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert für Micron sein könnte.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Trump will Wall Street den Kauf von Eigenheimen verbieten? Tut der überparteiliche Wohnungsbau-Gesetzesentwurf das tatsächlich?"
+          "text": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert für Micron sein könnte."
         }
       ],
       "callout": null,
@@ -51,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Big Tech hat sich in zwei KI-Lager gespalten",
-      "highlight_phrase": "Big Tech hat sich in zwei KI-Lager gespa",
-      "toc_summary": "Big Tech hat sich in zwei KI-Lager gespalten",
-      "quick_take": "aber das kluge Geld jagt nicht dem nächsten OpenAI hinterher.",
+      "title": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt ",
+      "highlight_phrase": "Versteckte PCE-Auslöser könnten eine Fed",
+      "toc_summary": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt ",
+      "quick_take": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt schockieren.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "aber das kluge Geld jagt nicht dem nächsten OpenAI hinterher."
+          "text": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt schockieren."
         }
       ],
       "callout": null,
@@ -72,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könn",
-      "highlight_phrase": "Ein 40-prozentiger Marktcrash lauert in ",
-      "toc_summary": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könn",
-      "quick_take": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könnten ihn auslösen.",
+      "title": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund",
+      "highlight_phrase": "Jeder an der Wall Street glaubt jetzt an",
+      "toc_summary": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund",
+      "quick_take": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund zur Sorge.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ein 40-prozentiger Marktcrash lauert in der IPO-Pipeline. SpaceX und OpenAI könnten ihn auslösen."
+          "text": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund zur Sorge."
         }
       ],
       "callout": null,
@@ -93,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärk",
-      "highlight_phrase": "Kann jemand Musk im Billionärsclub beitr",
-      "toc_summary": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärk",
-      "quick_take": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärkten die besten Chancen.",
+      "title": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Div",
+      "highlight_phrase": "JPMorgan Chase kündigt 50-Milliarden-Akt",
+      "toc_summary": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Div",
+      "quick_take": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Dividende nach Fed-Stresstest.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kann jemand Musk im Billionärsclub beitreten? Zuckerberg hat laut Vorhersagemärkten die besten Chancen."
+          "text": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Dividende nach Fed-Stresstest."
         }
       ],
       "callout": null,
@@ -114,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten vorbörslichen Bewegungen",
-      "highlight_phrase": "Aktien mit den größten vorbörslichen Bew",
-      "toc_summary": "Aktien mit den größten vorbörslichen Bewegungen",
-      "quick_take": "Apogee Therapeutics, SpaceX, Arcosa & mehr.",
+      "title": "Federal Reserve",
+      "highlight_phrase": "Federal Reserve",
+      "toc_summary": "Federal Reserve",
+      "quick_take": "US-Banken können Verluste von 708 Milliarden Dollar verkraften – bei Überarbeitung der Kapitalregeln.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Apogee Therapeutics, SpaceX, Arcosa & mehr."
+          "text": "US-Banken können Verluste von 708 Milliarden Dollar verkraften – bei Überarbeitung der Kapitalregeln."
         }
       ],
       "callout": null,
