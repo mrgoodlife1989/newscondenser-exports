@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-25",
+    "title": "Beating Beta — 2026-06-26",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-25",
+      "title": "Markets Snapshot — 2026-06-26",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.358,22 · Nasdaq 29.220,06 · VIX 18,63 · 10Y 4,40% · Gold $3.998,80 · Oil $69,41 · BTC $60.705,80 · F&G N/A",
-      "quick_take": "S&P 500: 7.358,22\nNasdaq: 29.220,06\nVIX: 18,63 · 10Y: 4,40%\nGold: $3.998,80 · Oil: $69,41\nBitcoin: $60.705,80\nFear & Greed: N/A",
+      "toc_summary": "S&P 7357.49 · Nasdaq 29440.32 · VIX 18.89 · 10Y 4.39% · Gold $4008.70 · Oil $70.97 · BTC $58488.83 · F&G N/A",
+      "quick_take": "S&P 500: 7357.49\nNasdaq: 29440.32\nVIX: 18.89 · 10Y: 4.39%\nGold: $4008.70 · Oil: $70.97\nBitcoin: $58488.83\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.358,22 · Nasdaq 29.220,06"
+          "text": "S&P 500 7357.49 · Nasdaq 29440.32"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,40% · VIX 18,63"
+          "text": "10Y 4.39% · VIX 18.89"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $3.998,80 · WTI $69,41 · BTC $60.705,80"
+          "text": "Gold $4008.70 · WTI $70.97 · BTC $58488.83"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit ",
-      "highlight_phrase": "Tesla und Waymo liefern sich ein Rennen ",
-      "toc_summary": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit ",
-      "quick_take": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit den höchsten Ausgaben baut gar keine Autos.",
+      "title": "SpaceX-FOMO ist offiziell vorbei",
+      "highlight_phrase": "SpaceX-FOMO ist offiziell vorbei",
+      "toc_summary": "SpaceX-FOMO ist offiziell vorbei",
+      "quick_take": "Raumfahrtaktien werden breit abgestraft.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Tesla und Waymo liefern sich ein Rennen um Robotaxis – doch das Unternehmen mit den höchsten Ausgaben baut gar keine Autos."
+          "text": "Raumfahrtaktien werden breit abgestraft."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert ",
-      "highlight_phrase": "Warum SK Hynix‘ 30-Milliarden-Börsengang",
-      "toc_summary": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert ",
-      "quick_take": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert für Micron sein könnte.",
+      "title": "SpaceX-Aktie ist ein schlechter Kauf",
+      "highlight_phrase": "SpaceX-Aktie ist ein schlechter Kauf",
+      "toc_summary": "SpaceX-Aktie ist ein schlechter Kauf",
+      "quick_take": "was das für den Bullenmarkt bedeutet.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Warum SK Hynix‘ 30-Milliarden-Börsengang in den USA ein zweischneidiges Schwert für Micron sein könnte."
+          "text": "was das für den Bullenmarkt bedeutet."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt ",
-      "highlight_phrase": "Versteckte PCE-Auslöser könnten eine Fed",
-      "toc_summary": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt ",
-      "quick_take": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt schockieren.",
+      "title": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bri",
+      "highlight_phrase": "Eine Welt, die OPEC-Kontrollen ablehnt, ",
+      "toc_summary": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bri",
+      "quick_take": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bringen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Versteckte PCE-Auslöser könnten eine Fed-Zinserhöhung erzwingen – und den Markt schockieren."
+          "text": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bringen."
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund",
-      "highlight_phrase": "Jeder an der Wall Street glaubt jetzt an",
-      "toc_summary": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund",
-      "quick_take": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund zur Sorge.",
+      "title": "\"Ich habe volles Sorgerecht\"",
+      "highlight_phrase": "\"Ich habe volles Sorgerecht\"",
+      "toc_summary": "\"Ich habe volles Sorgerecht\"",
+      "quick_take": "Mein Sohn hat besondere Bedürfnisse. Schadet ein Condo-Kauf seinen Leistungen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Jeder an der Wall Street glaubt jetzt an „Buy the Dip“ – genau das ist der Grund zur Sorge."
+          "text": "Mein Sohn hat besondere Bedürfnisse. Schadet ein Condo-Kauf seinen Leistungen?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Div",
-      "highlight_phrase": "JPMorgan Chase kündigt 50-Milliarden-Akt",
-      "toc_summary": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Div",
-      "quick_take": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Dividende nach Fed-Stresstest.",
+      "title": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet na",
+      "highlight_phrase": "Chicago-Fed-Präsident Goolsbee sagt, Inf",
+      "toc_summary": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet na",
+      "quick_take": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet nachlassenden Preisdruck.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "JPMorgan Chase kündigt 50-Milliarden-Aktienrückkauf an, Goldman Sachs erhöht Dividende nach Fed-Stresstest."
+          "text": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet nachlassenden Preisdruck."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Federal Reserve",
-      "highlight_phrase": "Federal Reserve",
-      "toc_summary": "Federal Reserve",
-      "quick_take": "US-Banken können Verluste von 708 Milliarden Dollar verkraften – bei Überarbeitung der Kapitalregeln.",
+      "title": "Bond-ETF-Zuflüsse steigen bei Jagd nach Rendite",
+      "highlight_phrase": "Bond-ETF-Zuflüsse steigen bei Jagd nach ",
+      "toc_summary": "Bond-ETF-Zuflüsse steigen bei Jagd nach Rendite",
+      "quick_take": "\"Markt wittert hier etwas\", sagt BlackRock-Manager.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "US-Banken können Verluste von 708 Milliarden Dollar verkraften – bei Überarbeitung der Kapitalregeln."
+          "text": "\"Markt wittert hier etwas\", sagt BlackRock-Manager."
         }
       ],
       "callout": null,
