@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-29",
   "topSignals": [
     {
-      "title": "FCEL surges 27.5%, Bloom drops 12% in sharpest fuel cell rotation of 2026",
-      "text": "— On June 26, Jefferies upgraded FuelCell Energy from Hold to Buy with a $24 PT (from $16), arguing FCEL trades at ~8x 2030 EV/EBITDA vs. Bloom at ~19x — a \"compelling asymmetric entry\" following the Fit Energy 380 MW deal and planned $200–275M Torrington expansion to 350–500 MW/year. UBS simultaneously tripled its FCEL PT to $22 (Neutral, from $7.25). Capital rotated hard: FCEL +27.5% (best single-day gain in over a year); Bloom sank 12%+ to ~$268 close (range $264.50–$299.60), its largest single-day decline of the 2026 rally. Jefferies upgrade / MarketBeat | FCEL / Yahoo Finance | BE plunge / TipRanks",
-      "url": "https://www.marketbeat.com/instant-alerts/fuelcell-energy-nasdaqfcel-upgraded-at-jefferies-financial-group-2026-06-26/",
+      "title": "EFCF Lucerne pre-conference day opens — Elcogen E3000 G2 debuts, technical results from tomorrow",
+      "text": "— Today (June 29) the European Fuel Cell Forum begins its pre-conference programme in Lucerne: project workshops, the Grid Service Market Symposium (GSM 2026), and Sustainable Shipping Days. The main 17th SOFC & SOE Forum opens Monday June 30 and runs through July 3, chaired by Ceres Power's Dr. Subhasish Mukerjee. Elcogen confirmed their presence to showcase the E3000 G2 stack platform (featured in the June 28 digest); first technical papers on stack efficiency, degradation rates, and manufacturing cost from Ceres licensees, Elcogen, SolydEra, and Convion are expected from Tuesday onward. EFCF programme | Elcogen at EFCF",
+      "url": "https://www.efcf.com/2026",
       "n": 1
     },
     {
-      "title": "Microsoft + Chevron \"Project Kilby\": 2.67 GW dedicated natural gas plant for West Texas AI campus",
-      "text": "— 20-year PPA signed June 22; GE Vernova + Solar Turbines (Caterpillar) to power Microsoft's Reeves County, TX data center; final investment decision by end-2026; first power 2028; entirely behind-the-meter (no grid tie, no ITC 48E). First GW-class dedicated CCGT project for an AI data center — strongest signal yet that gas turbines are a direct competitive threat to SOFCs at ≥2 GW scale where 2-year lead times are acceptable. TechCrunch | CNBC | Chevron PR",
-      "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+      "title": "Section 179D: today is the last business day before the June 30 construction-begin sunset",
+      "text": "— Under the OBBBA, the Section 179D commercial buildings energy efficiency deduction is permanently terminated for any project that has not begun significant physical work by June 30, 2026. For co-located data center + fuel cell projects, today is the last actionable day: initiating foundation work or spending >=5% of total project cost preserves eligibility. Projects that miss the deadline still qualify for ITC 48E (30% capital credit), but lose the additional per-square-foot deduction of up to $5.81. No breaking news of last-minute groundbreakings but the deadline is live. EnergyStackHub | constructionowners.com",
+      "url": "https://energystackhub.com/resources/section-179d-deadline-2026",
       "n": 2
     },
     {
-      "title": "DOE commits $17.5B to 10 large nuclear reactors, citing AI data center demand",
-      "text": "— Announced June 23; five low-interest loans for long-lead-time component procurement (pressure vessels, steam generators) for 10 Westinghouse 1.1 GW AP1000 reactors. Goal: all 10 under construction by 2030; hyperscalers named as principal customers. Reinforces nuclear as the dominant long-term alternative to SOFCs (>10 year horizon), now with direct federal financing. PBS News | GovCIO | Latitude Media",
-      "url": "https://www.pbs.org/newshour/nation/u-s-energy-secretary-announces-17-5-billion-in-loans-for-10-new-large-nuclear-reactors",
+      "title": "Bloom Energy enters EFCF week at $252 — down 25% from peak — as Q2 earnings July 30 becomes the next reset",
+      "text": "— After the FCEL/BE rotation on June 26 (FCEL +27.5%, BE -18.5% to a Friday close of $252.02), Bloom heads into the EFCF conference week significantly off its $334-$351 June 17-18 all-time high. Pre-market models forecast a June 29 opening near $266 (+5.6% recovery). Q2 2026 earnings on July 30 are now the primary catalyst: consensus expects ~$820M in Q2 revenue (100%+ YoY), EPS ~$0.39, and non-GAAP gross margin ~34%. A TIKR bull case of $920/share has circulated based on the full Oracle deal expansion to 2.8 GW. Analyst range: Barclays $276 Equal Weight; UBS $322 Buy; TIKR bull $920. stockinvest.us | TIKR | TipRanks earnings",
+      "url": "https://stockinvest.us/stock/BE",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "EFCF 2026 opens in 3 days (Monday June 30) — 17th European SOFC & SOE Forum, Lucerne. First technical results expected from European players (Ceres licensees, Elcogen, SolydEra, Convion). See prior digests for background. EFCF",
+          "text": "EFCF 2026 pre-conference begins — See Top Signal #1. Watch for first technical disclosures from European developers starting June 30. Key items to flag for the LCOE model: (a) any stack efficiency improvement beyond the E3000 G2's stated 75% electrical / 90% including heat; (b) degradation benchmarks from Ceres licensees at scale; (c) manufacturing cost per kW from the 360 MW ELCO I Tallinn factory vs. Bloom's Fremont benchmark. EFCF",
           "url": "https://www.efcf.com/2026",
           "sources": [
             {
@@ -35,16 +35,12 @@
           ]
         },
         {
-          "text": "FuelCell Energy 12.5 MW \"Energy Block\" (first appearance in digest) — FCEL's March 2026 product packages ten 1.25 MW molten carbonate modules into a single data-center unit; reduces site engineering and permitting overhead; Torrington factory scaling from ~100 MW to 350–500 MW/year with $200–275M capex over 24 months. Note: FCEL uses MCFC (molten carbonate), not SOFC — different stack chemistry (~60% electrical efficiency, ~650°C vs. SOFC's 800°C), but competes in the same data center power procurement market. GlobeNewswire | StockTitan",
-          "url": "https://www.globenewswire.com/news-release/2026/03/23/3260279/8041/en/FuelCell-Energy-Scales-Up-for-Data-Centers-with-Packaged-12-5-MW-UtilityGrade-Power-Block-Solution-and-Manufacturing-Expansion-Plans.html",
+          "text": "Topsoe cancels 100 MW SOEC supply agreement with First Ammonia (March 2026, first appearance) — Topsoe terminated its deal to supply a 100 MW SOEC electrolyser stack to First Ammonia, citing weak project pipeline in the hydrogen market. Topsoe's Herning SOEC factory (500 MW/year capacity) opened in 2025, but project offtake is not keeping pace. Implication for the SOFC LCOE model: the H2-fueled SOFC pathway remains constrained by H2 supply economics; natural gas is the economic base case through at least 2028-2029. Topsoe pivots to e-SAF (Project Starling, UK, Carbon Neutral Fuels). Fuel Cells Works",
+          "url": "https://fuelcellsworks.com/2026/03/26/clean-energy/topsoe-cancels-100mw-electrolyser-deal-as-hydrogen-slowdown-hits-early-stage-projects",
           "sources": [
             {
-              "title": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/03/23/3260279/8041/en/FuelCell-Energy-Scales-Up-for-Data-Centers-with-Packaged-12-5-MW-UtilityGrade-Power-Block-Solution-and-Manufacturing-Expansion-Plans.html"
-            },
-            {
-              "title": "StockTitan",
-              "url": "https://www.stocktitan.net/news/FCEL/fuel-cell-energy-scales-up-for-data-centers-with-packaged-12-5-mw-blvrjfuoc6k8.html"
+              "title": "Fuel Cells Works",
+              "url": "https://fuelcellsworks.com/2026/03/26/clean-energy/topsoe-cancels-100mw-electrolyser-deal-as-hydrogen-slowdown-hits-early-stage-projects"
             }
           ]
         }
@@ -54,12 +50,25 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Kilby (CCGT) context — See Top Signal #2. At ≥2 GW scale and 2-year acceptable lead time, CCGT competes directly with SOFC. SOFCs retain the advantage for <500 MW projects or where 90-day grid-bypass speed is the critical constraint.",
-          "url": "",
-          "sources": []
+          "text": "Nebius + Bloom full detail (first full appearance; headline MOU noted June 24) — SEC filings confirm the May 14, 2026 partnership covers 328 MW Phase 1 (250 MW guaranteed capacity) under an Energy-as-a-Service model: Bloom installs, operates, and maintains the systems; Nebius purchases power output. Three 10-year phases total up to $2.6B in contracted service fees; first power expected in 2026 at Nebius AI data center sites. The EaaS model is strategically significant: it lowers capital barriers for AI cloud operators who prefer opex over capex, and transfers O&M risk to Bloom. SEC 6-K Nebius | CryptoBriefing | Simply Wall St",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926032735/tm268409d4_ex99-1.htm",
+          "sources": [
+            {
+              "title": "SEC 6-K Nebius",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926032735/tm268409d4_ex99-1.htm"
+            },
+            {
+              "title": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/nebius-bloom-energy-fuel-cell-partnership/"
+            },
+            {
+              "title": "Simply Wall St",
+              "url": "https://simplywall.st/stocks/us/software/nasdaq-nbis/nebius-group/news/nebius-and-bloom-energy-link-fuel-cells-to-ai-growth-story"
+            }
+          ]
         },
         {
-          "text": "Quiet day on net-new SOFC deployment announcements. Prior deals (Oracle/Jupiter 2.45 GW, Crusoe/Cheyenne 900 MW Phase 1, Equinix >100 MW, FCEL/Fit Energy 380 MW, Bloom/Brookfield $5B) unchanged.",
+          "text": "Quiet day on net-new deployment announcements. Active pipeline: Oracle/Jupiter 2.45 GW, Crusoe/Cheyenne 900 MW Phase 1, Equinix >100 MW, FCEL/Fit Energy 380 MW, Bloom/Brookfield $5B, Nebius 328 MW.",
           "url": "",
           "sources": []
         }
@@ -69,17 +78,12 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Section 179D: 3 days to construction-begin deadline (Tuesday June 30) — Last-chance weekend for co-located fuel cell + data center projects to break ground. Projects must begin significant physical work or spend >=5% of total project cost by June 30. (Full context covered in June 26 digest.) energystackhub.com",
-          "url": "https://energystackhub.com/resources/section-179d-deadline-2026",
-          "sources": [
-            {
-              "title": "energystackhub.com",
-              "url": "https://energystackhub.com/resources/section-179d-deadline-2026"
-            }
-          ]
+          "text": "Section 179D final day — See Top Signal #2. No news of last-minute data center project groundbreakings. After June 30, ITC 48E (30% credit) remains the primary federal incentive for fuel cell installations.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "DOE nuclear loan context — Component procurement loans only (not construction financing); no near-term SOFC market impact, but strong federal intent signal for nuclear as the >2030 alternative.",
+          "text": "Quiet day. No new FERC, ERCOT, EU CADA, or Germany EnEfG developments since June 28 coverage.",
           "url": "",
           "sources": []
         }
@@ -89,21 +93,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Microsoft + Chevron Project Kilby (2.67 GW CCGT, Texas, first power 2028) — See Top Signal #2. No grid tie; no ITC 48E for gas plant. At ~$1,600–2,200/kW CCGT capex and $4–6/MMBtu gas: LCOE ~$45–85/MWh — far below SOFC even after ITC 48E (~$90–140/MWh with CHP). SOFC wins on speed (90 days vs. 24+ months), NOx reduction, and modularity; CCGT wins on raw economics at multi-GW committed scale with adequate lead time. TechCrunch | Bloomberg",
-          "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
-          "sources": [
-            {
-              "title": "TechCrunch",
-              "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/"
-            },
-            {
-              "title": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-22/microsoft-chevron-sign-20-year-power-deal-for-texas-data-center"
-            }
-          ]
-        },
-        {
-          "text": "DOE $17.5B nuclear program — 10+ year delivery horizon. Not a near-term SOFC competitor but a material long-run risk for the 2030+ market.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -113,34 +103,30 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — June 26 close ~$268.25 (range $264.50–$299.60), down 12%+ from June 25's ~$326 close; largest single-day decline of the 2026 AI data center rally. Now trading below both analyst price targets (Barclays $276 EW; UBS $322 Buy). 52-week range: $21.50–$351.28. Market citing Project Kilby (CCGT competition) and DOE nuclear loans as catalysts for the de-rating. TipRanks | Yahoo Finance",
-          "url": "https://www.tipranks.com/news/why-is-bloom-energy-stock-be-plunging-today-june-26-2026",
+          "text": "Bloom Energy (BE) — Friday June 26 close: $252.02 (down 18.49% on the session, from $309.18; -25% from the June 17-18 peak of ~$334-$351). Pre-market June 29 model: ~$266 (+5.6%). 52-week range: $21.50-$351.28. Analyst consensus: 28 analysts, avg PT $264.53 (Buy). Barclays $276 Equal Weight (Q2 preview); UBS $322 Buy; TIKR bull case $920 on full 2.8 GW Oracle deployment. Q2 earnings: July 30, 2026 (AH). Revenue consensus: ~$820M; EPS: ~$0.39; gross margin target ~34%. stockinvest.us | MarketBeat | TIKR",
+          "url": "https://stockinvest.us/stock/BE",
           "sources": [
             {
-              "title": "TipRanks",
-              "url": "https://www.tipranks.com/news/why-is-bloom-energy-stock-be-plunging-today-june-26-2026"
+              "title": "stockinvest.us",
+              "url": "https://stockinvest.us/stock/BE"
             },
             {
-              "title": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-down-6-210829018.html"
+              "title": "MarketBeat",
+              "url": "https://www.marketbeat.com/stocks/NYSE/BE/forecast/"
+            },
+            {
+              "title": "TIKR",
+              "url": "https://www.tikr.com/blog/bloom-energy-stock-could-be-worth-920-after-the-oracle-deal-expansion"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL) — +27.5% on June 26; best single-day gain in >1 year. Jefferies: Buy, $24 PT (valuation: 8x vs. Bloom's 19x 2030 EV/EBITDA). UBS: Neutral, $22 PT (tripled from $7.25). Torrington expansion ($200–275M, 350–500 MW/year capacity) underpins the upgrade thesis. FCEL pipeline +275% since Feb 2025, majority from data center customers. MarketBeat | GuruFocus | Yahoo Finance / UBS",
-          "url": "https://www.marketbeat.com/instant-alerts/fuelcell-energy-nasdaqfcel-upgraded-at-jefferies-financial-group-2026-06-26/",
+          "text": "FuelCell Energy (FCEL) — No update since +27.5% surge June 26 (Jefferies Buy $24, UBS Neutral $22). Torrington expansion ($200-275M, 350-500 MW/year) on track. June 2026 deep-dive analysis confirms: FCEL 4 GW pipeline is primarily data-center originated; pipeline grew 275% since Feb 2025. Q3 FY2026 earnings expected ~September 2026. Merlintrader",
+          "url": "https://www.merlintrader.com/fuelcell-energy-june2026-deepdive/",
           "sources": [
             {
-              "title": "MarketBeat",
-              "url": "https://www.marketbeat.com/instant-alerts/fuelcell-energy-nasdaqfcel-upgraded-at-jefferies-financial-group-2026-06-26/"
-            },
-            {
-              "title": "GuruFocus",
-              "url": "https://www.gurufocus.com/news/8934644/fuelcell-energy-fcel-surges-208-after-upgrade-to-buy-with-24-price-target"
-            },
-            {
-              "title": "Yahoo Finance / UBS",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/fcel-stock-headed-best-single-161405792.html"
+              "title": "Merlintrader",
+              "url": "https://www.merlintrader.com/fuelcell-energy-june2026-deepdive/"
             }
           ]
         }
@@ -150,17 +136,31 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Forschungszentrum Jülich 93,000-hour SOFC milestone (RSC JMC-A, 2025) — Atomic-scale study of air electrode degradation in short stack F1002-97 operated for 93,000 hours (~10.6 years) at 700°C under constant current (0.5 A/cm²). Confirms 0.5%/1000h degradation rate is achievable in real-world extended operation; identifies Sr and La migration in LSCF cathode as the dominant long-term failure mechanism; plasma-spray protective coatings and in-situ sintering identified as key mitigations. RSC JMC-A",
-          "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ta/d5ta03917g",
+          "text": "ECS SOFC XIX Focus Issue (JES, 2026) — papers now publishing — The Journal of The Electrochemical Society focus issue linked to SOFC-XIX (Stockholm, July 2025) is actively publishing. Noteworthy paper: \"Exchange Current Density in Solid Oxide Cells: A Generalized Theoretical Framework and Application to H2/H2O Reactions\" — unified kinetic model for SOFC anode/cathode exchange current, applicable to degradation modeling and electrode design optimization. IOPscience | ECS call",
+          "url": "https://iopscience.iop.org/article/10.1149/1945-7111/ae7474",
           "sources": [
             {
-              "title": "RSC JMC-A",
-              "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ta/d5ta03917g"
+              "title": "IOPscience",
+              "url": "https://iopscience.iop.org/article/10.1149/1945-7111/ae7474"
+            },
+            {
+              "title": "ECS call",
+              "url": "https://www.electrochem.org/ecsnews/focus-issue-sofc-xix"
             }
           ]
         },
         {
-          "text": "Watch: EFCF opens Monday June 30 — Expect new stack durability, efficiency, and manufacturing cost data from European developers.",
+          "text": "Wiley Advanced Energy Materials (June 2026) — \"Emerging Materials and Future Strategies for Solid Oxide Electrochemical Cells\" — survey of perovskite electrodes, proton-conducting electrolytes (PCECs at sub-600 degrees C), and next-generation cathode materials for SOFC and SOEC; identifies protonic cells as a potential sub-600 degrees C successor pathway. Wiley",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506791",
+          "sources": [
+            {
+              "title": "Wiley",
+              "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506791"
+            }
+          ]
+        },
+        {
+          "text": "Watch: EFCF Lucerne June 30 - July 3 — Technical results from European stack developers expected from tomorrow.",
           "url": "",
           "sources": []
         }
@@ -169,26 +169,22 @@
   ],
   "lcoe": [
     {
-      "text": "Rystad Energy: SOFC system capex -20-25% by 2030 — Driven by Bloom 2 GW Fremont ramp and FCEL Torrington expansion; Rystad projects 10.4 GW cumulative fuel cell demand from data centers 2026–2030 and market revenues growing to ~$30B by 2030. At 20-25% cost reduction from current $6,000–7,200/kW: implied 2030 capex ~$4,500–5,400/kW unsubsidized; ~$3,150–3,780/kW after ITC 48E. Recommend adding 2030 low-capex sensitivity case to LCOE model. Rystad Energy | Gas to Power Journal",
-      "url": "https://www.rystadenergy.com/news/data-center-fuel-cell-power-demand",
-      "sources": [
-        {
-          "title": "Rystad Energy",
-          "url": "https://www.rystadenergy.com/news/data-center-fuel-cell-power-demand"
-        },
-        {
-          "title": "Gas to Power Journal",
-          "url": "https://gastopowerjournal.com/news/market/fuel-cell-investment-by-ai-data-centers-to-top-30bn-by-2030/"
-        }
-      ]
-    },
-    {
-      "text": "Project Kilby CCGT benchmark: 2.67 GW dedicated behind-the-meter gas plant, 20-year PPA, first power 2028. Implied capex ~$1,600–2,200/kW → LCOE ~$45–85/MWh at $4–6/MMBtu gas. SOFC LCOE gap vs. CCGT: ~$45–95/MWh even with ITC 48E + CHP. Economic case for SOFC rests on speed + NOx reduction + modularity, not cost parity at multi-GW scale.",
+      "text": "Topsoe SOEC slowdown: H2 supply not on track for pre-2029 SOFC fuel switch — First Ammonia 100 MW cancellation and soft SOEC pipeline confirm H2 cost/availability does not support H2-fueled SOFC scenarios before 2028-2029. Recommend keeping natural gas as the base-case fuel in all near-term LCOE scenarios; introduce H2 sensitivity only in 2029+ scenarios.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Jülich 93,000h durability: at 0.5%/1000h degradation, stack reaches ~46% performance retention at 10.6 years — validates 10-year stack replacement interval (vs. the conservative 5-year schedule sometimes modeled). Extending from 5 to 10 year stack life reduces O&M costs by ~15–20% in a 20-year project NPV.",
+      "text": "Nebius EaaS model: bundled $/MWh contract rate — The Energy-as-a-Service structure shifts O&M risk to Bloom; the effective cost to the customer is a bundled $/MWh rate. Watch for any disclosed PPA/EaaS pricing in Nebius quarterly filings — it would be the first public market reference rate for large-scale SOFC power.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "BE Q2 July 30 earnings: key capex signal — If Bloom discloses manufacturing cost per kW at the 2 GW Fremont run rate, it will provide the most current large-volume SOFC system capex benchmark. Recommend updating the LCOE model cost inputs after the July 30 call.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Section 179D sunset: model impact — After today, new projects lose the 179D deduction. The 30% ITC 48E (net capex ~$4,650-5,060/kW) remains. For 179D-eligible projects completed before the deadline, the combined incentive stack could reduce effective capex by an additional $0.58-5.81/sq.ft.",
       "url": "",
       "sources": []
     }
