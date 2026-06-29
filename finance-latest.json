@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-26",
+    "title": "Beating Beta — 2026-06-29",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-26",
+      "title": "Markets Snapshot — 2026-06-29",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7357.49 · Nasdaq 29440.32 · VIX 18.89 · 10Y 4.39% · Gold $4008.70 · Oil $70.97 · BTC $58488.83 · F&G N/A",
-      "quick_take": "S&P 500: 7357.49\nNasdaq: 29440.32\nVIX: 18.89 · 10Y: 4.39%\nGold: $4008.70 · Oil: $70.97\nBitcoin: $58488.83\nFear & Greed: N/A",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7357.49 · Nasdaq 29440.32"
+          "text": "S&P 500 N/A · Nasdaq N/A"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4.39% · VIX 18.89"
+          "text": "10Y N/A% · VIX N/A"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4008.70 · WTI $70.97 · BTC $58488.83"
+          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "SpaceX-FOMO ist offiziell vorbei",
-      "highlight_phrase": "SpaceX-FOMO ist offiziell vorbei",
-      "toc_summary": "SpaceX-FOMO ist offiziell vorbei",
-      "quick_take": "Raumfahrtaktien werden breit abgestraft.",
+      "title": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolg",
+      "highlight_phrase": "Ölpreise und Aktienfutures steigen leich",
+      "toc_summary": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolg",
+      "quick_take": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolge Angriffe stoppen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Raumfahrtaktien werden breit abgestraft."
+          "text": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolge Angriffe stoppen"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "SpaceX-Aktie ist ein schlechter Kauf",
-      "highlight_phrase": "SpaceX-Aktie ist ein schlechter Kauf",
-      "toc_summary": "SpaceX-Aktie ist ein schlechter Kauf",
-      "quick_take": "was das für den Bullenmarkt bedeutet.",
+      "title": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um ",
+      "highlight_phrase": "Ich hatte eine Gallenblasen-OP. Nach der",
+      "toc_summary": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um ",
+      "quick_take": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um eine Spende. Ist das ethisch?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "was das für den Bullenmarkt bedeutet."
+          "text": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um eine Spende. Ist das ethisch?"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bri",
-      "highlight_phrase": "Eine Welt, die OPEC-Kontrollen ablehnt, ",
-      "toc_summary": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bri",
-      "quick_take": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bringen.",
+      "title": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr",
+      "highlight_phrase": "Ihre Krankenkasse sollte nicht über Ihre",
+      "toc_summary": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr",
+      "quick_take": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr Arzt – und KI – tun.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Eine Welt, die OPEC-Kontrollen ablehnt, könnte Öl unter 50 Dollar pro Barrel bringen."
+          "text": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr Arzt – und KI – tun."
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich habe volles Sorgerecht\"",
-      "highlight_phrase": "\"Ich habe volles Sorgerecht\"",
-      "toc_summary": "\"Ich habe volles Sorgerecht\"",
-      "quick_take": "Mein Sohn hat besondere Bedürfnisse. Schadet ein Condo-Kauf seinen Leistungen?",
+      "title": "\"Fühlt sich an wie ein medizinisches Wunder\"",
+      "highlight_phrase": "\"Fühlt sich an wie ein medizinisches Wun",
+      "toc_summary": "\"Fühlt sich an wie ein medizinisches Wunder\"",
+      "quick_take": "Wie ein QR-Code-Coupon mein 618-Dollar-Rezept bei Walgreens auf 15 Dollar senkte",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mein Sohn hat besondere Bedürfnisse. Schadet ein Condo-Kauf seinen Leistungen?"
+          "text": "Wie ein QR-Code-Coupon mein 618-Dollar-Rezept bei Walgreens auf 15 Dollar senkte"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet na",
-      "highlight_phrase": "Chicago-Fed-Präsident Goolsbee sagt, Inf",
-      "toc_summary": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet na",
-      "quick_take": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet nachlassenden Preisdruck.",
+      "title": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an",
+      "highlight_phrase": "Diese 10 chinesischen Aktien treiben US-",
+      "toc_summary": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an",
+      "quick_take": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Chicago-Fed-Präsident Goolsbee sagt, Inflation sei zu hoch; Williams erwartet nachlassenden Preisdruck."
+          "text": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Bond-ETF-Zuflüsse steigen bei Jagd nach Rendite",
-      "highlight_phrase": "Bond-ETF-Zuflüsse steigen bei Jagd nach ",
-      "toc_summary": "Bond-ETF-Zuflüsse steigen bei Jagd nach Rendite",
-      "quick_take": "\"Markt wittert hier etwas\", sagt BlackRock-Manager.",
+      "title": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten",
+      "highlight_phrase": "Warum Anleger Anleihemärkte außerhalb de",
+      "toc_summary": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten",
+      "quick_take": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Markt wittert hier etwas\", sagt BlackRock-Manager."
+          "text": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten"
         }
       ],
       "callout": null,
