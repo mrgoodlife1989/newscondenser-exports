@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-29",
+    "title": "Beating Beta — 2026-06-30",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-29",
+      "title": "Markets Snapshot — 2026-06-30",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolg",
-      "highlight_phrase": "Ölpreise und Aktienfutures steigen leich",
-      "toc_summary": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolg",
-      "quick_take": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolge Angriffe stoppen",
+      "title": "Trumps Iran-Angriffe am Wochenende sorgen weiter für Montags-Rallys an den Aktienmärkten",
+      "highlight_phrase": "Trumps Iran-Angriffe am Wochenende sorge",
+      "toc_summary": "Trumps Iran-Angriffe am Wochenende sorgen weiter für Montags-Rallys an den Aktienmärkten",
+      "quick_take": "das zeigen die Daten.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ölpreise und Aktienfutures steigen leicht, nachdem USA und Iran Berichten zufolge Angriffe stoppen"
+          "text": "das zeigen die Daten."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um ",
-      "highlight_phrase": "Ich hatte eine Gallenblasen-OP. Nach der",
-      "toc_summary": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um ",
-      "quick_take": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um eine Spende. Ist das ethisch?",
+      "title": "„Ich glaube nicht, dass ich 80 werde“: Mit 70 und Single",
+      "highlight_phrase": "„Ich glaube nicht, dass ich 80 werde“: M",
+      "toc_summary": "„Ich glaube nicht, dass ich 80 werde“: Mit 70 und Single",
+      "quick_take": "soll ich eine Reverse Mortgage oder einen Home-Equity-Vertrag abschließen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich hatte eine Gallenblasen-OP. Nach der Entlassung bat mich das Krankenhaus um eine Spende. Ist das ethisch?"
+          "text": "soll ich eine Reverse Mortgage oder einen Home-Equity-Vertrag abschließen?"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr",
-      "highlight_phrase": "Ihre Krankenkasse sollte nicht über Ihre",
-      "toc_summary": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr",
-      "quick_take": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr Arzt – und KI – tun.",
+      "title": "„Ich habe mit 62 Sozialversicherung beantragt“: Mit 76 arbeite ich bei Walmart",
+      "highlight_phrase": "„Ich habe mit 62 Sozialversicherung bean",
+      "toc_summary": "„Ich habe mit 62 Sozialversicherung beantragt“: Mit 76 arbeite ich bei Walmart",
+      "quick_take": "warum schulde ich noch Lohnsteuern?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ihre Krankenkasse sollte nicht über Ihre Behandlung entscheiden – das sollte Ihr Arzt – und KI – tun."
+          "text": "warum schulde ich noch Lohnsteuern?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Fühlt sich an wie ein medizinisches Wunder\"",
-      "highlight_phrase": "\"Fühlt sich an wie ein medizinisches Wun",
-      "toc_summary": "\"Fühlt sich an wie ein medizinisches Wunder\"",
-      "quick_take": "Wie ein QR-Code-Coupon mein 618-Dollar-Rezept bei Walgreens auf 15 Dollar senkte",
+      "title": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme hera",
+      "highlight_phrase": "Rocket Lab fordert SpaceX‘ Starlink mit ",
+      "toc_summary": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme hera",
+      "quick_take": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme heraus.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wie ein QR-Code-Coupon mein 618-Dollar-Rezept bei Walgreens auf 15 Dollar senkte"
+          "text": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme heraus."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an",
-      "highlight_phrase": "Diese 10 chinesischen Aktien treiben US-",
-      "toc_summary": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an",
-      "quick_take": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an",
+      "title": "Aktien mit den größten Bewegungen zur Mittagszeit",
+      "highlight_phrase": "Aktien mit den größten Bewegungen zur Mi",
+      "toc_summary": "Aktien mit den größten Bewegungen zur Mittagszeit",
+      "quick_take": "Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Diese 10 chinesischen Aktien treiben US-Rechenzentren an"
+          "text": "Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & mehr."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten",
-      "highlight_phrase": "Warum Anleger Anleihemärkte außerhalb de",
-      "toc_summary": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten",
-      "quick_take": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten",
+      "title": "Aktien mit den größten Bewegungen vorbörslich",
+      "highlight_phrase": "Aktien mit den größten Bewegungen vorbör",
+      "toc_summary": "Aktien mit den größten Bewegungen vorbörslich",
+      "quick_take": "Comcast, Rocket Lab, Charter Communications & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Warum Anleger Anleihemärkte außerhalb der USA priorisieren sollten"
+          "text": "Comcast, Rocket Lab, Charter Communications & mehr."
         }
       ],
       "callout": null,
