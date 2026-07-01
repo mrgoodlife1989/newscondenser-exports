@@ -1,15 +1,15 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-06-30",
+    "title": "Beating Beta — 2026-07-01",
     "highlight_phrase": "markets & guru radar",
-    "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
+    "summary": "Daily finance brief: guru radar, markets snapshot, and 0 market news items."
   },
   "stories": [
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-06-30",
+      "title": "Markets Snapshot — 2026-07-01",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -35,132 +35,6 @@
       "sources": [
         {
           "title": "Yahoo Finance · Bloomberg · CNBC",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "03",
-      "category": "FINANCE · NEWS",
-      "title": "Trumps Iran-Angriffe am Wochenende sorgen weiter für Montags-Rallys an den Aktienmärkten",
-      "highlight_phrase": "Trumps Iran-Angriffe am Wochenende sorge",
-      "toc_summary": "Trumps Iran-Angriffe am Wochenende sorgen weiter für Montags-Rallys an den Aktienmärkten",
-      "quick_take": "das zeigen die Daten.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "das zeigen die Daten."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "04",
-      "category": "FINANCE · NEWS",
-      "title": "„Ich glaube nicht, dass ich 80 werde“: Mit 70 und Single",
-      "highlight_phrase": "„Ich glaube nicht, dass ich 80 werde“: M",
-      "toc_summary": "„Ich glaube nicht, dass ich 80 werde“: Mit 70 und Single",
-      "quick_take": "soll ich eine Reverse Mortgage oder einen Home-Equity-Vertrag abschließen?",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "soll ich eine Reverse Mortgage oder einen Home-Equity-Vertrag abschließen?"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "05",
-      "category": "FINANCE · NEWS",
-      "title": "„Ich habe mit 62 Sozialversicherung beantragt“: Mit 76 arbeite ich bei Walmart",
-      "highlight_phrase": "„Ich habe mit 62 Sozialversicherung bean",
-      "toc_summary": "„Ich habe mit 62 Sozialversicherung beantragt“: Mit 76 arbeite ich bei Walmart",
-      "quick_take": "warum schulde ich noch Lohnsteuern?",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "warum schulde ich noch Lohnsteuern?"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "06",
-      "category": "FINANCE · NEWS",
-      "title": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme hera",
-      "highlight_phrase": "Rocket Lab fordert SpaceX‘ Starlink mit ",
-      "toc_summary": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme hera",
-      "quick_take": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme heraus.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Rocket Lab fordert SpaceX‘ Starlink mit einer 8-Milliarden-Dollar-Übernahme heraus."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "07",
-      "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen zur Mittagszeit",
-      "highlight_phrase": "Aktien mit den größten Bewegungen zur Mi",
-      "toc_summary": "Aktien mit den größten Bewegungen zur Mittagszeit",
-      "quick_take": "Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & mehr.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & mehr."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
-      "number": "08",
-      "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen vorbörslich",
-      "highlight_phrase": "Aktien mit den größten Bewegungen vorbör",
-      "toc_summary": "Aktien mit den größten Bewegungen vorbörslich",
-      "quick_take": "Comcast, Rocket Lab, Charter Communications & mehr.",
-      "bullets": [
-        {
-          "label": "Detail",
-          "text": "Comcast, Rocket Lab, Charter Communications & mehr."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
           "url": null
         }
       ]
