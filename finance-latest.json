@@ -1,15 +1,15 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-01",
+    "title": "Beating Beta — 2026-07-02",
     "highlight_phrase": "markets & guru radar",
-    "summary": "Daily finance brief: guru radar, markets snapshot, and 0 market news items."
+    "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-01",
+      "title": "Markets Snapshot — 2026-07-02",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -35,6 +35,132 @@
       "sources": [
         {
           "title": "Yahoo Finance · Bloomberg · CNBC",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "category": "FINANCE · NEWS",
+      "title": "Proteinreiche Cheerios und Katzenfutter",
+      "highlight_phrase": "Proteinreiche Cheerios und Katzenfutter",
+      "toc_summary": "Proteinreiche Cheerios und Katzenfutter",
+      "quick_take": "Wie General Mills gegen das schwierige Ausgabenumfeld kämpft.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Wie General Mills gegen das schwierige Ausgabenumfeld kämpft."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "category": "FINANCE · NEWS",
+      "title": "Ein \"Trump-Konto\" für Ihre Kinder eröffnen? Das Risiko, das Sie zuerst bedenken ",
+      "highlight_phrase": "Ein \"Trump-Konto\" für Ihre Kinder eröffn",
+      "toc_summary": "Ein \"Trump-Konto\" für Ihre Kinder eröffnen? Das Risiko, das Sie zuerst bedenken ",
+      "quick_take": "Ein \"Trump-Konto\" für Ihre Kinder eröffnen? Das Risiko, das Sie zuerst bedenken müssen.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Ein \"Trump-Konto\" für Ihre Kinder eröffnen? Das Risiko, das Sie zuerst bedenken müssen."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "category": "FINANCE · NEWS",
+      "title": "Nvidia setzt auf einen Billionen-Dollar-Roboter-Boom",
+      "highlight_phrase": "Nvidia setzt auf einen Billionen-Dollar-",
+      "toc_summary": "Nvidia setzt auf einen Billionen-Dollar-Roboter-Boom",
+      "quick_take": "der versteckte Weg, darauf zu setzen.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "der versteckte Weg, darauf zu setzen."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "category": "FINANCE · NEWS",
+      "title": "\"Wir waren fassungslos\"",
+      "highlight_phrase": "\"Wir waren fassungslos\"",
+      "toc_summary": "\"Wir waren fassungslos\"",
+      "quick_take": "Meine 39-jährige Tochter sagt, ihre Schwiegermutter gibt ihr mehr Geld als wir. Soll ich sie zur Rede stellen?",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Meine 39-jährige Tochter sagt, ihre Schwiegermutter gibt ihr mehr Geld als wir. Soll ich sie zur Rede stellen?"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "category": "FINANCE · NEWS",
+      "title": "Alibaba-Tochter Ant Group stürzt sich mit einem Dutzend Deals in 18 Monaten in h",
+      "highlight_phrase": "Alibaba-Tochter Ant Group stürzt sich mi",
+      "toc_summary": "Alibaba-Tochter Ant Group stürzt sich mit einem Dutzend Deals in 18 Monaten in h",
+      "quick_take": "Alibaba-Tochter Ant Group stürzt sich mit einem Dutzend Deals in 18 Monaten in humanoide Roboter.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Alibaba-Tochter Ant Group stürzt sich mit einem Dutzend Deals in 18 Monaten in humanoide Roboter."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "08",
+      "category": "FINANCE · NEWS",
+      "title": "Der bekannte Tech-Analyst Dan Ives verlässt Wedbush für ein neues Vorhaben.",
+      "highlight_phrase": "Der bekannte Tech-Analyst Dan Ives verlä",
+      "toc_summary": "Der bekannte Tech-Analyst Dan Ives verlässt Wedbush für ein neues Vorhaben.",
+      "quick_take": "Der bekannte Tech-Analyst Dan Ives verlässt Wedbush für ein neues Vorhaben.",
+      "bullets": [
+        {
+          "label": "Detail",
+          "text": "Der bekannte Tech-Analyst Dan Ives verlässt Wedbush für ein neues Vorhaben."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
           "url": null
         }
       ]
