@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-07-03",
   "topSignals": [
     {
-      "title": "EFCF Lucerne pre-conference day opens — Elcogen E3000 G2 debuts, technical results from tomorrow",
-      "text": "— Today (June 29) the European Fuel Cell Forum begins its pre-conference programme in Lucerne: project workshops, the Grid Service Market Symposium (GSM 2026), and Sustainable Shipping Days. The main 17th SOFC & SOE Forum opens Monday June 30 and runs through July 3, chaired by Ceres Power's Dr. Subhasish Mukerjee. Elcogen confirmed their presence to showcase the E3000 G2 stack platform (featured in the June 28 digest); first technical papers on stack efficiency, degradation rates, and manufacturing cost from Ceres licensees, Elcogen, SolydEra, and Convion are expected from Tuesday onward. EFCF programme | Elcogen at EFCF",
-      "url": "https://www.efcf.com/2026",
+      "title": "DOE meets Trump's July 4 nuclear goal: three microreactors achieve zero-power criticality",
+      "text": "— The U.S. DOE confirmed on July 1 that Deployable Energy's Unity reactor achieved criticality at Idaho National Laboratory (June 30, 11:55 PM MDT), fulfilling EO 14301's mandate for three reactors to go critical before July 4. Preceding it: Antares Nuclear's Mark-0 (June 4, INL — first under DOE pilot programme) and Valar Atomics' Ward 250 (June 18, Orangeville, Utah — first criticality outside a national lab). All three are zero-power test reactors; none sells a watt of electricity. For SOFC competitive assessment: nuclear remains a 2030+ threat, not a near-term data center power competitor. Radiant (Kaleidos) did not achieve criticality by the deadline but is cited as next in queue. Forbes | World Nuclear News | Energy News Beat",
+      "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/",
       "n": 1
     },
     {
-      "title": "Section 179D: today is the last business day before the June 30 construction-begin sunset",
-      "text": "— Under the OBBBA, the Section 179D commercial buildings energy efficiency deduction is permanently terminated for any project that has not begun significant physical work by June 30, 2026. For co-located data center + fuel cell projects, today is the last actionable day: initiating foundation work or spending >=5% of total project cost preserves eligibility. Projects that miss the deadline still qualify for ITC 48E (30% capital credit), but lose the additional per-square-foot deduction of up to $5.81. No breaking news of last-minute groundbreakings but the deadline is live. EnergyStackHub | constructionowners.com",
-      "url": "https://energystackhub.com/resources/section-179d-deadline-2026",
+      "title": "UBS and Evercore ISI both raise Bloom Energy PT to $350 on $25B Brookfield catalyst",
+      "text": "— On July 1, UBS analyst Manav Gupta maintained Buy and raised the Bloom Energy price target to $350 from $322, and Evercore ISI analyst Nicholas Amicucci raised to $350 from $295 (Outperform). Clear Street also moved to $290 from $250. BE closed July 2 at ~$299.71 (range $283.50–$303.90), consolidating ~15% below the new dual target while the market awaits Q2 earnings July 30 (consensus: ~$820M revenue, ~34% gross margin, EPS ~$0.39). July 3 is a shortened session (markets close 1pm ET pre-Independence Day). GuruFocus / UBS | GuruFocus / Evercore | Investing.com",
+      "url": "https://www.gurufocus.com/news/8941411/be-maintained-by-ubs-price-target-raised-to-350",
       "n": 2
     },
     {
-      "title": "Bloom Energy enters EFCF week at $252 — down 25% from peak — as Q2 earnings July 30 becomes the next reset",
-      "text": "— After the FCEL/BE rotation on June 26 (FCEL +27.5%, BE -18.5% to a Friday close of $252.02), Bloom heads into the EFCF conference week significantly off its $334-$351 June 17-18 all-time high. Pre-market models forecast a June 29 opening near $266 (+5.6% recovery). Q2 2026 earnings on July 30 are now the primary catalyst: consensus expects ~$820M in Q2 revenue (100%+ YoY), EPS ~$0.39, and non-GAAP gross margin ~34%. A TIKR bull case of $920/share has circulated based on the full Oracle deal expansion to 2.8 GW. Analyst range: Barclays $276 Equal Weight; UBS $322 Buy; TIKR bull $920. stockinvest.us | TIKR | TipRanks earnings",
-      "url": "https://stockinvest.us/stock/BE",
+      "title": "FuelCell Energy slides from +67% peak as warrant dilution and negative margins draw scrutiny",
+      "text": "— After the +67% weekly rally (June 26–July 1), FCEL pulled back on July 2 (\"sliding Thursday,\" Benzinga). Seeking Alpha published a Sell note (\"What Goes Up Must Always Come Back Down\") flagging: 34% share count dilution in two quarters, persistent negative margins, and the Fit Energy 12M-warrant overhang (12M shares at $26.44 strike). The counter-thesis: FCEL cannot self-fund its $200–275M Torrington expansion; sustained dilution erodes the upside of the data center bull case. Benzinga | Seeking Alpha | ts2.tech warrant analysis",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60250960/fuelcell-energy-stock-is-sliding-thursday-whats-driving-the-move",
       "n": 3
     }
   ],
@@ -25,22 +25,12 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "EFCF 2026 pre-conference begins — See Top Signal #1. Watch for first technical disclosures from European developers starting June 30. Key items to flag for the LCOE model: (a) any stack efficiency improvement beyond the E3000 G2's stated 75% electrical / 90% including heat; (b) degradation benchmarks from Ceres licensees at scale; (c) manufacturing cost per kW from the 360 MW ELCO I Tallinn factory vs. Bloom's Fremont benchmark. EFCF",
+          "text": "EFCF 17th European SOFC & SOE Forum closes today (July 3, Lucerne) — Final day of the conference. Technical paper sessions ran July 1–3 at KKL Lucerne; no specific experimental results have been published online as of this digest. Proceedings will appear on efcf.com; watch for post-conference press releases from Elcogen (E3000 G2 real-stack efficiency and degradation), Ceres licensees (Doosan yield ramp), SolydEra, and Convion. Key pending data: (a) Elcogen E3000 G2 efficiency at real commercial conditions (stated 75% electrical / 90% with heat, 650°C), (b) any confirmed degradation benchmarks from Doosan (last known: 80% production yield vs. 90% target in Q1 2026), (c) manufacturing cost per kW from ELCO I Tallinn vs. Bloom Fremont baseline. EFCF",
           "url": "https://www.efcf.com/2026",
           "sources": [
             {
               "title": "EFCF",
               "url": "https://www.efcf.com/2026"
-            }
-          ]
-        },
-        {
-          "text": "Topsoe cancels 100 MW SOEC supply agreement with First Ammonia (March 2026, first appearance) — Topsoe terminated its deal to supply a 100 MW SOEC electrolyser stack to First Ammonia, citing weak project pipeline in the hydrogen market. Topsoe's Herning SOEC factory (500 MW/year capacity) opened in 2025, but project offtake is not keeping pace. Implication for the SOFC LCOE model: the H2-fueled SOFC pathway remains constrained by H2 supply economics; natural gas is the economic base case through at least 2028-2029. Topsoe pivots to e-SAF (Project Starling, UK, Carbon Neutral Fuels). Fuel Cells Works",
-          "url": "https://fuelcellsworks.com/2026/03/26/clean-energy/topsoe-cancels-100mw-electrolyser-deal-as-hydrogen-slowdown-hits-early-stage-projects",
-          "sources": [
-            {
-              "title": "Fuel Cells Works",
-              "url": "https://fuelcellsworks.com/2026/03/26/clean-energy/topsoe-cancels-100mw-electrolyser-deal-as-hydrogen-slowdown-hits-early-stage-projects"
             }
           ]
         }
@@ -50,25 +40,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Nebius + Bloom full detail (first full appearance; headline MOU noted June 24) — SEC filings confirm the May 14, 2026 partnership covers 328 MW Phase 1 (250 MW guaranteed capacity) under an Energy-as-a-Service model: Bloom installs, operates, and maintains the systems; Nebius purchases power output. Three 10-year phases total up to $2.6B in contracted service fees; first power expected in 2026 at Nebius AI data center sites. The EaaS model is strategically significant: it lowers capital barriers for AI cloud operators who prefer opex over capex, and transfers O&M risk to Bloom. SEC 6-K Nebius | CryptoBriefing | Simply Wall St",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926032735/tm268409d4_ex99-1.htm",
-          "sources": [
-            {
-              "title": "SEC 6-K Nebius",
-              "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926032735/tm268409d4_ex99-1.htm"
-            },
-            {
-              "title": "CryptoBriefing",
-              "url": "https://cryptobriefing.com/nebius-bloom-energy-fuel-cell-partnership/"
-            },
-            {
-              "title": "Simply Wall St",
-              "url": "https://simplywall.st/stocks/us/software/nasdaq-nbis/nebius-group/news/nebius-and-bloom-energy-link-fuel-cells-to-ai-growth-story"
-            }
-          ]
-        },
-        {
-          "text": "Quiet day on net-new deployment announcements. Active pipeline: Oracle/Jupiter 2.45 GW, Crusoe/Cheyenne 900 MW Phase 1, Equinix >100 MW, FCEL/Fit Energy 380 MW, Bloom/Brookfield $5B, Nebius 328 MW.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -78,12 +50,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Section 179D final day — See Top Signal #2. No news of last-minute data center project groundbreakings. After June 30, ITC 48E (30% credit) remains the primary federal incentive for fuel cell installations.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Quiet day. No new FERC, ERCOT, EU CADA, or Germany EnEfG developments since June 28 coverage.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -93,7 +60,21 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Three US microreactors reach zero-power criticality by July 4 deadline — See Top Signal #1. The milestone fulfils EO 14301 symbolically and accelerates federal attention on advanced nuclear. But the reactors — Antares Mark-0, Valar Ward 250, and Deployable Energy Unity — are zero-power research demonstrators. No commercial power dispatch capacity exists; commercialisation timelines for AI data center applications remain 2030+ at earliest. The headline risk for SOFC is narrative (increased investor interest in nuclear) rather than operational (nuclear cannot absorb data center load before 2030). Forbes | Power Magazine / Antares",
+          "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/",
+          "sources": [
+            {
+              "title": "Forbes",
+              "url": "https://www.forbes.com/sites/christopherhelman/2026/07/02/new-atomic-age-underway-as-three-mini-reactors-go-critical-by-trumps-july-4-deadline/"
+            },
+            {
+              "title": "Power Magazine / Antares",
+              "url": "https://www.powermag.com/antares-mark-0-becomes-first-advanced-nuclear-reactor-to-achieve-criticality-under-doe-pilot-program/"
+            }
+          ]
+        },
+        {
+          "text": "Background: Microsoft Project Kilby (2.67 GW CCGT, Texas, first power 2028), DOE $17.5B AP1000 nuclear loan programme (10+ year horizon), Google Meitner Energy Center (wind/solar/battery + gas firming) — all covered June 27–28.",
           "url": "",
           "sources": []
         }
@@ -103,30 +84,34 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — Friday June 26 close: $252.02 (down 18.49% on the session, from $309.18; -25% from the June 17-18 peak of ~$334-$351). Pre-market June 29 model: ~$266 (+5.6%). 52-week range: $21.50-$351.28. Analyst consensus: 28 analysts, avg PT $264.53 (Buy). Barclays $276 Equal Weight (Q2 preview); UBS $322 Buy; TIKR bull case $920 on full 2.8 GW Oracle deployment. Q2 earnings: July 30, 2026 (AH). Revenue consensus: ~$820M; EPS: ~$0.39; gross margin target ~34%. stockinvest.us | MarketBeat | TIKR",
-          "url": "https://stockinvest.us/stock/BE",
+          "text": "Bloom Energy (BE) — July 2 close: ~$299.71 (range $283.50–$303.90). Updated analyst picture post-$25B Brookfield deal: UBS Buy $350 (raised from $322 on July 1), Evercore ISI Outperform $350 (raised from $295 on July 1), Clear Street $290 (raised from $250), Barclays Equal Weight $276. BE trades ~15% below the new dual $350 targets; gap to close likely requires Q2 earnings confirmation on July 30. 52-week range: $21.50–$351.28. GuruFocus | Blockonomi | MarketScreener",
+          "url": "https://www.gurufocus.com/news/8941411/be-maintained-by-ubs-price-target-raised-to-350",
           "sources": [
             {
-              "title": "stockinvest.us",
-              "url": "https://stockinvest.us/stock/BE"
+              "title": "GuruFocus",
+              "url": "https://www.gurufocus.com/news/8941411/be-maintained-by-ubs-price-target-raised-to-350"
             },
             {
-              "title": "MarketBeat",
-              "url": "https://www.marketbeat.com/stocks/NYSE/BE/forecast/"
+              "title": "Blockonomi",
+              "url": "https://blockonomi.com/ubs-sets-new-high-for-bloom-energy-be-stock-following-massive-25b-brookfield-deal/"
             },
             {
-              "title": "TIKR",
-              "url": "https://www.tikr.com/blog/bloom-energy-stock-could-be-worth-920-after-the-oracle-deal-expansion"
+              "title": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/ubs-adjusts-bloom-energy-price-target-to-350-from-322-maintains-buy-rating-ce7f5fd2d880f526"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL) — No update since +27.5% surge June 26 (Jefferies Buy $24, UBS Neutral $22). Torrington expansion ($200-275M, 350-500 MW/year) on track. June 2026 deep-dive analysis confirms: FCEL 4 GW pipeline is primarily data-center originated; pipeline grew 275% since Feb 2025. Q3 FY2026 earnings expected ~September 2026. Merlintrader",
-          "url": "https://www.merlintrader.com/fuelcell-energy-june2026-deepdive/",
+          "text": "FuelCell Energy (FCEL) — Pulling back from +67% weekly run. July 2 decline attributed to warrant dilution concerns and Seeking Alpha Sell note. Full analyst picture: B. Riley Buy $32 (Street high), Jefferies Buy $24, UBS Neutral $22. Next catalyst: Q3 FY2026 earnings ~September 2026. Benzinga | Seeking Alpha",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60250960/fuelcell-energy-stock-is-sliding-thursday-whats-driving-the-move",
           "sources": [
             {
-              "title": "Merlintrader",
-              "url": "https://www.merlintrader.com/fuelcell-energy-june2026-deepdive/"
+              "title": "Benzinga",
+              "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60250960/fuelcell-energy-stock-is-sliding-thursday-whats-driving-the-move"
+            },
+            {
+              "title": "Seeking Alpha",
+              "url": "https://seekingalpha.com/article/4919157-fuelcell-energy-what-goes-up-must-always-come-back-down"
             }
           ]
         }
@@ -136,55 +121,50 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "ECS SOFC XIX Focus Issue (JES, 2026) — papers now publishing — The Journal of The Electrochemical Society focus issue linked to SOFC-XIX (Stockholm, July 2025) is actively publishing. Noteworthy paper: \"Exchange Current Density in Solid Oxide Cells: A Generalized Theoretical Framework and Application to H2/H2O Reactions\" — unified kinetic model for SOFC anode/cathode exchange current, applicable to degradation modeling and electrode design optimization. IOPscience | ECS call",
-          "url": "https://iopscience.iop.org/article/10.1149/1945-7111/ae7474",
+          "text": "EFCF proceedings: not yet published — Final conference day today. Proceedings expected post-July 3 on efcf.com. Watch press release channels for Elcogen, Ceres Power, and SolydEra for post-EFCF announcements. Key pending item: Elcogen E3000 G2 real-stack efficiency and degradation data; any confirmation of >=75% electrical / >=90% CHP at 650 degrees C at commercial scale would be a material LCOE model input. EFCF",
+          "url": "https://www.efcf.com/2026",
           "sources": [
             {
-              "title": "IOPscience",
-              "url": "https://iopscience.iop.org/article/10.1149/1945-7111/ae7474"
+              "title": "EFCF",
+              "url": "https://www.efcf.com/2026"
+            }
+          ]
+        },
+        {
+          "text": "NASA regenerative fuel cell system tests (Glenn Research Center, February 2026) — NASA Glenn is testing an H2/O2 regenerative fuel cell (not SOFC) for Artemis lunar power. The system functions as both generator and electrolyser to cycle water on the Moon. Not directly relevant to data center SOFC, but validates fuel cell durability for high-uptime extreme environments; Bloom H2-capable servers have been flagged as a candidate for off-grid remote power applications. NASA Glenn | Simply Wall St",
+          "url": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/",
+          "sources": [
+            {
+              "title": "NASA Glenn",
+              "url": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/"
             },
             {
-              "title": "ECS call",
-              "url": "https://www.electrochem.org/ecsnews/focus-issue-sofc-xix"
+              "title": "Simply Wall St",
+              "url": "https://simplywall.st/stocks/us/capital-goods/nyse-be/bloom-energy/news/nasa-interest-puts-bloom-energy-valuation-and-growth-story-i"
             }
           ]
-        },
-        {
-          "text": "Wiley Advanced Energy Materials (June 2026) — \"Emerging Materials and Future Strategies for Solid Oxide Electrochemical Cells\" — survey of perovskite electrodes, proton-conducting electrolytes (PCECs at sub-600 degrees C), and next-generation cathode materials for SOFC and SOEC; identifies protonic cells as a potential sub-600 degrees C successor pathway. Wiley",
-          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506791",
-          "sources": [
-            {
-              "title": "Wiley",
-              "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.202506791"
-            }
-          ]
-        },
-        {
-          "text": "Watch: EFCF Lucerne June 30 - July 3 — Technical results from European stack developers expected from tomorrow.",
-          "url": "",
-          "sources": []
         }
       ]
     }
   ],
   "lcoe": [
     {
-      "text": "Topsoe SOEC slowdown: H2 supply not on track for pre-2029 SOFC fuel switch — First Ammonia 100 MW cancellation and soft SOEC pipeline confirm H2 cost/availability does not support H2-fueled SOFC scenarios before 2028-2029. Recommend keeping natural gas as the base-case fuel in all near-term LCOE scenarios; introduce H2 sensitivity only in 2029+ scenarios.",
+      "text": "Nuclear criticality milestone — no LCOE impact before 2030: the three DOE Pilot Programme reactors are zero-power demonstrators. Commercial AI data center nuclear power remains 2030+ in any realistic scenario. Do not adjust near-term SOFC LCOE competitive assumptions on this milestone.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Nebius EaaS model: bundled $/MWh contract rate — The Energy-as-a-Service structure shifts O&M risk to Bloom; the effective cost to the customer is a bundled $/MWh rate. Watch for any disclosed PPA/EaaS pricing in Nebius quarterly filings — it would be the first public market reference rate for large-scale SOFC power.",
+      "text": "Dual analyst convergence at BE $350: UBS and Evercore ISI converging at $350 on the same day establishes a new sell-side consensus ceiling. If Bloom discloses manufacturing cost-per-kW progress on July 30, update the LCOE capex assumption accordingly — especially the 2027 downside scenario (~$4,000/kW post-ramp).",
       "url": "",
       "sources": []
     },
     {
-      "text": "BE Q2 July 30 earnings: key capex signal — If Bloom discloses manufacturing cost per kW at the 2 GW Fremont run rate, it will provide the most current large-volume SOFC system capex benchmark. Recommend updating the LCOE model cost inputs after the July 30 call.",
+      "text": "FCEL dilution risk: if Torrington expansion financing stalls (dilution concerns, negative margins), MCFC competitive pressure in the 1–50 MW data center segment may be delayed beyond late 2027. Maintain SOFC (Bloom) as the dominant near-term supply assumption in LCOE scenarios.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Section 179D sunset: model impact — After today, new projects lose the 179D deduction. The 30% ITC 48E (net capex ~$4,650-5,060/kW) remains. For 179D-eligible projects completed before the deadline, the combined incentive stack could reduce effective capex by an additional $0.58-5.81/sq.ft.",
+      "text": "Watch post-EFCF announcements (next week): if Elcogen E3000 G2 commercial-conditions efficiency is confirmed at >=75% electrical / >=90% CHP at 650 degrees C, update BOP cost assumptions for 650 degrees C-class systems — potentially $500–1,000/kW below 800 degrees C alternatives. No data yet.",
       "url": "",
       "sources": []
     }
