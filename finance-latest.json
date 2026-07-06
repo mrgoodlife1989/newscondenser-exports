@@ -1,15 +1,36 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-03",
+    "title": "Beating Beta — 2026-07-06",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Warren Buffett on today's market moves.",
+      "highlight_phrase": "Warren Buffett",
+      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\n*Macro-View:* Bärisch — Markt überbewertet, $381B Cash-Polster signalisiert Vorsicht.\n*Bullish Picks:* KO, AXP, OXY — defensive Qualität und Energie-Werte.\n*Bearish Picks:* Breiter US-Markt (Bewertung).",
+      "bullets": [
+        {
+          "label": "Warren Buffett",
+          "text": "*Macro-View:* Bärisch — Markt überbewertet, $381B Cash-Polster signalisiert Vorsicht. · *Bullish Picks:* KO, AXP, OXY — defensive Qualität und Energie-Werte."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-03",
+      "title": "Markets Snapshot — 2026-07-06",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Mein befreundeter Arzt protestierte gegen die Spendensammlung seines Krankenhaus",
-      "highlight_phrase": "Mein befreundeter Arzt protestierte gege",
-      "toc_summary": "Mein befreundeter Arzt protestierte gegen die Spendensammlung seines Krankenhaus",
-      "quick_take": "Mein befreundeter Arzt protestierte gegen die Spendensammlung seines Krankenhauses. Ging das Management zu weit?",
+      "title": "US-Aktienfutures steigen, da die Wall Street ihre Rallye nach dem Feiertagswoche",
+      "highlight_phrase": "US-Aktienfutures steigen, da die Wall St",
+      "toc_summary": "US-Aktienfutures steigen, da die Wall Street ihre Rallye nach dem Feiertagswoche",
+      "quick_take": "US-Aktienfutures steigen, da die Wall Street ihre Rallye nach dem Feiertagswochenende ausdehnen will.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mein befreundeter Arzt protestierte gegen die Spendensammlung seines Krankenhauses. Ging das Management zu weit?"
+          "text": "US-Aktienfutures steigen, da die Wall Street ihre Rallye nach dem Feiertagswochenende ausdehnen will."
         }
       ],
       "callout": null,
@@ -63,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich habe mit 62 Sozialversicherung beantragt\"",
-      "highlight_phrase": "\"Ich habe mit 62 Sozialversicherung bean",
-      "toc_summary": "\"Ich habe mit 62 Sozialversicherung beantragt\"",
-      "quick_take": "Mit 76 arbeite ich bei Walmart. Warum zahle ich noch Lohnsteuer?",
+      "title": "OPEC+ erhoeht Foerdermengen erneut trotz fallender Rohoelpreise.",
+      "highlight_phrase": "OPEC+ erhoeht Foerdermengen erneut trotz",
+      "toc_summary": "OPEC+ erhoeht Foerdermengen erneut trotz fallender Rohoelpreise.",
+      "quick_take": "OPEC+ erhoeht Foerdermengen erneut trotz fallender Rohoelpreise.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mit 76 arbeite ich bei Walmart. Warum zahle ich noch Lohnsteuer?"
+          "text": "OPEC+ erhoeht Foerdermengen erneut trotz fallender Rohoelpreise."
         }
       ],
       "callout": null,
@@ -84,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Wann bekommt mein Kind das kostenlose \"Trump-Konto\"-Geld?",
-      "highlight_phrase": "Wann bekommt mein Kind das kostenlose \"T",
-      "toc_summary": "Wann bekommt mein Kind das kostenlose \"Trump-Konto\"-Geld?",
-      "quick_take": "Wann bekommt mein Kind das kostenlose \"Trump-Konto\"-Geld?",
+      "title": "Keine Kinder – verursache ich Familiendrama durch unterschiedliche Erbteile fuer",
+      "highlight_phrase": "Keine Kinder – verursache ich Familiendr",
+      "toc_summary": "Keine Kinder – verursache ich Familiendrama durch unterschiedliche Erbteile fuer",
+      "quick_take": "Keine Kinder – verursache ich Familiendrama durch unterschiedliche Erbteile fuer Nichten und Neffen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wann bekommt mein Kind das kostenlose \"Trump-Konto\"-Geld?"
+          "text": "Keine Kinder – verursache ich Familiendrama durch unterschiedliche Erbteile fuer Nichten und Neffen?"
         }
       ],
       "callout": null,
@@ -105,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Dow markiert neues Rekordhoch trotz schwachem Arbeitsmarktbericht. Warum der Res",
-      "highlight_phrase": "Dow markiert neues Rekordhoch trotz schw",
-      "toc_summary": "Dow markiert neues Rekordhoch trotz schwachem Arbeitsmarktbericht. Warum der Res",
-      "quick_take": "Dow markiert neues Rekordhoch trotz schwachem Arbeitsmarktbericht. Warum der Rest von 2026 den Arbeitnehmern gehört.",
+      "title": "Hybride sind der Ueberraschungsstar am US-Automarkt, da EV-Nachfrage nachlaesst.",
+      "highlight_phrase": "Hybride sind der Ueberraschungsstar am U",
+      "toc_summary": "Hybride sind der Ueberraschungsstar am US-Automarkt, da EV-Nachfrage nachlaesst.",
+      "quick_take": "Hybride sind der Ueberraschungsstar am US-Automarkt, da EV-Nachfrage nachlaesst.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Dow markiert neues Rekordhoch trotz schwachem Arbeitsmarktbericht. Warum der Rest von 2026 den Arbeitnehmern gehört."
+          "text": "Hybride sind der Ueberraschungsstar am US-Automarkt, da EV-Nachfrage nachlaesst."
         }
       ],
       "callout": null,
@@ -126,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Citadels Hedgefonds erzielen breite Gewinne im ersten Halbjahr, die Top-Strategi",
-      "highlight_phrase": "Citadels Hedgefonds erzielen breite Gewi",
-      "toc_summary": "Citadels Hedgefonds erzielen breite Gewinne im ersten Halbjahr, die Top-Strategi",
-      "quick_take": "Citadels Hedgefonds erzielen breite Gewinne im ersten Halbjahr, die Top-Strategie umgeht den Quant-Ausverkauf.",
+      "title": "Macquarie",
+      "highlight_phrase": "Macquarie",
+      "toc_summary": "Macquarie",
+      "quick_take": "Jetzt ist der \"beste Zeitpunkt\" zum Kauf chinesischer KI-Chip-Aktien – dies ist ihr Favorit.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Citadels Hedgefonds erzielen breite Gewinne im ersten Halbjahr, die Top-Strategie umgeht den Quant-Ausverkauf."
+          "text": "Jetzt ist der \"beste Zeitpunkt\" zum Kauf chinesischer KI-Chip-Aktien – dies ist ihr Favorit."
         }
       ],
       "callout": null,
@@ -147,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen vorbörslich",
-      "highlight_phrase": "Aktien mit den größten Bewegungen vorbör",
-      "toc_summary": "Aktien mit den größten Bewegungen vorbörslich",
-      "quick_take": "Sandisk, Robinhood, Palantir & mehr.",
+      "title": "Weltmeisterschaft treibt Prognose-Marktvolumina auf Rekordhochs.",
+      "highlight_phrase": "Weltmeisterschaft treibt Prognose-Marktv",
+      "toc_summary": "Weltmeisterschaft treibt Prognose-Marktvolumina auf Rekordhochs.",
+      "quick_take": "Weltmeisterschaft treibt Prognose-Marktvolumina auf Rekordhochs.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Sandisk, Robinhood, Palantir & mehr."
+          "text": "Weltmeisterschaft treibt Prognose-Marktvolumina auf Rekordhochs."
         }
       ],
       "callout": null,
