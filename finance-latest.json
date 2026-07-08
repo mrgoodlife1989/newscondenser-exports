@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-07",
+    "title": "Beating Beta — 2026-07-08",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-07",
+      "title": "Markets Snapshot — 2026-07-08",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Trump nennt Walmart wegen gesenkter Rindfleischpreise \"patriotisch\"",
-      "highlight_phrase": "Trump nennt Walmart wegen gesenkter Rind",
-      "toc_summary": "Trump nennt Walmart wegen gesenkter Rindfleischpreise \"patriotisch\"",
-      "quick_take": "ein deutlicher Tonwechsel",
+      "title": "Plot twist",
+      "highlight_phrase": "Plot twist",
+      "toc_summary": "Plot twist",
+      "quick_take": "Gen Z kauft doch Häuser – so machen sie es.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "ein deutlicher Tonwechsel"
+          "text": "Gen Z kauft doch Häuser – so machen sie es."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Nasdaq-100 volatiler als S&P 500",
-      "highlight_phrase": "Nasdaq-100 volatiler als S&P 500",
-      "toc_summary": "Nasdaq-100 volatiler als S&P 500",
-      "quick_take": "nun kommt SpaceX hinzu",
+      "title": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus.",
+      "highlight_phrase": "Rivians Aktienverkauf löst schwersten Ku",
+      "toc_summary": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus.",
+      "quick_take": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "nun kommt SpaceX hinzu"
+          "text": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "US-Belgien-Spiel koennte Rekord-TV-Quote erzielen, im Schatten des Trump-WM-Stre",
-      "highlight_phrase": "US-Belgien-Spiel koennte Rekord-TV-Quote",
-      "toc_summary": "US-Belgien-Spiel koennte Rekord-TV-Quote erzielen, im Schatten des Trump-WM-Stre",
-      "quick_take": "US-Belgien-Spiel koennte Rekord-TV-Quote erzielen, im Schatten des Trump-WM-Streits",
+      "title": "„Unsere Familie ist kaputt“",
+      "highlight_phrase": "„Unsere Familie ist kaputt“",
+      "toc_summary": "„Unsere Familie ist kaputt“",
+      "quick_take": "Mein Bruder übernahm die Finanzen unserer Eltern. Was tun?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "US-Belgien-Spiel koennte Rekord-TV-Quote erzielen, im Schatten des Trump-WM-Streits"
+          "text": "Mein Bruder übernahm die Finanzen unserer Eltern. Was tun?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Ihre Daten befeuerten den KI-Boom",
-      "highlight_phrase": "Ihre Daten befeuerten den KI-Boom",
-      "toc_summary": "Ihre Daten befeuerten den KI-Boom",
-      "quick_take": "doch Big Tech steckt 100% des Eigenkapitals ein",
+      "title": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt",
+      "highlight_phrase": "Microns Aktie fällt – Anleger fragen sic",
+      "toc_summary": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt",
+      "quick_take": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt erreicht hat.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "doch Big Tech steckt 100% des Eigenkapitals ein"
+          "text": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt erreicht hat."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Bitcoin erholt sich, nachdem Trump sich als \"grosser Crypto-Typ\" bezeichnet",
-      "highlight_phrase": "Bitcoin erholt sich, nachdem Trump sich ",
-      "toc_summary": "Bitcoin erholt sich, nachdem Trump sich als \"grosser Crypto-Typ\" bezeichnet",
-      "quick_take": "Bitcoin erholt sich, nachdem Trump sich als \"grosser Crypto-Typ\" bezeichnet",
+      "title": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühle",
+      "highlight_phrase": "Händler auf Kalshi wetten, dass der Nasd",
+      "toc_summary": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühle",
+      "quick_take": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühlere zweite Jahreshälfte erwartet.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Bitcoin erholt sich, nachdem Trump sich als \"grosser Crypto-Typ\" bezeichnet"
+          "text": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühlere zweite Jahreshälfte erwartet."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Trump-Accounts-Boost? So viel Geld fliesst durch das neue Programm in den Aktien",
-      "highlight_phrase": "Trump-Accounts-Boost? So viel Geld flies",
-      "toc_summary": "Trump-Accounts-Boost? So viel Geld fliesst durch das neue Programm in den Aktien",
-      "quick_take": "Trump-Accounts-Boost? So viel Geld fliesst durch das neue Programm in den Aktienmarkt",
+      "title": "Jefferies empfiehlt",
+      "highlight_phrase": "Jefferies empfiehlt",
+      "toc_summary": "Jefferies empfiehlt",
+      "quick_take": "Diese qualitativ hochwertigen, stressarmen Aktien für den Sommer kaufen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Trump-Accounts-Boost? So viel Geld fliesst durch das neue Programm in den Aktienmarkt"
+          "text": "Diese qualitativ hochwertigen, stressarmen Aktien für den Sommer kaufen."
         }
       ],
       "callout": null,
