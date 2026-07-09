@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-09",
   "topSignals": [
     {
-      "title": "AEP + Bloom Energy 1 GW deal: $2,944/kW bundled — first utility-scale EaaS benchmark (first full coverage)",
-      "text": "— The January 8, 2026 agreement (referenced in the pipeline list but never fully analyzed) has AEP purchasing up to 1 GW of Bloom SOFCs for AI data centers across its service territory, with an initial 100 MW order. The total commitment of $2.65B for ~900 MW implies an all-in bundled cost of ~$2,944/kW — inclusive of capital equipment, 20-year service, and reportedly maintenance (fuel procurement is likely separate at AEP's utility scale). This is dramatically below individual-project capex of $6,639–7,224/kW and represents the first public market reference for large-volume utility-purchase pricing. A separately reported PPA rate from Bloom EaaS deployments (Enkiai/Electron Economics) comes in at ~$0.10/kWh, a premium over grid power ($0.06–0.08/kWh) reflecting the time-to-power and location advantage. DCD | AEP press release | Fuel Cells Works | Enkiai EaaS pricing",
-      "url": "https://www.datacenterdynamics.com/en/news/bloom-energy-secures-1gw-fuel-cell-supply-deal-with-aep/",
+      "title": "Hunterbrook \"Bloom's Big Lie\" short report — BE plunges ~11% on Chinese scandium supply chain allegations",
+      "text": "— Hunterbrook Capital (disclosed short position in BE including derivatives) published a short report on July 8, 2026, alleging Bloom Energy's SOFC platform still depends on Chinese scandium despite public claims of supply-chain diversification. Key evidence: (a) four separate trade routes showing Chinese scandium reaching Bloom through intermediary countries, including three suppliers featured at Bloom's own May 2026 supplier conference; (b) a scalability constraint derived from Bloom's own patents: 5 GW of production would require ~220 tons/year of scandium oxide — nearly exhausting the entire projected global supply (~240 tons/year per USGS); at 25 GW (implied by the $20B backlog), ~620 tons/year would be required, roughly 10x 2025 world consumption. Bloom responded: \"We are reviewing the report and will correct the record,\" citing \"a diversified, multi-country supply chain built over two decades.\" BE shares fell ~11% on July 8. This is the most material fundamental challenge to Bloom's scale-up thesis published to date. Hunterbrook Media | GuruFocus | TipRanks | Benzinga | Seeking Alpha",
+      "url": "https://hntrbrk.com/investigations/bloom",
       "n": 1
     },
     {
-      "title": "Bloom Energy rebounds +9.6% to ~$312 on first post-holiday session",
-      "text": "— BE opened Monday July 6 trading with strong buying interest, recovering from the $270 trough reached on the July 3 pre-holiday shortened session. The holiday weekend cleared the residual selling pressure from the June 26 Russell reconstitution event ($309 → $252) and the shortened July 3 session ($299 → $271). At ~$312, BE sits between the Wells Fargo bear case ($217) and the UBS/Evercore Outperform dual target ($350), with Q2 earnings on July 30 as the next major catalyst. Consensus remains ~$820M Q2 revenue / ~34% gross margin / EPS ~$0.39. stockanalysis.com | Motley Fool H2 preview",
-      "url": "https://stockanalysis.com/stocks/be/",
+      "title": "FCEL $225M offering closes today — dilution bear case crystallized; stock re-rates to ~$21",
+      "text": "— FuelCell Energy priced its upsized public offering on July 8 at $21.00/share for 10,714,286 shares ($225M gross proceeds, upsized from the initially announced $200M), with Citigroup and Barclays as joint book-runners and Goldman Sachs, RBC Capital Markets, Oppenheimer as co-leads; expected closing July 9. FCEL dragged ~14% lower and pulled BE down ~8% in sector sympathy. Combined with the 12M Fit Energy warrants at $26.44, FCEL has issued material equity in under two weeks. Proceeds fund the Torrington expansion ($200-275M, targeting 350-500 MW/year capacity). The stock re-rates to the offer price area; the remaining question is whether Torrington delivers B. Riley's positive-EBITDA target by H2 2027 as funded. GlobeNewswire (upsize) | Investing.com | StockTitan | Yahoo Finance",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323792/8041/en/FuelCell-Energy-Announces-Upsize-and-Pricing-of-Offering-of-Common-Stock.html",
       "n": 2
     },
     {
-      "title": "Renewable PPA prices hit multi-year highs — \"renewables + firming\" model gets more expensive",
-      "text": "— Per LevelTen's Q1 2026 PPA Price Index, North American wind PPAs averaged $79.40/MWh (+24% YoY) and solar $64.49/MWh (+13% YoY) — the highest reported rates since 2018. The rising cost of the primary competing model for AI data center power (variable renewables + gas firming, as deployed by Google at Meitner Energy Center) narrows the all-in LCOE gap vs. SOFC. SOFC baseload remains costlier in absolute terms ($130–225/MWh LCOE range), but the benchmark gap is shrinking. LevelTen PPA Index / Utility Dive",
-      "url": "https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/",
+      "title": "Project Jupiter air permit in jeopardy + AEP Wyoming slips to 2030 — Jefferies Hold $246 reflects execution risk",
+      "text": "— Two major permitting and contractual risks crystallized this week for Bloom's largest backlog items: (a) Oracle's Project Jupiter (New Mexico, 2.45 GW) has no approved air permit and no completed gas pipeline; research firm SemiAnalysis revised its base-case first-power estimate from 2027 to 2029; ABQ Journal interviews with local officials and an environmental group that is suing to stop the project indicate delays into the 2030s or cancellation are possible; (b) the AEP Wyoming deal (hyperscaler co-location near Cheyenne, 1 GW committed) slid from \"no later than year-end 2028\" to \"no later than 2030\" per AEP investor slide decks. In direct response, Jefferies analyst Julien Dumoulin-Smith raised his BE price target from $207 to $246 (Hold — first appearance in this digest) and cited these execution risks on \"a very large portion of the backlog\" as the primary justification for maintaining Hold despite strong AI demand fundamentals. ABQ Journal (Project Jupiter permit) | TipRanks (Jefferies Hold) | Investing.com (Jefferies) | Fidelity (Jefferies PT)",
+      "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294",
       "n": 3
     }
   ],
@@ -25,12 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Post-EFCF results still dark — As of July 6, no technical results from the 17th European SOFC & SOE Forum (closed July 3, Lucerne) have been published online. Proceedings distributed on USB sticks to participants; public press releases from Elcogen, Ceres Power, SolydEra, and Convion expected this week. This remains the highest-priority pending data item for the LCOE model. Key watch: Elcogen E3000 G2 real-commercial efficiency at 650°C (stated 75% electrical / 90% CHP), Doosan yield trajectory beyond Q1 2026's 80%. EFCF",
+          "text": "EFCF proceedings: day 6 blackout — The 17th European SOFC & SOE Forum closed July 3 in Lucerne; six business days later no technical results from Elcogen (E3000 G2), Ceres licensees (Doosan), SolydEra, or Convion have been published online. This is now the longest post-EFCF wait observed in this digest cycle. Electronic proceedings were distributed on USB sticks to participants; company press releases remain the fastest route to usable data. Key pending items: (a) Elcogen E3000 G2 real-commercial efficiency at 650°C (stated 75% electrical / 90% CHP), (b) Doosan yield trajectory beyond Q1 2026's 80% vs. 90% target, (c) manufacturing cost per kW from ELCO I Tallinn. EFCF 2026",
           "url": "https://www.efcf.com/2026",
           "sources": [
             {
-              "title": "EFCF",
+              "title": "EFCF 2026",
               "url": "https://www.efcf.com/2026"
+            }
+          ]
+        },
+        {
+          "text": "Hunterbrook scandium constraint: materials bottleneck for SOFC scale-up — The short report's core technical claim relies on Bloom's own patent disclosures for scandium content per cell. Scandium stabilizes the YSZ (yttria-stabilized zirconia) electrolyte in Bloom's SOFC architecture and is a key differentiator for conductivity at operating temperature. Global scandium production is constrained (primary supply is a by-product of titanium and aluminum refining; China controls ~80%+ of processing). If the supply-chain claims are validated, the materials constraint applies industry-wide — not just to Bloom — for any YSZ-based SOFC at scale. Hunterbrook Media",
+          "url": "https://hntrbrk.com/investigations/bloom",
+          "sources": [
+            {
+              "title": "Hunterbrook Media",
+              "url": "https://hntrbrk.com/investigations/bloom"
             }
           ]
         }
@@ -40,17 +50,12 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "AEP 1 GW deployment details (first full coverage) — See Top Signal #1. AEP's utility footprint covers 11 US states (Ohio, West Virginia, Texas, Oklahoma, Indiana, Michigan, Virginia, Tennessee, Arkansas, Louisiana, Kentucky). Announced 20% annual commercial load growth expected over the next three years, driven entirely by data center development — the largest utility fuel cell initiative in US history. Initial 100 MW order underway; expansion to 900 MW–1 GW anticipated. The SOFC units are deployed behind-the-meter at co-located AI data center sites. AEP / StockTitan",
-          "url": "https://www.stocktitan.net/news/AEP/aep-leveraging-fuel-cell-technology-to-power-data-center-gdudv4ztxdp8.html",
-          "sources": [
-            {
-              "title": "AEP / StockTitan",
-              "url": "https://www.stocktitan.net/news/AEP/aep-leveraging-fuel-cell-technology-to-power-data-center-gdudv4ztxdp8.html"
-            }
-          ]
+          "text": "Project Jupiter (New Mexico, 2.45 GW) permitting timeline risk — See Top Signal #3. If the ABQ Journal reporting is accurate and no air permit is issued within 12-18 months, Project Jupiter's first-power date shifts from 2027 to 2029-2030, and the Crusoe/Cheyenne Bloom deployment (which also relies on Bloom supply) could face schedule pressure if Bloom's factory output is partially redirected. No formal delay announcement from Oracle or Bloom as of July 9; this is a risk signal, not a confirmed timeline change.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Quiet otherwise. Active pipeline: Oracle/Jupiter 2.45 GW, Crusoe/Cheyenne 900 MW Phase 1, FCEL/Fit Energy 380 MW (30 MW initial H2 2026), Equinix >100 MW, AEP/Bloom 1 GW, Bloom/Brookfield $25B, Nebius 328 MW EaaS.",
+          "text": "Quiet day on net-new deployment announcements. Active pipeline: Oracle/Jupiter 2.45 GW (permit risk flagged), Crusoe/Cheyenne 900 MW Phase 1, FCEL/Fit Energy 380 MW (30 MW initial H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming delivery now targeting 2030), Bloom/Brookfield $25B, Nebius 328 MW EaaS.",
           "url": "",
           "sources": []
         }
@@ -60,7 +65,49 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "FERC show-cause orders: July 9 intervention deadline + generation adequacy reports due July 20 — Today (July 9) is the deadline for entities to intervene in the six FERC Section 206 large-load show-cause proceedings (one per RTO/ISO, issued June 18). The RTOs/ISOs must submit Generation Adequacy Reports explaining how they intend to ensure adequate generation is available for existing and new large loads by July 20, 2026. Full tariff reform responses or show-cause justifications are due August 17. If any RTO quantifies the unmet firm-power gap from large load applications, this provides an independent estimate of the addressable market for SOFC behind-the-meter firm baseload. Stoel Rives July 8 regulatory update | FERC large-load fact sheet",
+          "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026",
+          "sources": [
+            {
+              "title": "Stoel Rives July 8 regulatory update",
+              "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026"
+            },
+            {
+              "title": "FERC large-load fact sheet",
+              "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"
+            }
+          ]
+        },
+        {
+          "text": "ISO-NE seeking 90-day abeyance on FERC large-load order — ISO-NE and New England transmission owners announced intent to request a 90-day abeyance (filing deadline: August 3); if granted, this would delay ISO-NE's tariff reform compliance deadline to approximately November 16, 2026 and allow a stakeholder process. ISO-NE is the only RTO publicly declaring intent to request abeyance — others (SPP, MISO, PJM, ERCOT, CAISO) have not announced equivalent plans. The delay is neutral for SOFC on-site power (grid interconnection queue length is unchanged), but signals regulatory fragmentation across regions. Stoel Rives | ISO-NE / isonewswire",
+          "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026",
+          "sources": [
+            {
+              "title": "Stoel Rives",
+              "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026"
+            },
+            {
+              "title": "ISO-NE / isonewswire",
+              "url": "https://isonewswire.com/2026/06/29/iso-ne-provides-update-on-compliance-with-ferc-large-loads-order/"
+            }
+          ]
+        },
+        {
+          "text": "DOE Craig Station coal emergency order (extended through September 26) — DOE issued a 90-day extension on June 26 for Craig Station (Colorado coal plant, originally scheduled to retire) to remain available through September 26, 2026. Context for firm-power supply: winter 2026-27 grid reliability concerns in the Western Interconnection are driving emergency coal retention — reinforcing the value of on-site dispatchable power (SOFC) independent of the public grid. Stoel Rives | DOE Craig Station release",
+          "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026",
+          "sources": [
+            {
+              "title": "Stoel Rives",
+              "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026"
+            },
+            {
+              "title": "DOE Craig Station release",
+              "url": "https://www.energy.gov/articles/trump-administration-keeps-coal-fired-power-generation-alive-colorado"
+            }
+          ]
+        },
+        {
+          "text": "Quiet otherwise. Background: ERCOT Batch Zero self-supply pathway active (June 28); Germany EnEfG PUE ≤ 1.2 active for new DCs from July 1; EU CADA data center rating scheme delayed into Q3.",
           "url": "",
           "sources": []
         }
@@ -70,12 +117,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Renewable PPA cost escalation — See Top Signal #3. The Google Meitner Energy Center template (wind/solar + gas firming, Texas Panhandle) is becoming more expensive as PPA prices rise. At $79.40/MWh wind + $64.49/MWh solar + gas firming premium, the \"clean-energy-first\" model no longer has as stark a cost advantage over SOFC at data-center scale. SOFC still loses on absolute LCOE ($130–225/MWh vs. $64–80/MWh renewables) but the delta is compressing.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Quiet otherwise. Microsoft Project Kilby (2.67 GW CCGT, Texas, first power 2028), DOE $17.5B AP1000 nuclear loan programme, and three zero-power microreactor criticalities (July 3) remain the competitive backdrop with no updates.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -85,30 +127,26 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — Holiday-return bounce to ~$312 (+9.6%); range ~$290–320 intraday. Analyst picture unchanged (seven analysts): WF $217 EW | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Q2 earnings July 30 (AH): consensus ~$820M revenue, ~34% gross margin, EPS ~$0.39; FY2026 guidance $3.4–3.8B. +248% H1 2026; ~-11% from ATH. stockanalysis.com | Benzinga analyst tracker",
-          "url": "https://stockanalysis.com/stocks/be/",
+          "text": "Bloom Energy (BE) — July 8: ~11% drop from Hunterbrook short report, from prior close ~$263-270 to approximately ~$235-248 range (GuruFocus cites \"~11% plunge\"). This follows the FCEL-contagion -8.7% on July 7 and the holiday-return bounce to ~$295 on July 6 — BE has now shed ~30% from its July 6 high in four sessions. No fundamental change to backlog ($20B), FY2026 guidance ($3.4-3.8B), or Q2 earnings date (July 28 AH, consensus ~$820M revenue / ~34% gross margin / EPS ~$0.39). Updated eight-analyst tracker: WF $217 EW | Jefferies $246 Hold (NEW — raised from $207, Hold on permitting/contract risk) | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. GuruFocus short report impact | Investing.com supply chain",
+          "url": "https://www.gurufocus.com/news/8950035/bloom-energy-be-shares-plunge-11-following-short-report",
           "sources": [
             {
-              "title": "stockanalysis.com",
-              "url": "https://stockanalysis.com/stocks/be/"
+              "title": "GuruFocus short report impact",
+              "url": "https://www.gurufocus.com/news/8950035/bloom-energy-be-shares-plunge-11-following-short-report"
             },
             {
-              "title": "Benzinga analyst tracker",
-              "url": "https://www.benzinga.com/quote/BE/analyst-ratings"
+              "title": "Investing.com supply chain",
+              "url": "https://www.investing.com/news/stock-market-news/bloom-energy-shares-drop-after-short-seller-questions-supply-claims-93CH-4782132"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL) — \"Fully priced\" narrative emerges after 411% run (P/S 11.3x vs. industry 2.6x; Yahoo Finance). Structural concerns: 34% share dilution in two quarters, persistent negative margins, S-3ASR shelf registration + 12M Fit Energy warrants. Analyst: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. Q3 FY2026 earnings ~September 2026. Yahoo Finance | TipRanks comparison",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-stock-looks-070837552.html",
+          "text": "FuelCell Energy (FCEL) — Offering closes July 9 at $21.00/share ($225M gross). Combined dilution this month: $225M primary offering + 12M Fit Energy warrants at $26.44 ($317M if exercised). Stock trades near offer price area (~$21-22). Analyst picture: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. Torrington expansion on track financially (funded), but timeline risk remains. Q3 FY2026 earnings ~September 2026. GlobeNewswire pricing",
+          "url": "https://www.globenewswire.com/news-release/2026/07/08/3323792/8041/en/FuelCell-Energy-Announces-Upsize-and-Pricing-of-Offering-of-Common-Stock.html",
           "sources": [
             {
-              "title": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-stock-looks-070837552.html"
-            },
-            {
-              "title": "TipRanks comparison",
-              "url": "https://www.tipranks.com/news/bloom-energy-be-vs-fuelcell-energy-fcel-which-stock-is-the-better-buy-for-july-2026"
+              "title": "GlobeNewswire pricing",
+              "url": "https://www.globenewswire.com/news-release/2026/07/08/3323792/8041/en/FuelCell-Energy-Announces-Upsize-and-Pricing-of-Offering-of-Common-Stock.html"
             }
           ]
         }
@@ -118,27 +156,36 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Post-EFCF: no results published yet — As of July 6 (Monday after close July 3). Watch elcogen.com, ceres.tech, solydera.com, and convion.fi press release channels this week.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Wiley / Chemical Reviews (ACS) comprehensive SOFC modeling review — \"A Comprehensive Review of Modeling of Solid Oxide Fuel Cells: From Large Systems to Fine Electrodes\" (ACS Chemical Reviews, 2024/2025) — covers multiscale simulation approaches from system-level to electrode-scale; benchmark reference for SOFC degradation and performance modeling. Useful context for LCOE uncertainty quantification. ACS ChemRev",
-          "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00614",
+          "text": "EFCF proceedings: day 6 post-close — still unreleased — As of July 9 (six business days after the July 3 close), no stack efficiency, degradation, or manufacturing cost data from the 17th European SOFC & SOE Forum has been published by any presenting company. Watch elcogen.com, ceres.tech, solydera.com, and convion.fi press release channels. If Elcogen E3000 G2 real-commercial efficiency ≥75% electrical / ≥90% CHP at 650°C is confirmed, it would be a material LCOE model input (potential $500-1,000/kW BOP cost reduction vs. 800°C baseline). EFCF",
+          "url": "https://www.efcf.com/2026",
           "sources": [
             {
-              "title": "ACS ChemRev",
-              "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00614"
+              "title": "EFCF",
+              "url": "https://www.efcf.com/2026"
             }
           ]
         },
         {
-          "text": "NCBi/PMC special issue: \"Materials Frontiers for SOFCs: Structure-Performance Correlation\" — Editorial for SI covering electrode-electrolyte interfaces, chromium poisoning, and novel cathode compositions. Companion to the PMC 50,000h lifetime modeling paper (covered June 28). NCBi PMC",
-          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12693468/",
+          "text": "Hunterbrook scandium analysis: first published quantification of Bloom's materials constraint — The report, based on Bloom's own patent filings and USGS supply data, represents the first externally published attempt to quantify a materials bottleneck for SOFC at scale. Key reference: global scandium production ~240 tons/year (USGS 2025); Bloom 5 GW = ~220 tons/year; 25 GW = ~620 tons/year. The report does not address whether alternative electrolyte materials (e.g., gadolinium-doped ceria, or proton-conducting electrolytes) could reduce or eliminate scandium dependence — watch for Bloom's formal response. Hunterbrook Media | StockTwits summary",
+          "url": "https://hntrbrk.com/investigations/bloom",
           "sources": [
             {
-              "title": "NCBi PMC",
-              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12693468/"
+              "title": "Hunterbrook Media",
+              "url": "https://hntrbrk.com/investigations/bloom"
+            },
+            {
+              "title": "StockTwits summary",
+              "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-drops-6-after-short-seller-flags-supply-chain-snag-on-chinese-overreliance-bloom-energy-says-will-correct-record/cZmnTATR7V7"
+            }
+          ]
+        },
+        {
+          "text": "Supreme Court: Trump v. Slaughter — FERC independence at risk — The US Supreme Court overturned Humphrey's Executor in a 6-3 ruling, eliminating for-cause removal protection for independent agency commissioners including FERC. Justice Sotomayor dissented that FERC is now \"likely to become a purely executive agency.\" Near-term practical effect on SOFC: uncertain, but a less independent FERC that reverses the June 18 large-load orders in response to executive pressure would reduce interconnection queue reform speed, further strengthening the SOFC grid-bypass value proposition. Stoel Rives",
+          "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026",
+          "sources": [
+            {
+              "title": "Stoel Rives",
+              "url": "https://www.stoel.com/insights/reports/energy-regulatory-updates/july-8-2026"
             }
           ]
         }
@@ -147,41 +194,32 @@
   ],
   "lcoe": [
     {
-      "text": "AEP bundled benchmark: $2,944/kW over 20 years (capital + service, fuel likely separate) — At utility purchase scale (900 MW–1 GW), Bloom prices equipment+service at $2,944/kW — approximately 55–60% below individual-project capex of $6,639–7,224/kW. This is the first confirmed large-volume utility pricing benchmark. Recommend adding a \"utility-scale purchase\" scenario to the LCOE model with $2,944/kW as the capex+service proxy, then adding fuel cost separately at $5/MMBtu and $8/MMBtu. DCD / AEP | Fuel Cells Works",
-      "url": "https://www.datacenterdynamics.com/en/news/bloom-energy-secures-1gw-fuel-cell-supply-deal-with-aep/",
+      "text": "Scandium supply constraint: add capex sensitivity range — If Hunterbrook's findings are validated and Chinese scandium is excluded, non-Chinese scandium supply is priced at a significant premium. Recommend adding a \"supply chain stress\" capex scenario: +15-30% above baseline ($7,600-9,400/kW unsubsidized), reflecting the premium cost of non-Chinese or synthetic scandium. Keep the primary LCOE model at current capex. Bloom's formal rebuttal is the trigger to either drop or formalize this sensitivity.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Project Jupiter 2029 + AEP Wyoming 2030: backlog timeline risk — The two largest Bloom backlog items (~2.45 GW + 1 GW = ~3.45 GW) now have confirmed or credible delays of 1-3 years. This does not change SOFC LCOE, but means Bloom's manufacturing scale-curve inflection (and the associated capex reduction) arrives later than the H1 2027 base case. Recommend adding a \"delayed ramp\" capex scenario: Bloom 2 GW Fremont operational by Q2 2027 but at low utilization (large backlog items delayed); cost-curve inflection pushed to H2 2027 or H1 2028 instead.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "FCEL offering at $21 closes July 9 — Market implies ~$21 fair value for MCFC expansion story. Torrington ramp (350-500 MW/year by H2 2027) is now funded. MCFC competitive pressure in the 1-50 MW data center segment arrives H2 2027 to H1 2028 most likely. Adjust competitive model: FCEL MCFC supply at scale beginning late 2027 or 2028.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "FERC Generation Adequacy Reports due July 20 — If RTOs quantify the unmet firm-power capacity gap from the 438 GW+ queue backlog, this provides an independent estimate of the addressable SOFC market. Mark July 20 as a data date. FERC show-cause orders background",
+      "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration",
       "sources": [
         {
-          "title": "DCD / AEP",
-          "url": "https://www.datacenterdynamics.com/en/news/bloom-energy-secures-1gw-fuel-cell-supply-deal-with-aep/"
-        },
-        {
-          "title": "Fuel Cells Works",
-          "url": "https://fuelcellsworks.com/2026/01/08/electrolyzer/american-electric-power-locks-in-2-65bn-deal-to-deploy-up-to-1gw-of-bloom-energy-fuel-cells"
+          "title": "FERC show-cause orders background",
+          "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"
         }
       ]
     },
     {
-      "text": "Bloom EaaS power price: ~$0.10/kWh — First market reference for the bundled $/MWh rate Bloom charges data center customers under Energy-as-a-Service contracts. At $0.10/kWh = $100/MWh: this is at the low end of the $130–225/MWh LCOE range in the model, suggesting Bloom is accepting lower margins to accelerate deployment, OR the full-service bundle reflects lower capex at scale. Premium over grid ($60–80/MWh) is the \"time-to-power\" and \"grid-bypass\" value capture. Enkiai",
-      "url": "https://enkiai.com/ai-market-intelligence/fuel-cell-cost-per-megawatt-2026-unlocking-scale-now/",
-      "sources": [
-        {
-          "title": "Enkiai",
-          "url": "https://enkiai.com/ai-market-intelligence/fuel-cell-cost-per-megawatt-2026-unlocking-scale-now/"
-        }
-      ]
-    },
-    {
-      "text": "Wind PPA: $79.40/MWh (+24% YoY); Solar PPA: $64.49/MWh (+13% YoY) — New benchmarks for the competing renewables model. At $79.40/MWh wind with gas firming (~$15–25/MWh premium), the \"clean energy + firming\" total delivered cost reaches ~$95–105/MWh — approaching Bloom's EaaS $100/MWh rate. The cost advantage of the renewables-first model over SOFC is narrowing materially. Use $79.40/MWh wind and $64.49/MWh solar as updated PPA benchmarks in the LCOE model competing scenario. LevelTen / Utility Dive",
-      "url": "https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/",
-      "sources": [
-        {
-          "title": "LevelTen / Utility Dive",
-          "url": "https://www.utilitydive.com/news/wind-solar-ppa-prices-levelten/817780/"
-        }
-      ]
-    },
-    {
-      "text": "Q2 earnings July 30 remains the primary model update trigger: manufacturing cost per kW at 2 GW Fremont run rate, product gross margin, any EaaS pricing disclosure from Nebius or Brookfield-financed deployments.",
+      "text": "BE Q2 earnings July 28 (AH): primary model update trigger — Despite the short-report noise, the earnings call remains the key input event: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) management response to Hunterbrook scandium claims, (d) any Project Jupiter / AEP Wyoming timeline update, (e) EaaS pricing disclosure. All five items are now material for the LCOE model.",
       "url": "",
       "sources": []
     }
