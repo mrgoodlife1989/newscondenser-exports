@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-08",
+    "title": "Beating Beta — 2026-07-09",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-08",
+      "title": "Markets Snapshot — 2026-07-09",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.482,71 · Nasdaq 29.252,56 · VIX 16,90 · 10Y 4,57% · Gold $4.078,10 · Oil $74,59 · BTC $61.730,17 · F&G N/A",
+      "quick_take": "S&P 500: 7.482,71\nNasdaq: 29.252,56\nVIX: 16,90 · 10Y: 4,57%\nGold: $4.078,10 · Oil: $74,59\nBitcoin: $61.730,17\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
+          "text": "S&P 500 7.482,71 · Nasdaq 29.252,56"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
+          "text": "10Y 4,57% · VIX 16,90"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+          "text": "Gold $4.078,10 · WTI $74,59 · BTC $61.730,17"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Plot twist",
-      "highlight_phrase": "Plot twist",
-      "toc_summary": "Plot twist",
-      "quick_take": "Gen Z kauft doch Häuser – so machen sie es.",
+      "title": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\".",
+      "highlight_phrase": "Levi's gewinnt Kunden durch Fokus auf Ob",
+      "toc_summary": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\".",
+      "quick_take": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\".",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Gen Z kauft doch Häuser – so machen sie es."
+          "text": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\"."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus.",
-      "highlight_phrase": "Rivians Aktienverkauf löst schwersten Ku",
-      "toc_summary": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus.",
-      "quick_take": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus.",
+      "title": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran.",
+      "highlight_phrase": "Hohere Benzinpreise sind nicht die einzi",
+      "toc_summary": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran.",
+      "quick_take": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Rivians Aktienverkauf löst schwersten Kurssturz seit fast zwei Jahren aus."
+          "text": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "„Unsere Familie ist kaputt“",
-      "highlight_phrase": "„Unsere Familie ist kaputt“",
-      "toc_summary": "„Unsere Familie ist kaputt“",
-      "quick_take": "Mein Bruder übernahm die Finanzen unserer Eltern. Was tun?",
+      "title": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noc",
+      "highlight_phrase": "Ich startete mit 3 Mio. USD in den Ruhes",
+      "toc_summary": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noc",
+      "quick_take": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noch 2 Mio. USD.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mein Bruder übernahm die Finanzen unserer Eltern. Was tun?"
+          "text": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noch 2 Mio. USD."
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt",
-      "highlight_phrase": "Microns Aktie fällt – Anleger fragen sic",
-      "toc_summary": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt",
-      "quick_take": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt erreicht hat.",
+      "title": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher.",
+      "highlight_phrase": "Fehler bei der Steuererklaerung? IRS mac",
+      "toc_summary": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher.",
+      "quick_take": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Microns Aktie fällt – Anleger fragen sich, ob der Speichermarkt seinen Höhepunkt erreicht hat."
+          "text": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühle",
-      "highlight_phrase": "Händler auf Kalshi wetten, dass der Nasd",
-      "toc_summary": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühle",
-      "quick_take": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühlere zweite Jahreshälfte erwartet.",
+      "title": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prog",
+      "highlight_phrase": "Michael Burry wettet auf Sportwetten-Anb",
+      "toc_summary": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prog",
+      "quick_take": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prognosemaerkte durch Regulierung eingeschraenkt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Händler auf Kalshi wetten, dass der Nasdaq-100 2026 über 30.000 schließt – kühlere zweite Jahreshälfte erwartet."
+          "text": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prognosemaerkte durch Regulierung eingeschraenkt."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Jefferies empfiehlt",
-      "highlight_phrase": "Jefferies empfiehlt",
-      "toc_summary": "Jefferies empfiehlt",
-      "quick_take": "Diese qualitativ hochwertigen, stressarmen Aktien für den Sommer kaufen.",
+      "title": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung ",
+      "highlight_phrase": "Fed-Vertreter waren sich bei der letzten",
+      "toc_summary": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung ",
+      "quick_take": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung – Protokoll zeigt Spaltung.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Diese qualitativ hochwertigen, stressarmen Aktien für den Sommer kaufen."
+          "text": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung – Protokoll zeigt Spaltung."
         }
       ],
       "callout": null,
