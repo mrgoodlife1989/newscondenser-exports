@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-09",
+    "title": "Beating Beta — 2026-07-10",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-09",
+      "title": "Markets Snapshot — 2026-07-10",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.482,71 · Nasdaq 29.252,56 · VIX 16,90 · 10Y 4,57% · Gold $4.078,10 · Oil $74,59 · BTC $61.730,17 · F&G N/A",
-      "quick_take": "S&P 500: 7.482,71\nNasdaq: 29.252,56\nVIX: 16,90 · 10Y: 4,57%\nGold: $4.078,10 · Oil: $74,59\nBitcoin: $61.730,17\nFear & Greed: N/A",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.482,71 · Nasdaq 29.252,56"
+          "text": "S&P 500 N/A · Nasdaq N/A"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,57% · VIX 16,90"
+          "text": "10Y N/A% · VIX N/A"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.078,10 · WTI $74,59 · BTC $61.730,17"
+          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\".",
-      "highlight_phrase": "Levi's gewinnt Kunden durch Fokus auf Ob",
-      "toc_summary": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\".",
-      "quick_take": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\".",
+      "title": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten.",
+      "highlight_phrase": "SK Hynix sammelt 26,5 Mrd. USD in US-Ang",
+      "toc_summary": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten.",
+      "quick_take": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Levi's gewinnt Kunden durch Fokus auf Oberteile und \"Denim-Luxus\"."
+          "text": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran.",
-      "highlight_phrase": "Hohere Benzinpreise sind nicht die einzi",
-      "toc_summary": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran.",
-      "quick_take": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran.",
+      "title": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck.",
+      "highlight_phrase": "Taco Bell zieht angeblich Produkte aus e",
+      "toc_summary": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck.",
+      "quick_take": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Hohere Benzinpreise sind nicht die einzige Folge steigender Spannungen mit Iran."
+          "text": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noc",
-      "highlight_phrase": "Ich startete mit 3 Mio. USD in den Ruhes",
-      "toc_summary": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noc",
-      "quick_take": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noch 2 Mio. USD.",
+      "title": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis.",
+      "highlight_phrase": "Verborgene Divergenz zwischen VIX und Na",
+      "toc_summary": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis.",
+      "quick_take": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich startete mit 3 Mio. USD in den Ruhestand – jetzt bin ich 89 und habe nur noch 2 Mio. USD."
+          "text": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis."
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher.",
-      "highlight_phrase": "Fehler bei der Steuererklaerung? IRS mac",
-      "toc_summary": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher.",
-      "quick_take": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher.",
+      "title": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?",
+      "highlight_phrase": "Studentendarlehen-Servicer ruft Freund n",
+      "toc_summary": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?",
+      "quick_take": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Fehler bei der Steuererklaerung? IRS macht Straferlass jetzt einfacher."
+          "text": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prog",
-      "highlight_phrase": "Michael Burry wettet auf Sportwetten-Anb",
-      "toc_summary": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prog",
-      "quick_take": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prognosemaerkte durch Regulierung eingeschraenkt.",
+      "title": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen u",
+      "highlight_phrase": "Kevin Warsh ernennt Mitglieder seiner Fe",
+      "toc_summary": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen u",
+      "quick_take": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen und Doug McMillon.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Michael Burry wettet auf Sportwetten-Anbieter DraftKings und Flutter, sieht Prognosemaerkte durch Regulierung eingeschraenkt."
+          "text": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen und Doug McMillon."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung ",
-      "highlight_phrase": "Fed-Vertreter waren sich bei der letzten",
-      "toc_summary": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung ",
-      "quick_take": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung – Protokoll zeigt Spaltung.",
+      "title": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren.",
+      "highlight_phrase": "Prognosemaerkte schuerfen Insiderhandel-",
+      "toc_summary": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren.",
+      "quick_take": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Fed-Vertreter waren sich bei der letzten Sitzung uneinig ueber die Zinsrichtung – Protokoll zeigt Spaltung."
+          "text": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren."
         }
       ],
       "callout": null,
