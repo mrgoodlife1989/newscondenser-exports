@@ -1,223 +1,63 @@
 {
-  "date": "2026-07-11",
-  "topSignals": [
+  "date": "2026-07-12",
+  "top_signals": [
     {
-      "title": "Fuel cell sector broad selloff July 10: FCEL -11%, BE -8%, Plug Power -6% — JPMorgan adds FCEL to Q3 \"high conviction short\" list",
-      "text": "— On July 10, all three major fuel cell stocks unwound further from their 2026 AI-power highs. JPMorgan initiated FuelCell Energy at Hold and added it to the bank's list of 25 \"high conviction\" stocks to short as Q3 begins, citing a lack of confirmed customer orders over the past 12 months relative to peers. FCEL closed at ~$20.49 (-11%), Bloom Energy at ~$235.69 (-8%), and Plug Power at ~$2.24 (-6%). This marks JPMorgan's first formal negative stance on FCEL since the data center pivot; the move materially expands the short-interest pressure after the dilutive $225M offering at $21/share closed July 9. Bloom's decline continues the post-short-report slide (Hunterbrook July 8), compounded by a fresh macroeconomic headwind: higher-for-longer rate expectations following inflation data, which as a capital-intensive EaaS business, compresses Bloom's customer payback economics. 24/7 Wall St. | TipRanks | Yahoo Finance | TradingKey",
-      "url": "https://247wallst.com/investing/2026/07/10/fuelcell-energy-drops-11-bloom-energy-slides-8-plug-power-falls-6-as-fuel-cell-stocks-unwind-massive-2026-gains/",
-      "n": 1
-    },
-    {
-      "title": "EIA July 2026 Short-Term Energy Outlook: Henry Hub gas price revised to ~$3.60/MMBtu for 2026-2027 — material LCOE input",
-      "text": "— The EIA July 2026 STEO (released this week) revises the Henry Hub natural gas spot price forecast to approximately $3.60/MMBtu average over 2026 and 2027. This is significantly below the $4.90/MMBtu 2026 forecast tracked in this digest since June 24 (sourced from EIA AEO 2026 published earlier). At $3.60/MMBtu — a 10% reduction vs. the $4/MMBtu SOFC LCOE base case — SOFC LCOE shifts to approximately $115-190/MWh (down from $130-205/MWh). See LCOE section. EIA STEO July 2026 | EIA AEO 2026",
-      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
-      "n": 2
-    },
-    {
-      "title": "Gas turbine capex +195% vs. 2019 by end-2026 — waitlists stretching into early 2030s, CCGT threat recedes further",
-      "text": "— TechCrunch and BCG analysis (July 2026) confirm that gas turbine equipment prices are expected to be up 195% vs. 2019 levels by end-2026, with waitlists for large gas turbines stretching into the early 2030s. This applies directly to the Microsoft Project Kilby (2.67 GW CCGT, first power 2028) and similar projects: the cost gap between SOFC and dedicated CCGT has narrowed further as CCGT capex inflation continues. With CCGT now estimated at $2,000-2,200/kW plus a 2+ year wait, the SOFC speed-to-power advantage (90-day deployment) becomes even more commercially decisive for projects where operators cannot commit a 2030+ lead time. TechCrunch | BCG",
-      "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
-      "n": 3
-    }
-  ],
-  "sections": [
-    {
-      "title": "Stack & Cell Technology",
-      "items": [
-        {
-          "text": "EFCF post-conference blackout: day 8 — The 17th European SOFC & SOE Forum closed July 3 in Lucerne; eight business days later, no technical results from Elcogen (E3000 G2), Ceres licensees (Doosan), SolydEra, or Convion have been published online. This is now the longest post-EFCF wait observed in this digest. Proceedings were distributed on USB sticks; company press releases remain the fastest route to usable data. Key pending items unchanged: (a) Elcogen E3000 G2 real-commercial efficiency at 650°C (stated 75% electrical / 90% CHP), (b) Doosan yield trajectory beyond Q1 2026's 80% vs. 90% target, (c) any manufacturing cost per kW from ELCO I Tallinn. If no announcements appear by ~July 14 (end of week 2 post-conference), proceedings are likely embargoed pending journal submission. EFCF",
-          "url": "https://www.efcf.com/2026",
-          "sources": [
-            {
-              "title": "EFCF",
-              "url": "https://www.efcf.com/2026"
-            }
-          ]
-        }
+      "rank": 1,
+      "title": "Virginia enacts first US data center electricity tax at $0.011/kWh -- self-generated SOFC power not exempt",
+      "body": "Effective July 1, 2026. Applies to ALL data center electricity including self-generated and behind-the-meter power. 500 MW SOFC in Virginia: ~$48M/year. Cap $600M/year through June 30, 2028. Northern Virginia (~70% of US colo capacity). SOFC grid-bypass value proposition materially reduced in the world's largest DC market.",
+      "sources": [
+        "DataCenter Knowledge",
+        "BDO",
+        "mgrid.org"
       ]
     },
     {
-      "title": "AI Data Center Deployments",
-      "items": [
-        {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
-        }
+      "rank": 2,
+      "title": "Baird $310 OP (July 9) + Susquehanna raises to $298 (July 10) complete BE post-selloff analyst picture; Q2 consensus revised to $0.36 EPS / $804M revenue",
+      "body": "10-analyst tracker: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Q2 consensus: $804M revenue (was ~$820M), EPS $0.36 (was $0.39). FY2026 EPS guidance $1.85-$2.25 (first confirmed).",
+      "sources": [
+        "Benzinga July 10",
+        "Cerbat Gem"
       ]
     },
     {
-      "title": "Regulations & Policy",
-      "items": [
-        {
-          "text": "FERC Generation Adequacy Reports due July 20 — 9 days out — The six RTO/ISO Generation Adequacy Reports mandated by FERC's June 18 Section 206 show-cause orders are due July 20. Each report must quantify how adequate generation will be available to serve existing and new large loads (>=50 MW on >=69 kV), identify stakeholder proposals, and provide milestones for board action. These reports will be the first regulator-mandated documents publicly quantifying the gap between interconnection queue demand and available grid capacity. ISO-NE is the only RTO seeking a 90-day abeyance (August 3 filing deadline). Full tariff reform or show-cause justifications due August 17. FERC RM26-4 | Morgan Lewis | Orrick",
-          "url": "https://www.ferc.gov/rm26-4",
-          "sources": [
-            {
-              "title": "FERC RM26-4",
-              "url": "https://www.ferc.gov/rm26-4"
-            },
-            {
-              "title": "Morgan Lewis",
-              "url": "https://www.morganlewis.com/blogs/powerandpipes/2026/07/ferc-presses-grid-operators-on-data-center-large-load-interconnections"
-            },
-            {
-              "title": "Orrick",
-              "url": "https://www.orrick.com/en/Insights/2026/07/FERC-Show-Cause-Orders-Signal-Broad-Reform-to-Large-Load-Interconnection-Policies"
-            }
-          ]
-        },
-        {
-          "text": "Quiet otherwise. Background: Germany EnEfG PUE ≤1.2 active for new DCs from July 1; EU CADA energy efficiency rating scheme still delayed into Q3; ERCOT Batch Zero self-supply pathway active; Section 179D sunset confirmed June 30.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Competing On-Site Power",
-      "items": [
-        {
-          "text": "Gas turbine capex +195% vs. 2019, waitlists into early 2030s — See Top Signal #3. At these capex levels and supply constraints, the Microsoft Project Kilby (2.67 GW CCGT, Texas, first power 2028) template is replicable only by hyperscalers with very long planning horizons. For the majority of data center developers needing power within 6-18 months, SOFC grid-bypass remains the only rapid-deployment firm-baseload option. TechCrunch | BCG",
-          "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
-          "sources": [
-            {
-              "title": "TechCrunch",
-              "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/"
-            },
-            {
-              "title": "BCG",
-              "url": "https://www.bcg.com/publications/2026/solving-the-us-data-center-power-crunch"
-            }
-          ]
-        },
-        {
-          "text": "Background: DOE $17.5B AP1000 nuclear loans (10+ year horizon), three DOE zero-power microreactors (critical July 3), Google Meitner Energy Center (wind/solar/battery + gas firming) — all covered in prior digests. No new SMR or nuclear announcements today.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Market & Financials",
-      "items": [
-        {
-          "text": "Bloom Energy (BE) — July 10 close: ~$235.69 (-8%, per 24/7 Wall St.). Week-to-date: from the July 9 Hunterbrook-rebound close of ~$263, BE fell a further 10% on July 10 on JPMorgan/FCEL contagion, higher-rate macro pressure, and continued Hunterbrook overhang. BE is now ~33% below its June 17-18 ATH of ~$351 and just above the WF $217 bear-case price target. Updated nine-analyst picture (JPMorgan Hold first appearance): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | JPMorgan Hold (PT not yet disclosed in search results; coverage initiated July 10) | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Q2 earnings: July 28 (AH); consensus ~$820M revenue / ~34% gross margin / EPS ~$0.39. FY2026 guidance: $3.4-3.8B; backlog: $20B. 24/7 Wall St. | GuruFocus | MarketBeat",
-          "url": "https://247wallst.com/investing/2026/07/10/fuelcell-energy-drops-11-bloom-energy-slides-8-plug-power-falls-6-as-fuel-cell-stocks-unwind-massive-2026-gains/",
-          "sources": [
-            {
-              "title": "24/7 Wall St.",
-              "url": "https://247wallst.com/investing/2026/07/10/fuelcell-energy-drops-11-bloom-energy-slides-8-plug-power-falls-6-as-fuel-cell-stocks-unwind-massive-2026-gains/"
-            },
-            {
-              "title": "GuruFocus",
-              "url": "https://www.gurufocus.com/news/8953748/bloom-energy-be-stock-drops-amid-short-seller-report"
-            },
-            {
-              "title": "MarketBeat",
-              "url": "https://www.marketbeat.com/instant-alerts/bloom-energy-nysebe-stock-price-down-47-should-you-sell-2026-07-10/"
-            }
-          ]
-        },
-        {
-          "text": "FuelCell Energy (FCEL) — July 10: -11% to ~$20.49, driven by JPMorgan Hold initiation + \"25 high conviction shorts\" list addition for Q3. This is the fourth major down session since the +67% weekly rally of June 26-July 1. FCEL is now trading near the $21/share offering price from the July 9 close ($225M offering). Offering is fully closed and funded (Torrington expansion). Siemens EBOP MOU (July 9) provides a structural positive but has not yet been sufficient to absorb selling pressure. Analyst picture: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold (new). Data center proposals >80% of 1.5 GW pipeline. Q3 FY2026 earnings ~September 2026. TipRanks | Motley Fool",
-          "url": "https://www.tipranks.com/news/why-did-fuelcell-energy-stock-fcel-sink-today-july-10-2026",
-          "sources": [
-            {
-              "title": "TipRanks",
-              "url": "https://www.tipranks.com/news/why-did-fuelcell-energy-stock-fcel-sink-today-july-10-2026"
-            },
-            {
-              "title": "Motley Fool",
-              "url": "https://www.fool.com/investing/2026/07/10/beyond-bloom-energy-this-fuel-cell-company-landed/"
-            }
-          ]
-        },
-        {
-          "text": "Plug Power (PLUG) — July 10: -6% to ~$2.24. Context: PLUG operates in PEM/hydrogen, not SOFC, but trades in the same fuel cell sector basket. YTD: +14% (far below FCEL's +181% and BE's +174%), reflecting weak fundamentals in green hydrogen vs. the AI data center fuel cell surge. Included for sector context; not an SOFC competitor.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Research & IP",
-      "items": [
-        {
-          "text": "EFCF proceedings: day 8 — still unreleased — No stack efficiency, degradation, or cost data published from the 17th EFCF. Watch elcogen.com, ceres.tech, solydera.com, and convion.fi. If no announcements appear by end of next week, proceedings are likely on embargo pending formal publication. Key pending: Elcogen E3000 G2 ≥75% electrical / ≥90% CHP at 650°C at commercial scale. EFCF",
-          "url": "https://www.efcf.com/2026",
-          "sources": [
-            {
-              "title": "EFCF",
-              "url": "https://www.efcf.com/2026"
-            }
-          ]
-        },
-        {
-          "text": "Motley Fool (July 10): \"Beyond Bloom Energy: This Fuel Cell Company Landed a Huge Data Center Deal\" — Analysis of FCEL's Fit Energy 380 MW deal, Siemens MOU, and 800V DC direct-server-rack power delivery capability. The article highlights FCEL's unique value-add: 800V DC output eliminates AC-to-DC conversion loss (typically 5-10%), meaning FCEL MCFC systems deliver a higher share of nameplate power to server racks than conventional AC fuel cells. Combined with 11% waste-heat-recovery boost to usable load, FCEL positions itself as the highest-efficiency data center fuel cell at rack level — a differentiated pitch vs. Bloom's AC output. Relevant for comparative efficiency modeling. Motley Fool | MLQ News",
-          "url": "https://www.fool.com/investing/2026/07/10/beyond-bloom-energy-this-fuel-cell-company-landed/",
-          "sources": [
-            {
-              "title": "Motley Fool",
-              "url": "https://www.fool.com/investing/2026/07/10/beyond-bloom-energy-this-fuel-cell-company-landed/"
-            },
-            {
-              "title": "MLQ News",
-              "url": "https://mlq.ai/news/fuelcell-energy-pursues-ai-data-center-market-with-dc-power-carbon-capture-and-up-to-550-mw-in-new-partnerships/"
-            }
-          ]
-        }
+      "rank": 3,
+      "title": "EFCF post-conference blackout extends to day 9-10 -- journal embargo threshold arrives Monday July 14",
+      "body": "17th EFCF closed July 3 in Lucerne. No results from Elcogen (E3000 G2: >=75% elec / >=90% CHP at 650C), Ceres, SolydEra, or Convion. Sites still dark. Embargo threshold flagged in July 11 digest arrives Monday.",
+      "sources": [
+        "EFCF 2026"
       ]
     }
   ],
-  "lcoe": [
-    {
-      "text": "EIA July 2026 STEO: Henry Hub gas ~$3.60/MMBtu for 2026-2027 — Down from the $4.90/MMBtu AEO 2026 forecast tracked since June 24. At $3.60/MMBtu ($0.40 below the $4/MMBtu base case), SOFC LCOE sensitivity of ~$10-15/MWh per $1/MMBtu implies a reduction of approximately $4-6/MWh. Revised base-case SOFC LCOE: ~$125-200/MWh (unsubsidized); ~$90-145/MWh with ITC 48E (30%). Also update the competing CCGT LCOE: at $3.60/MMBtu gas, CCGT LCOE drops to ~$40-75/MWh (from $45-100/MWh at $4-6/MMBtu). Net: lower gas prices are a modest positive for SOFC absolute LCOE but also reduce the CCGT benchmark, keeping the relative gap similar. EIA STEO July 2026",
-      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
-      "sources": [
-        {
-          "title": "EIA STEO July 2026",
-          "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf"
-        }
-      ]
-    },
-    {
-      "text": "Gas turbine capex +195% vs. 2019 (end-2026 estimate); waitlist = early 2030s — At $2,000-2,200/kW and a 5-7 year procurement-to-commissioning cycle, dedicated CCGT is effectively ruled out for any data center needing power before ~2030. This is a structural SOFC market enabler that should be reflected in the addressable market sizing: the realistic competitive set for SOFC (2026-2029) is limited to grid connection (queue-dependent, 5+ years) and renewables+firming. CCGT at multi-GW scale is only viable for hyperscalers with a 2030+ horizon. Recommend adding \"gas turbine constrained market\" scenario: assume CCGT is only available for projects >2 GW that started procurement before 2025. TechCrunch | BCG",
-      "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
-      "sources": [
-        {
-          "title": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/"
-        },
-        {
-          "title": "BCG",
-          "url": "https://www.bcg.com/publications/2026/solving-the-us-data-center-power-crunch"
-        }
-      ]
-    },
-    {
-      "text": "FCEL 800V DC output: eliminate AC conversion loss in LCOE comparison — For data center operator economics, FCEL's direct 800V DC output (no AC-to-DC conversion, typically 5-10% loss) means the effective delivered energy is higher per nameplate kW. In a levelized cost comparison between FCEL MCFC and Bloom SOFC for a data center, adjust FCEL's effective kW output upward by ~5-10% vs. nameplate. This partially offsets FCEL's lower raw electrical efficiency (~60% vs. Bloom's ~60% — similar) and has not been modeled previously. Motley Fool | MLQ News",
-      "url": "https://www.fool.com/investing/2026/07/10/beyond-bloom-energy-this-fuel-cell-company-landed/",
-      "sources": [
-        {
-          "title": "Motley Fool",
-          "url": "https://www.fool.com/investing/2026/07/10/beyond-bloom-energy-this-fuel-cell-company-landed/"
-        },
-        {
-          "title": "MLQ News",
-          "url": "https://mlq.ai/news/fuelcell-energy-pursues-ai-data-center-market-with-dc-power-carbon-capture-and-up-to-550-mw-in-new-partnerships/"
-        }
-      ]
-    },
-    {
-      "text": "FERC July 20 Generation Adequacy Reports — Will contain regulator-sanctioned estimates of the firm-power gap in each RTO/ISO territory. This is a rare external validation of the addressable SOFC on-site market. Mark July 20 as a model-data date: update the market size assumptions after the reports are published.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — Five key inputs: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) management commentary on Hunterbrook scandium supply chain, (d) Project Jupiter/AEP Wyoming timeline updates, (e) any EaaS $/MWh pricing disclosure. Combined with the new EIA gas price ($3.60/MMBtu), these inputs should allow a full LCOE model refresh in late July.",
-      "url": "",
-      "sources": []
-    }
+  "sections": {
+    "stack_cell_tech": "Quiet. EFCF day 9-10 blackout. No new stack announcements.",
+    "ai_dc_deployments": "Quiet weekend. Pipeline unchanged: Oracle/Jupiter 2.45 GW | Crusoe/Cheyenne 900 MW | FCEL/Fit Energy 380 MW | AEP/Bloom 1 GW (WY 2030) | Bloom/Brookfield $25B | Nebius 328 MW EaaS. Next: BE Q2 July 28 (AH).",
+    "regulations_policy": "Virginia DC electricity tax: $0.011/kWh on all DC electricity incl. self-generated (effective July 1). FERC Generation Adequacy Reports due July 20.",
+    "competing_power": "Quiet. CCGT capex +195% vs. 2019 / early-2030s waitlists unchanged.",
+    "market_financials": "BE: ~$235.69 (July 10, -8%). RSI 45.18. Support $247.50; resistance $303. 10-analyst picture: WF $217 EW .. Evercore ISI $350 OP. Q2 July 28 (AH). FCEL: stable ~$20-21. JPMorgan Hold + Q3 short list.",
+    "research_ip": "Quiet. EFCF embargo likely beginning. No new papers or patents.",
+    "lcoe_datapoints": "Virginia DC tax: +$11/MWh to SOFC LCOE for Virginia projects (self-generated not exempt). Revised: ~$141-216/MWh unsubsidized; ~$101-156/MWh with ITC 48E. Q2 consensus revised: $0.36 EPS / $804M revenue. FY2026 EPS guidance $1.85-$2.25 (first confirmed). Primary LCOE trigger: July 28 BE Q2 (AH) -- mfg cost/kW, gross margin, Hunterbrook, Jupiter/AEP timelines, EaaS pricing."
+  },
+  "watchlist": {
+    "be_close_last": 235.69,
+    "be_q2_earnings": "2026-07-28 AH",
+    "ferc_report_due": "2026-07-20",
+    "efcf_embargo_watch": "2026-07-14",
+    "be_analyst_range_low": 217,
+    "be_analyst_range_high": 350,
+    "be_q2_consensus_rev": 804.17,
+    "be_q2_consensus_eps": 0.36,
+    "henry_hub_steo": 3.6,
+    "virginia_dc_tax_kwh": 0.011
+  },
+  "sources": [
+    "DataCenter Knowledge",
+    "BDO",
+    "mgrid.org",
+    "TechTimes",
+    "Benzinga",
+    "Cerbat Gem",
+    "24/7 Wall St.",
+    "EFCF"
   ]
 }
