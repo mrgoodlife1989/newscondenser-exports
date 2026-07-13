@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-10",
+    "title": "Beating Beta — 2026-07-13",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-10",
+      "title": "Markets Snapshot — 2026-07-13",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten.",
-      "highlight_phrase": "SK Hynix sammelt 26,5 Mrd. USD in US-Ang",
-      "toc_summary": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten.",
-      "quick_take": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten.",
+      "title": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Ir",
+      "highlight_phrase": "Ölpreise steigen, Aktien-Futures fallen ",
+      "toc_summary": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Ir",
+      "quick_take": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Iran",
       "bullets": [
         {
           "label": "Detail",
-          "text": "SK Hynix sammelt 26,5 Mrd. USD in US-Angebot ein – was Anleger wissen sollten."
+          "text": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Iran"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck.",
-      "highlight_phrase": "Taco Bell zieht angeblich Produkte aus e",
-      "toc_summary": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck.",
-      "quick_take": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck.",
+      "title": "\"Trump-Konten\" sind großartig",
+      "highlight_phrase": "\"Trump-Konten\" sind großartig",
+      "toc_summary": "\"Trump-Konten\" sind großartig",
+      "quick_take": "wenn du bereits reich bist",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Taco Bell zieht angeblich Produkte aus einigen Filialen zurueck."
+          "text": "wenn du bereits reich bist"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis.",
-      "highlight_phrase": "Verborgene Divergenz zwischen VIX und Na",
-      "toc_summary": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis.",
-      "quick_take": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis.",
+      "title": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht",
+      "highlight_phrase": "Warum Citigroup diese Woche bei den Bank",
+      "toc_summary": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht",
+      "quick_take": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Verborgene Divergenz zwischen VIX und Nasdaq-Volatilitaet beunruhigt Profis."
+          "text": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?",
-      "highlight_phrase": "Studentendarlehen-Servicer ruft Freund n",
-      "toc_summary": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?",
-      "quick_take": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?",
+      "title": "Du musst nicht reich sein, um finanziell unabhängig zu werden",
+      "highlight_phrase": "Du musst nicht reich sein, um finanziell",
+      "toc_summary": "Du musst nicht reich sein, um finanziell unabhängig zu werden",
+      "quick_take": "so übernimmst du Kontrolle über dein Geld",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Studentendarlehen-Servicer ruft Freund nach Zahlungsverzug an – ist das legal?"
+          "text": "so übernimmst du Kontrolle über dein Geld"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen u",
-      "highlight_phrase": "Kevin Warsh ernennt Mitglieder seiner Fe",
-      "toc_summary": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen u",
-      "quick_take": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen und Doug McMillon.",
+      "title": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus",
+      "highlight_phrase": "Goldman Sachs wählt seine bevorzugten ch",
+      "toc_summary": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus",
+      "quick_take": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kevin Warsh ernennt Mitglieder seiner Fed-Taskforces, darunter Marc Andreessen und Doug McMillon."
+          "text": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren.",
-      "highlight_phrase": "Prognosemaerkte schuerfen Insiderhandel-",
-      "toc_summary": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren.",
-      "quick_take": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren.",
+      "title": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe ",
+      "highlight_phrase": "Diese unterdurchschnittlichen Trades kön",
+      "toc_summary": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe ",
+      "quick_take": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe Renditen bringen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Prognosemaerkte schuerfen Insiderhandel-Bedenken – Goldman und andere reagieren."
+          "text": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe Renditen bringen"
         }
       ],
       "callout": null,
