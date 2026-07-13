@@ -1,63 +1,171 @@
 {
-  "date": "2026-07-12",
-  "top_signals": [
+  "date": "2026-07-13",
+  "topSignals": [
     {
-      "rank": 1,
-      "title": "Virginia enacts first US data center electricity tax at $0.011/kWh -- self-generated SOFC power not exempt",
-      "body": "Effective July 1, 2026. Applies to ALL data center electricity including self-generated and behind-the-meter power. 500 MW SOFC in Virginia: ~$48M/year. Cap $600M/year through June 30, 2028. Northern Virginia (~70% of US colo capacity). SOFC grid-bypass value proposition materially reduced in the world's largest DC market.",
-      "sources": [
-        "DataCenter Knowledge",
-        "BDO",
-        "mgrid.org"
+      "title": "UMD achieves world record SOFC power density: 4 W/cm² at 650°C via pressurization",
+      "text": "— Researchers at the University of Maryland (Dr. Eric Wachsman, Energy Innovation Institute) set a new world record for low-temperature SOFC performance: 4 W/cm² at just 650°C using a novel ceria-based electrolyte combined with increased oxygen pressure at the cathode. Previous sub-700°C SOFC records were significantly lower (~1-2 W/cm²). Mechanism: pressurization reduces oxygen partial pressure gradients, cutting activation overpotential by ~30-40% and enabling full SOFC capacity at lower temperature — with direct implications for durability and balance-of-plant cost. Wachsman explicitly cited AI data center power demand as a primary application. The breakthrough validates the 650°C design direction of Elcogen's E3000 G2, and the ceria (GDC) electrolyte is scandium-free, indirectly addressing the Hunterbrook supply-chain risk. First appearance in digest. Maryland Energy Innovation Institute | Automotive World",
+      "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough",
+      "n": 1
+    },
+    {
+      "title": "Microsoft TMI (Crane Center) first power confirmed H2 2027 via FERC Eddystone capacity transfer — first full coverage",
+      "text": "— On June 16, 2026, FERC approved a transmission waiver allowing Constellation Energy to transfer 760 MW of capacity interconnection rights from its retiring Eddystone natural gas/oil plant near Philadelphia directly to the Crane Clean Energy Center (Three Mile Island Unit 1). Prior to the waiver, extensive grid upgrades — hundreds of miles of new lines to West Virginia — would have delayed full power delivery to 2031. With the Eddystone transfer approved, the 835 MW plant is now on track to deliver electricity by H2 2027, one year ahead of the 2028 baseline tracked in prior digests. The Microsoft $16B, 20-year PPA covers the full 835 MW output. Competitive implication: the window in which nuclear cannot serve AI data center load shrinks from 3+ years to ~18 months — increasing the urgency of SOFC deployment decisions made today. NEI Magazine | Power Engineering | Fox Business",
+      "url": "https://www.neimagazine.com/news/ferc-clears-tmi-restart/",
+      "n": 2
+    },
+    {
+      "title": "BE at ~$239-241 — 15 days to Q2 earnings (July 28 AH); 10-analyst picture unchanged",
+      "text": "— Bloom Energy entered the week of July 13 trading around $239-241 (stockinvest.us predicted fair value $241.79). The July 12 confirmed intraday range was $229.55-$259.75. BE sits ~32% below its June ATH (~$351), within range of the Wells Fargo $217 EW bear case. Q2 earnings consensus: $804M revenue / $0.36 EPS / ~34% gross margin; FY2026 guidance $3.4-3.8B; backlog $20B; FY2026 EPS guidance $1.85-$2.25. Full 10-analyst picture (unchanged): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. stockinvest.us | StockAnalysis",
+      "url": "https://stockinvest.us/stock/BE",
+      "n": 3
+    }
+  ],
+  "sections": [
+    {
+      "title": "Stack & Cell Technology",
+      "items": [
+        {
+          "text": "UMD record 4 W/cm² at 650°C — pressurized ceria electrolyte — See Top Signal #1. At 4 W/cm², active area required per MW of generation is cut 50-75% vs. typical commercial 1-2 W/cm² SOFC stacks operating at 800°C. The GDC (gadolinium-doped ceria) electrolyte is scandium-free — an architecturally different approach from Bloom's ScSZ (scandium-stabilized zirconia) that sidesteps the supply constraint Hunterbrook identified. Lab result; commercial translation typically takes 5-10 years. Maryland Energy Innovation Institute",
+          "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough",
+          "sources": [
+            {
+              "title": "Maryland Energy Innovation Institute",
+              "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough"
+            }
+          ]
+        },
+        {
+          "text": "EFCF proceedings: extended blackout — likely journal embargo — Day 10 post-conference (July 3 close), no technical results from Elcogen (E3000 G2: claimed ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory), SolydEra, or Convion have appeared online. Exceeds the typical 5-7 business day post-EFCF window. Most probable route to usable data now: company press release or pre-print. Monitor elcogen.com, ceres.tech, solydera.com, convion.fi. EFCF 2026",
+          "url": "https://www.efcf.com/2026",
+          "sources": [
+            {
+              "title": "EFCF 2026",
+              "url": "https://www.efcf.com/2026"
+            }
+          ]
+        }
       ]
     },
     {
-      "rank": 2,
-      "title": "Baird $310 OP (July 9) + Susquehanna raises to $298 (July 10) complete BE post-selloff analyst picture; Q2 consensus revised to $0.36 EPS / $804M revenue",
-      "body": "10-analyst tracker: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Q2 consensus: $804M revenue (was ~$820M), EPS $0.36 (was $0.39). FY2026 EPS guidance $1.85-$2.25 (first confirmed).",
-      "sources": [
-        "Benzinga July 10",
-        "Cerbat Gem"
+      "title": "AI Data Center Deployments",
+      "items": [
+        {
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
-      "rank": 3,
-      "title": "EFCF post-conference blackout extends to day 9-10 -- journal embargo threshold arrives Monday July 14",
-      "body": "17th EFCF closed July 3 in Lucerne. No results from Elcogen (E3000 G2: >=75% elec / >=90% CHP at 650C), Ceres, SolydEra, or Convion. Sites still dark. Embargo threshold flagged in July 11 digest arrives Monday.",
-      "sources": [
-        "EFCF 2026"
+      "title": "Regulations & Policy",
+      "items": [
+        {
+          "text": "FERC Generation Adequacy Reports due July 20 — 7 days out — The six RTO/ISO reports mandated by FERC's June 18 Section 206 show-cause orders are due in one week. Each must quantify how adequate generation will serve new and existing large loads (≥50 MW on ≥69 kV), detail stakeholder proposals, and provide key milestone schedules. These are the first regulator-mandated public disclosures of the firm-power gap in each US grid territory — the primary external validation of the addressable SOFC on-site market. ISO-NE remains the only RTO seeking a 90-day abeyance (filing deadline August 3); if granted, ISO-NE compliance shifts to ~November 16. Full tariff reform responses due August 17. FERC RM26-4",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        },
+        {
+          "text": "Quiet otherwise. Background: Germany EnEfG PUE ≤1.2 active for new DCs from July 1; Virginia DC electricity tax $0.011/kWh (self-generated SOFC not exempt, covered July 12); EU CADA rating scheme delayed into Q3; Section 179D sunset confirmed June 30.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        {
+          "text": "Microsoft TMI (Crane Center) first power H2 2027 — 18-month competitive window — See Top Signal #2. The FERC Eddystone waiver (June 16) removes the last major grid obstacle, putting 835 MW of nuclear baseload on track to reach Microsoft by H2 2027. This is the only hyperscaler-scale nuclear project on a confirmed 18-month delivery horizon. For SOFC competitive positioning: SOFC remains the only proven rapid-deployment firm-baseload option today, but the window is compressing. Any AI data center power contract signed today by a developer needing firm baseload before H2 2027 locks SOFC in before nuclear is available. Projects with a 12-18 month commitment cycle will face TMI-scale nuclear as an active competitor. NEI Magazine",
+          "url": "https://www.neimagazine.com/news/ferc-clears-tmi-restart/",
+          "sources": [
+            {
+              "title": "NEI Magazine",
+              "url": "https://www.neimagazine.com/news/ferc-clears-tmi-restart/"
+            }
+          ]
+        },
+        {
+          "text": "Background: DOE $17.5B AP1000 nuclear loans (10+ year horizon), three DOE zero-power microreactors (critical July 3 — none dispatchable before 2030), Google Meitner Energy Center (wind/solar/battery + gas firming), Microsoft Project Kilby (2.67 GW CCGT, Texas, first power 2028) — all covered in prior digests.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE) — Entering July 13 at ~$239-241 (stockinvest.us predicted fair value $241.79). July 12 intraday range: $229.55-$259.75. BE is ~32% below June ATH (~$351); 15 days to Q2 earnings (July 28, AH). Full 10-analyst picture (unchanged from July 12): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. FY2026 guidance: $3.4-3.8B; backlog $20B; FY2026 EPS guidance $1.85-$2.25. stockinvest.us",
+          "url": "https://stockinvest.us/stock/BE",
+          "sources": [
+            {
+              "title": "stockinvest.us",
+              "url": "https://stockinvest.us/stock/BE"
+            }
+          ]
+        },
+        {
+          "text": "FuelCell Energy (FCEL) — Trading near $20-21, close to the $21/share offering price. JPMorgan Q3 high-conviction short (July 10) adds structural selling pressure. Siemens EBOP MOU (July 9) active. Analyst: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Data center proposals >80% of 1.5 GW pipeline. Q3 FY2026 earnings ~September 2026.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Research & IP",
+      "items": [
+        {
+          "text": "University of Maryland: 4 W/cm² at 650°C — GDC electrolyte + cathode pressurization — First appearance in digest. Using gadolinium-doped ceria (not Bloom's ScSZ) plus oxygen pressurization at the cathode, UMD's group achieved the highest power density ever reported for sub-700°C SOFC. Key insight: oxygen partial pressure at the cathode is the primary performance bottleneck at low temperature; pressurization resolves it without requiring higher operating temperature. Wachsman's group cited AI data center and aviation electrification as primary applications. Full journal paper expected. Maryland Energy Innovation Institute | Automotive World",
+          "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough",
+          "sources": [
+            {
+              "title": "Maryland Energy Innovation Institute",
+              "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough"
+            },
+            {
+              "title": "Automotive World",
+              "url": "https://www.automotiveworld.com/articles/90945-us-maryland-u-achieves-record-sofc-power-density/"
+            }
+          ]
+        },
+        {
+          "text": "EFCF proceedings still under likely embargo — Day 10 post-conference. No Elcogen E3000 G2 or Ceres licensee data published. If ≥75% electrical / ≥90% CHP at 650°C confirmed at commercial scale, add $500-1,000/kW BOP cost reduction to 650°C-class system LCOE. Update when published.",
+          "url": "",
+          "sources": []
+        }
       ]
     }
   ],
-  "sections": {
-    "stack_cell_tech": "Quiet. EFCF day 9-10 blackout. No new stack announcements.",
-    "ai_dc_deployments": "Quiet weekend. Pipeline unchanged: Oracle/Jupiter 2.45 GW | Crusoe/Cheyenne 900 MW | FCEL/Fit Energy 380 MW | AEP/Bloom 1 GW (WY 2030) | Bloom/Brookfield $25B | Nebius 328 MW EaaS. Next: BE Q2 July 28 (AH).",
-    "regulations_policy": "Virginia DC electricity tax: $0.011/kWh on all DC electricity incl. self-generated (effective July 1). FERC Generation Adequacy Reports due July 20.",
-    "competing_power": "Quiet. CCGT capex +195% vs. 2019 / early-2030s waitlists unchanged.",
-    "market_financials": "BE: ~$235.69 (July 10, -8%). RSI 45.18. Support $247.50; resistance $303. 10-analyst picture: WF $217 EW .. Evercore ISI $350 OP. Q2 July 28 (AH). FCEL: stable ~$20-21. JPMorgan Hold + Q3 short list.",
-    "research_ip": "Quiet. EFCF embargo likely beginning. No new papers or patents.",
-    "lcoe_datapoints": "Virginia DC tax: +$11/MWh to SOFC LCOE for Virginia projects (self-generated not exempt). Revised: ~$141-216/MWh unsubsidized; ~$101-156/MWh with ITC 48E. Q2 consensus revised: $0.36 EPS / $804M revenue. FY2026 EPS guidance $1.85-$2.25 (first confirmed). Primary LCOE trigger: July 28 BE Q2 (AH) -- mfg cost/kW, gross margin, Hunterbrook, Jupiter/AEP timelines, EaaS pricing."
-  },
-  "watchlist": {
-    "be_close_last": 235.69,
-    "be_q2_earnings": "2026-07-28 AH",
-    "ferc_report_due": "2026-07-20",
-    "efcf_embargo_watch": "2026-07-14",
-    "be_analyst_range_low": 217,
-    "be_analyst_range_high": 350,
-    "be_q2_consensus_rev": 804.17,
-    "be_q2_consensus_eps": 0.36,
-    "henry_hub_steo": 3.6,
-    "virginia_dc_tax_kwh": 0.011
-  },
-  "sources": [
-    "DataCenter Knowledge",
-    "BDO",
-    "mgrid.org",
-    "TechTimes",
-    "Benzinga",
-    "Cerbat Gem",
-    "24/7 Wall St.",
-    "EFCF"
+  "lcoe": [
+    {
+      "text": "UMD 4 W/cm² at 650°C: active area per MW cut 50-75% — At 4 W/cm² vs. commercial ~1-2 W/cm², electrolyte and electrode area required per MW of generation falls 2-4x. If commercial scale achieved (5-10 year horizon), stack material cost per kW falls proportionally. For 2026-2028 LCOE: no change. For long-range (2031+) scenario: add \"high power density\" case where stack material cost per kW (currently ~50-60% of system capex) falls 40-60%.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Ceria vs. ScSZ: scandium supply risk mitigation pathway — UMD's GDC electrolyte is scandium-free. If ceria-based architectures achieve commercial scale, the Hunterbrook supply constraint (220 tons/year ScOx at 5 GW Bloom output vs. ~240 tons global supply) is substantially mitigated. Not a near-term input but confirms a credible long-run pathway out of the supply bottleneck.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "TMI H2 2027: compress the SOFC priority window to 18 months — Update competitive window: SOFC is the decisive firm-baseload option through H1 2027 → Crane Center 835 MW nuclear enters H2 2027 → DOE AP1000 programme at GW-scale post-2032. This tightens the SOFC deployment window by 6-12 months vs. the 2028 nuclear baseline previously modeled. AI data center procurement decisions made today secure power before nuclear is available; decisions deferred 12+ months will face a two-way choice.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "FERC July 20 Generation Adequacy Reports — Will provide the first regulator-sanctioned estimates of the firm-power gap by US grid region. Update addressable market sizing after publication. Mark July 20 as a model-data date.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — Five inputs: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) Hunterbrook scandium supply chain rebuttal details, (d) Project Jupiter/AEP Wyoming timeline, (e) EaaS pricing from Nebius or Brookfield. Combined with EIA STEO July 2026 gas price ($3.60/MMBtu), allows full LCOE model refresh.",
+      "url": "",
+      "sources": []
+    }
   ]
 }
