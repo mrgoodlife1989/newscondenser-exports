@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-13",
+    "title": "Beating Beta — 2026-07-14",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-13",
+      "title": "Markets Snapshot — 2026-07-14",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Ir",
-      "highlight_phrase": "Ölpreise steigen, Aktien-Futures fallen ",
-      "toc_summary": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Ir",
-      "quick_take": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Iran",
+      "title": "USA fuellen strategische Oelreserven auf",
+      "highlight_phrase": "USA fuellen strategische Oelreserven auf",
+      "toc_summary": "USA fuellen strategische Oelreserven auf",
+      "quick_take": "Trump droht mit Kontrolle der Strasse von Hormuz",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ölpreise steigen, Aktien-Futures fallen nach neuen Angriffen zwischen USA und Iran"
+          "text": "Trump droht mit Kontrolle der Strasse von Hormuz"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Trump-Konten\" sind großartig",
-      "highlight_phrase": "\"Trump-Konten\" sind großartig",
-      "toc_summary": "\"Trump-Konten\" sind großartig",
-      "quick_take": "wenn du bereits reich bist",
+      "title": "Sandisk-Aktie bricht ein, einige Analysten werden noch bullisher",
+      "highlight_phrase": "Sandisk-Aktie bricht ein, einige Analyst",
+      "toc_summary": "Sandisk-Aktie bricht ein, einige Analysten werden noch bullisher",
+      "quick_take": "Sandisk-Aktie bricht ein, einige Analysten werden noch bullisher",
       "bullets": [
         {
           "label": "Detail",
-          "text": "wenn du bereits reich bist"
+          "text": "Sandisk-Aktie bricht ein, einige Analysten werden noch bullisher"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht",
-      "highlight_phrase": "Warum Citigroup diese Woche bei den Bank",
-      "toc_summary": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht",
-      "quick_take": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht",
+      "title": "\"Es ist herzzerreissend\": Mein Bruder hat mit 70 die Rente beantragt, starb nach einer Zahlung an Krebs",
+      "highlight_phrase": "\"Es ist herzzerreissend\": Mein Bruder ha",
+      "toc_summary": "\"Es ist herzzerreissend\": Mein Bruder hat mit 70 die Rente beantragt, starb nach einer Zahlung an Krebs",
+      "quick_take": "warum warten?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Warum Citigroup diese Woche bei den Bankergebnissen im Fokus steht"
+          "text": "warum warten?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Du musst nicht reich sein, um finanziell unabhängig zu werden",
-      "highlight_phrase": "Du musst nicht reich sein, um finanziell",
-      "toc_summary": "Du musst nicht reich sein, um finanziell unabhängig zu werden",
-      "quick_take": "so übernimmst du Kontrolle über dein Geld",
+      "title": "Ich bin 67, habe 140.000 Dollar Rente",
+      "highlight_phrase": "Ich bin 67, habe 140.000 Dollar Rente",
+      "toc_summary": "Ich bin 67, habe 140.000 Dollar Rente",
+      "quick_take": "soll ich bis 70 warten, damit meine Frau mehr bekommt?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "so übernimmst du Kontrolle über dein Geld"
+          "text": "soll ich bis 70 warten, damit meine Frau mehr bekommt?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus",
-      "highlight_phrase": "Goldman Sachs wählt seine bevorzugten ch",
-      "toc_summary": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus",
-      "quick_take": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus",
+      "title": "\"Börsengang ist ein Muss\"",
+      "highlight_phrase": "\"Börsengang ist ein Muss\"",
+      "toc_summary": "\"Börsengang ist ein Muss\"",
+      "quick_take": "Chinesische Humanoid-Startups drängen auf IPOs",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Goldman Sachs wählt seine bevorzugten chinesischen KI-Modelle aus"
+          "text": "Chinesische Humanoid-Startups drängen auf IPOs"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe ",
-      "highlight_phrase": "Diese unterdurchschnittlichen Trades kön",
-      "toc_summary": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe ",
-      "quick_take": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe Renditen bringen",
+      "title": "Zinserhöhung im Juli von der Fed? Die Wahrscheinlichkeit steigt",
+      "highlight_phrase": "Zinserhöhung im Juli von der Fed? Die Wa",
+      "toc_summary": "Zinserhöhung im Juli von der Fed? Die Wahrscheinlichkeit steigt",
+      "quick_take": "Zinserhöhung im Juli von der Fed? Die Wahrscheinlichkeit steigt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Diese unterdurchschnittlichen Trades könnten in den nächsten sechs Monaten hohe Renditen bringen"
+          "text": "Zinserhöhung im Juli von der Fed? Die Wahrscheinlichkeit steigt"
         }
       ],
       "callout": null,
