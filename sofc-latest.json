@@ -1,118 +1,160 @@
 {
-  "date": "2026-07-14",
-  "digest_title": "SOFC x AI Data Centers - Daily Digest 2026-07-14",
-  "top_signals": [
+  "date": "2026-07-15",
+  "topSignals": [
     {
-      "rank": 1,
-      "headline": "Crossroads Capital deepens supply-wall thesis; BE ends session higher",
-      "summary": "Second Crossroads Capital short report ('Situational Awareness Collides with Physical Awareness') claims Bloom's scandium usage exceeds non-Chinese supply by 20+ tons. Bloom denied via SEC 8-K. Despite ~15% five-session decline, BE ended July 14 higher -- short fatigue with Q2 earnings 14 days out (July 28 AH).",
-      "sources": [
-        "https://www.crossroadscap.io/insights/bloom-energy-inc-be----nyse-situational-awareness-collides-with-physical-awareness--exposing-a-supply-wall-and-hidden-china-risks",
-        "https://finance.yahoo.com/markets/stocks/articles/stock-ends-higher-bloom-energy-232227092.html",
-        "https://www.tipranks.com/news/bloom-energy-stock-be-plunges-15-in-5-days-amid-short-seller-attacks-whats-next"
-      ],
-      "tags": [
-        "Bloom Energy",
-        "short-seller",
-        "scandium",
-        "earnings"
+      "title": "Doomberg \"Artificial Bloom\": third coordinated short-seller narrative on BE scandium — market holds firm",
+      "text": "— Doomberg, one of the most widely-read financial newsletters on Substack, published \"Artificial Bloom\" on July 14, 2026, joining Hunterbrook (July 8, China supply-chain allegations) and Crossroads Capital (July 9 first report + July 14 second report \"supply wall\") in a third independent short-seller narrative against Bloom Energy's scandium sourcing. Doomberg's piece focuses on Bloom's structural dependence on Chinese scandium oxide: arguing that CEO KR Sridhar's repeated \"no China supply chain\" claims since February 2025 are inconsistent with trade data pointing to Hunan Oriental Scandium as Bloom's largest fuel-cell-grade scandium supplier. Bloom's July 9 8-K (filed in response to Hunterbrook) stated: \"We have sufficient supply of scandium oxide to meet our current fuel cell demand and backlog, and our supply is not dependent on China.\" Despite three coordinated attacks across seven trading days, BE closed July 14 at approximately $243.40 (+4.2%) — the fourth consecutive session the stock has resisted the short thesis, signalling market fatigue ahead of Q2 earnings (July 28). Doomberg \"Artificial Bloom\" | Bloom Energy SEC 8-K July 9 | Bloomberg scandium coverage | TradingKey BE forecast",
+      "url": "https://newsletter.doomberg.com/p/artificial-bloom",
+      "n": 1
+    },
+    {
+      "title": "FERC Generation Adequacy Reports: 5 days out (July 20)",
+      "text": "— The six RTO/ISO informational reports mandated by FERC's June 18 Section 206 show-cause orders are due in 5 days. Each of the six grid operators must submit a report explaining how sufficient generation will be available to serve existing and new large loads (≥50 MW on ≥69 kV). These will be the first regulator-mandated public disclosures quantifying the firm-power gap in each US grid region — representing the most authoritative external upper-bound estimate of the addressable market for SOFC grid-bypass power. ISO-NE has sought a 90-day abeyance (filing deadline August 3 instead of July 20). All six operators face full tariff reform or show-cause justifications due August 17. FERC RM26-4 | RMI analysis | McGuireWoods",
+      "url": "https://www.ferc.gov/rm26-4",
+      "n": 2
+    },
+    {
+      "title": "Germany EnEfG Amendment: cabinet adopted June 24 — PUE compliance window doubles for new data centers",
+      "text": "— The German government adopted a draft amendment to the Energy Efficiency Act (EnEfG) on June 24, 2026. Key changes for data centers commissioned from July 2026: (a) the compliance period to achieve PUE ≤1.2 on a sustained annual-average basis is extended from 2 years to 4 years after the start of operations; (b) for existing data centers (commissioned before July 2026), the 2027 PUE target relaxes from 1.5 to 1.6, and the 2030 target eases from 1.3 to 1.4; (c) waste heat reuse requirements are confirmed: 10% ERF from July 2026, 15% from July 2027, 20% from July 2028. The amendment still requires Bundestag and Bundesrat approval; implementation is expected Q3/Q4 2026. For European SOFC deployments: the doubled compliance window reduces the urgency of high-efficiency on-site generation as a regulatory driver in the near term, but the waste-heat ERF targets keep SOFC CHP mode (up to 90% system efficiency with heat recovery) as a compliance-relevant technology. Orrick (April amendment overview) | Taylor Wessing | Pinsent Masons",
+      "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
+      "n": 3
+    }
+  ],
+  "sections": [
+    {
+      "title": "Stack & Cell Technology",
+      "items": [
+        {
+          "text": "EFCF proceedings: day 12 blackout — journal embargo confirmed — The 17th European SOFC & SOE Forum closed July 3 in Lucerne. As of July 15 (12 days post-conference, now exceeding the longest typical conference embargo window), no technical results from Elcogen (E3000 G2: stated ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory vs. 90% target), SolydEra, or Convion have appeared online. A 12-day post-conference blackout on all participants simultaneously is consistent with a formal journal submission embargo rather than delayed press release drafting. Expect results via efcf.com proceedings or company websites when the embargo lifts. Key pending items unchanged: (a) Elcogen E3000 G2 real-commercial efficiency, (b) Doosan yield trajectory beyond Q1 2026's 80%, (c) manufacturing cost per kW from ELCO I Tallinn vs. Bloom Fremont. EFCF 2026",
+          "url": "https://www.efcf.com/2026",
+          "sources": [
+            {
+              "title": "EFCF 2026",
+              "url": "https://www.efcf.com/2026"
+            }
+          ]
+        }
       ]
     },
     {
-      "rank": 2,
-      "headline": "Valar Atomics + Nvidia: Ward250 nuclear reactor powers Blackwell AI chip; 30 MW Utah data center (first appearance)",
-      "summary": "Announced July 1. Ward250 (100 kW, achieved criticality June 18) powered an Nvidia Blackwell GPU -- claimed first startup-built nuclear reactor to power an AI chip. Partnership on 30 MW near-zero-water Utah data center. 100 kW is 4-5 orders of magnitude below data center scale; full site is multi-year.",
-      "sources": [
-        "https://www.deseret.com/u-s-world/2026/07/01/valar-atomics-nvidia-milestone/",
-        "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor",
-        "https://www.nucnet.org/news/us-nuclear-startup-valar-partners-with-nvidia-on-data-centre-that-conserves-water-7-5-2026"
-      ],
-      "tags": [
-        "nuclear",
-        "Nvidia",
-        "Valar Atomics",
-        "microreactor",
-        "first-appearance"
+      "title": "AI Data Center Deployments",
+      "items": [
+        {
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
-      "rank": 3,
-      "headline": "GE Vernova + Blue Energy: 2.5 GW gas-plus-nuclear Texas hybrid plant -- gas from 2030, nuclear from 2032 (first appearance)",
-      "summary": "Announced May 5, 2026. ~1 GW GE 7HA.02 gas turbines (2030) + ~1.5 GW BWRX-300 SMRs (2032) for AI data center power in Texas. First 'gas-bridge-to-nuclear' competing architecture. Beyond 2026-2028 SOFC window but introduces new 2028-2032 planning template.",
-      "sources": [
-        "https://finance.yahoo.com/sectors/energy/articles/ge-vernova-targets-data-center-002508392.html",
-        "https://newatlas.com/energy/hybrid-nuclear-natural-gas-power-plant-texas/",
-        "https://texaspolitics.com/2026/05/05/blue-energy-ge-vernova-partner-on-gas-nuclear-power-project-in-texas/"
-      ],
-      "tags": [
-        "GE Vernova",
-        "Blue Energy",
-        "nuclear",
-        "SMR",
-        "BWRX-300",
-        "Texas",
-        "first-appearance"
+      "title": "Regulations & Policy",
+      "items": [
+        {
+          "text": "Germany EnEfG amendment — See Top Signal #3. Key compliance change for SOFC project planning: new European data centers from July 2026 have 4 years (not 2) to achieve PUE ≤1.2. The 10% ERF waste-heat requirement is active from July 2026. Parliament approval pending. Orrick",
+          "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
+          "sources": [
+            {
+              "title": "Orrick",
+              "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
+            }
+          ]
+        },
+        {
+          "text": "FERC Generation Adequacy Reports (July 20) — See Top Signal #2. Five days away. ISO-NE seeking 90-day abeyance. FERC",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        },
+        {
+          "text": "Quiet otherwise. Background: EU CADA data center energy efficiency rating scheme still delayed into Q3 (missed June 30 deadline); ERCOT Batch Zero self-supply pathway active; Section 179D sunset confirmed June 30.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        {
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE) — July 14 confirmed close: ~$243.40 (+4.2%); intraday range approximately $234.53–$252.00. The stock closed higher despite the Doomberg piece published during the session and Crossroads Capital's second report on the same day — the fourth consecutive session showing resilience against the short attacks. BE is approximately 31% below its June ATH (~$351) and trading near the Wells Fargo $217 bear-case territory. Full 10-analyst picture (unchanged from July 14): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Average PT: ~$283. Q2 earnings July 28 (AH): consensus ~$804M revenue / ~$0.36 EPS / ~34% gross margin. FY2026 guidance $3.4–3.8B; backlog $20B. GuruFocus BE surge | TipRanks 5-day wrap | StockTitan Q2 date",
+          "url": "https://www.gurufocus.com/news/8958652/bloom-energy-corp-be-shares-surge-42-what-gf-score-of-63-tells-investors",
+          "sources": [
+            {
+              "title": "GuruFocus BE surge",
+              "url": "https://www.gurufocus.com/news/8958652/bloom-energy-corp-be-shares-surge-42-what-gf-score-of-63-tells-investors"
+            },
+            {
+              "title": "TipRanks 5-day wrap",
+              "url": "https://www.tipranks.com/news/bloom-energy-stock-be-plunges-15-in-5-days-amid-short-seller-attacks-whats-next"
+            },
+            {
+              "title": "StockTitan Q2 date",
+              "url": "https://www.stocktitan.net/news/BE/bloom-energy-to-announce-second-quarter-2026-financial-results-on-1ozmkdtrt9pr.html"
+            }
+          ]
+        },
+        {
+          "text": "FuelCell Energy (FCEL) — No material update. Stable near $20–21, near the July 9 offering price of $21.00. JPMorgan high-conviction short active. Siemens EBOP MOU (July 9) intact. Analyst picture: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Data center proposals >80% of 1.5 GW pipeline. Q3 FY2026 earnings ~September 2026.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Research & IP",
+      "items": [
+        {
+          "text": "Doomberg \"Artificial Bloom\" (July 14) — See Top Signal #1. Third independent publication (after Hunterbrook and Crossroads Capital) directly challenging Bloom's scandium supply-chain narrative. Doomberg cites Hunan Oriental Scandium as Bloom's \"largest supplier\" based on trade data — the same allegation Hunterbrook made on July 8. No new technical data; this is a narrative consolidation piece amplifying existing allegations. The primary research relevance is that a third respected financial voice is calling for greater supply-chain transparency, increasing the pressure on Bloom's July 28 earnings call to address the scandium question directly. Doomberg",
+          "url": "https://newsletter.doomberg.com/p/artificial-bloom",
+          "sources": [
+            {
+              "title": "Doomberg",
+              "url": "https://newsletter.doomberg.com/p/artificial-bloom"
+            }
+          ]
+        },
+        {
+          "text": "EFCF proceedings: no data yet. Day 12 blackout. Update when lifted.",
+          "url": "",
+          "sources": []
+        }
       ]
     }
   ],
-  "market": {
-    "BE": {
-      "close_prev": 232.42,
-      "session": "2026-07-14",
-      "direction": "up",
-      "note": "Ended higher despite second Crossroads Capital attack; short fatigue ahead of Q2 earnings Jul 28 (AH)",
-      "q2_earnings_date": "2026-07-28",
-      "q2_consensus_revenue_M": 804,
-      "q2_consensus_eps": 0.36,
-      "analysts_count": 10,
-      "bear_pt": 217,
-      "bull_pt": 350,
-      "backlog_B": 20
+  "lcoe": [
+    {
+      "text": "Germany EnEfG amendment: 4-year compliance window for new DCs — New European SOFC data center projects commissioned from July 2026 now have 4 years (until 2030) to reach PUE ≤1.2 rather than 2 years. This reduces the near-term competitive pressure to use SOFC in CHP mode specifically for regulatory compliance, but the ERF waste-heat reuse requirements (10% active now, 15% July 2027, 20% July 2028) still create a compliance pathway for SOFC CHP. Recommend modelling European SOFC deployments with 4-year ramp to full CHP mode — this affects the timing of heat-revenue credits in the LCOE model.",
+      "url": "",
+      "sources": []
     },
-    "FCEL": {
-      "price_range": "20-21",
-      "note": "Stable near $21.00 offering price; JPM Q3 high-conviction short active; Siemens EBOP MOU active"
+    {
+      "text": "Scandium \"supply wall\" now has three independent voices — Hunterbrook, Crossroads Capital, and Doomberg have all published the same supply-chain thesis within 7 days. If BE management cannot provide auditable non-China scandium sourcing data on July 28, the capex stress scenario (+15–30% above base case) may need to be elevated to an alternative base case for Bloom-only LCOE scenarios. Maintain as sensitivity pending July 28 earnings.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "FERC July 20 reports: extract firm-power gap data — When published, these six RTO/ISO informational filings will contain the first regulatory-body estimates of load (MW) that cannot be served on-grid within 5 years per region. Extract these figures immediately after July 20 publication to validate the SOFC addressable market upper bound.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — 13 days away. Five inputs to monitor: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) scandium/supply-chain transparency and sourcing disclosure, (d) Project Jupiter and AEP Wyoming timeline updates, (e) EaaS $/MWh pricing from Nebius or Brookfield-financed deployments.",
+      "url": "",
+      "sources": []
     }
-  },
-  "regulations": {
-    "ferc_ga_reports_due": "2026-07-20",
-    "ferc_days_out": 6,
-    "ferc_note": "Six RTO/ISO Generation Adequacy Reports due July 20 -- first regulator-mandated firm-power gap disclosures",
-    "iso_ne_abeyance_deadline": "2026-08-03",
-    "full_tariff_reform_due": "2026-08-17"
-  },
-  "lcoe_flags": [
-    {
-      "flag": "Ward250 = 100 kW: no LCOE adjustment for 2026-2028 competitive window",
-      "action": "retain nuclear as post-2028 competitor"
-    },
-    {
-      "flag": "GE Vernova/Blue Energy gas-bridge: add 2028-2032 competitive scenario",
-      "action": "model ~$1,600-2,200/kW gas (2030) to ~$3,500-6,000/kW nuclear (2032)"
-    },
-    {
-      "flag": "Scandium tail risk: maintain as sensitivity only, not base case",
-      "action": "retain +15-30% capex stress scenario; resolution trigger = Jul 28 Q2 earnings"
-    },
-    {
-      "flag": "FERC Jul 20 reports: update addressable market sizing after publication",
-      "action": "extract MW of unserved large-load demand per RTO"
-    },
-    {
-      "flag": "Primary model update trigger: Jul 28 BE Q2 earnings (AH)",
-      "action": "update mfg cost/kW, margins, supply-chain transparency, Jupiter/AEP timelines, EaaS pricing"
-    }
-  ],
-  "key_dates": [
-    {
-      "date": "2026-07-20",
-      "event": "FERC Generation Adequacy Reports due (all 6 RTOs/ISOs)"
-    },
-    {
-      "date": "2026-07-28",
-      "event": "Bloom Energy Q2 FY2026 earnings (AH) -- primary LCOE model update trigger"
-    }
-  ],
-  "efcf_status": "Day 11+ post-conference blackout -- journal embargo likely confirmed. No Elcogen E3000 G2, Ceres, SolydEra, or Convion results published.",
-  "generated": "2026-07-14T00:00:00Z"
+  ]
 }
