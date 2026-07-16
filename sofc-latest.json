@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "topSignals": [
     {
-      "title": "Doomberg \"Artificial Bloom\": third coordinated short-seller narrative on BE scandium — market holds firm",
-      "text": "— Doomberg, one of the most widely-read financial newsletters on Substack, published \"Artificial Bloom\" on July 14, 2026, joining Hunterbrook (July 8, China supply-chain allegations) and Crossroads Capital (July 9 first report + July 14 second report \"supply wall\") in a third independent short-seller narrative against Bloom Energy's scandium sourcing. Doomberg's piece focuses on Bloom's structural dependence on Chinese scandium oxide: arguing that CEO KR Sridhar's repeated \"no China supply chain\" claims since February 2025 are inconsistent with trade data pointing to Hunan Oriental Scandium as Bloom's largest fuel-cell-grade scandium supplier. Bloom's July 9 8-K (filed in response to Hunterbrook) stated: \"We have sufficient supply of scandium oxide to meet our current fuel cell demand and backlog, and our supply is not dependent on China.\" Despite three coordinated attacks across seven trading days, BE closed July 14 at approximately $243.40 (+4.2%) — the fourth consecutive session the stock has resisted the short thesis, signalling market fatigue ahead of Q2 earnings (July 28). Doomberg \"Artificial Bloom\" | Bloom Energy SEC 8-K July 9 | Bloomberg scandium coverage | TradingKey BE forecast",
-      "url": "https://newsletter.doomberg.com/p/artificial-bloom",
+      "title": "Oracle Project Jupiter: NM AG investigates fraudulent public comments; NMED orders formal hearing — material permit delay risk",
+      "text": "— The New Mexico public comment period for Project Jupiter's microgrid air quality permit closed July 7. The permit covers the Bloom Energy SOFC microgrid (up to 2.45 GW) replacing the original gas turbine/diesel plan. During the comment period, multiple complaints emerged of fake supportive comments submitted in the names of public officials without their consent — including state Rep. Cristina Parajón (D-Albuquerque), whose name and her aide's name appeared on fraudulent comments supporting the project. The NM Attorney General and DOJ launched investigations into the alleged fraud. In response, NMED Secretary James Kenney ordered a formal public hearing (date and location TBD) before any permit decision. Hearing process could add 3-6 months to NMED's review timeline, creating a concrete regulatory delay risk for Phase 1 of the Oracle/Bloom 2.45 GW deployment. First full coverage of the post-comment-period escalation in this digest. ABQ Journal | KVIA/NM DOJ investigation | Source NM hearing order | NM AG investigation",
+      "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294",
       "n": 1
     },
     {
-      "title": "FERC Generation Adequacy Reports: 5 days out (July 20)",
-      "text": "— The six RTO/ISO informational reports mandated by FERC's June 18 Section 206 show-cause orders are due in 5 days. Each of the six grid operators must submit a report explaining how sufficient generation will be available to serve existing and new large loads (≥50 MW on ≥69 kV). These will be the first regulator-mandated public disclosures quantifying the firm-power gap in each US grid region — representing the most authoritative external upper-bound estimate of the addressable market for SOFC grid-bypass power. ISO-NE has sought a 90-day abeyance (filing deadline August 3 instead of July 20). All six operators face full tariff reform or show-cause justifications due August 17. FERC RM26-4 | RMI analysis | McGuireWoods",
-      "url": "https://www.ferc.gov/rm26-4",
+      "title": "ECL + PowerCell + Bosch: 300 MW+ hydrogen PEM fuel cell partnership for AI data centers (first appearance)",
+      "text": "— Announced July 14 but not captured in yesterday's digest. ECL (data center operator) and PowerCell Group AB (Swedish H2 fuel cell manufacturer, Bosch is largest shareholder and manufacturing partner) announced a strategic partnership for industrial-grade hydrogen fuel cell power across ECL's FlexGrid AI data center platform. Structure: binding firm purchase order for initial PowerCell PS190 systems at ECL's 35 MW CSC-1 campus in Santa Clara, CA, plus a non-binding 300 MW MOU for broader FlexGrid expansion. PowerCell already deployed hydrogen as primary power at ECL's Mountain View, CA MV-1 site for more than two years. Note: PowerCell uses PEM fuel cells (proton exchange membrane), not SOFC — operates at ~80°C, requires pure H2 supply (no on-site reforming), faster start/stop, better suited for peaking and backup than 24/7 baseload. This is a competing-technology signal in the data center fuel cell market, not a direct SOFC deal. FuelCells Works | Yahoo Finance | TipRanks",
+      "url": "https://fuelcellsworks.com/2026/07/14/energy-development/ecl-and-powercell-announce-300-mw-hydrogen-power-strategic-partnership-for-ai-data-centers-supported-by-bosch",
       "n": 2
     },
     {
-      "title": "Germany EnEfG Amendment: cabinet adopted June 24 — PUE compliance window doubles for new data centers",
-      "text": "— The German government adopted a draft amendment to the Energy Efficiency Act (EnEfG) on June 24, 2026. Key changes for data centers commissioned from July 2026: (a) the compliance period to achieve PUE ≤1.2 on a sustained annual-average basis is extended from 2 years to 4 years after the start of operations; (b) for existing data centers (commissioned before July 2026), the 2027 PUE target relaxes from 1.5 to 1.6, and the 2030 target eases from 1.3 to 1.4; (c) waste heat reuse requirements are confirmed: 10% ERF from July 2026, 15% from July 2027, 20% from July 2028. The amendment still requires Bundestag and Bundesrat approval; implementation is expected Q3/Q4 2026. For European SOFC deployments: the doubled compliance window reduces the urgency of high-efficiency on-site generation as a regulatory driver in the near term, but the waste-heat ERF targets keep SOFC CHP mode (up to 90% system efficiency with heat recovery) as a compliance-relevant technology. Orrick (April amendment overview) | Taylor Wessing | Pinsent Masons",
-      "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
+      "title": "BE closes July 15 at ~$238.78 (-1.9%) — fourth consecutive contained session; Q2 earnings 12 days out",
+      "text": "— Following four straight sessions of moderate movement despite three coordinated short-seller campaigns (Hunterbrook July 8, Crossroads Capital July 9 + July 14, Doomberg July 14), BE settled at approximately $238.78 on July 15, down 1.9% from the July 14 close of $243.40. The stock is holding well above its Wells Fargo $217 bear-case floor while remaining ~32% below the June ATH (~$351). Market is in \"wait for Q2 earnings\" mode — July 28 (AH) is the decisive reset event. MarketBeat July 15 | Markets Daily July 15",
+      "url": "https://www.marketbeat.com/instant-alerts/bloom-energy-nysebe-stock-price-down-19-time-to-sell-2026-07-15/",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "EFCF proceedings: day 12 blackout — journal embargo confirmed — The 17th European SOFC & SOE Forum closed July 3 in Lucerne. As of July 15 (12 days post-conference, now exceeding the longest typical conference embargo window), no technical results from Elcogen (E3000 G2: stated ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory vs. 90% target), SolydEra, or Convion have appeared online. A 12-day post-conference blackout on all participants simultaneously is consistent with a formal journal submission embargo rather than delayed press release drafting. Expect results via efcf.com proceedings or company websites when the embargo lifts. Key pending items unchanged: (a) Elcogen E3000 G2 real-commercial efficiency, (b) Doosan yield trajectory beyond Q1 2026's 80%, (c) manufacturing cost per kW from ELCO I Tallinn vs. Bloom Fremont. EFCF 2026",
+          "text": "EFCF proceedings: day 13 blackout — formal journal embargo — As of July 16 (13 days post-conference close July 3), still no technical data from Elcogen (E3000 G2: claimed ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory), SolydEra, or Convion. A simultaneous 13-day blackout across all conference participants is consistent only with a coordinated journal submission embargo. Watch elcogen.com, ceres.tech, solydera.com, convion.fi. EFCF 2026",
           "url": "https://www.efcf.com/2026",
           "sources": [
             {
@@ -33,6 +33,11 @@
               "url": "https://www.efcf.com/2026"
             }
           ]
+        },
+        {
+          "text": "Background unchanged: Bloom Fremont 2 GW ramp (cost-per-kW update expected July 28 earnings); FCEL 800V DC direct-rack delivery and Siemens EBOP MOU; UMD 4 W/cm² at 650°C ceria electrolyte breakthrough (July 13).",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -40,7 +45,17 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Oracle Project Jupiter (2.45 GW, NM) — formal hearing delays permit timeline — See Top Signal #1. Hearing date TBD; process typically adds 3-6 months to permit review. If delayed significantly, Phase 1 Bloom SOFC delivery slips from H2 2026 targets. This is the largest single SOFC deployment in the pipeline and the most visible permit risk in the sector. ABQ Journal",
+          "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294",
+          "sources": [
+            {
+              "title": "ABQ Journal",
+              "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294"
+            }
+          ]
+        },
+        {
+          "text": "Active pipeline otherwise unchanged: Crusoe/Cheyenne 900 MW Phase 1, FCEL/Fit Energy 380 MW (30 MW initial H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS.",
           "url": "",
           "sources": []
         }
@@ -50,27 +65,21 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Germany EnEfG amendment — See Top Signal #3. Key compliance change for SOFC project planning: new European data centers from July 2026 have 4 years (not 2) to achieve PUE ≤1.2. The 10% ERF waste-heat requirement is active from July 2026. Parliament approval pending. Orrick",
-          "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres",
-          "sources": [
-            {
-              "title": "Orrick",
-              "url": "https://www.orrick.com/en/Insights/2026/04/German-Energy-Efficiency-Act-Draft-Amendment-What-it-means-for-Companies-and-Data-Centres"
-            }
-          ]
-        },
-        {
-          "text": "FERC Generation Adequacy Reports (July 20) — See Top Signal #2. Five days away. ISO-NE seeking 90-day abeyance. FERC",
+          "text": "FERC Generation Adequacy Reports: 4 days away (July 20) — No early submissions found. All six RTOs/ISOs (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) face the July 20 deadline; ISO-NE is seeking a 90-day abeyance. These reports will be the first regulator-mandated quantification of the firm-power gap in each US grid region — the primary external market-size validation for SOFC grid-bypass value proposition. Full tariff reform or show-cause justifications due August 17. FERC RM26-4 | RMI analysis",
           "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
-              "title": "FERC",
+              "title": "FERC RM26-4",
               "url": "https://www.ferc.gov/rm26-4"
+            },
+            {
+              "title": "RMI analysis",
+              "url": "https://rmi.org/resources/understanding-fercs-large-load-orders/"
             }
           ]
         },
         {
-          "text": "Quiet otherwise. Background: EU CADA data center energy efficiency rating scheme still delayed into Q3 (missed June 30 deadline); ERCOT Batch Zero self-supply pathway active; Section 179D sunset confirmed June 30.",
+          "text": "Background: Virginia DC electricity tax ($0.011/kWh, self-generated SOFC not exempt, effective July 1); Germany EnEfG amendment (4-year PUE compliance window, ERF 10% active) — unchanged.",
           "url": "",
           "sources": []
         }
@@ -80,7 +89,27 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "ECL + PowerCell + Bosch: 300 MW+ H2 PEM fuel cells — See Top Signal #2. Market split becoming structural: SOFC for 24/7 baseload on natural gas (≥60% efficiency, no H2 supply chain needed); PEM for backup/peaking with H2 supply (~50% efficiency, faster start/stop). At $5/kg unsubsidized H2, PEM LCOE for baseload approaches $250-350/MWh — well above SOFC on NG. PEM's economic case rests on low-CF duty cycles. Net competitive impact on SOFC baseload: neutral. TipRanks",
+          "url": "https://www.tipranks.com/news/company-announcements/powercell-ecl-and-bosch-forge-hydrogen-power-pact-for-ai-data-centers",
+          "sources": [
+            {
+              "title": "TipRanks",
+              "url": "https://www.tipranks.com/news/company-announcements/powercell-ecl-and-bosch-forge-hydrogen-power-pact-for-ai-data-centers"
+            }
+          ]
+        },
+        {
+          "text": "GeekWire deep dive: fusion energy race for AI data centers — Helion Energy (Microsoft PPA target 2028, Polaris Gen-7 prototype, $1.5B raised) and Zap Energy ($330M raised, Z-pinch approach) are racing toward fusion, but Zap now hedging by also pursuing nuclear fission for near-term revenue. Neither is expected to deliver commercial scale before 2030+. No near-term SOFC competitive impact. GeekWire",
+          "url": "https://www.geekwire.com/2026/inside-the-race-to-power-ai-data-centers-with-fusion-energy-and-the-surprise-detours-along-the-way/",
+          "sources": [
+            {
+              "title": "GeekWire",
+              "url": "https://www.geekwire.com/2026/inside-the-race-to-power-ai-data-centers-with-fusion-energy-and-the-surprise-detours-along-the-way/"
+            }
+          ]
+        },
+        {
+          "text": "Background: Microsoft TMI/Crane Center 835 MW nuclear (H2 2027); GE Vernova/Blue Energy 2.5 GW gas-plus-nuclear (gas 2030, nuclear 2032); Microsoft Project Kilby 2.67 GW CCGT (Texas, 2028); DOE AP1000 $17.5B loans (10+ year horizon).",
           "url": "",
           "sources": []
         }
@@ -90,25 +119,12 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — July 14 confirmed close: ~$243.40 (+4.2%); intraday range approximately $234.53–$252.00. The stock closed higher despite the Doomberg piece published during the session and Crossroads Capital's second report on the same day — the fourth consecutive session showing resilience against the short attacks. BE is approximately 31% below its June ATH (~$351) and trading near the Wells Fargo $217 bear-case territory. Full 10-analyst picture (unchanged from July 14): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Average PT: ~$283. Q2 earnings July 28 (AH): consensus ~$804M revenue / ~$0.36 EPS / ~34% gross margin. FY2026 guidance $3.4–3.8B; backlog $20B. GuruFocus BE surge | TipRanks 5-day wrap | StockTitan Q2 date",
-          "url": "https://www.gurufocus.com/news/8958652/bloom-energy-corp-be-shares-surge-42-what-gf-score-of-63-tells-investors",
-          "sources": [
-            {
-              "title": "GuruFocus BE surge",
-              "url": "https://www.gurufocus.com/news/8958652/bloom-energy-corp-be-shares-surge-42-what-gf-score-of-63-tells-investors"
-            },
-            {
-              "title": "TipRanks 5-day wrap",
-              "url": "https://www.tipranks.com/news/bloom-energy-stock-be-plunges-15-in-5-days-amid-short-seller-attacks-whats-next"
-            },
-            {
-              "title": "StockTitan Q2 date",
-              "url": "https://www.stocktitan.net/news/BE/bloom-energy-to-announce-second-quarter-2026-financial-results-on-1ozmkdtrt9pr.html"
-            }
-          ]
+          "text": "Bloom Energy (BE) — July 15 close: ~$238.78 (-1.9%). Intraday range: ~$228-$248. Short-seller fatigue evident — four consecutive contained sessions despite Hunterbrook + two Crossroads Capital reports + Doomberg. BE is ~32% below June ATH (~$351) and ~10% above the WF $217 bear-case floor. 10-analyst consensus unchanged: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Q2 earnings July 28 (AH): consensus $804M revenue / $0.36 EPS / ~34% gross margin. FY2026 guidance $3.4-3.8B; FY2026 EPS $1.85-$2.25; backlog $20B.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL) — No material update. Stable near $20–21, near the July 9 offering price of $21.00. JPMorgan high-conviction short active. Siemens EBOP MOU (July 9) intact. Analyst picture: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Data center proposals >80% of 1.5 GW pipeline. Q3 FY2026 earnings ~September 2026.",
+          "text": "FuelCell Energy (FCEL) — No material update. Stable ~$20-21. JPMorgan high-conviction short active. B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Q3 FY2026 earnings ~September 2026.",
           "url": "",
           "sources": []
         }
@@ -118,17 +134,12 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Doomberg \"Artificial Bloom\" (July 14) — See Top Signal #1. Third independent publication (after Hunterbrook and Crossroads Capital) directly challenging Bloom's scandium supply-chain narrative. Doomberg cites Hunan Oriental Scandium as Bloom's \"largest supplier\" based on trade data — the same allegation Hunterbrook made on July 8. No new technical data; this is a narrative consolidation piece amplifying existing allegations. The primary research relevance is that a third respected financial voice is calling for greater supply-chain transparency, increasing the pressure on Bloom's July 28 earnings call to address the scandium question directly. Doomberg",
-          "url": "https://newsletter.doomberg.com/p/artificial-bloom",
-          "sources": [
-            {
-              "title": "Doomberg",
-              "url": "https://newsletter.doomberg.com/p/artificial-bloom"
-            }
-          ]
+          "text": "EFCF embargo continues — day 13 — See Stack & Cell Technology. If Elcogen's ≥75% electrical / ≥90% CHP at 650°C confirmed via pre-print or company release, this is a model update trigger: add $500-1,000/kW BOP cost reduction to 650°C-class system LCOE. Update when published.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "EFCF proceedings: no data yet. Day 12 blackout. Update when lifted.",
+          "text": "Quiet day on new papers and patents.",
           "url": "",
           "sources": []
         }
@@ -137,22 +148,22 @@
   ],
   "lcoe": [
     {
-      "text": "Germany EnEfG amendment: 4-year compliance window for new DCs — New European SOFC data center projects commissioned from July 2026 now have 4 years (until 2030) to reach PUE ≤1.2 rather than 2 years. This reduces the near-term competitive pressure to use SOFC in CHP mode specifically for regulatory compliance, but the ERF waste-heat reuse requirements (10% active now, 15% July 2027, 20% July 2028) still create a compliance pathway for SOFC CHP. Recommend modelling European SOFC deployments with 4-year ramp to full CHP mode — this affects the timing of heat-revenue credits in the LCOE model.",
+      "text": "Project Jupiter permit delay: add \"regulatory delay\" sensitivity to 2026 Bloom ramp scenario — Formal hearing adds 3-6 months to NMED permit review. Recommend flagging: (a) upside if permit approved Q3 2026 (on track), (b) downside if hearing delays to Q1 2027. Revenue at risk: approx. $400-700M of 2026 Bloom revenue if Phase 1 delivery slips. This is now the primary new project-execution risk alongside the Hunterbrook scandium supply-chain story.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Scandium \"supply wall\" now has three independent voices — Hunterbrook, Crossroads Capital, and Doomberg have all published the same supply-chain thesis within 7 days. If BE management cannot provide auditable non-China scandium sourcing data on July 28, the capex stress scenario (+15–30% above base case) may need to be elevated to an alternative base case for Bloom-only LCOE scenarios. Maintain as sensitivity pending July 28 earnings.",
+      "text": "PEM vs. SOFC baseload LCOE: At $5/kg unsubsidized H2, PEM LCOE for 24/7 baseload ≈ $250-350/MWh vs. SOFC on NG at $3.60/MMBtu ≈ $125-200/MWh (unsubsidized). PEM's competitive range is backup/peaking (low capacity factor), not baseload. No change to base-case SOFC LCOE; ECL/PowerCell deal confirms PEM is not a like-for-like substitute.",
       "url": "",
       "sources": []
     },
     {
-      "text": "FERC July 20 reports: extract firm-power gap data — When published, these six RTO/ISO informational filings will contain the first regulatory-body estimates of load (MW) that cannot be served on-grid within 5 years per region. Extract these figures immediately after July 20 publication to validate the SOFC addressable market upper bound.",
+      "text": "FERC July 20 reports: 4 days — Extract firm-power gap data per RTO/ISO immediately after publication. Key metric: unserved MW of confirmed new large-load demand within 5-year planning horizon per region. Mark as model-update trigger for July 20.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — 13 days away. Five inputs to monitor: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) scandium/supply-chain transparency and sourcing disclosure, (d) Project Jupiter and AEP Wyoming timeline updates, (e) EaaS $/MWh pricing from Nebius or Brookfield-financed deployments.",
+      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — 12 days out — Five inputs: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) scandium/supply-chain transparency + Project Jupiter permit update, (d) AEP Wyoming (1 GW, 2030) timeline, (e) EaaS $/MWh pricing from Nebius or Brookfield.",
       "url": "",
       "sources": []
     }
