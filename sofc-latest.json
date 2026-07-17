@@ -1,171 +1,60 @@
 {
-  "date": "2026-07-16",
-  "topSignals": [
+  "date": "2026-07-17",
+  "top_signals": [
     {
-      "title": "Oracle Project Jupiter: NM AG investigates fraudulent public comments; NMED orders formal hearing — material permit delay risk",
-      "text": "— The New Mexico public comment period for Project Jupiter's microgrid air quality permit closed July 7. The permit covers the Bloom Energy SOFC microgrid (up to 2.45 GW) replacing the original gas turbine/diesel plan. During the comment period, multiple complaints emerged of fake supportive comments submitted in the names of public officials without their consent — including state Rep. Cristina Parajón (D-Albuquerque), whose name and her aide's name appeared on fraudulent comments supporting the project. The NM Attorney General and DOJ launched investigations into the alleged fraud. In response, NMED Secretary James Kenney ordered a formal public hearing (date and location TBD) before any permit decision. Hearing process could add 3-6 months to NMED's review timeline, creating a concrete regulatory delay risk for Phase 1 of the Oracle/Bloom 2.45 GW deployment. First full coverage of the post-comment-period escalation in this digest. ABQ Journal | KVIA/NM DOJ investigation | Source NM hearing order | NM AG investigation",
-      "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294",
-      "n": 1
+      "rank": 1,
+      "title": "Oaktree + IDF $1.7B project finance stack for Bloom/Nebius",
+      "summary": "First institutional-grade EaaS project finance structure disclosed. Morgan Stanley sole tax equity (ITC 48E), MUFG Bank senior debt, Oaktree minority equity. Blended WACC ~7-9%. IDF/Bloom portfolio >$2.6B. BE fell 13.64% on same day despite announcement.",
+      "url": "https://www.prnewswire.com/news-releases/industrial-development-funding-and-oaktree-announce-1-7-billion-project-investment-in-bloom-energy-fuel-cells-for-nebius-ai-infrastructure-build-out-302827566.html"
     },
     {
-      "title": "ECL + PowerCell + Bosch: 300 MW+ hydrogen PEM fuel cell partnership for AI data centers (first appearance)",
-      "text": "— Announced July 14 but not captured in yesterday's digest. ECL (data center operator) and PowerCell Group AB (Swedish H2 fuel cell manufacturer, Bosch is largest shareholder and manufacturing partner) announced a strategic partnership for industrial-grade hydrogen fuel cell power across ECL's FlexGrid AI data center platform. Structure: binding firm purchase order for initial PowerCell PS190 systems at ECL's 35 MW CSC-1 campus in Santa Clara, CA, plus a non-binding 300 MW MOU for broader FlexGrid expansion. PowerCell already deployed hydrogen as primary power at ECL's Mountain View, CA MV-1 site for more than two years. Note: PowerCell uses PEM fuel cells (proton exchange membrane), not SOFC — operates at ~80°C, requires pure H2 supply (no on-site reforming), faster start/stop, better suited for peaking and backup than 24/7 baseload. This is a competing-technology signal in the data center fuel cell market, not a direct SOFC deal. FuelCells Works | Yahoo Finance | TipRanks",
-      "url": "https://fuelcellsworks.com/2026/07/14/energy-development/ecl-and-powercell-announce-300-mw-hydrogen-power-strategic-partnership-for-ai-data-centers-supported-by-bosch",
-      "n": 2
+      "rank": 2,
+      "title": "BE crashes to $206.73 (-13.64%) \u2014 below WF $217 bear case, 41% below June ATH",
+      "summary": "Bloom Energy first close below Wells Fargo $217 EW bear-case floor. Combined short-seller pressure (Hunterbrook, Crossroads, Doomberg), Project Jupiter permit uncertainty. Q2 earnings July 28 AH is reset catalyst (11 days). July 17 intraday ~$210.",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60506579/whats-going-on-with-bloom-energy-shares-on-thursday"
     },
     {
-      "title": "BE closes July 15 at ~$238.78 (-1.9%) — fourth consecutive contained session; Q2 earnings 12 days out",
-      "text": "— Following four straight sessions of moderate movement despite three coordinated short-seller campaigns (Hunterbrook July 8, Crossroads Capital July 9 + July 14, Doomberg July 14), BE settled at approximately $238.78 on July 15, down 1.9% from the July 14 close of $243.40. The stock is holding well above its Wells Fargo $217 bear-case floor while remaining ~32% below the June ATH (~$351). Market is in \"wait for Q2 earnings\" mode — July 28 (AH) is the decisive reset event. MarketBeat July 15 | Markets Daily July 15",
-      "url": "https://www.marketbeat.com/instant-alerts/bloom-energy-nysebe-stock-price-down-19-time-to-sell-2026-07-15/",
-      "n": 3
+      "rank": 3,
+      "title": "Mico Power (Korea) secures full European CE certification for 2 kW direct-hydrogen SOFC",
+      "summary": "First Korean commercial SOFC with full CE (GAR, LVD, EMC, ErP, factory inspection). A+ ErP rating. Meritz Securities ~$30M investment (March 2026). Plans: EU demonstration projects, SOEC, ammonia ship fuel cells.",
+      "url": "https://fuelcellsworks.com/2026/07/09/fuel-cells/mico-power-secures-european-ce-certification-for-korea-s-first-direct-hydrogen-sofc-system"
     }
   ],
-  "sections": [
+  "market": {
+    "BE": {
+      "close": 206.73,
+      "change_pct": -13.64,
+      "date": "2026-07-16",
+      "note": "Below WF $217 bear case; intraday July 17 ~$210"
+    },
+    "FCEL": {
+      "close": 17.26,
+      "change_pct": null,
+      "date": "2026-07-16",
+      "note": "18% below July 9 offering price of $21.00"
+    }
+  },
+  "upcoming_triggers": [
     {
-      "title": "Stack & Cell Technology",
-      "items": [
-        {
-          "text": "EFCF proceedings: day 13 blackout — formal journal embargo — As of July 16 (13 days post-conference close July 3), still no technical data from Elcogen (E3000 G2: claimed ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory), SolydEra, or Convion. A simultaneous 13-day blackout across all conference participants is consistent only with a coordinated journal submission embargo. Watch elcogen.com, ceres.tech, solydera.com, convion.fi. EFCF 2026",
-          "url": "https://www.efcf.com/2026",
-          "sources": [
-            {
-              "title": "EFCF 2026",
-              "url": "https://www.efcf.com/2026"
-            }
-          ]
-        },
-        {
-          "text": "Background unchanged: Bloom Fremont 2 GW ramp (cost-per-kW update expected July 28 earnings); FCEL 800V DC direct-rack delivery and Siemens EBOP MOU; UMD 4 W/cm² at 650°C ceria electrolyte breakthrough (July 13).",
-          "url": "",
-          "sources": []
-        }
-      ]
+      "date": "2026-07-20",
+      "event": "FERC Generation Adequacy Reports (6 RTO/ISO)",
+      "priority": "HIGH"
     },
     {
-      "title": "AI Data Center Deployments",
-      "items": [
-        {
-          "text": "Oracle Project Jupiter (2.45 GW, NM) — formal hearing delays permit timeline — See Top Signal #1. Hearing date TBD; process typically adds 3-6 months to permit review. If delayed significantly, Phase 1 Bloom SOFC delivery slips from H2 2026 targets. This is the largest single SOFC deployment in the pipeline and the most visible permit risk in the sector. ABQ Journal",
-          "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294",
-          "sources": [
-            {
-              "title": "ABQ Journal",
-              "url": "https://www.abqjournal.com/news/local-officials-weigh-in-on-project-jupiter-permit-along-with-impersonators/3079294"
-            }
-          ]
-        },
-        {
-          "text": "Active pipeline otherwise unchanged: Crusoe/Cheyenne 900 MW Phase 1, FCEL/Fit Energy 380 MW (30 MW initial H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Regulations & Policy",
-      "items": [
-        {
-          "text": "FERC Generation Adequacy Reports: 4 days away (July 20) — No early submissions found. All six RTOs/ISOs (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) face the July 20 deadline; ISO-NE is seeking a 90-day abeyance. These reports will be the first regulator-mandated quantification of the firm-power gap in each US grid region — the primary external market-size validation for SOFC grid-bypass value proposition. Full tariff reform or show-cause justifications due August 17. FERC RM26-4 | RMI analysis",
-          "url": "https://www.ferc.gov/rm26-4",
-          "sources": [
-            {
-              "title": "FERC RM26-4",
-              "url": "https://www.ferc.gov/rm26-4"
-            },
-            {
-              "title": "RMI analysis",
-              "url": "https://rmi.org/resources/understanding-fercs-large-load-orders/"
-            }
-          ]
-        },
-        {
-          "text": "Background: Virginia DC electricity tax ($0.011/kWh, self-generated SOFC not exempt, effective July 1); Germany EnEfG amendment (4-year PUE compliance window, ERF 10% active) — unchanged.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Competing On-Site Power",
-      "items": [
-        {
-          "text": "ECL + PowerCell + Bosch: 300 MW+ H2 PEM fuel cells — See Top Signal #2. Market split becoming structural: SOFC for 24/7 baseload on natural gas (≥60% efficiency, no H2 supply chain needed); PEM for backup/peaking with H2 supply (~50% efficiency, faster start/stop). At $5/kg unsubsidized H2, PEM LCOE for baseload approaches $250-350/MWh — well above SOFC on NG. PEM's economic case rests on low-CF duty cycles. Net competitive impact on SOFC baseload: neutral. TipRanks",
-          "url": "https://www.tipranks.com/news/company-announcements/powercell-ecl-and-bosch-forge-hydrogen-power-pact-for-ai-data-centers",
-          "sources": [
-            {
-              "title": "TipRanks",
-              "url": "https://www.tipranks.com/news/company-announcements/powercell-ecl-and-bosch-forge-hydrogen-power-pact-for-ai-data-centers"
-            }
-          ]
-        },
-        {
-          "text": "GeekWire deep dive: fusion energy race for AI data centers — Helion Energy (Microsoft PPA target 2028, Polaris Gen-7 prototype, $1.5B raised) and Zap Energy ($330M raised, Z-pinch approach) are racing toward fusion, but Zap now hedging by also pursuing nuclear fission for near-term revenue. Neither is expected to deliver commercial scale before 2030+. No near-term SOFC competitive impact. GeekWire",
-          "url": "https://www.geekwire.com/2026/inside-the-race-to-power-ai-data-centers-with-fusion-energy-and-the-surprise-detours-along-the-way/",
-          "sources": [
-            {
-              "title": "GeekWire",
-              "url": "https://www.geekwire.com/2026/inside-the-race-to-power-ai-data-centers-with-fusion-energy-and-the-surprise-detours-along-the-way/"
-            }
-          ]
-        },
-        {
-          "text": "Background: Microsoft TMI/Crane Center 835 MW nuclear (H2 2027); GE Vernova/Blue Energy 2.5 GW gas-plus-nuclear (gas 2030, nuclear 2032); Microsoft Project Kilby 2.67 GW CCGT (Texas, 2028); DOE AP1000 $17.5B loans (10+ year horizon).",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Market & Financials",
-      "items": [
-        {
-          "text": "Bloom Energy (BE) — July 15 close: ~$238.78 (-1.9%). Intraday range: ~$228-$248. Short-seller fatigue evident — four consecutive contained sessions despite Hunterbrook + two Crossroads Capital reports + Doomberg. BE is ~32% below June ATH (~$351) and ~10% above the WF $217 bear-case floor. 10-analyst consensus unchanged: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Q2 earnings July 28 (AH): consensus $804M revenue / $0.36 EPS / ~34% gross margin. FY2026 guidance $3.4-3.8B; FY2026 EPS $1.85-$2.25; backlog $20B.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "FuelCell Energy (FCEL) — No material update. Stable ~$20-21. JPMorgan high-conviction short active. B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Q3 FY2026 earnings ~September 2026.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Research & IP",
-      "items": [
-        {
-          "text": "EFCF embargo continues — day 13 — See Stack & Cell Technology. If Elcogen's ≥75% electrical / ≥90% CHP at 650°C confirmed via pre-print or company release, this is a model update trigger: add $500-1,000/kW BOP cost reduction to 650°C-class system LCOE. Update when published.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Quiet day on new papers and patents.",
-          "url": "",
-          "sources": []
-        }
-      ]
+      "date": "2026-07-28",
+      "event": "Bloom Energy Q2 2026 earnings (AH)",
+      "priority": "PRIMARY LCOE UPDATE"
     }
   ],
-  "lcoe": [
-    {
-      "text": "Project Jupiter permit delay: add \"regulatory delay\" sensitivity to 2026 Bloom ramp scenario — Formal hearing adds 3-6 months to NMED permit review. Recommend flagging: (a) upside if permit approved Q3 2026 (on track), (b) downside if hearing delays to Q1 2027. Revenue at risk: approx. $400-700M of 2026 Bloom revenue if Phase 1 delivery slips. This is now the primary new project-execution risk alongside the Hunterbrook scandium supply-chain story.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "PEM vs. SOFC baseload LCOE: At $5/kg unsubsidized H2, PEM LCOE for 24/7 baseload ≈ $250-350/MWh vs. SOFC on NG at $3.60/MMBtu ≈ $125-200/MWh (unsubsidized). PEM's competitive range is backup/peaking (low capacity factor), not baseload. No change to base-case SOFC LCOE; ECL/PowerCell deal confirms PEM is not a like-for-like substitute.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "FERC July 20 reports: 4 days — Extract firm-power gap data per RTO/ISO immediately after publication. Key metric: unserved MW of confirmed new large-load demand within 5-year planning horizon per region. Mark as model-update trigger for July 20.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — 12 days out — Five inputs: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) scandium/supply-chain transparency + Project Jupiter permit update, (d) AEP Wyoming (1 GW, 2030) timeline, (e) EaaS $/MWh pricing from Nebius or Brookfield.",
-      "url": "",
-      "sources": []
-    }
+  "efcf_embargo_days": 14,
+  "sources": [
+    "PR Newswire",
+    "GuruFocus",
+    "Blockonomi",
+    "Benzinga",
+    "Fuel Cells Works",
+    "FERC RM26-4",
+    "Yahoo Finance",
+    "MacroTrends"
   ]
 }
