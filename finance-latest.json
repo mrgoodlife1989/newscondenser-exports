@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-16",
+    "title": "Beating Beta — 2026-07-17",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-16",
+      "title": "Markets Snapshot — 2026-07-17",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "KI ist so groß, dass Anleger sie nicht mehr ignorieren können",
-      "highlight_phrase": "KI ist so groß, dass Anleger sie nicht m",
-      "toc_summary": "KI ist so groß, dass Anleger sie nicht mehr ignorieren können",
-      "quick_take": "KI ist so groß, dass Anleger sie nicht mehr ignorieren können",
+      "title": "Micron wird zur „wichtigsten Aktie am Markt“",
+      "highlight_phrase": "Micron wird zur „wichtigsten Aktie am Ma",
+      "toc_summary": "Micron wird zur „wichtigsten Aktie am Markt“",
+      "quick_take": "Zeit zur Sorge?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "KI ist so groß, dass Anleger sie nicht mehr ignorieren können"
+          "text": "Zeit zur Sorge?"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "United Airlines trifft ein Gegenwind von 6 Mrd. USD zusätzlichen Treibstoffkoste",
-      "highlight_phrase": "United Airlines trifft ein Gegenwind von",
-      "toc_summary": "United Airlines trifft ein Gegenwind von 6 Mrd. USD zusätzlichen Treibstoffkoste",
-      "quick_take": "United Airlines trifft ein Gegenwind von 6 Mrd. USD zusätzlichen Treibstoffkosten",
+      "title": "Netflix wird geiziger mit Viewing-Daten",
+      "highlight_phrase": "Netflix wird geiziger mit Viewing-Daten",
+      "toc_summary": "Netflix wird geiziger mit Viewing-Daten",
+      "quick_take": "Wall Street unzufrieden",
       "bullets": [
         {
           "label": "Detail",
-          "text": "United Airlines trifft ein Gegenwind von 6 Mrd. USD zusätzlichen Treibstoffkosten"
+          "text": "Wall Street unzufrieden"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Der Trucking-Markt ist enger als seit Jahren",
-      "highlight_phrase": "Der Trucking-Markt ist enger als seit Ja",
-      "toc_summary": "Der Trucking-Markt ist enger als seit Jahren",
-      "quick_take": "Anleger blicken optimistisch auf J.B. Hunt",
+      "title": "10 US-Metros, wo Bauträger Preise für Neubauten senken",
+      "highlight_phrase": "10 US-Metros, wo Bauträger Preise für Ne",
+      "toc_summary": "10 US-Metros, wo Bauträger Preise für Neubauten senken",
+      "quick_take": "10 US-Metros, wo Bauträger Preise für Neubauten senken",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Anleger blicken optimistisch auf J.B. Hunt"
+          "text": "10 US-Metros, wo Bauträger Preise für Neubauten senken"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "„Sie haben den Online-Zugang gesperrt“",
-      "highlight_phrase": "„Sie haben den Online-Zugang gesperrt“",
-      "toc_summary": "„Sie haben den Online-Zugang gesperrt“",
-      "quick_take": "Das Bankguthaben meiner Mutter fiel nach ihrem Tod drastisch",
+      "title": "Palo Alto Networks’ Aktie auf Rally",
+      "highlight_phrase": "Palo Alto Networks’ Aktie auf Rally",
+      "toc_summary": "Palo Alto Networks’ Aktie auf Rally",
+      "quick_take": "Bullen sehen weiteres Potenzial",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Das Bankguthaben meiner Mutter fiel nach ihrem Tod drastisch"
+          "text": "Bullen sehen weiteres Potenzial"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Anthropic rückt näher an Mega-IPO heran",
-      "highlight_phrase": "Anthropic rückt näher an Mega-IPO heran",
-      "toc_summary": "Anthropic rückt näher an Mega-IPO heran",
-      "quick_take": "Banker bereiten Investorentreffen vor",
+      "title": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen",
+      "highlight_phrase": "Dallas-Fed-Präsidentin Logan fordert „mo",
+      "toc_summary": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen",
+      "quick_take": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Banker bereiten Investorentreffen vor"
+          "text": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen am Mittag",
-      "highlight_phrase": "Aktien mit den größten Bewegungen am Mit",
-      "toc_summary": "Aktien mit den größten Bewegungen am Mittag",
-      "quick_take": "SpaceX, Apple, PayPal, Cava, Progressive, Micron & mehr",
+      "title": "Größte Mittagsbewegungen",
+      "highlight_phrase": "Größte Mittagsbewegungen",
+      "toc_summary": "Größte Mittagsbewegungen",
+      "quick_take": "Manpower, Abbott, UnitedHealth, TSMC & mehr",
       "bullets": [
         {
           "label": "Detail",
-          "text": "SpaceX, Apple, PayPal, Cava, Progressive, Micron & mehr"
+          "text": "Manpower, Abbott, UnitedHealth, TSMC & mehr"
         }
       ],
       "callout": null,
