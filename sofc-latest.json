@@ -1,60 +1,161 @@
 {
-  "date": "2026-07-17",
-  "top_signals": [
+  "date": "2026-07-18",
+  "topSignals": [
     {
-      "rank": 1,
-      "title": "Oaktree + IDF $1.7B project finance stack for Bloom/Nebius",
-      "summary": "First institutional-grade EaaS project finance structure disclosed. Morgan Stanley sole tax equity (ITC 48E), MUFG Bank senior debt, Oaktree minority equity. Blended WACC ~7-9%. IDF/Bloom portfolio >$2.6B. BE fell 13.64% on same day despite announcement.",
-      "url": "https://www.prnewswire.com/news-releases/industrial-development-funding-and-oaktree-announce-1-7-billion-project-investment-in-bloom-energy-fuel-cells-for-nebius-ai-infrastructure-build-out-302827566.html"
+      "title": "NM Land Commissioner again blocks Project Jupiter gas pipeline through state lands; October 19 air permit hearing confirmed — compounding permit crisis for the 2.45 GW Bloom deployment",
+      "text": "— Two concurrent Project Jupiter setbacks not captured in the July 16–17 digests. First: on July 14, NM Commissioner of Public Lands Stephanie Garcia Richard denied Energy Transfer's reconsideration request for a ~0.6-mile right-of-way segment of the Green Chili Lateral pipeline through state trust lands — the second rejection (first was March 2026). The segment connects Project Jupiter to the existing El Paso Natural Gas pipeline; without it, the project must reroute the 17-mile, 24-inch pipeline or replace planned natural-gas fuel with an alternative. Garcia Richard cited minimal revenue to the trust (~$31,900 one-time + $43,400/year) versus significant greenhouse gas and water impacts. Energy Transfer has 30 days (from July 14) to file an administrative review petition. Second: NMED Secretary James Kenney confirmed the air quality permit hearing will be held at 9 a.m. on October 19, 2026 at the Sunland Park Multi-Generational Center; NMED has until November 23 to issue its permit decision. With both the gas-supply route and the air quality permit now in formal dispute, Project Jupiter Phase 1 (the single largest SOFC deployment in the pipeline) faces a realistic Q1 2027 slip. ABQ Journal — October hearing | Source NM — October hearing | KVIA — pipeline second denial | ABJ — pipeline denial",
+      "url": "https://www.abqjournal.com/news/project-jupiter-air-permit-to-be-debated-in-october-hearing/3084513",
+      "n": 1
     },
     {
-      "rank": 2,
-      "title": "BE crashes to $206.73 (-13.64%) \u2014 below WF $217 bear case, 41% below June ATH",
-      "summary": "Bloom Energy first close below Wells Fargo $217 EW bear-case floor. Combined short-seller pressure (Hunterbrook, Crossroads, Doomberg), Project Jupiter permit uncertainty. Q2 earnings July 28 AH is reset catalyst (11 days). July 17 intraday ~$210.",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60506579/whats-going-on-with-bloom-energy-shares-on-thursday"
+      "title": "Lazard 2026 LCOE+: CCGT LCOE rises to $90/MWh — 17-year high — narrowing the gap with ITC 48E-subsidized SOFC",
+      "text": "— Released July 13, 2026, the Lazard Levelized Cost of Energy+ 2026 report (the industry's leading annual LCOE benchmark) shows new-build combined-cycle gas turbine LCOE rising to $90/MWh, up from $78/MWh in 2025 and exceeding the previous high of $83/MWh set in 2009. Drivers: constrained gas turbine supply (GE Vernova 7H-series wait-lists extending to 2030+), tariff pass-through on steel and components, sustained interest rates, and supply-chain repricing from AI data center demand. SOFC implications are significant: with ITC 48E (30% capital credit), effective SOFC LCOE for a large-format Bloom EaaS deployment is approximately $90–140/MWh — now overlapping the lower bound of the Lazard CCGT range ($51–129/MWh, wide due to project variation). The traditional framing of \"SOFC is more expensive than CCGT\" is narrowing; for projects where speed-to-power (90 days vs. 24+ months), modularity, and NOx reduction are weighted, SOFC is now economically competitive with new-build CCGT at the margin. Note: this LCOE report was released July 13 but was not captured in the July 13–17 digests. Lazard 2026 LCOE+ press release | Utility Dive — CCGT at 17-year high | CleanTechnica — Lazard analysis | Heatmap — gas vs renewables",
+      "url": "https://www.lazard.com/news-announcements/lazard-releases-2026-levelized-cost-of-energyplus-report-pr/",
+      "n": 2
     },
     {
-      "rank": 3,
-      "title": "Mico Power (Korea) secures full European CE certification for 2 kW direct-hydrogen SOFC",
-      "summary": "First Korean commercial SOFC with full CE (GAR, LVD, EMC, ErP, factory inspection). A+ ErP rating. Meritz Securities ~$30M investment (March 2026). Plans: EU demonstration projects, SOEC, ammonia ship fuel cells.",
-      "url": "https://fuelcellsworks.com/2026/07/09/fuel-cells/mico-power-secures-european-ce-certification-for-korea-s-first-direct-hydrogen-sofc-system"
+      "title": "BE holds near $210 Saturday — 10 days to Q2 earnings; market repricing execution risk, not technology",
+      "text": "— After closing at $206.73 on July 16 (first close below the Wells Fargo $217 bear case, -13.64% on the day despite the $1.7B Oaktree/IDF Nebius announcement), Bloom Energy stabilized at approximately $210 on July 17 before markets closed for the weekend. Today (July 18) is Saturday; no trading. The divergence between deal flow ($1.7B institutional project finance closed, Brookfield $25B framework, Oracle 2.45 GW, Crusoe 900 MW) and stock price (-41% from the $351 ATH) is now extreme. Q2 earnings on July 28 (AH) — consensus: $804M revenue / $0.36 EPS / ~34% gross margin — have become the sole reset event. Three active short-seller theses remain outstanding (Hunterbrook scandium supply chain, Crossroads Capital \"supply wall,\" Doomberg trade-data analysis), all unresolved ahead of the print. Cryptonomist — $1.7B reversal | Benzinga — July 17 moves",
+      "url": "https://en.cryptonomist.ch/2026/07/17/1-7b-deal-couldnt-save-bloom-energy-stock-from-sharp-reversal/",
+      "n": 3
     }
   ],
-  "market": {
-    "BE": {
-      "close": 206.73,
-      "change_pct": -13.64,
-      "date": "2026-07-16",
-      "note": "Below WF $217 bear case; intraday July 17 ~$210"
-    },
-    "FCEL": {
-      "close": 17.26,
-      "change_pct": null,
-      "date": "2026-07-16",
-      "note": "18% below July 9 offering price of $21.00"
-    }
-  },
-  "upcoming_triggers": [
+  "sections": [
     {
-      "date": "2026-07-20",
-      "event": "FERC Generation Adequacy Reports (6 RTO/ISO)",
-      "priority": "HIGH"
+      "title": "Stack & Cell Technology",
+      "items": [
+        {
+          "text": "EFCF proceedings: day 15 embargo — Still no technical results from the 17th European SOFC & SOE Forum (closed July 3, Lucerne). Elcogen (E3000 G2: stated ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory vs. 90% target), SolydEra, and Convion have published nothing online. Fifteen days post-conference exceeds any precedent for this event; a coordinated journal submission embargo is confirmed. Monitor elcogen.com, ceres.tech, solydera.com, convion.fi. EFCF 2026",
+          "url": "https://www.efcf.com/2026",
+          "sources": [
+            {
+              "title": "EFCF 2026",
+              "url": "https://www.efcf.com/2026"
+            }
+          ]
+        },
+        {
+          "text": "Quiet otherwise. Background: Bloom Fremont 2 GW ramp (cost-per-kW update expected July 28); UMD 4 W/cm² at 650°C ceria electrolyte breakthrough (July 13); Mico Power CE certification for 2 kW H2 SOFC (first Korean CE-certified direct-H2 SOFC, A+ ErP rating) — all covered in prior digests.",
+          "url": "",
+          "sources": []
+        }
+      ]
     },
     {
-      "date": "2026-07-28",
-      "event": "Bloom Energy Q2 2026 earnings (AH)",
-      "priority": "PRIMARY LCOE UPDATE"
+      "title": "AI Data Center Deployments",
+      "items": [
+        {
+          "text": "Project Jupiter (2.45 GW, Oracle/OpenAI, NM) — dual permit crisis — See Top Signal #1. October 19 air permit hearing confirmed (NMED decision Nov. 23) plus second pipeline denial through state lands compounds the Phase 1 delivery risk. Energy Transfer's 30-day administrative review window runs to approximately August 13. If Energy Transfer files and loses, the pipeline must be rerouted around state trust land (~0.6 miles of alternative routing required), adding weeks to months to the construction schedule. The combination of air permit hearing (Oct. 19) + potential pipeline reroute is the single largest near-term execution risk in the SOFC deployment pipeline. Source NM — pipeline | PGJ Online — pipeline denial",
+          "url": "https://sourcenm.com/2026/07/16/new-mexico-land-commissioner-blocks-project-jupiter-related-pipeline-from-building-on-state-land/",
+          "sources": [
+            {
+              "title": "Source NM — pipeline",
+              "url": "https://sourcenm.com/2026/07/16/new-mexico-land-commissioner-blocks-project-jupiter-related-pipeline-from-building-on-state-land/"
+            },
+            {
+              "title": "PGJ Online — pipeline denial",
+              "url": "https://pgjonline.com/news/2026/july/new-mexico-denies-reconsideration-of-project-jupiter-gas-pipeline"
+            }
+          ]
+        },
+        {
+          "text": "Active pipeline otherwise unchanged: Crusoe/Cheyenne 900 MW Phase 1 (H2 2026), FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS ($1.7B Oaktree/IDF project finance closed July 16).",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Regulations & Policy",
+      "items": [
+        {
+          "text": "FERC Generation Adequacy Reports: Monday July 20 (2 days) — The six RTO/ISO informational reports mandated by FERC's June 18 Section 206 show-cause orders are due Monday. Each grid operator (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) must quantify how adequate generation will serve new and existing large loads (≥50 MW on ≥69 kV), including stakeholder proposals and milestone schedules. ISO-NE's 90-day abeyance request would push its response to ~August 3 if granted. Full tariff reform or show-cause justifications due August 17. Monday's filings will be the first regulator-mandated public estimates of the firm-power gap by US grid region — the primary external upper-bound sizing of the SOFC grid-bypass addressable market. FERC RM26-4",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        },
+        {
+          "text": "Background unchanged: Virginia DC electricity tax $0.011/kWh in force (self-generated SOFC not exempt, from July 1); Germany EnEfG 4-year PUE compliance window (cabinet adoption June 24, Bundestag/Bundesrat approval pending); EU CADA energy efficiency rating scheme delayed into Q3; Section 179D sunset confirmed June 30; ITC 48E 30% fuel cell credit active.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        {
+          "text": "Quiet weekend. No new SMR, CCGT, or battery announcements.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Lazard 2026: CCGT cost pressure — See Top Signal #2. At $90/MWh new-build CCGT LCOE and long equipment lead times, the traditional \"CCGT is cheaper\" argument is eroding. Projects needing power before 2028 have a narrowing competitive alternative to SOFC. Background: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028 — ordered before the current cost spike), GE Vernova/Blue Energy 2.5 GW gas-plus-nuclear Texas (gas ~2030, nuclear ~2032), Microsoft TMI/Crane Center 835 MW nuclear (H2 2027) — all covered in prior digests.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE) — July 16 close: $206.73 (range $202.56–$238.88). July 17 partial recovery: ~$210. July 18 = Saturday, markets closed. 10 days to Q2 earnings (July 28, AH). Consensus: $804M revenue / $0.36 EPS / ~34% gross margin. FY2026 guidance $3.4–3.8B; backlog $20B; FY2026 EPS guidance $1.85–$2.25. Full 10-analyst picture (unchanged): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Three coordinated short-seller campaigns (Hunterbrook, Crossroads x2, Doomberg) all unresolved ahead of print.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FuelCell Energy (FCEL) — Approximately $17 (–18% below the July 9 $21/share offering price). JPMorgan Q3 high-conviction short active. Torrington expansion ($225M, 350–500 MW/year by H2 2027) funded. Siemens EBOP MOU active. Data center proposals >80% of 1.5 GW pipeline. Analyst: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Q3 FY2026 earnings ~September 2026.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Research & IP",
+      "items": [
+        {
+          "text": "EFCF embargo: day 15 — See Stack & Cell Technology. Still awaiting Elcogen E3000 G2 real-stack efficiency and degradation data. A ≥75% electrical / ≥90% CHP confirmation at commercial-scale 650°C conditions remains the outstanding LCOE model trigger.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Quiet on new papers and patents.",
+          "url": "",
+          "sources": []
+        }
+      ]
     }
   ],
-  "efcf_embargo_days": 14,
-  "sources": [
-    "PR Newswire",
-    "GuruFocus",
-    "Blockonomi",
-    "Benzinga",
-    "Fuel Cells Works",
-    "FERC RM26-4",
-    "Yahoo Finance",
-    "MacroTrends"
+  "lcoe": [
+    {
+      "text": "Lazard 2026: CCGT LCOE $90/MWh — update CCGT benchmark in model — Revise the CCGT LCOE comparison from the $45–100/MWh range previously modeled to $51–129/MWh (full range) with a central case of $90/MWh for new-build in 2026. At $90/MWh CCGT and SOFC at $90–140/MWh (with ITC 48E and CHP credit), the SOFC cost premium is now $0–50/MWh on a like-for-like basis — substantially narrower than the prior $45–95/MWh gap. The premium disappears entirely for Virginia or Texas projects where CCGT lead times (2028 earliest), gas turbine scarcity, and transmission charges must be added. Lazard",
+      "url": "https://www.lazard.com/news-announcements/lazard-releases-2026-levelized-cost-of-energyplus-report-pr/",
+      "sources": [
+        {
+          "title": "Lazard",
+          "url": "https://www.lazard.com/news-announcements/lazard-releases-2026-levelized-cost-of-energyplus-report-pr/"
+        }
+      ]
+    },
+    {
+      "text": "Project Jupiter compounding risk — add scenario: Oracle/Bloom 2.45 GW delayed to Q2 2027 — With October 19 air permit hearing (NMED decision Nov. 23) AND pipeline reroute risk (Energy Transfer 30-day petition window to ~Aug. 13), the earliest plausible Phase 1 delivery is Q1–Q2 2027. Model impact: approximately $400–700M of FY2026 Bloom revenue at risk from timing slip. Recommend flagging two scenarios: (a) Permit approved Nov. 23, first power Q1 2027; (b) Appeal delays NMED to Q1 2027 + pipeline reroute adds 60–90 days → first power Q3 2027. Add as a revenue-timing sensitivity in the LCOE project cashflow model.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "FERC reports Monday (July 20) — SOFC addressable market upper bound — Extract firm-power gap by RTO/ISO from the five filed reports (ISO-NE may defer). Key metric: total confirmed large-load MW seeking grid connection that cannot be served within 5 years per region. This sets the de facto market ceiling for SOFC grid-bypass. Mark as an immediate update trigger.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — 10 days — Five inputs: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) scandium/supply-chain sourcing transparency (Hunterbrook resolution), (d) Project Jupiter permit update + Oracle pipeline commentary, (e) EaaS $/MWh pricing from the Nebius $1.7B deployment. Lazard 2026 CCGT benchmark ($90/MWh) should be incorporated in the same model refresh.",
+      "url": "",
+      "sources": []
+    }
   ]
 }
