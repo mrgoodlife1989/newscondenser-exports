@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "topSignals": [
     {
-      "title": "NM Land Commissioner again blocks Project Jupiter gas pipeline through state lands; October 19 air permit hearing confirmed — compounding permit crisis for the 2.45 GW Bloom deployment",
-      "text": "— Two concurrent Project Jupiter setbacks not captured in the July 16–17 digests. First: on July 14, NM Commissioner of Public Lands Stephanie Garcia Richard denied Energy Transfer's reconsideration request for a ~0.6-mile right-of-way segment of the Green Chili Lateral pipeline through state trust lands — the second rejection (first was March 2026). The segment connects Project Jupiter to the existing El Paso Natural Gas pipeline; without it, the project must reroute the 17-mile, 24-inch pipeline or replace planned natural-gas fuel with an alternative. Garcia Richard cited minimal revenue to the trust (~$31,900 one-time + $43,400/year) versus significant greenhouse gas and water impacts. Energy Transfer has 30 days (from July 14) to file an administrative review petition. Second: NMED Secretary James Kenney confirmed the air quality permit hearing will be held at 9 a.m. on October 19, 2026 at the Sunland Park Multi-Generational Center; NMED has until November 23 to issue its permit decision. With both the gas-supply route and the air quality permit now in formal dispute, Project Jupiter Phase 1 (the single largest SOFC deployment in the pipeline) faces a realistic Q1 2027 slip. ABQ Journal — October hearing | Source NM — October hearing | KVIA — pipeline second denial | ABJ — pipeline denial",
-      "url": "https://www.abqjournal.com/news/project-jupiter-air-permit-to-be-debated-in-october-hearing/3084513",
+      "title": "New York's data center moratorium contains a self-generation clause — direct SOFC regulatory tailwind",
+      "text": "— Governor Hochul's Executive Order No. 62 (signed July 14, 2026) imposes a one-year hyperscale moratorium on new data centers ≥50 MW pending a Generic Environmental Impact Statement, but the embedded \"Energize NY\" proceeding is the strategically critical element: the Department of Public Service is directed to require data centers to either (a) self-supply their electricity or (b) pay higher rates to avoid shifting grid upgrade costs onto residential ratepayers. This is the first US state-level regulatory trigger mandating on-site generation as the preferred data center power model. If Energize NY yields rules that price grid power at a significant premium over self-supply for data centers, SOFC becomes the default qualifying technology — continuous, dispatchable, gas-fueled, installable in 90 days. New York is the third-largest US data center market after Northern Virginia and Silicon Valley. NY Governor EO No. 62 | CNBC | Washington Post",
+      "url": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops",
       "n": 1
     },
     {
-      "title": "Lazard 2026 LCOE+: CCGT LCOE rises to $90/MWh — 17-year high — narrowing the gap with ITC 48E-subsidized SOFC",
-      "text": "— Released July 13, 2026, the Lazard Levelized Cost of Energy+ 2026 report (the industry's leading annual LCOE benchmark) shows new-build combined-cycle gas turbine LCOE rising to $90/MWh, up from $78/MWh in 2025 and exceeding the previous high of $83/MWh set in 2009. Drivers: constrained gas turbine supply (GE Vernova 7H-series wait-lists extending to 2030+), tariff pass-through on steel and components, sustained interest rates, and supply-chain repricing from AI data center demand. SOFC implications are significant: with ITC 48E (30% capital credit), effective SOFC LCOE for a large-format Bloom EaaS deployment is approximately $90–140/MWh — now overlapping the lower bound of the Lazard CCGT range ($51–129/MWh, wide due to project variation). The traditional framing of \"SOFC is more expensive than CCGT\" is narrowing; for projects where speed-to-power (90 days vs. 24+ months), modularity, and NOx reduction are weighted, SOFC is now economically competitive with new-build CCGT at the margin. Note: this LCOE report was released July 13 but was not captured in the July 13–17 digests. Lazard 2026 LCOE+ press release | Utility Dive — CCGT at 17-year high | CleanTechnica — Lazard analysis | Heatmap — gas vs renewables",
-      "url": "https://www.lazard.com/news-announcements/lazard-releases-2026-levelized-cost-of-energyplus-report-pr/",
+      "title": "FERC generation adequacy reports due tomorrow (July 20) — first public quantification of firm-power gap by region",
+      "text": "— All six RTOs/ISOs (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) must file informational reports by July 20 detailing how adequate generation will serve new large loads (≥50 MW, ≥69 kV), with stakeholder proposals, milestone schedules, and ongoing proceedings. This is the first mandated public disclosure of the region-by-region firm-power shortfall that is driving the SOFC grid-bypass market. Monday's filings will be the primary sizing input for SOFC addressable market by geography: any region projecting a >5-year queue backlog with no credible near-term supply addition is, in effect, a validated SOFC market. Mark as an immediate model-input trigger. FERC RM26-4 | Utility Dive | McGuireWoods",
+      "url": "https://www.ferc.gov/rm26-4",
       "n": 2
     },
     {
-      "title": "BE holds near $210 Saturday — 10 days to Q2 earnings; market repricing execution risk, not technology",
-      "text": "— After closing at $206.73 on July 16 (first close below the Wells Fargo $217 bear case, -13.64% on the day despite the $1.7B Oaktree/IDF Nebius announcement), Bloom Energy stabilized at approximately $210 on July 17 before markets closed for the weekend. Today (July 18) is Saturday; no trading. The divergence between deal flow ($1.7B institutional project finance closed, Brookfield $25B framework, Oracle 2.45 GW, Crusoe 900 MW) and stock price (-41% from the $351 ATH) is now extreme. Q2 earnings on July 28 (AH) — consensus: $804M revenue / $0.36 EPS / ~34% gross margin — have become the sole reset event. Three active short-seller theses remain outstanding (Hunterbrook scandium supply chain, Crossroads Capital \"supply wall,\" Doomberg trade-data analysis), all unresolved ahead of the print. Cryptonomist — $1.7B reversal | Benzinga — July 17 moves",
-      "url": "https://en.cryptonomist.ch/2026/07/17/1-7b-deal-couldnt-save-bloom-energy-stock-from-sharp-reversal/",
+      "title": "Bloom Energy at $216, -38.5% from ATH — 247wallst frames \"growth story starting to crack\" as earnings countdown begins",
+      "text": "— A July 18 247wallst analysis synthesizes the accumulated execution-risk signals: Project Jupiter's second pipeline denial, New York's data center moratorium, and broadening community resistance to data center construction are together eroding the \"infinite addressable market\" narrative that drove the $351 ATH. BE closed July 18 at approximately $216 (intraday $194.60–$223.75), +149% YTD but -38.5% from peak. Markets are closed today (Sunday July 19). Q2 earnings on July 28 (AH) — now 9 days away — remain the sole reset event: consensus calls for ~$804M revenue, $0.36 EPS, ~34% gross margin. The gap between disclosed deal flow ($20B backlog, $25B Brookfield, $1.7B Oaktree/IDF project finance) and current market cap implies the market is now pricing project delivery timing rather than deal announcements. 247wallst — \"starting to crack\" | stockinvest.us",
+      "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/",
       "n": 3
     }
   ],
@@ -25,17 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "EFCF proceedings: day 15 embargo — Still no technical results from the 17th European SOFC & SOE Forum (closed July 3, Lucerne). Elcogen (E3000 G2: stated ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory vs. 90% target), SolydEra, and Convion have published nothing online. Fifteen days post-conference exceeds any precedent for this event; a coordinated journal submission embargo is confirmed. Monitor elcogen.com, ceres.tech, solydera.com, convion.fi. EFCF 2026",
-          "url": "https://www.efcf.com/2026",
+          "text": "EFCF embargo: day 16 — No technical results yet from the 17th European SOFC & SOE Forum (closed July 3, Lucerne). Elcogen (E3000 G2: ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory), SolydEra, and Convion have published nothing online since the conference. One EFCF paper has appeared in the publicly accessible archive (large-stack EIS study, EFCF 2026) but no product-level efficiency or durability results from the major developers. Monitor elcogen.com, ceres.tech, solydera.com, convion.fi.",
+          "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_B1503_Paper_11950_LargeStackEIS.pdf",
           "sources": [
             {
               "title": "EFCF 2026",
-              "url": "https://www.efcf.com/2026"
+              "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_B1503_Paper_11950_LargeStackEIS.pdf"
             }
           ]
         },
         {
-          "text": "Quiet otherwise. Background: Bloom Fremont 2 GW ramp (cost-per-kW update expected July 28); UMD 4 W/cm² at 650°C ceria electrolyte breakthrough (July 13); Mico Power CE certification for 2 kW H2 SOFC (first Korean CE-certified direct-H2 SOFC, A+ ErP rating) — all covered in prior digests.",
+          "text": "Quiet otherwise on stack and cell news today (Sunday).",
           "url": "",
           "sources": []
         }
@@ -45,21 +45,12 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Jupiter (2.45 GW, Oracle/OpenAI, NM) — dual permit crisis — See Top Signal #1. October 19 air permit hearing confirmed (NMED decision Nov. 23) plus second pipeline denial through state lands compounds the Phase 1 delivery risk. Energy Transfer's 30-day administrative review window runs to approximately August 13. If Energy Transfer files and loses, the pipeline must be rerouted around state trust land (~0.6 miles of alternative routing required), adding weeks to months to the construction schedule. The combination of air permit hearing (Oct. 19) + potential pipeline reroute is the single largest near-term execution risk in the SOFC deployment pipeline. Source NM — pipeline | PGJ Online — pipeline denial",
-          "url": "https://sourcenm.com/2026/07/16/new-mexico-land-commissioner-blocks-project-jupiter-related-pipeline-from-building-on-state-land/",
-          "sources": [
-            {
-              "title": "Source NM — pipeline",
-              "url": "https://sourcenm.com/2026/07/16/new-mexico-land-commissioner-blocks-project-jupiter-related-pipeline-from-building-on-state-land/"
-            },
-            {
-              "title": "PGJ Online — pipeline denial",
-              "url": "https://pgjonline.com/news/2026/july/new-mexico-denies-reconsideration-of-project-jupiter-gas-pipeline"
-            }
-          ]
+          "text": "Project Jupiter (Oracle/OpenAI, NM, 2.45 GW) — No material update since July 18 digest. Energy Transfer's 30-day administrative review window runs to approximately August 13; October 19 air permit hearing (NMED decision by November 23) remains the gating event. Weekend — no new filings or announcements.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Active pipeline otherwise unchanged: Crusoe/Cheyenne 900 MW Phase 1 (H2 2026), FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS ($1.7B Oaktree/IDF project finance closed July 16).",
+          "text": "Active pipeline unchanged: Crusoe/Cheyenne 900 MW Phase 1 (H2 2026), FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS ($1.7B Oaktree/IDF project finance closed July 16).",
           "url": "",
           "sources": []
         }
@@ -69,17 +60,30 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC Generation Adequacy Reports: Monday July 20 (2 days) — The six RTO/ISO informational reports mandated by FERC's June 18 Section 206 show-cause orders are due Monday. Each grid operator (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) must quantify how adequate generation will serve new and existing large loads (≥50 MW on ≥69 kV), including stakeholder proposals and milestone schedules. ISO-NE's 90-day abeyance request would push its response to ~August 3 if granted. Full tariff reform or show-cause justifications due August 17. Monday's filings will be the first regulator-mandated public estimates of the firm-power gap by US grid region — the primary external upper-bound sizing of the SOFC grid-bypass addressable market. FERC RM26-4",
-          "url": "https://www.ferc.gov/rm26-4",
+          "text": "New York data center moratorium (EO No. 62, July 14) — See Top Signal #1. Full detail: one-year pause on DEC permits for new hyperscale data centers ≥50 MW. GEIS process will assess electricity demand, grid impact, water, and air quality. \"Energize NY\" DPS proceeding (parallel to GEIS) will set rules requiring data centers to self-generate or pay surcharges. The moratorium exempts permits already deemed complete and does not block projects already under construction. For SOFC market development in New York: no new data center projects in queue means no new SOFC deployments in NY for 12 months minimum, but the Energize NY self-supply rules — when finalized — could make New York the most SOFC-favorable regulatory environment in the US for large data centers post-moratorium. Governor NY press release | NBC News | Fox Business",
+          "url": "https://www.governor.ny.gov/news/first-statewide-moratorium-new-hyperscale-data-centers-launched-governor-kathy-hochul",
           "sources": [
             {
-              "title": "FERC RM26-4",
-              "url": "https://www.ferc.gov/rm26-4"
+              "title": "Governor NY press release",
+              "url": "https://www.governor.ny.gov/news/first-statewide-moratorium-new-hyperscale-data-centers-launched-governor-kathy-hochul"
+            },
+            {
+              "title": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/new-york-impose-countrys-first-statewide-moratorium-data-centers-rcna587429"
+            },
+            {
+              "title": "Fox Business",
+              "url": "https://www.foxbusiness.com/politics/new-york-becomes-first-state-freeze-new-ai-data-centers-move-critics-warn-could-drive-away-jobs"
             }
           ]
         },
         {
-          "text": "Background unchanged: Virginia DC electricity tax $0.011/kWh in force (self-generated SOFC not exempt, from July 1); Germany EnEfG 4-year PUE compliance window (cabinet adoption June 24, Bundestag/Bundesrat approval pending); EU CADA energy efficiency rating scheme delayed into Q3; Section 179D sunset confirmed June 30; ITC 48E 30% fuel cell credit active.",
+          "text": "FERC RM26-4 reports due July 20 — See Top Signal #2. ISO-NE 90-day abeyance request (if granted) pushes its filing to approximately August 3; full tariff reform or show-cause justifications due August 17. All other five RTOs/ISOs are expected to file Monday.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Background unchanged: Virginia DC electricity tax $0.011/kWh (self-generated SOFC not exempt, July 1); Germany EnEfG amendment (cabinet adoption June 24, Bundestag/Bundesrat approval pending); EU CADA energy efficiency rating scheme delayed into Q3; Section 179D sunset confirmed June 30; ITC 48E 30% fuel cell credit active.",
           "url": "",
           "sources": []
         }
@@ -89,12 +93,25 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet weekend. No new SMR, CCGT, or battery announcements.",
-          "url": "",
-          "sources": []
+          "text": "Terrestrial Energy + Riot Platforms: 4 GW IMSR nuclear for Texas/Kentucky data centers (first appearance) — Announced May 6, 2026 (not captured in prior digests). MOU to co-locate Terrestrial Energy's Integral Molten Salt Reactor (IMSR, 390 MW per unit) plants with Riot Platforms data centers. Up to 4 GW total across multiple sites (primary candidates: Riot's Rockdale, TX and Paducah, KY facilities). First commercial IMSR plants targeted for early 2030s. Natural gas bridge fuel included to accelerate commercial start. Context: this is a ~6-8 year horizon project — not a near-term SOFC competitor. But the IMSR's 390 MW module size and potential for co-location with existing data center sites more directly competes with the SOFC model than conventional AP1000 nuclear (1.1 GW, greenfield only). Riot Platforms PR | BusinessWire | Minichart Q1 results context",
+          "url": "https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/",
+          "sources": [
+            {
+              "title": "Riot Platforms PR",
+              "url": "https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/"
+            },
+            {
+              "title": "BusinessWire",
+              "url": "https://www.businesswire.com/news/home/20260506748163/en/Terrestrial-Energy-and-Riot-Platforms-Launch-Collaboration-to-Develop-Nuclear-Power-Large-Scale-Data-Center-Projects/"
+            },
+            {
+              "title": "Minichart Q1 results context",
+              "url": "https://www.minichart.com.sg/2026/05/14/terrestrial-energy-q1-2026-results-doe-contracts-nrc-approvals-and-4gw-nuclear-ai-data-center-collaboration-with-riot-platforms-1/"
+            }
+          ]
         },
         {
-          "text": "Lazard 2026: CCGT cost pressure — See Top Signal #2. At $90/MWh new-build CCGT LCOE and long equipment lead times, the traditional \"CCGT is cheaper\" argument is eroding. Projects needing power before 2028 have a narrowing competitive alternative to SOFC. Background: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028 — ordered before the current cost spike), GE Vernova/Blue Energy 2.5 GW gas-plus-nuclear Texas (gas ~2030, nuclear ~2032), Microsoft TMI/Crane Center 835 MW nuclear (H2 2027) — all covered in prior digests.",
+          "text": "Background: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028), GE Vernova/Blue Energy gas-plus-nuclear (gas ~2030, nuclear ~2032), DOE $17.5B nuclear loan program (10 AP1000s, under construction target 2030), Google Meitner Energy Center (renewables + gas firming, TX Panhandle) — all covered in prior digests.",
           "url": "",
           "sources": []
         }
@@ -104,12 +121,21 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — July 16 close: $206.73 (range $202.56–$238.88). July 17 partial recovery: ~$210. July 18 = Saturday, markets closed. 10 days to Q2 earnings (July 28, AH). Consensus: $804M revenue / $0.36 EPS / ~34% gross margin. FY2026 guidance $3.4–3.8B; backlog $20B; FY2026 EPS guidance $1.85–$2.25. Full 10-analyst picture (unchanged): WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Three coordinated short-seller campaigns (Hunterbrook, Crossroads x2, Doomberg) all unresolved ahead of print.",
-          "url": "",
-          "sources": []
+          "text": "Bloom Energy (BE) — July 18 close: ~$216 (intraday $194.60–$223.75), -38.5% from $351 ATH, +149% YTD. July 19 = Sunday, markets closed. Q2 earnings: July 28 (AH). Consensus: $804M revenue / $0.36 EPS / ~34% gross margin. Full analyst range: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Three short-seller campaigns active (Hunterbrook scandium, Crossroads x2, Doomberg trade-data). 247wallst | stockinvest.us",
+          "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/",
+          "sources": [
+            {
+              "title": "247wallst",
+              "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/"
+            },
+            {
+              "title": "stockinvest.us",
+              "url": "https://stockinvest.us/stock/BE"
+            }
+          ]
         },
         {
-          "text": "FuelCell Energy (FCEL) — Approximately $17 (–18% below the July 9 $21/share offering price). JPMorgan Q3 high-conviction short active. Torrington expansion ($225M, 350–500 MW/year by H2 2027) funded. Siemens EBOP MOU active. Data center proposals >80% of 1.5 GW pipeline. Analyst: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Q3 FY2026 earnings ~September 2026.",
+          "text": "FuelCell Energy (FCEL) — Approximately $17, -19% from the July 9 $21/share offering price. JPMorgan Q3 high-conviction short active. Siemens EBOP MOU (100 MW+ data center systems) active. Torrington expansion ($225M, 350-500 MW/year by H2 2027) funded. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Q3 FY2026 earnings ~September 2026.",
           "url": "",
           "sources": []
         }
@@ -119,12 +145,12 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "EFCF embargo: day 15 — See Stack & Cell Technology. Still awaiting Elcogen E3000 G2 real-stack efficiency and degradation data. A ≥75% electrical / ≥90% CHP confirmation at commercial-scale 650°C conditions remains the outstanding LCOE model trigger.",
+          "text": "EFCF embargo day 16 — See Stack & Cell Technology. Still awaiting Elcogen E3000 G2 real-stack efficiency and degradation data from the July 3 Lucerne conference. One large-stack EIS paper visible in the EFCF archive; no manufacturer product data published.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Quiet on new papers and patents.",
+          "text": "Quiet on new papers and patents today (Sunday).",
           "url": "",
           "sources": []
         }
@@ -133,27 +159,22 @@
   ],
   "lcoe": [
     {
-      "text": "Lazard 2026: CCGT LCOE $90/MWh — update CCGT benchmark in model — Revise the CCGT LCOE comparison from the $45–100/MWh range previously modeled to $51–129/MWh (full range) with a central case of $90/MWh for new-build in 2026. At $90/MWh CCGT and SOFC at $90–140/MWh (with ITC 48E and CHP credit), the SOFC cost premium is now $0–50/MWh on a like-for-like basis — substantially narrower than the prior $45–95/MWh gap. The premium disappears entirely for Virginia or Texas projects where CCGT lead times (2028 earliest), gas turbine scarcity, and transmission charges must be added. Lazard",
-      "url": "https://www.lazard.com/news-announcements/lazard-releases-2026-levelized-cost-of-energyplus-report-pr/",
-      "sources": [
-        {
-          "title": "Lazard",
-          "url": "https://www.lazard.com/news-announcements/lazard-releases-2026-levelized-cost-of-energyplus-report-pr/"
-        }
-      ]
-    },
-    {
-      "text": "Project Jupiter compounding risk — add scenario: Oracle/Bloom 2.45 GW delayed to Q2 2027 — With October 19 air permit hearing (NMED decision Nov. 23) AND pipeline reroute risk (Energy Transfer 30-day petition window to ~Aug. 13), the earliest plausible Phase 1 delivery is Q1–Q2 2027. Model impact: approximately $400–700M of FY2026 Bloom revenue at risk from timing slip. Recommend flagging two scenarios: (a) Permit approved Nov. 23, first power Q1 2027; (b) Appeal delays NMED to Q1 2027 + pipeline reroute adds 60–90 days → first power Q3 2027. Add as a revenue-timing sensitivity in the LCOE project cashflow model.",
+      "text": "New York Energize NY self-supply premium — new regulatory LCOE variable — If the DPS proceeding creates a grid-supply surcharge for large data centers, it establishes a state-mandated floor price for grid power that makes the SOFC self-supply option economically rational even before capacity or speed arguments. The exact surcharge level is unknown (GEIS + rulemaking will take up to 12 months), but analogous mechanisms in other jurisdictions (Germany's EEG surcharge structure, Virginia's DC-specific tariff) suggest a $10–30/MWh premium is plausible. Add as a \"regulatory upside\" sensitivity in the LCOE model for any New York project: SOFC LCOE advantage = avoided grid surcharge + avoided transmission charges. This could bring SOFC to economic parity with grid supply in NY before ITC 48E.",
       "url": "",
       "sources": []
     },
     {
-      "text": "FERC reports Monday (July 20) — SOFC addressable market upper bound — Extract firm-power gap by RTO/ISO from the five filed reports (ISO-NE may defer). Key metric: total confirmed large-load MW seeking grid connection that cannot be served within 5 years per region. This sets the de facto market ceiling for SOFC grid-bypass. Mark as an immediate update trigger.",
+      "text": "FERC reports July 20 — extract firm-power gap by RTO/ISO — Tomorrow's filings will provide the first regulator-mandated public estimate of the generation shortfall serving new large loads in each US grid region. Key metric to extract: total confirmed large-load MW seeking grid connection that cannot be served within 5 years per region. This sets the de facto ceiling of the SOFC grid-bypass addressable market. Immediate update trigger upon filing.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Primary LCOE model update trigger: July 28 BE Q2 earnings (AH) — 10 days — Five inputs: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) scandium/supply-chain sourcing transparency (Hunterbrook resolution), (d) Project Jupiter permit update + Oracle pipeline commentary, (e) EaaS $/MWh pricing from the Nebius $1.7B deployment. Lazard 2026 CCGT benchmark ($90/MWh) should be incorporated in the same model refresh.",
+      "text": "BE intraday range July 18 ($194.60–$223.75): the $194.60 intraday low implies the market tested — and rejected — the below-$200 level. The recovery to $216 at close suggests buy-side support remains at current levels ahead of the July 28 print. Not a fundamental input but relevant context for interpreting post-Q2 market signals on execution risk repricing.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Terrestrial Energy IMSR: 390 MW module — At $4,000–6,000/kW nuclear capex (pre-cost reduction) and 2030+ delivery, IMSR does not change near-term SOFC LCOE competition; but at commercial scale its 390 MW modular size could compete directly with SOFC aggregated projects in the 2032+ window. Flag as a long-run (>2030) downside scenario in multi-decade LCOE model.",
       "url": "",
       "sources": []
     }
