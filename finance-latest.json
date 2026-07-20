@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-17",
+    "title": "Beating Beta — 2026-07-20",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-17",
+      "title": "Markets Snapshot — 2026-07-20",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Micron wird zur „wichtigsten Aktie am Markt“",
-      "highlight_phrase": "Micron wird zur „wichtigsten Aktie am Ma",
-      "toc_summary": "Micron wird zur „wichtigsten Aktie am Markt“",
-      "quick_take": "Zeit zur Sorge?",
+      "title": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfe",
+      "highlight_phrase": "Ölpreise steigen, Aktien-Futures flach –",
+      "toc_summary": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfe",
+      "quick_take": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfen sich.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Zeit zur Sorge?"
+          "text": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfen sich."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Netflix wird geiziger mit Viewing-Daten",
-      "highlight_phrase": "Netflix wird geiziger mit Viewing-Daten",
-      "toc_summary": "Netflix wird geiziger mit Viewing-Daten",
-      "quick_take": "Wall Street unzufrieden",
+      "title": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit.",
+      "highlight_phrase": "Weltmeister Spanien gewinnt 50 Mio. Doll",
+      "toc_summary": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit.",
+      "quick_take": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wall Street unzufrieden"
+          "text": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "10 US-Metros, wo Bauträger Preise für Neubauten senken",
-      "highlight_phrase": "10 US-Metros, wo Bauträger Preise für Ne",
-      "toc_summary": "10 US-Metros, wo Bauträger Preise für Neubauten senken",
-      "quick_take": "10 US-Metros, wo Bauträger Preise für Neubauten senken",
+      "title": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?",
+      "highlight_phrase": "Können die „Magnificent Seven“ einen Mar",
+      "toc_summary": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?",
+      "quick_take": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "10 US-Metros, wo Bauträger Preise für Neubauten senken"
+          "text": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Palo Alto Networks’ Aktie auf Rally",
-      "highlight_phrase": "Palo Alto Networks’ Aktie auf Rally",
-      "toc_summary": "Palo Alto Networks’ Aktie auf Rally",
-      "quick_take": "Bullen sehen weiteres Potenzial",
+      "title": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?",
+      "highlight_phrase": "Gibt es eine Frist für die 1.000-Dollar-",
+      "toc_summary": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?",
+      "quick_take": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Bullen sehen weiteres Potenzial"
+          "text": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen",
-      "highlight_phrase": "Dallas-Fed-Präsidentin Logan fordert „mo",
-      "toc_summary": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen",
-      "quick_take": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen",
+      "title": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM.",
+      "highlight_phrase": "Kalshi gewinnt 3 Mio. neue Nutzer – Prog",
+      "toc_summary": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM.",
+      "quick_take": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Dallas-Fed-Präsidentin Logan fordert „moderat“ höhere Zinsen"
+          "text": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Größte Mittagsbewegungen",
-      "highlight_phrase": "Größte Mittagsbewegungen",
-      "toc_summary": "Größte Mittagsbewegungen",
-      "quick_take": "Manpower, Abbott, UnitedHealth, TSMC & mehr",
+      "title": "„WarshGPT“",
+      "highlight_phrase": "„WarshGPT“",
+      "toc_summary": "„WarshGPT“",
+      "quick_take": "Wie die Wall Street sich auf die neue Kommunikations-Ära der Fed einstellt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Manpower, Abbott, UnitedHealth, TSMC & mehr"
+          "text": "Wie die Wall Street sich auf die neue Kommunikations-Ära der Fed einstellt."
         }
       ],
       "callout": null,
