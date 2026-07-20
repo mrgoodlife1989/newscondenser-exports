@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "topSignals": [
     {
-      "title": "New York's data center moratorium contains a self-generation clause — direct SOFC regulatory tailwind",
-      "text": "— Governor Hochul's Executive Order No. 62 (signed July 14, 2026) imposes a one-year hyperscale moratorium on new data centers ≥50 MW pending a Generic Environmental Impact Statement, but the embedded \"Energize NY\" proceeding is the strategically critical element: the Department of Public Service is directed to require data centers to either (a) self-supply their electricity or (b) pay higher rates to avoid shifting grid upgrade costs onto residential ratepayers. This is the first US state-level regulatory trigger mandating on-site generation as the preferred data center power model. If Energize NY yields rules that price grid power at a significant premium over self-supply for data centers, SOFC becomes the default qualifying technology — continuous, dispatchable, gas-fueled, installable in 90 days. New York is the third-largest US data center market after Northern Virginia and Silicon Valley. NY Governor EO No. 62 | CNBC | Washington Post",
-      "url": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops",
+      "title": "FERC Generation Adequacy Reports due today (July 20) — first public quantification of firm-power gap by region",
+      "text": "— All six RTOs/ISOs (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) must file informational reports by today detailing how adequate generation will serve new large loads (≥50 MW), with stakeholder proposals, milestone schedules, and ongoing proceedings. These filings — the direct product of the June 18 Section 206 show cause orders — represent the first regulator-mandated public estimate of the generation shortfall in each US grid region. Any region projecting a >5-year queue backlog with no credible near-term supply addition is, in effect, a validated and quantified SOFC addressable market. Actual filing content will become accessible in FERC eLibrary (docket RM26-4) once submitted; extract the confirmed large-load MW seeking grid connection per region as the first objective measure of the SOFC grid-bypass TAM. FERC RM26-4 docket | McGuireWoods briefing | Troutman analysis",
+      "url": "https://www.ferc.gov/rm26-4",
       "n": 1
     },
     {
-      "title": "FERC generation adequacy reports due tomorrow (July 20) — first public quantification of firm-power gap by region",
-      "text": "— All six RTOs/ISOs (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) must file informational reports by July 20 detailing how adequate generation will serve new large loads (≥50 MW, ≥69 kV), with stakeholder proposals, milestone schedules, and ongoing proceedings. This is the first mandated public disclosure of the region-by-region firm-power shortfall that is driving the SOFC grid-bypass market. Monday's filings will be the primary sizing input for SOFC addressable market by geography: any region projecting a >5-year queue backlog with no credible near-term supply addition is, in effect, a validated SOFC market. Mark as an immediate model-input trigger. FERC RM26-4 | Utility Dive | McGuireWoods",
-      "url": "https://www.ferc.gov/rm26-4",
+      "title": "Siemens + FuelCell Energy EBOP MOU: first full coverage (announced July 9)",
+      "text": "— Mentioned briefly in the July 19 digest; first substantive coverage today. Siemens signed a non-binding MOU with FuelCell Energy on July 9, 2026 to design and supply electrical balance-of-plant (EBOP) systems for FCEL fuel cell installations targeting 100+ MW commercial projects for data centers. Siemens contributes: switchgear, transformers, protection systems, grid interconnection equipment, battery energy storage, and microgrid controls. FCEL provides the 12.5 MW MCFC Energy Block generation assets. No financial terms disclosed. Strategic significance: Siemens's EBOP standardization reduces per-project site electrical engineering effort — a meaningful cost and timeline advantage for multi-hundred-MW deployments. Competitor context: Bloom Energy handles EBOP integration internally; the Siemens partnership attempts to give FCEL a comparable systems-integration capability. GlobeNewswire | Siemens PR | DCD",
+      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324675/8041/en/Siemens-and-FuelCell-Energy-Collaborate-to-Explore-Scalable-Fuel-Cell-Power-Solutions.html",
       "n": 2
     },
     {
-      "title": "Bloom Energy at $216, -38.5% from ATH — 247wallst frames \"growth story starting to crack\" as earnings countdown begins",
-      "text": "— A July 18 247wallst analysis synthesizes the accumulated execution-risk signals: Project Jupiter's second pipeline denial, New York's data center moratorium, and broadening community resistance to data center construction are together eroding the \"infinite addressable market\" narrative that drove the $351 ATH. BE closed July 18 at approximately $216 (intraday $194.60–$223.75), +149% YTD but -38.5% from peak. Markets are closed today (Sunday July 19). Q2 earnings on July 28 (AH) — now 9 days away — remain the sole reset event: consensus calls for ~$804M revenue, $0.36 EPS, ~34% gross margin. The gap between disclosed deal flow ($20B backlog, $25B Brookfield, $1.7B Oaktree/IDF project finance) and current market cap implies the market is now pricing project delivery timing rather than deal announcements. 247wallst — \"starting to crack\" | stockinvest.us",
-      "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/",
+      "title": "Aalo Atomics: Microsoft-backed 4th microreactor reaches criticality July 4 — 10 MWe full-scale core targeting 50 MWe AI data center \"Pods\"",
+      "text": "— Aalo Atomics' Critical Test Reactor achieved initial criticality at Idaho National Laboratory on July 4, 2026 at 12:20 a.m. MT, becoming the fourth advanced reactor to meet EO 14301's deadline — and the most commercially relevant for AI data centers. Unlike the first three zero-power demonstrators (Antares Mark-0, Valar Ward 250, Deployable Energy Unity), Aalo's CTR includes a full-scale nuclear core for a 10 MWe commercial unit, which will be aggregated into 50 MWe \"Aalo Pods\" targeting co-location with AI data centers near the Idaho National Laboratory and beyond. Microsoft is an investor. Announced July 6, 2026. The 10 MWe per-unit scale and data-center-specific co-location design make Aalo the first microreactor with an explicit architecture for AI workloads — and the most direct nuclear competitor to SOFC in the <100 MW modular on-site segment, albeit with a ~2028-2031 commercial delivery horizon. BusinessWire | DCD | World Nuclear News | Interesting Engineering",
+      "url": "https://www.businesswire.com/news/home/20260706396342/en/Aalo-Atomics-Achieves-Criticality-Milestone-Meets-Executive-Order-Goal",
       "n": 3
     }
   ],
@@ -25,17 +25,35 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "EFCF embargo: day 16 — No technical results yet from the 17th European SOFC & SOE Forum (closed July 3, Lucerne). Elcogen (E3000 G2: ≥75% electrical / ≥90% CHP at 650°C), Ceres licensees (Doosan yield trajectory), SolydEra, and Convion have published nothing online since the conference. One EFCF paper has appeared in the publicly accessible archive (large-stack EIS study, EFCF 2026) but no product-level efficiency or durability results from the major developers. Monitor elcogen.com, ceres.tech, solydera.com, convion.fi.",
-          "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_B1503_Paper_11950_LargeStackEIS.pdf",
+          "text": "SolydEra EFCF 2026 paper: DynElectro 23,000-hour stack result and PMX 10 kW generator (first full coverage) — The EFCF 2026 proceedings include a SolydEra/DynElectro paper (available on efcf.com) documenting 23,000 hours of stable SOFC stack operation by Danish partner DynElectro using a SolydEra G8X 4.5 kW stack in steam electrolysis mode; operation ceased July 2025 due to a system-related failure (not stack failure). Separately, SolydEra has scaled the G8X stack platform to 10 kW (30 kW in SOEC mode) and developed the PMX modular 10 kW generator: a compact containerized unit using SolydEra stacks and a proprietary 10 kW hot balance-of-plant. A H2-capable PMX variant was developed under the Italian GreenH2Building project and is scheduled for field installation by end-June 2026 at a partner site in southern Italy — first real-world deployment of the PMX. Power density: 7 kW/m² (rising to 10.5 kW/m² in the planned 60 kW successor). Tested electrical efficiency: 60%; total efficiency with heat recovery: 84%. SolydEra EFCF 2026 paper | NAUTILUS project",
+          "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_A0601_Paper_11851_SolydEra_Reversible_Solid_Oxide_Bertol.pdf",
           "sources": [
             {
-              "title": "EFCF 2026",
-              "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_B1503_Paper_11950_LargeStackEIS.pdf"
+              "title": "SolydEra EFCF 2026 paper",
+              "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_A0601_Paper_11851_SolydEra_Reversible_Solid_Oxide_Bertol.pdf"
+            },
+            {
+              "title": "NAUTILUS project",
+              "url": "https://nautilus-project.eu/news/nautilus-and-solydera-achieve-milestone"
             }
           ]
         },
         {
-          "text": "Quiet otherwise on stack and cell news today (Sunday).",
+          "text": "Elcogen E3000 G2 cycling durability: 23,000 rapid current cycles with performance improvement — Post-EFCF company data confirms that the E3000 G2 was subjected to 23,000 rapid current-cycling events in electrolysis mode during testing; the stack showed performance improvement (not degradation) throughout. Additionally, no degradation was observed in thermal cycling tests. This cycling durability is directly relevant for data center applications requiring load-following. Stated specs remain: 75% electrical / 90% CHP efficiency at 650°C; 119-cell stack; fuel-flexible (NG, biogas, H2); SOEC 33 kWh/kg H2 mode. Commercial-condition stack efficiency benchmarks from the EFCF are still not publicly available. Elcogen product page | ResearchGate abstract",
+          "url": "https://elcogen.com/product/elcostack/",
+          "sources": [
+            {
+              "title": "Elcogen product page",
+              "url": "https://elcogen.com/product/elcostack/"
+            },
+            {
+              "title": "ResearchGate abstract",
+              "url": "https://www.researchgate.net/publication/397913367_Introduction_to_Elcogen_elcoStack_R_E3000_Generation_2_Solid_Oxide_Technology"
+            }
+          ]
+        },
+        {
+          "text": "EFCF embargo: day 17 — No commercial-scale efficiency or degradation benchmarks from Elcogen, Ceres licensees (Doosan), or Convion have been published online. Watch elcogen.com, ceres.tech, and convion.fi.",
           "url": "",
           "sources": []
         }
@@ -45,12 +63,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Jupiter (Oracle/OpenAI, NM, 2.45 GW) — No material update since July 18 digest. Energy Transfer's 30-day administrative review window runs to approximately August 13; October 19 air permit hearing (NMED decision by November 23) remains the gating event. Weekend — no new filings or announcements.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Active pipeline unchanged: Crusoe/Cheyenne 900 MW Phase 1 (H2 2026), FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS ($1.7B Oaktree/IDF project finance closed July 16).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -60,30 +73,31 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "New York data center moratorium (EO No. 62, July 14) — See Top Signal #1. Full detail: one-year pause on DEC permits for new hyperscale data centers ≥50 MW. GEIS process will assess electricity demand, grid impact, water, and air quality. \"Energize NY\" DPS proceeding (parallel to GEIS) will set rules requiring data centers to self-generate or pay surcharges. The moratorium exempts permits already deemed complete and does not block projects already under construction. For SOFC market development in New York: no new data center projects in queue means no new SOFC deployments in NY for 12 months minimum, but the Energize NY self-supply rules — when finalized — could make New York the most SOFC-favorable regulatory environment in the US for large data centers post-moratorium. Governor NY press release | NBC News | Fox Business",
-          "url": "https://www.governor.ny.gov/news/first-statewide-moratorium-new-hyperscale-data-centers-launched-governor-kathy-hochul",
+          "text": "FERC RM26-4 generation adequacy filings: today is the deadline — See Top Signal #1. Six RTOs/ISOs must file today in FERC eLibrary; content will be the first official regional sizing of the large-load firm-power gap. ISO-NE filed a 90-day abeyance request; if granted, its filing moves to ~August 3 with full tariff reform due August 17. Filings from PJM, MISO, SPP, CAISO, and NYISO are expected today. Any RTO that establishes a self-supply exemption analogous to ERCOT's Batch Zero pathway will codify a $5-20/MWh avoided-transmission-charge benefit for SOFC grid-bypass projects in that region. FERC RM26-4 | Day Pitney",
+          "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
-              "title": "Governor NY press release",
-              "url": "https://www.governor.ny.gov/news/first-statewide-moratorium-new-hyperscale-data-centers-launched-governor-kathy-hochul"
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
             },
             {
-              "title": "NBC News",
-              "url": "https://www.nbcnews.com/news/us-news/new-york-impose-countrys-first-statewide-moratorium-data-centers-rcna587429"
-            },
-            {
-              "title": "Fox Business",
-              "url": "https://www.foxbusiness.com/politics/new-york-becomes-first-state-freeze-new-ai-data-centers-move-critics-warn-could-drive-away-jobs"
+              "title": "Day Pitney",
+              "url": "https://www.daypitney.com/ferc-issues-show-cause-orders-to-six-rtos/isos-on-large-load-integration"
             }
           ]
         },
         {
-          "text": "FERC RM26-4 reports due July 20 — See Top Signal #2. ISO-NE 90-day abeyance request (if granted) pushes its filing to approximately August 3; full tariff reform or show-cause justifications due August 17. All other five RTOs/ISOs are expected to file Monday.",
-          "url": "",
-          "sources": []
+          "text": "New York legislature formally passes moratorium — The New York State Legislature passed the first-in-the-nation data center moratorium into statute (Harris Beach Murtha, July 2026). EO No. 62 (signed July 14) is now codified: one-year pause on DEC discretionary permits for new hyperscale data centers ≥50 MW; Energize NY DPS proceeding to define self-supply requirements. Full background in July 19 digest. Harris Beach Murtha",
+          "url": "https://www.harrisbeachmurtha.com/insights/new-york-state-legislature-passes-first-in-the-nation-data-center-moratorium/",
+          "sources": [
+            {
+              "title": "Harris Beach Murtha",
+              "url": "https://www.harrisbeachmurtha.com/insights/new-york-state-legislature-passes-first-in-the-nation-data-center-moratorium/"
+            }
+          ]
         },
         {
-          "text": "Background unchanged: Virginia DC electricity tax $0.011/kWh (self-generated SOFC not exempt, July 1); Germany EnEfG amendment (cabinet adoption June 24, Bundestag/Bundesrat approval pending); EU CADA energy efficiency rating scheme delayed into Q3; Section 179D sunset confirmed June 30; ITC 48E 30% fuel cell credit active.",
+          "text": "Background: Germany EnEfG PUE ≤ 1.2 active from July 1; EU CADA energy efficiency rating scheme delayed into Q3; Section 179D sunset confirmed; ITC 48E 30% credit active; ERCOT Batch Zero self-supply pathway active.",
           "url": "",
           "sources": []
         }
@@ -93,25 +107,21 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Terrestrial Energy + Riot Platforms: 4 GW IMSR nuclear for Texas/Kentucky data centers (first appearance) — Announced May 6, 2026 (not captured in prior digests). MOU to co-locate Terrestrial Energy's Integral Molten Salt Reactor (IMSR, 390 MW per unit) plants with Riot Platforms data centers. Up to 4 GW total across multiple sites (primary candidates: Riot's Rockdale, TX and Paducah, KY facilities). First commercial IMSR plants targeted for early 2030s. Natural gas bridge fuel included to accelerate commercial start. Context: this is a ~6-8 year horizon project — not a near-term SOFC competitor. But the IMSR's 390 MW module size and potential for co-location with existing data center sites more directly competes with the SOFC model than conventional AP1000 nuclear (1.1 GW, greenfield only). Riot Platforms PR | BusinessWire | Minichart Q1 results context",
-          "url": "https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/",
+          "text": "Aalo Atomics (Microsoft-backed): 10 MWe modules, 50 MWe Pods for AI data centers — See Top Signal #3. Aalo is the first advanced nuclear company to design a modular unit explicitly sized for AI data center co-location. The 10 MWe per-core / 50 MWe per-Pod architecture is closer in scale to SOFC modular arrays than the 390 MW IMSR (Terrestrial Energy) or 1.1 GW AP1000. Competitive assessment: Aalo still operates a zero-power CTR (no commercial electricity dispatch). Commercial Pod deployment is targeted for \"the AI data center era\" but no confirmed timeline or PPA has been announced. Competitive risk for SOFC: moderate at the <100 MW modular segment, emerging ~2028-2031. BusinessWire | Interesting Engineering",
+          "url": "https://www.businesswire.com/news/home/20260706396342/en/Aalo-Atomics-Achieves-Criticality-Milestone-Meets-Executive-Order-Goal",
           "sources": [
             {
-              "title": "Riot Platforms PR",
-              "url": "https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/"
-            },
-            {
               "title": "BusinessWire",
-              "url": "https://www.businesswire.com/news/home/20260506748163/en/Terrestrial-Energy-and-Riot-Platforms-Launch-Collaboration-to-Develop-Nuclear-Power-Large-Scale-Data-Center-Projects/"
+              "url": "https://www.businesswire.com/news/home/20260706396342/en/Aalo-Atomics-Achieves-Criticality-Milestone-Meets-Executive-Order-Goal"
             },
             {
-              "title": "Minichart Q1 results context",
-              "url": "https://www.minichart.com.sg/2026/05/14/terrestrial-energy-q1-2026-results-doe-contracts-nrc-approvals-and-4gw-nuclear-ai-data-center-collaboration-with-riot-platforms-1/"
+              "title": "Interesting Engineering",
+              "url": "https://interestingengineering.com/energy/aalo-criticality-data-center-nuclear-reactor"
             }
           ]
         },
         {
-          "text": "Background: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028), GE Vernova/Blue Energy gas-plus-nuclear (gas ~2030, nuclear ~2032), DOE $17.5B nuclear loan program (10 AP1000s, under construction target 2030), Google Meitner Energy Center (renewables + gas firming, TX Panhandle) — all covered in prior digests.",
+          "text": "Background: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028), DOE $17.5B AP1000 nuclear loan programme (10 units, 2030+ construction start), Google Meitner Energy Center (renewables + gas firming, TX Panhandle), Terrestrial Energy/Riot Platforms 4 GW IMSR (early 2030s) — all covered in prior digests.",
           "url": "",
           "sources": []
         }
@@ -121,21 +131,21 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — July 18 close: ~$216 (intraday $194.60–$223.75), -38.5% from $351 ATH, +149% YTD. July 19 = Sunday, markets closed. Q2 earnings: July 28 (AH). Consensus: $804M revenue / $0.36 EPS / ~34% gross margin. Full analyst range: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. Three short-seller campaigns active (Hunterbrook scandium, Crossroads x2, Doomberg trade-data). 247wallst | stockinvest.us",
-          "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/",
+          "text": "Bloom Energy (BE) — Last confirmed close: ~$206.73-216 range (Friday July 18/Monday July 19 data points); GurFocus article noted a +4.2% session gain (likely July 18 recovery). As of today's session (July 20), BE is 8 days from Q2 earnings (July 28, AH); consensus: ~$804M revenue / $0.36 EPS / ~34% gross margin. Stock testing the $200-220 range as the market waits for the July 28 print to reset the execution-risk narrative. Full analyst picture unchanged: WF $217 EW | Jefferies $246 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive (added July 10) | Baird $310 OP (added ~July 9) | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. GurFocus session note | StockInvest",
+          "url": "https://www.gurufocus.com/news/8958652/bloom-energy-corp-be-shares-surge-42-what-gf-score-of-63-tells-investors",
           "sources": [
             {
-              "title": "247wallst",
-              "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/"
+              "title": "GurFocus session note",
+              "url": "https://www.gurufocus.com/news/8958652/bloom-energy-corp-be-shares-surge-42-what-gf-score-of-63-tells-investors"
             },
             {
-              "title": "stockinvest.us",
+              "title": "StockInvest",
               "url": "https://stockinvest.us/stock/BE"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL) — Approximately $17, -19% from the July 9 $21/share offering price. JPMorgan Q3 high-conviction short active. Siemens EBOP MOU (100 MW+ data center systems) active. Torrington expansion ($225M, 350-500 MW/year by H2 2027) funded. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22 | JPMorgan Hold. Q3 FY2026 earnings ~September 2026.",
+          "text": "FuelCell Energy (FCEL) — Approximately $17, -19% from the $21 July 9 offering price. Siemens EBOP MOU (see Top Signal #2) is the most recent positive catalyst. Torrington expansion ($225M raised via July 9 offering, 350-500 MW/year by H2 2027) funded. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. Data center proposals: >80% of 1.5 GW active pipeline. Q3 FY2026 earnings ~September 2026.",
           "url": "",
           "sources": []
         }
@@ -145,12 +155,27 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "EFCF embargo day 16 — See Stack & Cell Technology. Still awaiting Elcogen E3000 G2 real-stack efficiency and degradation data from the July 3 Lucerne conference. One large-stack EIS paper visible in the EFCF archive; no manufacturer product data published.",
-          "url": "",
-          "sources": []
+          "text": "SolydEra EFCF 2026 paper: PMX modular generator system architecture — See Stack & Cell Technology above. Compact PMX unit design (10 kW hotbop + 10 kW G8X stack) is the most detailed public disclosure of SolydEra's product architecture to date. The 84% total efficiency (electrical + heat) at 60% electrical in the NAUTILUS Finland 40 kW prototype (tested December 2023) is the closest real-world benchmark. EFCF SolydEra paper",
+          "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_A0601_Paper_11851_SolydEra_Reversible_Solid_Oxide_Bertol.pdf",
+          "sources": [
+            {
+              "title": "EFCF SolydEra paper",
+              "url": "https://www.efcf.com/fileadmin/user_upload/EFCF-2026_A0601_Paper_11851_SolydEra_Reversible_Solid_Oxide_Bertol.pdf"
+            }
+          ]
         },
         {
-          "text": "Quiet on new papers and patents today (Sunday).",
+          "text": "Elcogen E3000 G2 cycling resilience — 23,000 rapid current cycles in electrolysis mode with performance improvement is the key durability data point now in the public domain from EFCF 2026. Reinforces the load-following suitability argument for reversible SOFC deployments at AI data centers with variable renewable co-generation. Elcogen",
+          "url": "https://elcogen.com/product/elcostack/",
+          "sources": [
+            {
+              "title": "Elcogen",
+              "url": "https://elcogen.com/product/elcostack/"
+            }
+          ]
+        },
+        {
+          "text": "EFCF embargo continues on full commercial-conditions efficiency data from Elcogen, Ceres licensees, SolydEra, and Convion. Day 17 post-conference.",
           "url": "",
           "sources": []
         }
@@ -159,22 +184,27 @@
   ],
   "lcoe": [
     {
-      "text": "New York Energize NY self-supply premium — new regulatory LCOE variable — If the DPS proceeding creates a grid-supply surcharge for large data centers, it establishes a state-mandated floor price for grid power that makes the SOFC self-supply option economically rational even before capacity or speed arguments. The exact surcharge level is unknown (GEIS + rulemaking will take up to 12 months), but analogous mechanisms in other jurisdictions (Germany's EEG surcharge structure, Virginia's DC-specific tariff) suggest a $10–30/MWh premium is plausible. Add as a \"regulatory upside\" sensitivity in the LCOE model for any New York project: SOFC LCOE advantage = avoided grid surcharge + avoided transmission charges. This could bring SOFC to economic parity with grid supply in NY before ITC 48E.",
+      "text": "FERC filing content (extract today): once the RM26-4 generation adequacy reports are accessible in FERC eLibrary, extract: (a) total confirmed large-load MW in queue per RTO that cannot be served within 5 years, and (b) any explicit reference to self-supply exemption mechanisms. The per-RTO shortfall is the first regulatory-grade quantification of the US SOFC grid-bypass TAM.",
       "url": "",
       "sources": []
     },
     {
-      "text": "FERC reports July 20 — extract firm-power gap by RTO/ISO — Tomorrow's filings will provide the first regulator-mandated public estimate of the generation shortfall serving new large loads in each US grid region. Key metric to extract: total confirmed large-load MW seeking grid connection that cannot be served within 5 years per region. This sets the de facto ceiling of the SOFC grid-bypass addressable market. Immediate update trigger upon filing.",
+      "text": "Siemens EBOP bundling: potential $200-500/kW site-engineering cost reduction — Standardized EBOP supply (switchgear, transformers, microgrid controls) from a single Tier-1 OEM reduces per-project site electrical engineering costs and compression timelines. For SOFC-vs-MCFC LCOE comparisons, if FCEL/Siemens can match Bloom's integrated delivery model, the deployment cost premium for MCFC narrows. No specific cost-per-kW savings disclosed yet; watch for FCEL Q3 FY2026 (September) for any project-level economics.",
       "url": "",
       "sources": []
     },
     {
-      "text": "BE intraday range July 18 ($194.60–$223.75): the $194.60 intraday low implies the market tested — and rejected — the below-$200 level. The recovery to $216 at close suggests buy-side support remains at current levels ahead of the July 28 print. Not a fundamental input but relevant context for interpreting post-Q2 market signals on execution risk repricing.",
+      "text": "SolydEra PMX: 84% total efficiency benchmark at 60% electrical — The NAUTILUS-tested figure is the most current real-world European SOFC system efficiency data point. At 60% electrical and 84% total: CHP heat-monetization credit in the LCOE model is ~0.24 kWh thermal per kWh electrical produced, at district heat or process-steam value of €30-60/MWh thermal. For German DC projects subject to EnEfG ERF ≥ 10% (now active), this 24% thermal capture exceeds the 10% ERF threshold well into the ≥20% (2028) target — confirming SOFC CHP compliance value.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Terrestrial Energy IMSR: 390 MW module — At $4,000–6,000/kW nuclear capex (pre-cost reduction) and 2030+ delivery, IMSR does not change near-term SOFC LCOE competition; but at commercial scale its 390 MW modular size could compete directly with SOFC aggregated projects in the 2032+ window. Flag as a long-run (>2030) downside scenario in multi-decade LCOE model.",
+      "text": "Aalo Atomics: 50 MWe Pod unit cost TBD — At commercial scale, 10 MWe units aggregated to 50 MWe Pods will have different capex characteristics than AP1000 nuclear (>$6,000/kW) or IMSR (TBD). No published capex estimate; maintain SOFC as the default on-site power assumption for <100 MW AI data center projects through at least 2030.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "BE earnings July 28 — 8 days: the sole near-term fundamental reset. Key model inputs to extract: (a) manufacturing cost per kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) EaaS $/MWh pricing from Nebius/Brookfield deployments, (d) Project Jupiter delivery milestone commentary, (e) any FY2026 guidance revision.",
       "url": "",
       "sources": []
     }
