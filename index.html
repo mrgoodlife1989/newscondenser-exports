@@ -574,10 +574,30 @@ async function updateNotifBtn(){
   b.title=on?'Tägliche Benachrichtigung um 7:00 aktiv — tippen zum Abmelden'
              :'Tägliche Benachrichtigung um 7:00 aktivieren';
 }
+// The push sender (GitHub Actions) has no backend to receive the subscription,
+// so it is captured once by hand: this copies it to the clipboard for pasting
+// into the repo secret. Also needed again if the subscription ever expires.
+async function copySub(s){
+  const txt=JSON.stringify(s.toJSON?s.toJSON():s);
+  try{
+    await navigator.clipboard.writeText(txt);
+    alert('✅ Abo-Daten in die Zwischenablage kopiert.\n\nBitte in den Chat einfügen.');
+    return;
+  }catch(e){}
+  const ta=document.createElement('textarea');
+  ta.value=txt;
+  ta.style.cssText='position:fixed;left:4%;right:4%;top:12%;height:46%;z-index:9999;font-size:11px;padding:8px';
+  document.body.appendChild(ta);
+  ta.focus(); ta.select();
+  alert('Automatisches Kopieren ging nicht — bitte den markierten Text manuell kopieren.\n(Zum Schließen: Seite neu laden.)');
+}
 async function toggleNotif(){
   if(!pushSupported()){ alert('Dieses Gerät unterstützt keine Web-Push-Benachrichtigungen.'); return; }
   const sub=await currentSub();
   if(sub){
+    if(confirm('Benachrichtigungen sind aktiv.\n\nOK = Abo-Daten kopieren (für die Einrichtung)\nAbbrechen = Abmelden')){
+      await copySub(sub); return;
+    }
     try{ await sub.unsubscribe(); }catch(e){}
     localStorage.removeItem(NOTIF_KEY);
     await updateNotifBtn();
@@ -595,7 +615,7 @@ async function toggleNotif(){
     const s=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64ToU8(VAPID_PUBLIC)});
     localStorage.setItem(NOTIF_KEY,JSON.stringify(s));
     await updateNotifBtn();
-    alert('✅ Aktiviert — du bekommst täglich um 7:00 eine Benachrichtigung.');
+    await copySub(s);   // hand-off step: paste into the repo secret
   }catch(e){
     alert('Anmeldung fehlgeschlagen: '+((e&&e.message)||e));
   }
