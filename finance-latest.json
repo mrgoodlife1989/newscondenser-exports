@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-20",
+    "title": "Beating Beta — 2026-07-21",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-20",
+      "title": "Markets Snapshot — 2026-07-21",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfe",
-      "highlight_phrase": "Ölpreise steigen, Aktien-Futures flach –",
-      "toc_summary": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfe",
-      "quick_take": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfen sich.",
+      "title": "USA verhaengt scharfe neue Zoelle gegen Kanada",
+      "highlight_phrase": "USA verhaengt scharfe neue Zoelle gegen ",
+      "toc_summary": "USA verhaengt scharfe neue Zoelle gegen Kanada",
+      "quick_take": "Handelskonflikte eskalieren",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ölpreise steigen, Aktien-Futures flach – Kämpfe zwischen USA und Iran verschärfen sich."
+          "text": "Handelskonflikte eskalieren"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit.",
-      "highlight_phrase": "Weltmeister Spanien gewinnt 50 Mio. Doll",
-      "toc_summary": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit.",
-      "quick_take": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit.",
+      "title": "\"Ich habe 35.000 Dollar Kreditkartenschulden",
+      "highlight_phrase": "\"Ich habe 35.000 Dollar Kreditkartenschu",
+      "toc_summary": "\"Ich habe 35.000 Dollar Kreditkartenschulden",
+      "quick_take": "sollte ich Insolvenz anmelden?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Weltmeister Spanien gewinnt 50 Mio. Dollar – der IRS kassiert mit."
+          "text": "sollte ich Insolvenz anmelden?\""
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?",
-      "highlight_phrase": "Können die „Magnificent Seven“ einen Mar",
-      "toc_summary": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?",
-      "quick_take": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?",
+      "title": "Warum Benzinpreise schneller steigen als Oelpreise",
+      "highlight_phrase": "Warum Benzinpreise schneller steigen als",
+      "toc_summary": "Warum Benzinpreise schneller steigen als Oelpreise",
+      "quick_take": "der \"Crack\"-Effekt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Können die „Magnificent Seven“ einen Markt retten, der ohne sie verloren wäre?"
+          "text": "der \"Crack\"-Effekt"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?",
-      "highlight_phrase": "Gibt es eine Frist für die 1.000-Dollar-",
-      "toc_summary": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?",
-      "quick_take": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?",
+      "title": "\"Ich werde fruehzeitig Sozialversicherung beantragen",
+      "highlight_phrase": "\"Ich werde fruehzeitig Sozialversicherun",
+      "toc_summary": "\"Ich werde fruehzeitig Sozialversicherung beantragen",
+      "quick_take": "warum redet kaum jemand ueber das offensichtliche Problem?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Gibt es eine Frist für die 1.000-Dollar-„Trump-Konto“-Einzahlung für mein Kind?"
+          "text": "warum redet kaum jemand ueber das offensichtliche Problem?\""
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM.",
-      "highlight_phrase": "Kalshi gewinnt 3 Mio. neue Nutzer – Prog",
-      "toc_summary": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM.",
-      "quick_take": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM.",
+      "title": "Jamie Dimon warnt: Maerkte unterschaeetzen Risiken",
+      "highlight_phrase": "Jamie Dimon warnt: Maerkte unterschaeetz",
+      "toc_summary": "Jamie Dimon warnt: Maerkte unterschaeetzen Risiken",
+      "quick_take": "er wuerde weder Aktien noch Anleihen kaufen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kalshi gewinnt 3 Mio. neue Nutzer – Prognosemarkt profitiert von der WM."
+          "text": "er wuerde weder Aktien noch Anleihen kaufen"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "„WarshGPT“",
-      "highlight_phrase": "„WarshGPT“",
-      "toc_summary": "„WarshGPT“",
-      "quick_take": "Wie die Wall Street sich auf die neue Kommunikations-Ära der Fed einstellt.",
+      "title": "Capital One setzt gross auf Discover",
+      "highlight_phrase": "Capital One setzt gross auf Discover",
+      "toc_summary": "Capital One setzt gross auf Discover",
+      "quick_take": "nun muss sich der Deal auszahlen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wie die Wall Street sich auf die neue Kommunikations-Ära der Fed einstellt."
+          "text": "nun muss sich der Deal auszahlen"
         }
       ],
       "callout": null,
