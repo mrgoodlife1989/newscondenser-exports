@@ -1,0 +1,31 @@
+name: Daily 07:00 Push
+
+# Two cron entries so exactly one lands on 07:00 Europe/Vienna year-round:
+# 05:00 UTC == 07:00 CEST (summer), 06:00 UTC == 07:00 CET (winter).
+# push_notify.py exits early on the run that doesn't match local 07:00.
+on:
+  schedule:
+    - cron: '0 5 * * *'
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install pywebpush
+        run: pip install --quiet pywebpush
+
+      - name: Send daily push
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          PUSH_SUBSCRIPTION: ${{ secrets.PUSH_SUBSCRIPTION }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' }}
+        run: python push_notify.py
