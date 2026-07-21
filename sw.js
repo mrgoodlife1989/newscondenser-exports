@@ -1,5 +1,5 @@
-// NewsStream Service Worker — v7: bypass browser HTTP cache for app shell
-const CACHE = 'newsstream-v7';
+// NewsStream Service Worker — v8: og:image via YouTube thumbs + 7:00 notification click
+const CACHE = 'newsstream-v8';
 const SHELL = ['./manifest.json','./icon.svg','./icon-maskable.svg'];
 
 self.addEventListener('install', e => {
@@ -14,6 +14,17 @@ self.addEventListener('activate', e => {
     )
   );
   self.clients.claim();
+});
+
+// Tapping the daily 07:00 reminder focuses an open app window or opens a new one.
+self.addEventListener('notificationclick', e => {
+  e.notification.close();
+  e.waitUntil(
+    clients.matchAll({type: 'window', includeUncontrolled: true}).then(cs => {
+      for (const c of cs) { if ('focus' in c) return c.focus(); }
+      if (clients.openWindow) return clients.openWindow('./');
+    })
+  );
 });
 
 self.addEventListener('fetch', e => {

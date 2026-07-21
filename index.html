@@ -54,6 +54,8 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .story-count{margin-top:12px;font-size:12px;color:#4f7ef8;font-weight:600}
 
 /* STORY CARD */
+.story-thumb{width:76px;height:50px;object-fit:cover;border-radius:5px;flex-shrink:0;background:#1a2030;display:block;margin-top:1px}
+.refresh-btn.notif-on{color:#f59e0b;border-color:#f59e0b}
 .story{background:#161b27;border:1px solid #1e2536;border-radius:10px;margin-bottom:8px;overflow:hidden;transition:border-color .2s}
 .story:hover{border-color:#2d3a52}
 .story-hdr{padding:14px 16px;cursor:pointer;display:flex;align-items:flex-start;gap:12px;user-select:none}
@@ -143,7 +145,7 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .eco-article:last-child{border-bottom:none}
 .eco-thumb{width:76px;height:50px;object-fit:cover;border-radius:4px;flex-shrink:0;background:#1a2030;display:block}
 .eco-article-body{flex:1;min-width:0}
-.eco-article-section{font-size:10px;font-weight:700;color:#e03434;text-transform:uppercase;letter-spacing:.08em}
+.eco-article-section{font-size:10px;font-weight:700;color:#e03434;text-transform:uppercase;letter-spacing:.08em;margin-bottom:2px}
 .eco-article-header{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:2px;gap:6px}
 .eco-article-date{font-size:10px;color:#4a5568;white-space:nowrap;flex-shrink:0}
 .eco-article-title{font-size:13px;font-weight:600;color:#e2e8f0;line-height:1.35;margin-bottom:2px}
@@ -151,31 +153,6 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
 .eco-article-title a:hover{color:#e03434}
 .eco-article-desc{font-size:12px;color:#7a90b0;line-height:1.45}
 
-
-/* COMPACT STORY LIST — Economist-style flat rows (AI + SOFC signals) */
-.cmp-list{background:#161b27;border:1px solid #1e2536;border-radius:10px;padding:0 18px;margin-bottom:16px}
-.cmp-item{padding:9px 0;border-bottom:1px solid #1a2030;cursor:pointer;user-select:none;transition:background .15s}
-.cmp-item:last-child{border-bottom:none}
-.cmp-item:hover .cmp-title{color:#f8fafc}
-.cmp-item-hdr{display:flex;justify-content:space-between;align-items:baseline;gap:6px;margin-bottom:2px}
-.cmp-cat{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#4f7ef8}
-.cmp-num{font-size:10px;color:#4a5568;flex-shrink:0}
-.cmp-title{font-size:13px;font-weight:600;color:#e2e8f0;line-height:1.35;margin-bottom:2px;transition:color .15s}
-.cmp-title .hl{color:#f59e0b}
-.cmp-abstract{font-size:12px;color:#7a90b0;line-height:1.45}
-.cmp-expand{display:none;padding-top:10px;margin-top:8px;border-top:1px solid #1a2030}
-.cmp-item.open .cmp-abstract{display:none}
-.cmp-item.open .cmp-expand{display:block}
-
-/* STALENESS BADGES */
-.badge{display:inline-block;font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px;margin-left:8px;vertical-align:middle;letter-spacing:.04em}
-.badge.fresh{background:#0d2818;color:#22c55e;border:1px solid #22c55e}
-.badge.stale1{background:#2a1e0e;color:#f59e0b;border:1px solid #f59e0b}
-.badge.stale{background:#2a1010;color:#ef4444;border:1px solid #ef4444}
-/* TAB TOOLBAR */
-.tab-toolbar{display:flex;justify-content:flex-end;margin-bottom:8px}
-.expand-btn{background:none;border:1px solid #252d3d;border-radius:6px;color:#6b7fa3;font-size:11px;padding:4px 10px;cursor:pointer;transition:all .2s}
-.expand-btn:hover{color:#c0cce4;border-color:#3d4f6e}
 @media(max-width:480px){
   .headline-title{font-size:17px}
   .bullet{flex-direction:column;gap:3px}
@@ -190,6 +167,7 @@ a{color:#4f7ef8;text-decoration:none}a:hover{text-decoration:underline}
   <div class="hdr-logo">News<span>Stream</span></div>
   <div class="hdr-right">
     <div class="hdr-date" id="hdr-date"></div>
+    <button id="notif-btn" class="refresh-btn" onclick="toggleNotif()" title="Tägliche Erinnerung um 7:00">🔕</button>
     <button id="refresh-btn" class="refresh-btn" onclick="manualRefresh()">↺ Refresh</button>
   </div>
 </div>
@@ -214,15 +192,15 @@ const RAW = 'https://raw.githubusercontent.com/mrgoodlife1989/newscondenser-expo
 
 // ── REFRESH STATE ─────────────────────────────────────────────────────────────
 const TODAY_KEY = new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD local date
-function getLastRefresh(){ try{ return localStorage.getItem('lastRefreshTs'); }catch(e){ return null; } }
-function setLastRefresh(){ try{ localStorage.setItem('lastRefreshTs',Date.now().toString()); }catch(e){} }
+function getLastRefresh(){ try{ return localStorage.getItem('lastRefreshDate'); }catch(e){ return null; } }
+function setLastRefresh(){ try{ localStorage.setItem('lastRefreshDate',TODAY_KEY); }catch(e){} }
 function updateRefreshBtn(){
   const btn=document.getElementById('refresh-btn');
   if(!btn) return;
-  const ts=getLastRefresh();
-  if(ts){ const ago=Math.round((Date.now()-parseInt(ts))/60000); btn.title=ago<1?'Just refreshed':`Last refreshed ${ago}m ago`; }
-  else btn.title='Refresh all tabs';
-  btn.disabled=false; btn.classList.add('ready');
+  const done=getLastRefresh()===TODAY_KEY;
+  btn.disabled=done;
+  btn.classList.toggle('ready',!done);
+  btn.title=done?'Already refreshed today — come back tomorrow':'Refresh all tabs';
 }
 async function manualRefresh(){
   // Clear SW cache for data files so network is always hit
@@ -240,44 +218,55 @@ async function manualRefresh(){
 function esc(s){
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
-function staleBadge(dateStr){
-  if(!dateStr) return '';
-  const d=new Date(dateStr+'T00:00:00');
-  const today=new Date(); today.setHours(0,0,0,0);
-  const diff=Math.floor((today-d)/86400000);
-  if(diff<=0) return '<span class="badge fresh">Today</span>';
-  if(diff===1) return '<span class="badge stale1">Yesterday</span>';
-  return `<span class="badge stale">${diff}d ago</span>`;
-}
-function setThumbFallback(img){
-  img.style.background='linear-gradient(135deg,#1e2a42 0%,#252d3d 100%)';
-  img.removeAttribute('src');
-}
-function toggleAll(tabId){
-  const items=[...document.querySelectorAll(`#${tabId} .cmp-item,#${tabId} .story,#${tabId} .sofc-section,#${tabId} .editorial`)];
-  const anyOpen=items.some(el=>el.classList.contains('open'));
-  items.forEach(el=>el.classList[anyOpen?'remove':'add']('open'));
-  const btn=document.querySelector(`#${tabId} .expand-btn`);
-  if(btn) btn.textContent=anyOpen?'Expand all':'Collapse all';
-}
 function hl(text, phrase){
   if(!phrase) return esc(text);
   const idx = String(text).toLowerCase().indexOf(String(phrase).toLowerCase());
   if(idx===-1) return esc(text);
   return esc(text.slice(0,idx))+'<span class="hl">'+esc(text.slice(idx,idx+phrase.length))+'</span>'+esc(text.slice(idx+phrase.length));
 }
-function toggle(el){
-  el.classList.toggle('open');
-  if(el.classList.contains('open')){
-    setTimeout(()=>el.scrollIntoView({behavior:'smooth',block:'nearest'}),80);
-  }
-  const id=el.id||'';
-  if(id.startsWith('sofc')||id.startsWith('sig')){
-    try{
-      const open=[...document.querySelectorAll('#tab-sofc .sofc-section.open,#tab-sofc .cmp-item.open')].map(e=>e.id).filter(Boolean);
-      localStorage.setItem('sofc_open',JSON.stringify(open));
-    }catch(e){}
-  }
+function toggle(el){ el.classList.toggle('open'); }
+
+// ── IMAGES ────────────────────────────────────────────────────────────────────
+// YouTube links get a direct thumbnail (no proxy, 100% reliable). Everything
+// else is a best-effort og:image scrape; on any failure the <img> hides itself
+// so we never show an empty grey box.
+function ytId(u){
+  if(!u) return null;
+  const m=String(u).match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|embed\/|live\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+  return m?m[1]:null;
+}
+function ytThumb(u){ const id=ytId(u); return id?`https://img.youtube.com/vi/${id}/hqdefault.jpg`:null; }
+function ogImage(html){
+  const m=html.match(/<meta[^>]+(?:property|name)=["'](?:og:image(?::secure_url)?|twitter:image)["'][^>]*content=["']([^"']+)["']/i)
+        ||html.match(/<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image|twitter:image)["']/i);
+  return m&&m[1]?m[1]:null;
+}
+function loadThumb(imgEl, link){
+  if(!imgEl||!link) return;
+  imgEl.onerror=()=>{ imgEl.style.display='none'; };
+  const yt=ytThumb(link);
+  if(yt){ imgEl.src=yt; return; }        // YouTube: direct thumb, no proxy needed
+  const proxies=[
+    'https://api.allorigins.win/raw?url='+encodeURIComponent(link),
+    'https://corsproxy.io/?url='+encodeURIComponent(link)
+  ];
+  (function tryProxy(i){
+    if(i>=proxies.length){ imgEl.style.display='none'; return; }
+    fetch(proxies[i]).then(r=>r.ok?r.text():Promise.reject())
+      .then(html=>{ const src=ogImage(html); if(src) imgEl.src=src; else tryProxy(i+1); })
+      .catch(()=>tryProxy(i+1));
+  })(0);
+}
+// Lazily load every <img data-link> under `root` when it nears the viewport.
+function lazyThumbs(root){
+  const obs=new IntersectionObserver((entries,ob)=>{
+    entries.forEach(e=>{
+      if(!e.isIntersecting) return;
+      ob.unobserve(e.target);
+      loadThumb(e.target, e.target.dataset.link);
+    });
+  },{rootMargin:'300px'});
+  (root||document).querySelectorAll('img[data-link]').forEach(img=>obs.observe(img));
 }
 function loading(id){ document.getElementById(id).innerHTML='<div class="loading"><div class="spinner"></div><div>Loading…</div></div>'; }
 function showErr(id, msg, url){
@@ -291,29 +280,39 @@ function renderAI(d){
     <div class="headline-label">${esc(d.headline.category_label)}</div>
     <div class="headline-title">${hl(d.headline.title,d.headline.highlight_phrase)}</div>
     <div class="headline-summary">${esc(d.headline.summary)}</div>
-    <div class="story-count">${d.stories.length} stories${staleBadge(d.date||d.generated_date||'')}</div>
+    <div class="story-count">${d.stories.length} stories</div>
   </div>`;
-  h+=`<div class="tab-toolbar"><button class="expand-btn" onclick="toggleAll('tab-ai')">Expand all</button></div>`;
-  h+=`<div class="cmp-list">`;
+  h+=`<div class="sec-hdr">Stories</div>`;
   (d.stories||[]).forEach((s,i)=>{
-    const srcHtml=(s.sources||[]).map(src=>src.url
-      ?`<a href="${esc(src.url)}" target="_blank" class="source-link">↗ ${esc(src.title)}</a>`
-      :`<span class="source-link">${esc(src.title)}</span>`).join('');
-    const bulletsHtml=(s.bullets||[]).map(b=>`<li class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></li>`).join('');
-    const calloutHtml=s.callout?`<div class="callout ${esc(s.callout.type)}"><div class="callout-label">${esc(s.callout.label)}</div><div class="callout-text">${esc(s.callout.text)}</div></div>`:'';
-    h+=`<div class="cmp-item" id="s${i}" onclick="toggle(this)">
-      <div class="cmp-item-hdr"><div class="cmp-cat">${esc(s.category)}</div><div class="cmp-num">${esc(s.number)}</div></div>
-      <div class="cmp-title">${hl(s.title,s.highlight_phrase)}</div>
-      ${s.toc_summary?`<div class="cmp-abstract">${esc(s.toc_summary)}</div>`:''}
-      <div class="cmp-expand">
-        ${s.quick_take?`<div class="story-qt">${esc(s.quick_take)}</div>`:''}
-        ${bulletsHtml?`<ul class="bullets">${bulletsHtml}</ul>`:''}
-        ${calloutHtml}
-        ${srcHtml?`<div class="sources">${srcHtml}</div>`:''}
+    // Image, in order of reliability: (1) `image` baked in by the pipeline
+    // (server-side og:image, no proxy) — the normal case; (2) fallback to a
+    // client-side YouTube/og:image scrape only if no baked image is present.
+    let thumb='';
+    if(s.image){
+      thumb=`<img class="story-thumb" src="${esc(s.image)}" alt="" onerror="this.style.display='none'">`;
+    } else {
+      const imgSrc=(s.sources||[]).find(src=>ytId(src.url))||(s.sources||[]).find(src=>src.url);
+      thumb=imgSrc?`<img class="story-thumb" data-link="${esc(imgSrc.url)}" src="" alt="">`:'';
+    }
+    h+=`<div class="story" id="s${i}">
+      <div class="story-hdr" onclick="toggle(document.getElementById('s${i}'))">
+        <div class="story-num">${esc(s.number)}</div>
+        <div class="story-meta">
+          <div class="story-cat">${esc(s.category)}</div>
+          <div class="story-title">${hl(s.title,s.highlight_phrase)}</div>
+          <div class="story-toc">${esc(s.toc_summary)}</div>
+        </div>
+        ${thumb}
+        <div class="story-chevron">▼</div>
+      </div>
+      <div class="story-body">
+        <div class="story-qt">${esc(s.quick_take)}</div>
+        <ul class="bullets">${(s.bullets||[]).map(b=>`<li class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></li>`).join('')}</ul>
+        ${s.callout?`<div class="callout ${esc(s.callout.type)}"><div class="callout-label">${esc(s.callout.label)}</div><div class="callout-text">${esc(s.callout.text)}</div></div>`:''}
+        <div class="sources">${(s.sources||[]).map(src=>src.url?`<a href="${esc(src.url)}" target="_blank" class="source-link">↗ ${esc(src.title)}</a>`:`<span class="source-link">${esc(src.title)}</span>`).join('')}</div>
       </div>
     </div>`;
   });
-  h+=`</div>`;
   const ed=d.editorial||{};
   if(ed.title){
     h+=`<div class="sec-divider"></div>
@@ -330,14 +329,16 @@ function renderAI(d){
     </div>`;
   }
   document.getElementById('tab-ai').innerHTML=h;
+  lazyThumbs(document.getElementById('tab-ai'));
 }
 
 // ── RENDER: FINANCE ───────────────────────────────────────────────────────────
 function renderFinance(raw){
   const title=(raw.headline&&raw.headline.title)||'Finance Brief';
   const stories=raw.stories||[];
-  let h=`<div class="stale-badge">📊 ${esc(title)}${staleBadge(raw.date)}</div>`;
+  let h=`<div class="stale-badge">📊 ${esc(title)}</div>`;
 
+  // Story 02 = markets: extract key values with regex for the grid
   const mkt=stories.find(s=>s.number==='02')||{};
   const qt=mkt.quick_take||'';
   const val=(p,fb)=>{const m=qt.match(p);return m?m[1]:fb||'—';};
@@ -368,21 +369,23 @@ function renderFinance(raw){
     </div><div class="sec-divider"></div>`;
   }
 
-  h+=`<div class="tab-toolbar"><button class="expand-btn" onclick="toggleAll('tab-finance')">Expand all</button></div>`;
-  h+=`<div class="sec-hdr">Full Edition</div><div class="cmp-list">`;
+  h+=`<div class="sec-hdr">Full Edition</div>`;
   stories.forEach((s,i)=>{
-    const abstract=(s.toc_summary||s.quick_take||'').slice(0,130);
-    h+=`<div class="cmp-item" id="fin${i}" onclick="toggle(this)">
-      <div class="cmp-item-hdr"><div class="cmp-cat">${esc(s.category)}</div><div class="cmp-num">${esc(s.number)}</div></div>
-      <div class="cmp-title">${esc(s.title)}</div>
-      ${abstract?`<div class="cmp-abstract">${esc(abstract+(abstract.length>=130?'…':''))}</div>`:''}
-      <div class="cmp-expand">
+    h+=`<div class="fin-story" id="fin${i}">
+      <div class="fin-story-hdr" onclick="toggle(document.getElementById('fin${i}'))">
+        <div class="story-num">${esc(s.number)}</div>
+        <div class="story-meta">
+          <div class="story-cat">${esc(s.category)}</div>
+          <div class="story-title">${esc(s.title)}</div>
+        </div>
+        <div class="story-chevron">▼</div>
+      </div>
+      <div class="fin-body">
         <div class="fin-qt">${esc(s.quick_take||'')}</div>
         ${(s.bullets||[]).map(b=>`<div class="bullet"><span class="bullet-label">${esc(b.label)}</span><span class="bullet-text">${esc(b.text)}</span></div>`).join('')}
       </div>
     </div>`;
   });
-  h+=`</div>`;
   document.getElementById('tab-finance').innerHTML=h;
 }
 
@@ -400,23 +403,18 @@ function sofcItem(it){
 }
 function renderSOFC(d){
   let h='';
-  h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}${staleBadge(d.date)}</div>`;
-  h+=`<div class="tab-toolbar"><button class="expand-btn" onclick="toggleAll('tab-sofc')">Expand all</button></div>`;
-  h+=`<div class="cmp-list">`;
-  (d.topSignals||[]).forEach((s,i)=>{
-    const abstract=s.text.length>130?s.text.slice(0,130).replace(/\s\w+$/,'')+'…':s.text;
-    h+=`<div class="cmp-item" id="sig${i}" onclick="toggle(this)">
-      <div class="cmp-item-hdr"><div class="cmp-cat">Signal</div><div class="cmp-num">${s.n}</div></div>
-      <div class="cmp-title">${esc(s.title)}</div>
-      <div class="cmp-abstract">${esc(abstract)}</div>
-      <div class="cmp-expand">
-        <div style="font-size:13px;color:#c0cce4;line-height:1.6;margin-bottom:8px">${esc(s.text)}</div>
+  h+=`<div class="sec-hdr">Top Signals — ${esc(d.date)}</div>`;
+  (d.topSignals||[]).forEach(s=>{
+    h+=`<div class="signal-card">
+      <div class="signal-n">${s.n}</div>
+      <div style="flex:1">
+        <div class="signal-title">${esc(s.title)}</div>
+        <div class="signal-text">${esc(s.text)}</div>
         ${s.url?`<div class="signal-sources"><a href="${esc(s.url)}" target="_blank" class="source-link">↗ Source</a></div>`:''}
-        ${s.url?`<img class="signal-card-img" data-link="${esc(s.url)}" src="" alt="">`:''  }
       </div>
+      ${s.url?`<img class="signal-card-img" data-link="${esc(s.url)}" src="" alt="">`:''}
     </div>`;
   });
-  h+=`</div>`;
   h+=`<div class="sec-divider"></div><div class="sec-hdr">Sections</div>`;
   (d.sections||[]).forEach((sec,i)=>{
     const firstItem=sec.items[0];
@@ -438,28 +436,7 @@ function renderSOFC(d){
     </div>`;
   }
   document.getElementById('tab-sofc').innerHTML=h;
-  // Restore previously open SOFC sections
-  try{
-    const _so=JSON.parse(localStorage.getItem('sofc_open')||'[]');
-    _so.forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('open');});
-  }catch(e){}
-  // Lazy-load og:image thumbnails for SOFC items
-  const sofcObs=new IntersectionObserver((entries,ob)=>{
-    entries.forEach(e=>{
-      if(!e.isIntersecting)return;
-      ob.unobserve(e.target);
-      const link=e.target.dataset.link;
-      if(!link)return;
-      fetch('https://corsproxy.io/?'+encodeURIComponent(link))
-        .then(r=>r.text())
-        .then(html=>{
-          const m=html.match(/property="og:image"\s+content="([^"]+)"/)
-                 ||html.match(/content="([^"]+)"\s+property="og:image"/);
-          if(m?.[1])e.target.src=m[1]; else setThumbFallback(e.target);
-        }).catch(()=>setThumbFallback(e.target));
-    });
-  },{rootMargin:'300px'});
-  document.querySelectorAll('.signal-card-img,.sofc-item-img').forEach(img=>sofcObs.observe(img));
+  lazyThumbs(document.getElementById('tab-sofc'));
 }
 
 // ── RENDER: ECONOMIST ─────────────────────────────────────────────────────────
@@ -510,35 +487,16 @@ function renderEconomist(){
     });
     h+=`</div>`;
     panel.innerHTML=h;
-    // Lazy-load og:image for each article via corsproxy
-    const imgObs=new IntersectionObserver((entries,ob)=>{
-      entries.forEach(e=>{
-        if(!e.isIntersecting)return;
-        ob.unobserve(e.target);
-        const link=e.target.dataset.link;
-        if(!link)return;
-        fetch('https://corsproxy.io/?'+encodeURIComponent(link))
-          .then(r=>r.text())
-          .then(html=>{
-            const m=html.match(/property="og:image"\s+content="([^"]+)"/)
-                   ||html.match(/content="([^"]+)"\s+property="og:image"/);
-            if(m?.[1])e.target.src=m[1]; else setThumbFallback(e.target);
-          }).catch(()=>setThumbFallback(e.target));
-      });
-    },{rootMargin:'400px'});
-    panel.querySelectorAll('.eco-thumb').forEach(img=>imgObs.observe(img));
+    lazyThumbs(panel);
   });
 }
 
 // ── TAB SWITCHING ─────────────────────────────────────────────────────────────
-let _econLoaded=false;
 function switchTab(name, btn){
   document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
   document.getElementById('tab-'+name).classList.add('active');
   btn.classList.add('active');
-  if(name==='economist'&&!_econLoaded){ _econLoaded=true; renderEconomist(); }
-  btn.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
 }
 
 // ── DATA LOADING ──────────────────────────────────────────────────────────────
@@ -557,6 +515,7 @@ async function loadData(force){
   loading('tab-ai');
   loading('tab-finance');
   loading('tab-sofc');
+  renderEconomist();
 
   const [ai, fin, sofc]=await Promise.allSettled([
     fetchJSON(RAW+'stories-latest.json',force),
@@ -583,31 +542,78 @@ async function loadData(force){
   }
 }
 
-
-// ── TOUCH: SWIPE + PULL-TO-REFRESH ────────────────────────────────────────────
-(()=>{
-  const TABS=['ai','finance','sofc','economist'];
-  let tx=0,ty=0;
-  document.addEventListener('touchstart',e=>{tx=e.touches[0].clientX;ty=e.touches[0].clientY;},{passive:true});
-  document.addEventListener('touchend',e=>{
-    const dx=e.changedTouches[0].clientX-tx;
-    const dy=e.changedTouches[0].clientY-ty;
-    if(Math.abs(dy)>Math.abs(dx)&&dy>90&&window.scrollY===0){ manualRefresh(); return; }
-    if(Math.abs(dx)>60&&Math.abs(dy)<50){
-      const cur=TABS.findIndex(t=>document.getElementById('tab-'+t).classList.contains('active'));
-      const next=dx<0?Math.min(cur+1,TABS.length-1):Math.max(cur-1,0);
-      if(next!==cur){ const btns=[...document.querySelectorAll('.tab-btn')]; switchTab(TABS[next],btns[next]); }
-    }
-  },{passive:true});
-})();
-
 // ── SERVICE WORKER ────────────────────────────────────────────────────────────
 if('serviceWorker' in navigator){
   navigator.serviceWorker.register('./sw.js').catch(()=>{});
 }
 
+// ── NOTIFICATIONS ─────────────────────────────────────────────────────────────
+// Daily reminder at 07:00 local time. Server-less: uses the Notification
+// Triggers API (TimestampTrigger), which fires even when the app is closed on
+// Android/Chrome. On each open we (re)schedule a rolling 14-day window, so the
+// user still gets pinged for up to two weeks without opening the app.
+const NOTIF_HOUR=7, NOTIF_KEY='notif7am';
+function notifSupported(){ return ('Notification' in window) && ('serviceWorker' in navigator); }
+function triggersSupported(){ try{ return 'showTrigger' in Notification.prototype; }catch(e){ return false; } }
+function notifOn(){ return localStorage.getItem(NOTIF_KEY)==='on' && notifSupported() && Notification.permission==='granted'; }
+function updateNotifBtn(){
+  const b=document.getElementById('notif-btn'); if(!b) return;
+  const on=notifOn();
+  b.classList.toggle('notif-on',on);
+  b.textContent=on?'🔔':'🔕';
+  b.title=on?'Tägliche Erinnerung um 7:00 aktiv — tippen zum Ausschalten':'Tägliche Erinnerung um 7:00 aktivieren';
+}
+async function clearScheduled(){
+  try{
+    const reg=await navigator.serviceWorker.ready;
+    const ex=await reg.getNotifications({includeTriggered:true});
+    ex.forEach(n=>{ if(n.tag&&n.tag.indexOf('daily7-')===0) n.close(); });
+  }catch(e){}
+}
+async function scheduleNotifs(){
+  if(!(notifSupported()&&Notification.permission==='granted'&&triggersSupported())) return;
+  const reg=await navigator.serviceWorker.ready;
+  await clearScheduled();
+  const now=new Date();
+  for(let i=0;i<14;i++){
+    const t=new Date(now.getFullYear(),now.getMonth(),now.getDate()+i,NOTIF_HOUR,0,0,0);
+    if(t.getTime()<=Date.now()+30000) continue;
+    try{
+      await reg.showNotification('☀️ NewsStream',{
+        tag:'daily7-'+t.toLocaleDateString('en-CA'),
+        body:'Dein täglicher Brief ist bereit — AI, Finance & mehr.',
+        icon:'icon.svg', badge:'icon.svg',
+        showTrigger:new TimestampTrigger(t.getTime()),
+        data:{url:'./'}
+      });
+    }catch(e){}
+  }
+}
+async function toggleNotif(){
+  if(!notifSupported()){ alert('Dieses Gerät unterstützt keine Web-Benachrichtigungen.'); return; }
+  if(localStorage.getItem(NOTIF_KEY)==='on'){
+    localStorage.setItem(NOTIF_KEY,'off');
+    await clearScheduled();
+    updateNotifBtn();
+    return;
+  }
+  let perm=Notification.permission;
+  if(perm!=='granted') perm=await Notification.requestPermission();
+  if(perm!=='granted'){ alert('Benachrichtigungen sind blockiert. Bitte in den Android-/Chrome-Einstellungen für NewsStream erlauben.'); updateNotifBtn(); return; }
+  if(!triggersSupported()){
+    alert('Deine Chrome-Version unterstützt geplante Benachrichtigungen (Notification Triggers) noch nicht. Bitte Chrome aktualisieren — ohne diese Funktion kann die 7-Uhr-Erinnerung nicht ohne Server ausgelöst werden.');
+    updateNotifBtn(); return;
+  }
+  localStorage.setItem(NOTIF_KEY,'on');
+  await scheduleNotifs();
+  updateNotifBtn();
+  alert('✅ Erinnerung aktiviert — täglich um 7:00. Öffne die App gelegentlich, damit die nächsten Tage nachgeladen werden.');
+}
+
 // ── INIT ──────────────────────────────────────────────────────────────────────
 updateRefreshBtn();
+updateNotifBtn();
+if(localStorage.getItem(NOTIF_KEY)==='on') scheduleNotifs();
 loadData();
 </script>
 </body>
