@@ -79,6 +79,11 @@ def main() -> int:
             vapid_private_key=priv,
             vapid_claims={"sub": subject},
             ttl=3600,
+            # High urgency: at 07:00 the phone is idle on a nightstand, and
+            # normal-priority pushes get held back by Android Doze until the
+            # device next wakes. Verified: a run against a dozing phone did not
+            # arrive, the same run against an awake phone arrived in ~20s.
+            headers={"Urgency": "high"},
         )
     except WebPushException as e:
         status = getattr(getattr(e, "response", None), "status_code", None)
