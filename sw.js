@@ -1,5 +1,5 @@
-// NewsStream Service Worker — v8: og:image via YouTube thumbs + 7:00 notification click
-const CACHE = 'newsstream-v8';
+// NewsStream Service Worker — v9: Web Push (daily 07:00 via GitHub Actions cron)
+const CACHE = 'newsstream-v9';
 const SHELL = ['./manifest.json','./icon.svg','./icon-maskable.svg'];
 
 self.addEventListener('install', e => {
@@ -16,13 +16,29 @@ self.addEventListener('activate', e => {
   self.clients.claim();
 });
 
-// Tapping the daily 07:00 reminder focuses an open app window or opens a new one.
+// Daily 07:00 push, sent by the GitHub Actions cron.
+self.addEventListener('push', e => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; }
+  catch (_) { d = {body: e.data ? e.data.text() : ''}; }
+  e.waitUntil(self.registration.showNotification(d.title || '☀️ NewsStream', {
+    body: d.body || 'Dein täglicher Brief ist bereit.',
+    icon: './icon.svg',
+    badge: './icon.svg',
+    tag: d.tag || 'daily-brief',
+    renotify: true,
+    data: {url: d.url || './'},
+  }));
+});
+
+// Tapping the notification focuses an open app window or opens a new one.
 self.addEventListener('notificationclick', e => {
   e.notification.close();
+  const target = (e.notification.data && e.notification.data.url) || './';
   e.waitUntil(
     clients.matchAll({type: 'window', includeUncontrolled: true}).then(cs => {
       for (const c of cs) { if ('focus' in c) return c.focus(); }
-      if (clients.openWindow) return clients.openWindow('./');
+      if (clients.openWindow) return clients.openWindow(target);
     })
   );
 });

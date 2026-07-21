@@ -547,73 +547,63 @@ if('serviceWorker' in navigator){
   navigator.serviceWorker.register('./sw.js').catch(()=>{});
 }
 
-// ── NOTIFICATIONS ─────────────────────────────────────────────────────────────
-// Daily reminder at 07:00 local time. Server-less: uses the Notification
-// Triggers API (TimestampTrigger), which fires even when the app is closed on
-// Android/Chrome. On each open we (re)schedule a rolling 14-day window, so the
-// user still gets pinged for up to two weeks without opening the app.
-const NOTIF_HOUR=7, NOTIF_KEY='notif7am';
-function notifSupported(){ return ('Notification' in window) && ('serviceWorker' in navigator); }
-function triggersSupported(){ try{ return 'showTrigger' in Notification.prototype; }catch(e){ return false; } }
-function notifOn(){ return localStorage.getItem(NOTIF_KEY)==='on' && notifSupported() && Notification.permission==='granted'; }
-function updateNotifBtn(){
+// ── NOTIFICATIONS (Web Push) ──────────────────────────────────────────────────
+// Chrome does NOT ship the Notification Triggers API (verified on-device:
+// TimestampTrigger is undefined), so a purely local scheduled notification is
+// impossible. Instead the app subscribes to Web Push and a GitHub Actions cron
+// sends the daily 07:00 push — which also works with the PC switched off.
+const VAPID_PUBLIC='BGGVFovATbI9FpEIpltcpqciXGh6m74XFBrzK8QV6hWT981ojqi52u3WrVzbVE6qy-4oWNAgnWq8l37bWtSaMcE';
+const NOTIF_KEY='notifPush';
+function b64ToU8(b64){
+  const pad='='.repeat((4-b64.length%4)%4);
+  const raw=atob((b64+pad).replace(/-/g,'+').replace(/_/g,'/'));
+  return Uint8Array.from([...raw].map(c=>c.charCodeAt(0)));
+}
+function pushSupported(){
+  return ('Notification' in window)&&('serviceWorker' in navigator)&&('PushManager' in window);
+}
+async function currentSub(){
+  try{ const reg=await navigator.serviceWorker.ready; return await reg.pushManager.getSubscription(); }
+  catch(e){ return null; }
+}
+async function updateNotifBtn(){
   const b=document.getElementById('notif-btn'); if(!b) return;
-  const on=notifOn();
+  const on=pushSupported()&&Notification.permission==='granted'&&!!(await currentSub());
   b.classList.toggle('notif-on',on);
   b.textContent=on?'🔔':'🔕';
-  b.title=on?'Tägliche Erinnerung um 7:00 aktiv — tippen zum Ausschalten':'Tägliche Erinnerung um 7:00 aktivieren';
-}
-async function clearScheduled(){
-  try{
-    const reg=await navigator.serviceWorker.ready;
-    const ex=await reg.getNotifications({includeTriggered:true});
-    ex.forEach(n=>{ if(n.tag&&n.tag.indexOf('daily7-')===0) n.close(); });
-  }catch(e){}
-}
-async function scheduleNotifs(){
-  if(!(notifSupported()&&Notification.permission==='granted'&&triggersSupported())) return;
-  const reg=await navigator.serviceWorker.ready;
-  await clearScheduled();
-  const now=new Date();
-  for(let i=0;i<14;i++){
-    const t=new Date(now.getFullYear(),now.getMonth(),now.getDate()+i,NOTIF_HOUR,0,0,0);
-    if(t.getTime()<=Date.now()+30000) continue;
-    try{
-      await reg.showNotification('☀️ NewsStream',{
-        tag:'daily7-'+t.toLocaleDateString('en-CA'),
-        body:'Dein täglicher Brief ist bereit — AI, Finance & mehr.',
-        icon:'icon.svg', badge:'icon.svg',
-        showTrigger:new TimestampTrigger(t.getTime()),
-        data:{url:'./'}
-      });
-    }catch(e){}
-  }
+  b.title=on?'Tägliche Benachrichtigung um 7:00 aktiv — tippen zum Abmelden'
+             :'Tägliche Benachrichtigung um 7:00 aktivieren';
 }
 async function toggleNotif(){
-  if(!notifSupported()){ alert('Dieses Gerät unterstützt keine Web-Benachrichtigungen.'); return; }
-  if(localStorage.getItem(NOTIF_KEY)==='on'){
-    localStorage.setItem(NOTIF_KEY,'off');
-    await clearScheduled();
-    updateNotifBtn();
+  if(!pushSupported()){ alert('Dieses Gerät unterstützt keine Web-Push-Benachrichtigungen.'); return; }
+  const sub=await currentSub();
+  if(sub){
+    try{ await sub.unsubscribe(); }catch(e){}
+    localStorage.removeItem(NOTIF_KEY);
+    await updateNotifBtn();
+    alert('Benachrichtigungen deaktiviert.');
     return;
   }
   let perm=Notification.permission;
   if(perm!=='granted') perm=await Notification.requestPermission();
-  if(perm!=='granted'){ alert('Benachrichtigungen sind blockiert. Bitte in den Android-/Chrome-Einstellungen für NewsStream erlauben.'); updateNotifBtn(); return; }
-  if(!triggersSupported()){
-    alert('Deine Chrome-Version unterstützt geplante Benachrichtigungen (Notification Triggers) noch nicht. Bitte Chrome aktualisieren — ohne diese Funktion kann die 7-Uhr-Erinnerung nicht ohne Server ausgelöst werden.');
-    updateNotifBtn(); return;
+  if(perm!=='granted'){
+    alert('Benachrichtigungen sind blockiert. Bitte in den Android-/Chrome-Einstellungen für NewsStream erlauben.');
+    await updateNotifBtn(); return;
   }
-  localStorage.setItem(NOTIF_KEY,'on');
-  await scheduleNotifs();
-  updateNotifBtn();
-  alert('✅ Erinnerung aktiviert — täglich um 7:00. Öffne die App gelegentlich, damit die nächsten Tage nachgeladen werden.');
+  try{
+    const reg=await navigator.serviceWorker.ready;
+    const s=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64ToU8(VAPID_PUBLIC)});
+    localStorage.setItem(NOTIF_KEY,JSON.stringify(s));
+    await updateNotifBtn();
+    alert('✅ Aktiviert — du bekommst täglich um 7:00 eine Benachrichtigung.');
+  }catch(e){
+    alert('Anmeldung fehlgeschlagen: '+((e&&e.message)||e));
+  }
 }
 
 // ── INIT ──────────────────────────────────────────────────────────────────────
 updateRefreshBtn();
 updateNotifBtn();
-if(localStorage.getItem(NOTIF_KEY)==='on') scheduleNotifs();
 loadData();
 </script>
 </body>
