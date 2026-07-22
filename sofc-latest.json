@@ -1,189 +1,51 @@
 {
-  "date": "2026-07-21",
-  "topSignals": [
+  "date": "2026-07-22",
+  "generated": "2026-07-22T07:00:00Z",
+  "top_signals": [
     {
-      "title": "TD Cowen Q2 preview triggers BE decline Monday — EBITDA 15% below Street; Oracle and AEP delays formally flagged",
-      "text": "— TD Cowen analyst Jeff Osborne published a pre-earnings note today (July 21, 7 days before the July 28 AH print), reiterating Hold/$235 and flagging two project-execution risks: (a) Oracle Project Jupiter still lacks an approved air permit and the natural gas pipeline remains blocked by the New Mexico Land Commissioner (second rejection July 14); (b) the AEP Wyoming campus \"reportedly lost its developer in June\" and the deployment schedule \"moved back by two years in less than 90 days.\" On revenue, TD Cowen is slightly above consensus at $837M vs. $833M Street estimate, but Osborne projects adjusted EBITDA of $127M — approximately 15% below the Street's $149M — implying product gross margin pressure. BE shares are declining Monday on the note. Options traders price a 32.4% post-earnings swing (vs. 12% historical average), reflecting the widest uncertainty band of the 2026 rally. TD Cowen also noted that potential new orders in Texas and Spain are positive but unconfirmed. Full analyst range: WF $217 EW | TD Cowen $235 Hold | Jefferies $246 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | UBS $350 Buy | Evercore ISI $350 OP. TipRanks / TD Cowen note | Benzinga Monday coverage | TipRanks 32% swing",
-      "url": "https://www.tipranks.com/news/bloom-energy-will-report-q2-earnings-on-july-28-heres-what-td-cowen-expects",
-      "n": 1
+      "rank": 1,
+      "title": "Bloom Energy: JPMorgan OW $346, BE +14.8%",
+      "body": "JPMorgan OW upgrade, PT $267->$346. 4.1 GW FY2030. Scandium 25 GW/year validated. BE $226.26. Q2 July 28 AH."
     },
     {
-      "title": "Bulletin of the Atomic Scientists formally debunks hyperscaler nuclear data center hype",
-      "text": "— Published July 20, Molly Langabeer and M.V. Ramana's \"Data centers powered by next-gen nuclear? Don't fall for Big Tech's PR hype\" (BAS, Vol. 82 Issue 4) is the first peer-reviewed academic publication to systematically challenge the nuclear-for-AI-data-centers narrative. Core arguments: (a) nuclear provided only 8.8% of global electricity in 2025 — roughly half its 30-year-ago share — while renewables now deliver 19.5%; (b) new-build timelines and HALEU fuel supply constraints make nuclear delivery in the 2025-2030 AI buildout window implausible; (c) hyperscaler nuclear announcements are primarily PR moves, not committed generation. The article directly parallels the Carnegie Endowment's June 2026 analysis (covered July 2) and provides the strongest independent academic backing yet for SOFC as the credible near-term firm-power alternative. Bulletin of the Atomic Scientists | BAS July 2026 issue",
-      "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/",
-      "n": 2
+      "rank": 2,
+      "title": "Topsoe: Herning SOEC hibernated; 440 jobs cut",
+      "body": "500 MW SOEC opened Oct 2025, now hibernated. $545-607M charges. Pivot e-SAF. H2 pathway unviable pre-2029."
     },
     {
-      "title": "AEP Wyoming developer loss confirmed — two-year slip in 90 days materializes as Bloom's second major project headwind",
-      "text": "— Per today's TD Cowen note, the Bloom Energy / AEP Wyoming campus (part of the $2.65B / 1 GW supply agreement announced January 8, 2026) lost its data center developer in June and slipped approximately two years in under 90 days, following the earlier Crusoe/Tallgrass Cheyenne \"Project Jade\" pause (June 9, covered). Combined with Oracle Project Jupiter's blocked pipeline and pending October 19 air permit hearing, Bloom's two largest individually named project commitments are now facing 2028+ delivery horizons — compressing the near-term revenue recognition picture heading into July 28 earnings. Benzinga Monday note | Parameter / Blockonomi project delay coverage | DCD Crusoe pause",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60559521/whats-going-on-with-bloom-energy-stock-monday-3",
-      "n": 3
+      "rank": 3,
+      "title": "Ceres Power: GBP 103M raise, H1 miss, Doosan SOFC/building Korea",
+      "body": "H1 revenue -26% GBP 21.1M. Loss GBP 19M. Shares -40%. Doosan building SOFC forward catalyst."
     }
   ],
-  "sections": [
-    {
-      "title": "Stack & Cell Technology",
-      "items": [
-        {
-          "text": "EFCF embargo: day 18 — No commercial-conditions efficiency, degradation, or manufacturing cost benchmarks from Elcogen (E3000 G2), Ceres licensees (Doosan), SolydEra, or Convion have been published online since the conference closed July 3. Watch elcogen.com, ceres.tech, solydera.com, and convion.fi press release channels. Key pending item remains: real-stack Elcogen E3000 G2 electrical efficiency at 650°C commercial conditions (stated 75% electrical / 90% CHP). The previously confirmed EFCF data from SolydEra (DynElectro 23,000h result, PMX 10 kW generator, 84% total efficiency) and Elcogen (23,000 rapid current cycles with performance improvement in SOEC mode) stand as the full publicly available technical readout to date.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Quiet day otherwise on stack-level news.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "AI Data Center Deployments",
-      "items": [
-        {
-          "text": "Oracle/Project Jupiter (2.45 GW): pipeline blocked (second NM Land Commissioner rejection July 14); air permit hearing October 19; August 15 in-service target no longer viable. Oracle states project remains \"on schedule\" but independent analyst assessment is 2028+ realistic delivery.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "AEP/Bloom Wyoming (1 GW within $2.65B agreement): developer lost June; deployment slipped ~2 years per TD Cowen. Full AEP 11-state 1 GW supply agreement structure likely intact; specific Wyoming campus is the delayed sub-project.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Active pipeline otherwise unchanged: FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026), Equinix >100 MW, Bloom/Brookfield $25B EaaS, Nebius 328 MW EaaS ($1.7B Oaktree/IDF project finance closed July 16), Bloom/AEP 1 GW (broader agreement intact).",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Regulations & Policy",
-      "items": [
-        {
-          "text": "FERC RM26-4 generation adequacy reports: filed yesterday (July 20), now accessible in eLibrary — The six RTOs/ISOs (PJM, MISO, SPP, CAISO, NYISO, ISO-NE) had a July 20 filing deadline for generation adequacy reports under FERC's June 18 Section 206 show cause orders. The reports, describing how adequate generation will serve new large loads, are now entering the FERC eLibrary (docket RM26-4). ISO-NE may have filed for a 90-day abeyance (pushing to ~August 3). These filings are the first regulator-mandated public quantification of the large-load firm-power gap by region. Any RTO establishing a self-supply pathway analogous to ERCOT Batch Zero codifies the SOFC grid-bypass economic advantage in that region. Watch the FERC eLibrary for filing content — key data: confirmed large-load MW in queue with no credible near-term grid service, and any self-supply exemption language. FERC RM26-4 docket | McGuireWoods analysis",
-          "url": "https://www.ferc.gov/rm26-4",
-          "sources": [
-            {
-              "title": "FERC RM26-4 docket",
-              "url": "https://www.ferc.gov/rm26-4"
-            },
-            {
-              "title": "McGuireWoods analysis",
-              "url": "https://www.mcguirewoods.com/client-resources/alerts/2026/6/ferc-issues-section-206-show-cause-orders-directing-all-six-rtos-isos-to-justify-or-reform-large-load-integration-rules/"
-            }
-          ]
-        },
-        {
-          "text": "Background unchanged: NY data center moratorium (EO 62, now in statute — Harris Beach Murtha July 2026), Germany EnEfG PUE ≤ 1.2 active from July 1, EU CADA energy efficiency rating scheme delayed into Q3, ITC 48E 30% credit active, ERCOT Batch Zero self-supply pathway active.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Competing On-Site Power",
-      "items": [
-        {
-          "text": "Bulletin of the Atomic Scientists nuclear critique — See Top Signal #2. The Langabeer/Ramana paper is the most academically credible challenge to nuclear data center claims published in 2026. Core data point: nuclear's global share dropped from ~17% in 1996 to 8.8% in 2025 despite repeated \"renaissance\" announcements. Combined with the Carnegie Endowment's June 2026 analysis, this establishes a strong independent-expert consensus that nuclear poses no material competitive threat to SOFC in the 2025-2030 window. Bulletin of the Atomic Scientists",
-          "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/",
-          "sources": [
-            {
-              "title": "Bulletin of the Atomic Scientists",
-              "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/"
-            }
-          ]
-        },
-        {
-          "text": "Background unchanged: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028), DOE $17.5B AP1000 nuclear loan programme (10 units, 2030+ construction start), Aalo Atomics 50 MWe Pods (10 MWe/core, 2028-2031 commercial horizon), Terrestrial Energy/Riot Platforms 4 GW IMSR (early 2030s), Google Meitner Energy Center (renewables + gas firming).",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Market & Financials",
-      "items": [
-        {
-          "text": "Bloom Energy (BE) — Declining Monday July 21 on TD Cowen Q2 preview (Hold/$235; Oracle/AEP delays flagged; EBITDA 15% below consensus). Last confirmed close: $210.12 (July 20, intraday range $194.60–$223.75). YTD: ~+250% despite -40% from $351 ATH. Q2 earnings July 28 (AH): consensus ~$833M revenue / EPS ~$0.41; TD Cowen project: $837M revenue / $127M EBITDA (vs. $149M consensus) / 32.4% options-implied post-earnings swing. Full analyst range (11 analysts): WF $217 EW ↔ UBS+Evercore ISI $350 OP; consensus mean ~$285 Hold/Moderate Buy. TipRanks earnings | Benzinga",
-          "url": "https://www.tipranks.com/news/bloom-energy-will-report-q2-earnings-on-july-28-heres-what-td-cowen-expects",
-          "sources": [
-            {
-              "title": "TipRanks earnings",
-              "url": "https://www.tipranks.com/news/bloom-energy-will-report-q2-earnings-on-july-28-heres-what-td-cowen-expects"
-            },
-            {
-              "title": "Benzinga",
-              "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60559521/whats-going-on-with-bloom-energy-stock-monday-3"
-            }
-          ]
-        },
-        {
-          "text": "FuelCell Energy (FCEL) — No material update today. Last known: ~$17, recovering from $21 July 9 offering price (post-July offering from Torrington expansion raise). Siemens EBOP MOU (July 9) and Torrington expansion ($225M raised, 350-500 MW/year by H2 2027) remain the active catalysts. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. Data center proposals >80% of 1.5 GW active pipeline. Q3 FY2026 earnings ~September 2026.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Scandium supply / Hunterbrook overhang — The July 8 Hunterbrook short report (Bloom supply chain / China scandium dependency claims) and Bloom's rebuttal remain background context; TD Cowen today noted the supply chain question is a \"central point of tension between bulls and bears\" heading into earnings. Blockspace/Hunterbrook | Bloom rebuttal 8-K",
-          "url": "https://blockspace.media/short/heres-what-hunterbrook-said-about-bloom-energy-in-its-short-report/",
-          "sources": [
-            {
-              "title": "Blockspace/Hunterbrook",
-              "url": "https://blockspace.media/short/heres-what-hunterbrook-said-about-bloom-energy-in-its-short-report/"
-            },
-            {
-              "title": "Bloom rebuttal 8-K",
-              "url": "https://www.stocktitan.net/sec-filings/BE/8-k-bloom-energy-corp-reports-material-event-fcbd2d56d6b6.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Research & IP",
-      "items": [
-        {
-          "text": "Bulletin of the Atomic Scientists — \"Data centers powered by next-gen nuclear? Don't fall for Big Tech's PR hype\" (July 20, 2026) — Langabeer & Ramana, BAS Vol. 82 Issue 4. First academic-journal treatment of the nuclear-vs.-fuel-cell competition for AI data center power. Methodology: tracks historical nuclear generation share vs. announcements since 1996; cross-references hyperscaler nuclear commitment sizes with realistic new-build timelines and HALEU supply-chain status. Conclusion: the \"renaissance\" framing is not supported by the technical and supply-chain realities. No specific SOFC endorsement, but the vacuum the paper defines is exactly the 90-day-deployable firm-power gap SOFC occupies. Bulletin of the Atomic Scientists",
-          "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/",
-          "sources": [
-            {
-              "title": "Bulletin of the Atomic Scientists",
-              "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/"
-            }
-          ]
-        },
-        {
-          "text": "Quiet otherwise. EFCF proceedings still under embargo (day 18). No new SOFC papers published in accessible form today.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    }
-  ],
-  "lcoe": [
-    {
-      "text": "TD Cowen EBITDA gap: $127M vs. $149M consensus at $837M revenue — If confirmed on July 28, this implies Bloom's product gross margin is running ~200bps below the 34% guidance target. At $837M revenue and 32% gross margin: $267M gross profit. Add a \"margin miss\" sensitivity case to the LCOE model: if manufacturing cost savings from the 2 GW Fremont ramp are delayed, the timeline for capex bend to $4,000-4,500/kW extends 1-2 quarters. Primary capex update date remains July 28 AH.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Oracle/AEP dual delay: 2027 revenue risk — If both projects slip to 2028, Bloom's 2027 deployable capacity becomes largely unallocated or redirected to smaller customers. Implication: Bloom's pricing leverage in new 2027 contracts may shift toward volume incentives (lower $/kW for speed-to-close), compressing EaaS margins. Watch July 28 call for any guidance update on Oracle delivery timeline and AEP Wyoming replacement.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Texas and Spain potential orders (unconfirmed) — TD Cowen flagged these as positive developments. If confirmed at the Q2 call, they partially offset Oracle/AEP risk and provide geographic diversification signals. No cost data available yet.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "FERC RM26-4 filings now accessible — Extract from FERC eLibrary: (a) confirmed large-load MW in queue with no credible grid service within 5 years per RTO, and (b) any self-supply exemption language. This quantifies the addressable US SOFC grid-bypass TAM with regulatory-grade data for the first time. Relevant to total market sizing input in LCOE model scenario planning.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Options-implied 32.4% post-earnings swing — Highest options-implied volatility around a BE earnings event in 2026. If the stock moves +32%, it retests the ~$277 level; at -32%, it tests $143. Both scenarios have material implications for Bloom's EaaS financing cost and institutional willingness to fund Brookfield/AEP-style structured deals.",
-      "url": "",
-      "sources": []
-    }
-  ]
+  "sections": {
+    "stack_cell": [
+      "Elcogen: EC VP Ribera ELCO I June. JNK India MoU. EUR 140M secured.",
+      "EFCF 2026: embargo day 19."
+    ],
+    "dc_deployments": [
+      "Oracle Jupiter: NM Land Cmr blocks gas pipeline Jul 16. Revised air permit minor source Jul 15. Hearing Oct 19."
+    ],
+    "regulations": [
+      "Quiet."
+    ],
+    "competing_power": [
+      "FCEL: UBS $22->$27 Neutral. +7.7% Jul 20.",
+      "SMR: Japan $40B US SMR (TN, AL). Power 2030+."
+    ],
+    "market": [
+      "BE $226.26 +14.8%. WF $217 EW to JPMorgan $346 OW.",
+      "FCEL UBS $27.",
+      "CWR -40% from peak; Doosan catalyst."
+    ],
+    "papers": [
+      "Anode-supported SOFC flow field review - Fuel Cells Vol 26/3 2026.",
+      "SOFC stationary power outlook - Frontiers 2025 newly indexed."
+    ],
+    "lcoe": [
+      "H2 pathway closed pre-2029. NG/biogas primary.",
+      "Scandium 25 GW/year: capex $4-4.5k/kW trajectory credible.",
+      "4.1 GW FY2030 >800 MW/year avg: update after Jul 28 call."
+    ]
+  }
 }
