@@ -1,51 +1,53 @@
 {
-  "date": "2026-07-22",
-  "generated": "2026-07-22T07:00:00Z",
+  "date": "2026-07-23",
   "top_signals": [
     {
       "rank": 1,
-      "title": "Bloom Energy: JPMorgan OW $346, BE +14.8%",
-      "body": "JPMorgan OW upgrade, PT $267->$346. 4.1 GW FY2030. Scandium 25 GW/year validated. BE $226.26. Q2 July 28 AH."
+      "headline": "BE -7.2% on TD Cowen Hold $235; 12 analysts tracked; options pricing 32% Q2 swing (July 28 AH)",
+      "tickers": [
+        "BE"
+      ],
+      "tags": [
+        "equity",
+        "analyst-rating",
+        "earnings-preview"
+      ]
     },
     {
       "rank": 2,
-      "title": "Topsoe: Herning SOEC hibernated; 440 jobs cut",
-      "body": "500 MW SOEC opened Oct 2025, now hibernated. $545-607M charges. Pivot e-SAF. H2 pathway unviable pre-2029."
+      "headline": "Nature Commun. 17:2421 (EPFL): 66.3% system efficiency, 0.2%/kh degradation — LCOE flag: extend stack life 10->15 yr",
+      "tickers": [],
+      "tags": [
+        "research",
+        "efficiency",
+        "lcoe"
+      ]
     },
     {
       "rank": 3,
-      "title": "Ceres Power: GBP 103M raise, H1 miss, Doosan SOFC/building Korea",
-      "body": "H1 revenue -26% GBP 21.1M. Loss GBP 19M. Shares -40%. Doosan building SOFC forward catalyst."
+      "headline": "FERC RM26-4: Generation Adequacy Reports filed July 20; Aug 17 tariff reform deadline next",
+      "tickers": [],
+      "tags": [
+        "regulation",
+        "ferc",
+        "interconnection"
+      ]
     }
   ],
   "sections": {
-    "stack_cell": [
-      "Elcogen: EC VP Ribera ELCO I June. JNK India MoU. EUR 140M secured.",
-      "EFCF 2026: embargo day 19."
+    "stack_cell": "Elcogen: EFCF embargo day 20+. Topsoe: quiet post-hibernation.",
+    "ai_datacenter_deployments": "Quiet. Active pipeline: Oracle/Jupiter 2.45GW, Crusoe 900MW, FCEL/Fit 380MW, Equinix 100MW+, AEP/Bloom 1GW, Brookfield $25B.",
+    "regulations_policy": "FERC RM26-4 reports filed. ISO-NE abeyance Aug 3. All-RTO tariff reform Aug 17.",
+    "competing_power": "Quiet. Microsoft Kilby 2.67GW CCGT (2028), DOE AP1000 nuclear (2030+).",
+    "market_financials": "BE: low $199.49 (-7.2%), recovered ~$229. YTD +147%. FY26 $3.4-3.8B. FCEL/Ceres quiet.",
+    "research_ip": "Scandium export licensing background. EFCF proceedings under embargo.",
+    "scientific_papers": [
+      "Nat.Commun.17:2421 EPFL scalable modular SOFC 66.3% system eff 0.2%/kh",
+      "ScienceDirect SOFC-GT-sCO2 hybrid 2025",
+      "ACS Omega SOFC-ethanol heat integration Nov 2025"
     ],
-    "dc_deployments": [
-      "Oracle Jupiter: NM Land Cmr blocks gas pipeline Jul 16. Revised air permit minor source Jul 15. Hearing Oct 19."
-    ],
-    "regulations": [
-      "Quiet."
-    ],
-    "competing_power": [
-      "FCEL: UBS $22->$27 Neutral. +7.7% Jul 20.",
-      "SMR: Japan $40B US SMR (TN, AL). Power 2030+."
-    ],
-    "market": [
-      "BE $226.26 +14.8%. WF $217 EW to JPMorgan $346 OW.",
-      "FCEL UBS $27.",
-      "CWR -40% from peak; Doosan catalyst."
-    ],
-    "papers": [
-      "Anode-supported SOFC flow field review - Fuel Cells Vol 26/3 2026.",
-      "SOFC stationary power outlook - Frontiers 2025 newly indexed."
-    ],
-    "lcoe": [
-      "H2 pathway closed pre-2029. NG/biogas primary.",
-      "Scandium 25 GW/year: capex $4-4.5k/kW trajectory credible.",
-      "4.1 GW FY2030 >800 MW/year avg: update after Jul 28 call."
-    ]
-  }
+    "lcoe_flags": "Add 65% high-efficiency scenario. Extend stack life 10->15 yr. July 28 AH model update trigger."
+  },
+  "next_catalyst": "Bloom Energy Q2 earnings July 28 AH — update LCOE model morning July 29",
+  "generated_utc": "2026-07-23T03:22:56.992486Z"
 }
