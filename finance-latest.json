@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-22",
+    "title": "Beating Beta — 2026-07-23",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-22",
+      "title": "Markets Snapshot — 2026-07-23",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Super Micro-Aktie schießt in die Höhe, nachdem sich ihre Margen unerwartet verdo",
-      "highlight_phrase": "Super Micro-Aktie schießt in die Höhe, n",
-      "toc_summary": "Super Micro-Aktie schießt in die Höhe, nachdem sich ihre Margen unerwartet verdo",
-      "quick_take": "Super Micro-Aktie schießt in die Höhe, nachdem sich ihre Margen unerwartet verdoppeln",
+      "title": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise",
+      "highlight_phrase": "Bullenmarkt droht Fed-Zinserhöhung durch",
+      "toc_summary": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise",
+      "quick_take": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Super Micro-Aktie schießt in die Höhe, nachdem sich ihre Margen unerwartet verdoppeln"
+          "text": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Dies ist die ideale Ruhestandsstrategie, wenn Sie Ihre Gesundheitskosten niedrig",
-      "highlight_phrase": "Dies ist die ideale Ruhestandsstrategie,",
-      "toc_summary": "Dies ist die ideale Ruhestandsstrategie, wenn Sie Ihre Gesundheitskosten niedrig",
-      "quick_take": "Dies ist die ideale Ruhestandsstrategie, wenn Sie Ihre Gesundheitskosten niedrig halten wollen",
+      "title": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum",
+      "highlight_phrase": "ServiceNow-Aktie steigt nach starken Qua",
+      "toc_summary": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum",
+      "quick_take": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Dies ist die ideale Ruhestandsstrategie, wenn Sie Ihre Gesundheitskosten niedrig halten wollen"
+          "text": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "SpaceX-Aktie beendet brutale Verlustserie vor dem Start der wichtigen Starship-R",
-      "highlight_phrase": "SpaceX-Aktie beendet brutale Verlustseri",
-      "toc_summary": "SpaceX-Aktie beendet brutale Verlustserie vor dem Start der wichtigen Starship-R",
-      "quick_take": "SpaceX-Aktie beendet brutale Verlustserie vor dem Start der wichtigen Starship-Rakete",
+      "title": "IBM senkt Prognose – aber weniger schlimm als befürchtet",
+      "highlight_phrase": "IBM senkt Prognose – aber weniger schlim",
+      "toc_summary": "IBM senkt Prognose – aber weniger schlimm als befürchtet",
+      "quick_take": "IBM senkt Prognose – aber weniger schlimm als befürchtet",
       "bullets": [
         {
           "label": "Detail",
-          "text": "SpaceX-Aktie beendet brutale Verlustserie vor dem Start der wichtigen Starship-Rakete"
+          "text": "IBM senkt Prognose – aber weniger schlimm als befürchtet"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum sprechen so ",
-      "highlight_phrase": "Ich werde definitiv frühzeitig Sozialver",
-      "toc_summary": "Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum sprechen so ",
-      "quick_take": "Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum sprechen so wenige über den Elefanten im Raum?",
+      "title": "\"Ich habe eine Selbstbeteiligung von 2.000 Dollar\"",
+      "highlight_phrase": "\"Ich habe eine Selbstbeteiligung von 2.0",
+      "toc_summary": "\"Ich habe eine Selbstbeteiligung von 2.000 Dollar\"",
+      "quick_take": "Mietwagen-Schaden bei Hertz – wer zahlt?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum sprechen so wenige über den Elefanten im Raum?"
+          "text": "Mietwagen-Schaden bei Hertz – wer zahlt?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Goldman Sachs schafft Private-Markets-Plattform, da reiche Anleger nach dem näch",
-      "highlight_phrase": "Goldman Sachs schafft Private-Markets-Pl",
-      "toc_summary": "Goldman Sachs schafft Private-Markets-Plattform, da reiche Anleger nach dem näch",
-      "quick_take": "Goldman Sachs schafft Private-Markets-Plattform, da reiche Anleger nach dem nächsten SpaceX und Stripe suchen",
+      "title": "Größte nachbörsliche Bewegungen",
+      "highlight_phrase": "Größte nachbörsliche Bewegungen",
+      "toc_summary": "Größte nachbörsliche Bewegungen",
+      "quick_take": "Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Goldman Sachs schafft Private-Markets-Plattform, da reiche Anleger nach dem nächsten SpaceX und Stripe suchen"
+          "text": "Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow u.a."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Wetten gegen SpaceX steigen auf 32% des Streubesitzes, während Elon Musk Leerver",
-      "highlight_phrase": "Wetten gegen SpaceX steigen auf 32% des ",
-      "toc_summary": "Wetten gegen SpaceX steigen auf 32% des Streubesitzes, während Elon Musk Leerver",
-      "quick_take": "Wetten gegen SpaceX steigen auf 32% des Streubesitzes, während Elon Musk Leerverkäufer warnt, sie würden nicht überleben",
+      "title": "John Paulson",
+      "highlight_phrase": "John Paulson",
+      "toc_summary": "John Paulson",
+      "quick_take": "Gold steht am Anfang eines langfristigen Bullenmarktes",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wetten gegen SpaceX steigen auf 32% des Streubesitzes, während Elon Musk Leerverkäufer warnt, sie würden nicht überleben"
+          "text": "Gold steht am Anfang eines langfristigen Bullenmarktes"
         }
       ],
       "callout": null,
