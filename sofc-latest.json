@@ -1,53 +1,190 @@
 {
-  "date": "2026-07-23",
-  "top_signals": [
+  "date": "2026-07-24",
+  "topSignals": [
     {
-      "rank": 1,
-      "headline": "BE -7.2% on TD Cowen Hold $235; 12 analysts tracked; options pricing 32% Q2 swing (July 28 AH)",
-      "tickers": [
-        "BE"
-      ],
-      "tags": [
-        "equity",
-        "analyst-rating",
-        "earnings-preview"
+      "title": "FERC orders NERC to establish mandatory reliability standards for data center \"computational loads\" (July 16, Docket RD26-7-000)",
+      "text": "— On July 16, FERC directed NERC to file modified Reliability Standards addressing computational load integration (servers, storage, networking equipment) by December 31, 2026, and to require \"computational load entity\" registration by the same deadline. FERC cited documented Bulk-Power System disturbances caused by data center loads as justification; a NERC workplan for additional standards is due March 1, 2027. This is the first time data centers come under NERC's mandatory reliability regime — operators now face formal registration, reporting, and compliance obligations similar to generators and transmission operators. SOFC angle: on-site islanded generation partially escapes this new grid-compliance burden while delivering the reliability FERC now mandates from grid-dependent operators, widening SOFC's avoided-cost advantage. Power Magazine | National Law Review | Sheppard Mullin",
+      "url": "https://www.powermag.com/ferc-orders-mandatory-nerc-reliability-standards-for-data-center-and-other-computational-loads/",
+      "n": 1
+    },
+    {
+      "title": "UMD breakthrough: record 4 W/cm² at 650°C via pressurized elevated O2 — published in Advanced Energy Materials",
+      "text": "— Prof. Eric Wachsman's group at the University of Maryland Energy Innovation Institute achieved the highest power density ever reported for a low-temperature SOFC: 4 W/cm² at 650°C. The approach uses a nano-engineered ceria-based electrolyte with elevated oxygen partial pressure at the cathode, dramatically reducing activation losses without increasing operating temperature. At 650°C (same operating point as Elcogen's E3000 G2), this power density means significantly smaller stack footprints for a given kW output, pointing to a direct capex-reduction pathway. Authors explicitly target AI data center deployment and electrification of aviation. Cell-level result — system-level validation pending. UMD Energy Innovation Institute | Clark School Engineering",
+      "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough",
+      "n": 2
+    },
+    {
+      "title": "EdgeMode Malpica 300MW Bloom SOFC campus receives €300M Non-Binding Offer from Spark AI Foundry Holdings (July 13)",
+      "text": "— US-based Spark AI Foundry Holdings LLC submitted a non-binding offer to acquire EdgeMode's ready-to-build 300MW AI data center campus in Malpica, Toledo, Spain at €1M per MW of RTB IT capacity (implied €300M valuation). The campus is built around 30x 10MW Bloom Energy SOFC modules fueled by natural gas (hydrogen-ready) with carbon capture integration. EdgeMode is simultaneously seeking buyers for its broader Spanish DC pipeline targeting 1.5 GW. If closed, this would be the first completed European SOFC-powered AI data center acquisition — a significant market validation signal for the European on-site SOFC thesis. GlobeNewswire | Data Center Dynamics",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326402/0/en/EdgeMode-fast-tracks-growth-with-Non-Binding-Offer-from-Spark-AI-Foundry-Holdings-LLC-for-its-Ready-to-Build-300-MW-AI-Data-Centre-Project-in-Malpica-Spain.html",
+      "n": 3
+    }
+  ],
+  "sections": [
+    {
+      "title": "Stack & Cell Technology",
+      "items": [
+        {
+          "text": "Elcogen: No new developments in the last 24-48 hours. Status: E3000 G2 (75% electrical / 90% CHP at 650°C, 119-cell reversible stack) in volume production at ELCO I factory (360 MW/yr, Tallinn). €140M total funding secured (Baker Hughes, HD Hyundai, HydrogenOne Capital, Mirae, EU Innovation Fund €24.9M). JNK India MoU (Feb 2026) and Thailand/Bonicorn/Eltronic partnership (Apr 2026) active. EFCF 2026 post-conference proceedings under embargo (day 21+). Watch: ELCO I ramp trajectory and any EFCF paper releases.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Topsoe: No new developments. Herning SOEC factory hibernation and 440-job cuts remain the status quo (covered July 22). SOFC/SOEC supply pipeline context unchanged: H2 pathway for SOFC deferred to 2029+; NG/biogas base case confirmed for LCOE modeling. Demonstration plant in operation showing strong results per July 2026 website update.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "UMD 4 W/cm² at 650°C (Advanced Energy Materials) — See Top Signal #2. Pressurized elevated-O2 operating regime + nano-engineered ceria cathode achieves highest ever power density at low temperature. Cell-level result; system-level validation and scale-up remain open research questions. If applied to Elcogen-style 650°C stacks, could reduce stack area (and thus ceramic material cost) by factor of ~3x vs. today's ~1.3-1.5 W/cm² commercial benchmarks.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
-      "rank": 2,
-      "headline": "Nature Commun. 17:2421 (EPFL): 66.3% system efficiency, 0.2%/kh degradation — LCOE flag: extend stack life 10->15 yr",
-      "tickers": [],
-      "tags": [
-        "research",
-        "efficiency",
-        "lcoe"
+      "title": "AI Data Center Deployments",
+      "items": [
+        {
+          "text": "EdgeMode Malpica 300MW (Bloom SOFC) — Spark AI Foundry NBO, €300M — See Top Signal #3. First European SOFC-powered AI data center at RTB stage with a signed NBO from a US investor. Validates the \"grid bypass\" strategy in Spain, where grid interconnection delays are equally acute as in the US. Project design: 300 MW IT load, natural gas SOFC base case, hydrogen-ready, carbon capture integrated. GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/07/13/3326402/0/en/EdgeMode-fast-tracks-growth-with-Non-Binding-Offer-from-Spark-AI-Foundry-Holdings-LLC-for-its-Ready-to-Build-300-MW-AI-Data-Centre-Project-in-Malpica-Spain.html",
+          "sources": [
+            {
+              "title": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/07/13/3326402/0/en/EdgeMode-fast-tracks-growth-with-Non-Binding-Offer-from-Spark-AI-Foundry-Holdings-LLC-for-its-Ready-to-Build-300-MW-AI-Data-Centre-Project-in-Malpica-Spain.html"
+            }
+          ]
+        },
+        {
+          "text": "Active US pipeline unchanged: Oracle Jupiter (2.45 GW, air permit unresolved), Crusoe/Cheyenne (900 MW Phase 1, Bloom SOFC, H2 2026 target), FCEL/Fit Energy (30 MW initial delivery H2 2026, 350 MW option), AEP/Bloom (1 GW, Wyoming, 2030 target), Bloom/Brookfield ($25B framework), Nebius/IDF/Oaktree ($1.7B project). No new deployment announcements today.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Next primary catalyst: Bloom Q2 earnings July 28 AH — Street consensus $828.4M revenue / $0.41 EPS; options pricing 32.4% swing. Key pipeline disclosures expected: Oracle Jupiter permit status, AEP Wyoming timeline, any new deal announcements.",
+          "url": "",
+          "sources": []
+        }
       ]
     },
     {
-      "rank": 3,
-      "headline": "FERC RM26-4: Generation Adequacy Reports filed July 20; Aug 17 tariff reform deadline next",
-      "tickers": [],
-      "tags": [
-        "regulation",
-        "ferc",
-        "interconnection"
+      "title": "Regulations & Policy",
+      "items": [
+        {
+          "text": "FERC/NERC Computational Loads Order (July 16, Docket RD26-7-000) — See Top Signal #1. Mandatory NERC reliability standards for computational loads by Dec 31, 2026; computational load entity registration required. SOFC self-supply benefit: islanded on-site generation partially avoids the grid-compliance obligations now imposed on grid-dependent data center operators. Power Magazine | National Law Review",
+          "url": "https://www.powermag.com/ferc-orders-mandatory-nerc-reliability-standards-for-data-center-and-other-computational-loads/",
+          "sources": [
+            {
+              "title": "Power Magazine",
+              "url": "https://www.powermag.com/ferc-orders-mandatory-nerc-reliability-standards-for-data-center-and-other-computational-loads/"
+            },
+            {
+              "title": "National Law Review",
+              "url": "https://natlawreview.com/article/ferc-directs-nerc-file-reliability-standards-apply-data-centers"
+            }
+          ]
+        },
+        {
+          "text": "FERC RM26-4 calendar: ISO-NE abeyance filing deadline August 3; full tariff reform filings from all RTOs/ISOs August 17. ERCOT Batch Zero self-supply pathway (on-site generators bypass the 438 GW queue) remains the most immediately actionable regulatory tailwind for SOFC. FERC RM26-4",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        {
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE) — Stock ~$219-$220 (July 23-24); range $213-$229 intraday July 23. ~43% below the June 17-18 ATH of $351.28; -3% from July 23 TD Cowen Hold reiteration. Q2 earnings July 28 AH — options implying 32.4% swing. Consensus: $828.4M revenue / $0.41 EPS (revised up from $804M/$0.36). 12-analyst range: WF $217 EW — Evercore ISI $350 OP. Primary model update event of the week. BusinessWire | TipRanks Q2 preview",
+          "url": "https://www.businesswire.com/news/home/20260706169350/en/Bloom-Energy-to-Announce-Second-Quarter-2026-Financial-Results-on-July-28-2026",
+          "sources": [
+            {
+              "title": "BusinessWire",
+              "url": "https://www.businesswire.com/news/home/20260706169350/en/Bloom-Energy-to-Announce-Second-Quarter-2026-Financial-Results-on-July-28-2026"
+            },
+            {
+              "title": "TipRanks Q2 preview",
+              "url": "https://www.tipranks.com/news/bloom-energy-will-report-q2-earnings-on-july-28-heres-what-td-cowen-expects"
+            }
+          ]
+        },
+        {
+          "text": "FuelCell Energy (FCEL) — Stock ~$21-$23. $225M equity offering (10.7M shares at $21) closed July 9; proceeds fund Torrington expansion to 350-500 MW/yr. Shelf registration updated July 21 for future financing flexibility. Q3 FY2026 earnings ~September 2026. No new announcements July 24. GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/07/08/3323792/8041/en/FuelCell-Energy-Announces-Upsize-and-Pricing-of-Offering-of-Common-Text.html",
+          "sources": [
+            {
+              "title": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/07/08/3323792/8041/en/FuelCell-Energy-Announces-Upsize-and-Pricing-of-Offering-of-Common-Text.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Research & IP",
+      "items": [
+        {
+          "text": "Chemistry - An Asian Journal (2026): \"Advances, Challenges, and Future Directions in Materials for Solid Oxide Fuel Cells\" — Quantitative materials review comparing power density and polarization resistance across electrode architectures; identifies durability and high cost as the two dominant bottlenecks. Proposes advanced electrocatalyst integration and improved sealing as primary routes to <$4,000/kW target. First appearance in digest. Wiley",
+          "url": "https://aces.onlinelibrary.wiley.com/doi/10.1002/asia.70619",
+          "sources": [
+            {
+              "title": "Wiley",
+              "url": "https://aces.onlinelibrary.wiley.com/doi/10.1002/asia.70619"
+            }
+          ]
+        },
+        {
+          "text": "EFCF 2026 proceedings still under embargo — Day 21+ since the June 30 - July 3 Lucerne conference. No papers from Elcogen, Ceres Power, SolydEra, or Convion published. Watch elcogen.com and efcf.com for releases.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Scientific Papers — SOFC Systems",
+      "items": [
+        {
+          "text": "\"High Power Density, Low Temperature SOFCs at Elevated Oxygen Partial Pressure\", Advanced Energy Materials, 2026 (Wachsman group, University of Maryland). Record 4 W/cm² at 650°C via pressurized elevated-O2 + nano-engineered ceria electrolyte. System-adjacent: pressurized operating mode enables dramatic stack miniaturization — smaller stacks, same power output, lower ceramic material cost per kW. Explicitly targets AI data center deployment. LCOE flag: if 4 W/cm² scales to system level, capex per kW could decrease 30-40% vs. today's ~1.3-1.5 W/cm² commercial benchmark at the same stack temperature and fuel efficiency. UMD Energy Innovation Institute",
+          "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough",
+          "sources": [
+            {
+              "title": "UMD Energy Innovation Institute",
+              "url": "https://energy.umd.edu/news/story/solid-oxide-fuel-cell-breakthrough"
+            }
+          ]
+        },
+        {
+          "text": "Quiet day for new peer-reviewed SOFC system papers beyond the above.",
+          "url": "",
+          "sources": []
+        }
       ]
     }
   ],
-  "sections": {
-    "stack_cell": "Elcogen: EFCF embargo day 20+. Topsoe: quiet post-hibernation.",
-    "ai_datacenter_deployments": "Quiet. Active pipeline: Oracle/Jupiter 2.45GW, Crusoe 900MW, FCEL/Fit 380MW, Equinix 100MW+, AEP/Bloom 1GW, Brookfield $25B.",
-    "regulations_policy": "FERC RM26-4 reports filed. ISO-NE abeyance Aug 3. All-RTO tariff reform Aug 17.",
-    "competing_power": "Quiet. Microsoft Kilby 2.67GW CCGT (2028), DOE AP1000 nuclear (2030+).",
-    "market_financials": "BE: low $199.49 (-7.2%), recovered ~$229. YTD +147%. FY26 $3.4-3.8B. FCEL/Ceres quiet.",
-    "research_ip": "Scandium export licensing background. EFCF proceedings under embargo.",
-    "scientific_papers": [
-      "Nat.Commun.17:2421 EPFL scalable modular SOFC 66.3% system eff 0.2%/kh",
-      "ScienceDirect SOFC-GT-sCO2 hybrid 2025",
-      "ACS Omega SOFC-ethanol heat integration Nov 2025"
-    ],
-    "lcoe_flags": "Add 65% high-efficiency scenario. Extend stack life 10->15 yr. July 28 AH model update trigger."
-  },
-  "next_catalyst": "Bloom Energy Q2 earnings July 28 AH — update LCOE model morning July 29",
-  "generated_utc": "2026-07-23T03:22:56.992486Z"
+  "lcoe": [
+    {
+      "text": "EdgeMode Malpica NBO at €1M/MW RTB: first disclosed market transaction price for a European SOFC-powered AI data center asset. At 300 MW and €300M, this implies ~€1,000/kW just for the ready-to-build infrastructure rights (land, permits, interconnect, contracts) before SOFC hardware cost. Useful reference for European project development cost benchmarking.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "FERC/NERC computational load compliance cost: once NERC standards are filed (by Dec 31, 2026), grid-dependent data centers will face incremental compliance costs (registration, reporting, potentially curtailment obligations). Avoided-compliance-cost benefit for on-site SOFC self-supply: estimated $2-8/MWh based on analogous generator compliance costs — add as a positive LCOE adjustment line in SOFC vs. grid comparison.",
+      "url": "",
+      "sources": []
+    }
+  ]
 }
