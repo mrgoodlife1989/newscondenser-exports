@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-23",
+    "title": "Beating Beta — 2026-07-24",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,7 +9,7 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-23",
+      "title": "Markets Snapshot — 2026-07-24",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise",
-      "highlight_phrase": "Bullenmarkt droht Fed-Zinserhöhung durch",
-      "toc_summary": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise",
-      "quick_take": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise",
+      "title": "FDA-Berater sprechen sich fuer Zulassung von Peptiden wie BPC-157 und TB-500 in den USA aus",
+      "highlight_phrase": "FDA-Berater sprechen sich fuer Zulassung",
+      "toc_summary": "FDA-Berater sprechen sich fuer Zulassung von Peptiden wie BPC-157 und TB-500 in den USA aus",
+      "quick_take": "naechste Schritte unklar.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Bullenmarkt droht Fed-Zinserhöhung durch Iran-Krise"
+          "text": "naechste Schritte unklar."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum",
-      "highlight_phrase": "ServiceNow-Aktie steigt nach starken Qua",
-      "toc_summary": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum",
-      "quick_take": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum",
+      "title": "August-Aktienflaute ist ein Mythos",
+      "highlight_phrase": "August-Aktienflaute ist ein Mythos",
+      "toc_summary": "August-Aktienflaute ist ein Mythos",
+      "quick_take": "warum die Wall Street trotzdem daran festhaelt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "ServiceNow-Aktie steigt nach starken Quartalszahlen und Cybersecurity-Wachstum"
+          "text": "warum die Wall Street trotzdem daran festhaelt."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "IBM senkt Prognose – aber weniger schlimm als befürchtet",
-      "highlight_phrase": "IBM senkt Prognose – aber weniger schlim",
-      "toc_summary": "IBM senkt Prognose – aber weniger schlimm als befürchtet",
-      "quick_take": "IBM senkt Prognose – aber weniger schlimm als befürchtet",
+      "title": "S&P 500 zeigt Verkaufssignale",
+      "highlight_phrase": "S&P 500 zeigt Verkaufssignale",
+      "toc_summary": "S&P 500 zeigt Verkaufssignale",
+      "quick_take": "Optionshaendler wetten auf heftige Ausschläge bei Apple, Meta und Microsoft.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "IBM senkt Prognose – aber weniger schlimm als befürchtet"
+          "text": "Optionshaendler wetten auf heftige Ausschläge bei Apple, Meta und Microsoft."
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich habe eine Selbstbeteiligung von 2.000 Dollar\"",
-      "highlight_phrase": "\"Ich habe eine Selbstbeteiligung von 2.0",
-      "toc_summary": "\"Ich habe eine Selbstbeteiligung von 2.000 Dollar\"",
-      "quick_take": "Mietwagen-Schaden bei Hertz – wer zahlt?",
+      "title": "Ja, der KI-Aktienausverkauf sieht erschreckend aus",
+      "highlight_phrase": "Ja, der KI-Aktienausverkauf sieht erschr",
+      "toc_summary": "Ja, der KI-Aktienausverkauf sieht erschreckend aus",
+      "quick_take": "aber er koennte den Bullenmarkt retten.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mietwagen-Schaden bei Hertz – wer zahlt?"
+          "text": "aber er koennte den Bullenmarkt retten."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Größte nachbörsliche Bewegungen",
-      "highlight_phrase": "Größte nachbörsliche Bewegungen",
-      "toc_summary": "Größte nachbörsliche Bewegungen",
-      "quick_take": "Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow u.a.",
+      "title": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf",
+      "highlight_phrase": "USA und andere Nationen unterstützen Ope",
+      "toc_summary": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf",
+      "quick_take": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf China-Gipfel.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow u.a."
+          "text": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf China-Gipfel."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "John Paulson",
-      "highlight_phrase": "John Paulson",
-      "toc_summary": "John Paulson",
-      "quick_take": "Gold steht am Anfang eines langfristigen Bullenmarktes",
+      "title": "Groesste nachboersliche Kursbewegungen",
+      "highlight_phrase": "Groesste nachboersliche Kursbewegungen",
+      "toc_summary": "Groesste nachboersliche Kursbewegungen",
+      "quick_take": "Intel, AMD, Boston Beer, Deckers und weitere.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Gold steht am Anfang eines langfristigen Bullenmarktes"
+          "text": "Intel, AMD, Boston Beer, Deckers und weitere."
         }
       ],
       "callout": null,
