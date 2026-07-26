@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "topSignals": [
     {
-      "title": "Bloom Energy closes at $184.89 (-14.9%) — two-day fuel cell rout deepens ahead of Q2 earnings",
-      "text": "— On July 25 (Friday), BE added a further -14.9% decline (volume: 15.8M shares, +29.5% above the 65-day average) to close at $184.89, extending a -13% drop on July 24 that also pulled down FuelCell Energy (-9%) and Plug Power (-4%). BE is now ~47% below the June 17-18 all-time high of $351; the YTD gain has collapsed from +219% at the peak to approximately +98%. Core bear thesis: Bloom's FY2026 guidance midpoint ($3.6B) requires approximately $1.04B/quarter in H2 given Q1 actuals ($751M) and consensus Q2 ($828M) — a step-change acceleration that Oracle Jupiter's unresolved permitting makes increasingly uncertain. Q2 earnings Monday July 28 (after close): consensus $828.4M revenue / $0.41 EPS; options pricing a 32.4% post-earnings swing. At $184.89, BE now trades below all 12 analyst price targets for the first time. ts2.tech | 24/7 Wall St. July 24 selloff",
-      "url": "https://ts2.tech/en/bloom-energy-drops-15-spotlighting-doubts-on-its-2026-revenue-strategy-as-u-s-markets-close/",
+      "title": "Bloom Energy at $184.89 entering Q2 earnings: below every analyst target, but $2.49B cash and $14B backlog anchor the bull case",
+      "text": "— With BE having shed 47% from the June $351 ATH and closing Friday at $184.89 (below all 12 analyst price targets for the second consecutive session), weekend pre-earnings analysis frames the binary on Monday July 28 AH. Bull case anchors: $2.491B cash (up 213% YoY), $14B service backlog in 10-15 year contracts delivering annuity-grade visibility, and the Fremont 2 GW factory ramp funded and on track. Bear case: FY2026 guidance midpoint ($3.6B) requires ~$1.04B/quarter in H2 with Oracle Jupiter's gas supply route legally blocked and AEP Wyoming slipped two years. Q2 consensus: $828.4M revenue / $0.41 EPS; Zacks pegs a more conservative $766.88M / $0.39. Options implying 32.4% post-earnings swing. Decisive sector reset event of the week. 24/7 Wall St. | TipRanks Q2 preview | Zacks/Yahoo Finance",
+      "url": "https://247wallst.com/investing/2026/07/25/should-you-buy-bloom-energy-before-july-28-earnings-after-its-40-1-month-decline/",
       "n": 1
     },
     {
-      "title": "Oracle Project Jupiter gas pipeline rejected for a SECOND TIME (NM Land Commissioner, July 20)",
-      "text": "— New Mexico Land Commissioner Garcia Richard denied Energy Transfer's Green Chile pipeline application for the second time on July 20, 2026. The pipeline — designed to carry 400 MMcf/day to fuel 2.45 GW of Bloom SOFCs — is blocked from crossing state land; objections cite water use, CO2 emissions, and insufficient state revenue. A third application, alternative land route, or federal easement is now required. Simultaneously, the NM Environment Department has scheduled a public hearing on the air quality permit, with a final decision deadline in late November 2026. Two sequential prerequisites (gas supply + air quality permit) remain unresolved. SemiAnalysis has revised its base-case first-power estimate from 2027 to 2029. Pete Dinelli (2nd rejection) | DCD | Seeking Alpha",
-      "url": "https://www.petedinelli.com/2026/07/20/land-commissioner-garcia-richard-rejects-for-a-second-time-project-jupiter-request-for-natural-gas-pipeline-environment-department-schedules-hearing-on-air-quality-permit-application-commentary-gar/",
+      "title": "NERC August 3 deadline is reporting-only, not enforcement: compliance clock for grid-tied data centers starts in 2027",
+      "text": "— A Morgan Lewis analysis clarifies the NERC Level 3 Essential Action Alert covered in the July 25 digest: the August 3 deadline requires registered entities to answer 33 questions on computational-load visibility — not to implement compliance measures. Mandatory reliability standards take effect only after NERC files by December 31, 2026 and FERC approves (2027). The practical implication: no near-term compliance cost burden for grid-tied data centers in 2026. Long-term structural advantage for on-site SOFC self-supply (avoidance of entity registration, reporting, and potential curtailment obligations) is unchanged but shifts into the 2027+ scenario. Morgan Lewis Power & Pipes | Avanza Energy analysis | NERC newsroom",
+      "url": "https://www.morganlewis.com/blogs/powerandpipes/2026/05/nerc-alert-moves-data-centers-from-emerging-risks-to-planning-obligations",
       "n": 2
     },
     {
-      "title": "NERC Level 3 Essential Action Alert — 7 computational-load compliance actions due August 3",
-      "text": "— NERC issued a Level 3 (\"Essential Action\") alert directing all registered entities to implement seven immediate compliance measures for computational load integration: modeling, studies, instrumentation, commissioning, operations, protection, and control. Deadline: August 3, 2026 — eight days away. This is the fastest-moving consequence of FERC's July 16 Docket RD26-7-000 order (covered July 24 digest). Grid-dependent data center operators now face mandatory near-term NERC compliance; on-site SOFC islanded generation substantially avoids this burden, adding a new avoided-compliance-cost line to the self-supply value case. NERC newsroom | RTO Insider",
-      "url": "https://www.nerc.com/newsroom/ferc-sets-year-end-deadline-for-nerc-to-finalize-registry-criteria-and-standards-for-computational-loads",
+      "title": "DayOne Singapore 20 MW SOFC data center: first Asia-Pacific on-site fuel cell deployment, RFS targeted 2026",
+      "text": "— DayOne Data Centers broke ground on a 20 MW AI data center in Singapore that will trial H2-powered SOFC generation alongside a renewable energy PPA with Sembcorp Power — the first SOFC data center deployment in Asia-Pacific. DayOne closed a $2B+ funding round in January 2026 to fund facility construction. Singapore EDB granted approval; the site spans ~40,000 m² with high-density GPU support and hybrid air/liquid cooling. Supporting research partnership with National University of Singapore (STDCT 2.0). Phase One RFS targeted 2026. The 20 MW scale is modest vs. US GW-class projects, but the deployment establishes SOFC as commercially viable in a new regulatory geography and sets a precedent for Asian hyperscaler procurement. First appearance in this digest. Hydrogen Central | DCD | Fuel Cells Works",
+      "url": "https://hydrogen-central.com/dayone-breaks-ground-on-green-ai-data-centre-in-singapore-20mw-site-will-trial-solid-oxide-fuel-cell-sofc-hydrogen-power/",
       "n": 3
     }
   ],
@@ -25,17 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen: Quiet. No EFCF 2026 proceedings published (day 22+ embargo). E3000 G2 deliveries confirmed underway per elcogen.com product page; ELCO I factory (360 MW/yr, Tallinn) in volume production. Additional context (first appearance): EU Commission Executive VP Teresa Ribera visited the Tallinn facility in June 2026, confirming political-level visibility of the ELCO I ramp. Watch: elcogen.com for EFCF data; ELCO I throughput update in Q3.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Topsoe: Quiet on new SOFC/SOEC data-center orders. Herning SOEC factory hibernation and 440-job cut unchanged. New context (first appearance): Topsoe was selected to deliver 120 MW SOEC technology for Carbon Neutral Fuels' Project Starling — an e-sustainable aviation fuel project in Workington, UK; construction planned 2028, operations target 2031, pending FID. Topsoe's electrolyzer demonstration plant continues to deliver strong results per company communications. H2 fuel pathway for SOFC data-center deployments remains deferred to 2029+; NG/biogas base case confirmed for LCOE modeling. Topsoe/Carbon Neutral Fuels",
-          "url": "https://www.topsoe.com/news/topsoe-and-carbon-neutral-fuels-join-forces-to-advance-e-saf-with-soec-electrolyzer-technology",
+          "text": "Elcogen: Quiet. EFCF 2026 proceedings still under embargo (day 23+). No data from E3000 G2 (stated 75% electrical / 90% CHP at 650°C) published. ELCO I factory (360 MW/yr, Tallinn) in volume production; E3000 G2 deliveries underway per product page. Watch elcogen.com for any lift of the embargo. elcogen.com",
+          "url": "https://elcogen.com/",
           "sources": [
             {
-              "title": "Topsoe/Carbon Neutral Fuels",
-              "url": "https://www.topsoe.com/news/topsoe-and-carbon-neutral-fuels-join-forces-to-advance-e-saf-with-soec-electrolyzer-technology"
+              "title": "elcogen.com",
+              "url": "https://elcogen.com/"
+            }
+          ]
+        },
+        {
+          "text": "Topsoe: Quiet. Herning SOEC factory hibernation (440 jobs, $545-607M in charges) and Project Starling 120 MW SOEC (e-SAF, Workington UK, construction 2028, operations 2031) remain the most recent status — both covered in prior digests. Demonstration plant delivering strong results per company communications. NG/biogas base case for SOFC confirmed; H2 pathway deferred to 2029+. Topsoe.com",
+          "url": "https://www.topsoe.com/",
+          "sources": [
+            {
+              "title": "Topsoe.com",
+              "url": "https://www.topsoe.com/"
             }
           ]
         }
@@ -45,12 +50,21 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Oracle Project Jupiter (2.45 GW) — Second pipeline rejection confirmed as the central near-term execution risk (see Top Signal #2). Without a resolved gas supply route, Bloom cannot fuel the 2.45 GW SOFC campus. Timeline now open-ended; SemiAnalysis base-case first power 2029. Oracle has not issued a formal timeline update.",
-          "url": "",
-          "sources": []
+          "text": "DayOne Singapore (20 MW, SOFC trial) — See Top Signal #3. First Asia-Pacific SOFC data center deployment. H2-powered SOFC trial alongside renewable PPA (Sembcorp Power). NUS research partnership (STDCT 2.0). RFS targeted 2026. Not GW-class but validates SOFC deployability under Singapore EDB regulatory approval. Hydrogen Central | DCD",
+          "url": "https://hydrogen-central.com/dayone-breaks-ground-on-green-ai-data-centre-in-singapore-20mw-site-will-trial-solid-oxide-fuel-cell-sofc-hydrogen-power/",
+          "sources": [
+            {
+              "title": "Hydrogen Central",
+              "url": "https://hydrogen-central.com/dayone-breaks-ground-on-green-ai-data-centre-in-singapore-20mw-site-will-trial-solid-oxide-fuel-cell-sofc-hydrogen-power/"
+            },
+            {
+              "title": "DCD",
+              "url": "https://www.datacenterdynamics.com/en/news/dayone-breaks-ground-on-20mw-data-center-in-singapore/"
+            }
+          ]
         },
         {
-          "text": "Active pipeline (unchanged): Crusoe/Cheyenne (900 MW Phase 1, Bloom, H2 2026 target), FCEL/Fit Energy (30 MW initial delivery H2 2026, 350 MW option), Equinix (>100 MW), AEP/Bloom (1 GW, Wyoming, 2030), Bloom/Brookfield ($25B framework), Nebius/IDF/Oaktree ($1.7B). EdgeMode Malpica 300 MW Bloom SOFC Spain — Spark AI Foundry NBO €300M (covered July 24) status unchanged.",
+          "text": "Active US pipeline unchanged: Oracle Jupiter (2.45 GW, gas supply blocked by 2nd NM land rejection + air permit hearing October 19, November 23 decision), Crusoe/Cheyenne (900 MW Phase 1, H2 2026 target), FCEL/Fit Energy (30 MW initial delivery H2 2026), Equinix >100 MW, AEP/Bloom 1 GW (Wyoming, 2030), Bloom/Brookfield $25B EaaS, Nebius/IDF/Oaktree $1.7B. Next primary catalyst: Bloom Q2 earnings Monday July 28 AH.",
           "url": "",
           "sources": []
         }
@@ -60,26 +74,27 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "NERC Level 3 Essential Action Alert (August 3 deadline) — See Top Signal #3. Seven mandatory compliance actions for computational loads due from all NERC-registered entities. ISO-NE abeyance filing deadline also August 3. Full FERC RM26-4 tariff reform filings from all RTOs/ISOs due August 17.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "NY EO 62 moratorium (active, no new developments): The one-year ban on new hyperscale DCs (≥50 MW) in New York signed July 14 remains in effect. Senators Sanders and Ocasio-Cortez have introduced federal legislation (first mention) to apply a similar moratorium nationally — status pending committee review. CNBC | AOL/Sanders-AOC bill",
-          "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
+          "text": "NERC August 3 deadline clarification — See Top Signal #2. August 3 = 33 reporting questions only; enforcement of mandatory reliability standards begins 2027 after NERC December 31, 2026 filing and FERC approval. Retained as 2027+ LCOE input. Morgan Lewis",
+          "url": "https://www.morganlewis.com/blogs/powerandpipes/2026/05/nerc-alert-moves-data-centers-from-emerging-risks-to-planning-obligations",
           "sources": [
             {
-              "title": "CNBC",
-              "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html"
-            },
-            {
-              "title": "AOL/Sanders-AOC bill",
-              "url": "https://www.aol.com/articles/sanders-ocasio-cortez-push-bill-180525390.html"
+              "title": "Morgan Lewis",
+              "url": "https://www.morganlewis.com/blogs/powerandpipes/2026/05/nerc-alert-moves-data-centers-from-emerging-risks-to-planning-obligations"
             }
           ]
         },
         {
-          "text": "Quiet otherwise. No new EU CADA, Germany EnEfG, ERCOT, or Virginia legislative developments.",
+          "text": "FERC RM26-4 calendar: ISO-NE abeyance filing deadline August 3; full RTO/ISO tariff reform or show-cause filings August 17. ERCOT Batch Zero self-supply pathway remains the most actionable tailwind for on-site SOFC. FERC RM26-4",
+          "url": "https://www.ferc.gov/rm26-4",
+          "sources": [
+            {
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
+            }
+          ]
+        },
+        {
+          "text": "Quiet Sunday otherwise. No new EU CADA, Germany EnEfG, Virginia DC tax, or NY EO 62 developments.",
           "url": "",
           "sources": []
         }
@@ -89,14 +104,13 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "~50% of planned 2026 US data center builds face delays or cancellation — July 24 industry analysis confirms that roughly half of planned 2026 US data-center capacity will be delayed or cancelled, driven by interconnection queue backlog, permitting resistance (NM, NY), and AI capex uncertainty. This structural shortfall is a sustained macro-level tailwind for SOFC on-site self-supply deployments that bypass the grid entirely.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Bulletin of Atomic Scientists (July 24): \"Don't fall for Big Tech's nuclear PR hype\" — Independent expert consensus unchanged: nuclear power for AI data centers is a post-2030 story at best; relicensed large light-water units (TMI, Calpine fleet) are the only near-term play; SMRs remain commercially viable mid-2030s earliest. No competitive threat to SOFC before 2030. Bulletin of the Atomic Scientists",
-          "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/",
+          "text": "SMR/nuclear: Quiet weekend. Aalo Atomics Aalo-X experimental reactor was targeting criticality in July 2026 — no confirmed announcement. Microsoft Crane Clean Energy Center (835 MW, first power H2 2027) remains the only near-term nuclear-data-center milestone. SMR commercialization consensus: mid-2030s at earliest for meaningful commercial volume. No near-term competitive threat to SOFC. IDTechEx SMR tracker | Bulletin of the Atomic Scientists",
+          "url": "https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments",
           "sources": [
+            {
+              "title": "IDTechEx SMR tracker",
+              "url": "https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments"
+            },
             {
               "title": "Bulletin of the Atomic Scientists",
               "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/"
@@ -104,7 +118,7 @@
           ]
         },
         {
-          "text": "Quiet otherwise. No new CCGT, battery, or PEM announcements.",
+          "text": "Quiet otherwise. No new CCGT or battery announcements.",
           "url": "",
           "sources": []
         }
@@ -114,28 +128,23 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE) — Close July 25: $184.89 (-14.9%); volume 15.8M shares (+29.5% vs. 65-day avg). Prior session July 24 close: approximately -13% from July 23's ~$229, to ~$218; then July 25 extended the decline. Two-session cumulative drop from July 23: approximately -19%. BE has shed ~47% from June 17-18 ATH ($351); YTD gain now approximately +98%. At $184.89, BE trades below all 12 analyst price targets for the first time in this cycle. Full tracker unchanged: WF $217 EW | TD Cowen $235 Hold | Jefferies $246 Hold | Truist $250 Hold | Barclays $276 EW | Roth $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | JPMorgan $346 OP | Evercore ISI $350 OP. FY2026 guidance $3.4-3.8B, backlog $20B unchanged. ts2.tech | TipRanks Q2 preview",
-          "url": "https://ts2.tech/en/bloom-energy-drops-15-spotlighting-doubts-on-its-2026-revenue-strategy-as-u-s-markets-close/",
+          "text": "Bloom Energy (BE): Closed Friday July 25 at $184.89 (-14.9%); two-session loss from July 23 high of ~$229: approximately -19%. BE is now 47% below the June 17-18 ATH of $351; YTD gain ~+98%. BE holds $2.491B cash (up 213% YoY) and $14B service backlog under 10-15 year contracts. FY2026 guidance $3.4-3.8B / EPS $1.85-$2.25 / adj. EBITDA $650-800M unchanged. Full 12-analyst tracker (unchanged from July 25): WF $217 EW | TD Cowen $235 Hold | Jefferies $246 Hold | Truist $250 Hold | Barclays $276 EW | Roth Capital $285 Neutral | Clear Street $290 | Susquehanna $298 Positive | Baird $310 OP | RBC $335 OP | JPMorgan $346 OP | Evercore ISI $350 OP. Q2 earnings Monday July 28 AH: consensus $828.4M / $0.41 EPS (Zacks: $766.88M / $0.39); options 32.4% swing. 24/7 Wall St. | Yahoo Finance",
+          "url": "https://247wallst.com/investing/2026/07/25/should-you-buy-bloom-energy-before-july-28-earnings-after-its-40-1-month-decline/",
           "sources": [
             {
-              "title": "ts2.tech",
-              "url": "https://ts2.tech/en/bloom-energy-drops-15-spotlighting-doubts-on-its-2026-revenue-strategy-as-u-s-markets-close/"
+              "title": "24/7 Wall St.",
+              "url": "https://247wallst.com/investing/2026/07/25/should-you-buy-bloom-energy-before-july-28-earnings-after-its-40-1-month-decline/"
             },
             {
-              "title": "TipRanks Q2 preview",
-              "url": "https://www.tipranks.com/news/bloom-energy-stock-price-forecast-what-financial-analysts-expect-ahead-of-q2-earnings"
+              "title": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/quote/BE/"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL) — July 24: approximately -9% (sector contagion from BE decline). No new fundamental news July 25. Torrington expansion funded ($225M equity offering at $21, closed July 9); Siemens EBOP MOU active; UBS PT raised to $27 Neutral (July 20, covered prior digest). Q3 FY2026 earnings ~September 2026. StocksToTrade July 20",
-          "url": "https://stockstotrade.com/news/fuelcell-energy-inc-fcel-news-2026_07_20/",
-          "sources": [
-            {
-              "title": "StocksToTrade July 20",
-              "url": "https://stockstotrade.com/news/fuelcell-energy-inc-fcel-news-2026_07_20/"
-            }
-          ]
+          "text": "FuelCell Energy (FCEL): Quiet weekend. Last close approximately $20-21 (sector contagion -9% on July 24 from BE decline). Torrington expansion funded ($225M, 350-500 MW/yr by H2 2027); Siemens EBOP MOU active. Q3 FY2026 earnings ~September 2026.",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -143,23 +152,23 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "EFCF 2026 proceedings — day 22+ embargo: No papers from Elcogen, Ceres Power, SolydEra, or Convion published. Key pending data: (a) Elcogen E3000 G2 real-commercial efficiency at 650°C (stated 75% electrical / 90% CHP), (b) Doosan yield trajectory vs. 90% target. Watch elcogen.com and efcf.com.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Delta Electronics Taiwan SOFC/SOEC factory — NT$6.95 billion (~$215M) factory site acquired by Delta in Taiwan for large-scale manufacturing of Ceres-licensed solid oxide hydrogen energy solutions (SOFC + SOEC), with production scheduled to start by end-2026. Expands the Asian Ceres licensing ecosystem as an alternative non-US SOFC supply pathway alongside Doosan (Korea). Ceres PR | World-Energy.org",
-          "url": "https://www.ceres.tech/newsroom/news-and-insights/ceres-welcomes-delta-electronics-investment-in-factory-site-for-solid-oxide-hydrogen-energy-solutions/",
+          "text": "\"Toward high-efficiency solid oxide fuel cells: A comprehensive review of hybrid integration techniques\" - Renewable and Sustainable Energy Reviews, Vol. 229, April 2026 (ScienceDirect, article S1364032125013097). Exhaustive review of hybrid SOFC configurations: SOFC-GT, SOFC-CHP, SOFC-CCHP, SOFC+carbon capture, SOFC+battery, biomass-SOFC. Key finding: hybridization enables ~70% electrical efficiency and ~90% total system efficiency. Reviews thermal, sealing, materials, and control challenges with roadmaps toward commercialization. First full digest treatment. Relevant for CHP-mode SOFC at European data centers required to meet Germany EnEfG waste-heat ERF (10% active, 15% July 2027, 20% July 2028). ScienceDirect | IDEAS/RePEC",
+          "url": "https://www.sciencedirect.com/article/pii/S1364032125013097",
           "sources": [
             {
-              "title": "Ceres PR",
-              "url": "https://www.ceres.tech/newsroom/news-and-insights/ceres-welcomes-delta-electronics-investment-in-factory-site-for-solid-oxide-hydrogen-energy-solutions/"
+              "title": "ScienceDirect",
+              "url": "https://www.sciencedirect.com/article/pii/S1364032125013097"
             },
             {
-              "title": "World-Energy.org",
-              "url": "https://www.world-energy.org/article/47264.html"
+              "title": "IDEAS/RePEC",
+              "url": "https://ideas.repec.org/a/eee/rensus/v229y2026ics1364032125013097.html"
             }
           ]
+        },
+        {
+          "text": "EFCF 2026 proceedings — day 23 embargo: No publications from Elcogen, Ceres Power, SolydEra, or Convion. Key pending: E3000 G2 confirmed efficiency at 650°C (stated 75% electrical / 90% CHP), Doosan yield trajectory vs. 90% target. Watch elcogen.com and efcf.com.",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -167,17 +176,17 @@
       "title": "Scientific Papers — SOFC Systems",
       "items": [
         {
-          "text": "EPFL modular SOFC system: Nature Commun. 17:2421, Feb 2026 — 66.3% system efficiency, 0.2%/kh degradation (covered July 23). LCOE flag: update base-case stack replacement interval from 10 to 15 years.",
-          "url": "",
-          "sources": []
+          "text": "\"Toward high-efficiency solid oxide fuel cells: A comprehensive review of hybrid integration techniques\" - Renew. Sustain. Energy Rev., Vol. 229, April 2026. See Research & IP above. LCOE flag: The 70% electrical / 90% total efficiency benchmarks (hybrid SOFC-GT/CHP configurations) set an updated upper bound for the \"high-efficiency\" sensitivity scenario. The 90% total efficiency case (full heat recovery) is most relevant for European data centers under Germany EnEfG waste-heat reuse requirements. Recommend updating the high-efficiency sensitivity case: revise base input from 66.3% (EPFL modular, Nat. Commun. 2026) to 70% (hybrid SOFC-GT), with corresponding fuel cost reduction of ~14% vs. the 60% standalone base case. ScienceDirect",
+          "url": "https://www.sciencedirect.com/article/pii/S1364032125013097",
+          "sources": [
+            {
+              "title": "ScienceDirect",
+              "url": "https://www.sciencedirect.com/article/pii/S1364032125013097"
+            }
+          ]
         },
         {
-          "text": "UMD 4 W/cm² at 650°C: Adv. Energy Mater., 2026 — record low-temperature power density (covered July 24). LCOE flag: future capex scenario <$3,500/kW if power density scales.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Chemistry – An Asian Journal materials review: Wiley, 2026 — electrode/catalyst benchmarks (covered July 24).",
+          "text": "Quiet day for new preprints. Prior featured papers remain active references: EPFL modular SOFC Nat. Commun. 17:2421 (66.3% system efficiency, 0.2%/kh degradation) and UMD 4 W/cm² at 650°C Adv. Energy Mater. (both covered July 23-24).",
           "url": "",
           "sources": []
         }
@@ -186,22 +195,22 @@
   ],
   "lcoe": [
     {
-      "text": "Oracle Jupiter second rejection — delayed capex scale curve: 2.45 GW now likely 2029+. Bloom Fremont 2 GW/yr factory at lower-than-planned utilization 2027-2028 delays volume-driven cost reduction. Add \"low-utilization\" scenario: Bloom at ~40-60% capacity factor 2027-2028, pushing the $4,000-4,500/kW capex milestone from 2027 to 2029.",
+      "text": "Hybrid SOFC efficiency benchmark (Renew. Sustain. Energy Rev. 2026): 70% electrical / 90% total - Add a \"SOFC-GT hybrid\" scenario to the LCOE model at 70% LHV electrical efficiency with full heat recovery. At 70% vs. 60% base case, fuel cost component decreases by ~14%. With ITC 48E (30% capex credit), SOFC-GT hybrid LCOE: approximately $95-150/MWh unsubsidized; $70-110/MWh with ITC 48E. This overlaps the full Lazard 2026 CCGT range ($51-129/MWh) even before speed-to-power, NOx, and compliance-cost differentials are applied.",
       "url": "",
       "sources": []
     },
     {
-      "text": "BE at $184.89 — H2 guidance validation on July 28 (Monday): Revenue needs $1.04B/quarter in H2 to hit guidance midpoint. A Q2 miss or reduced H2 guidance would trigger a further revision of the capex-reduction timeline. Key inputs from the Q2 call: (a) manufacturing cost/kW at Fremont, (b) product gross margin vs. ~34%, (c) Oracle Jupiter / AEP Wyoming timeline updates, (d) any EaaS $/MWh pricing disclosure.",
+      "text": "NERC compliance cost: definitively post-2027 - Shift NERC avoided-compliance-cost benefit ($3-12/MWh) from 2026 to 2027+ scenario column in the SOFC vs. grid LCOE comparison.",
       "url": "",
       "sources": []
     },
     {
-      "text": "NERC computational-load compliance — $3-12/MWh avoided-cost benefit for SOFC self-supply: NERC Level 3 alert + December 31 mandatory standards create ongoing compliance overhead for grid-tied DC operators (modeling, instrumentation, reporting, potential curtailment obligations). By analogy with NERC CIP standards: estimated $3-10M/yr for large operators, translating to $3-12/MWh at 100 MW / 8,760 h/yr. Add as a positive adjustment line in SOFC vs. grid LCOE comparison.",
+      "text": "DayOne Singapore precedent: RTB infrastructure cost ~$100M/20MW = $5,000/kW - Implied development cost (land, permits, construction, interconnect) of approximately $5,000/kW for the Singapore site, excluding SOFC hardware. Higher than US benchmarks due to Singapore land cost, but establishes a reference for Asian project development cost benchmarking.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Topsoe Project Starling (120 MW SOEC, 2031): e-SAF/green-H2 application; no near-term impact on SOFC data-center LCOE. NG/biogas base case confirmed for all near-to-medium-term SOFC scenarios.",
+      "text": "Primary model update event: Bloom Q2 earnings Monday July 28 AH - Five inputs: (a) manufacturing cost/kW at 2 GW Fremont run rate, (b) product gross margin vs. ~34% guidance, (c) Oracle Jupiter and AEP Wyoming timeline/status update, (d) any EaaS $/MWh pricing disclosure from Nebius or Brookfield deployments, (e) guidance beat/cut magnitude. The $2.491B cash position and $14B service backlog reduce liquidity-risk probability; the key unknown is revenue recognition timing on Oracle and Wyoming projects.",
       "url": "",
       "sources": []
     }
