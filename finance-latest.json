@@ -1,55 +1,22 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-24",
+    "title": "Beating Beta — 2026-07-27",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "02",
-      "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-24",
-      "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
-      "bullets": [
-        {
-          "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
-        },
-        {
-          "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
-        },
-        {
-          "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
-        },
-        {
-          "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Yahoo Finance · Bloomberg · CNBC",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "FDA-Berater sprechen sich fuer Zulassung von Peptiden wie BPC-157 und TB-500 in den USA aus",
-      "highlight_phrase": "FDA-Berater sprechen sich fuer Zulassung",
-      "toc_summary": "FDA-Berater sprechen sich fuer Zulassung von Peptiden wie BPC-157 und TB-500 in den USA aus",
-      "quick_take": "naechste Schritte unklar.",
+      "title": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, W",
+      "highlight_phrase": "Ölpreise sinken, Aktienfutures erholen s",
+      "toc_summary": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, W",
+      "quick_take": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, Wall Street wartet auf volle Woche",
       "bullets": [
         {
           "label": "Detail",
-          "text": "naechste Schritte unklar."
+          "text": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, Wall Street wartet auf volle Woche"
         }
       ],
       "callout": null,
@@ -63,14 +30,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "August-Aktienflaute ist ein Mythos",
-      "highlight_phrase": "August-Aktienflaute ist ein Mythos",
-      "toc_summary": "August-Aktienflaute ist ein Mythos",
-      "quick_take": "warum die Wall Street trotzdem daran festhaelt.",
+      "title": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kau",
+      "highlight_phrase": "\"Ich werde definitiv frühzeitig Sozialve",
+      "toc_summary": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kau",
+      "quick_take": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kaum jemand über das offensichtliche Problem?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "warum die Wall Street trotzdem daran festhaelt."
+          "text": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kaum jemand über das offensichtliche Problem?\""
         }
       ],
       "callout": null,
@@ -84,14 +51,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "S&P 500 zeigt Verkaufssignale",
-      "highlight_phrase": "S&P 500 zeigt Verkaufssignale",
-      "toc_summary": "S&P 500 zeigt Verkaufssignale",
-      "quick_take": "Optionshaendler wetten auf heftige Ausschläge bei Apple, Meta und Microsoft.",
+      "title": "\"Es ist nichts Persönliches\"",
+      "highlight_phrase": "\"Es ist nichts Persönliches\"",
+      "toc_summary": "\"Es ist nichts Persönliches\"",
+      "quick_take": "Soll ich meiner 96-jährigen Stiefmutter sagen, dass ich ihr Erbe nicht will?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Optionshaendler wetten auf heftige Ausschläge bei Apple, Meta und Microsoft."
+          "text": "Soll ich meiner 96-jährigen Stiefmutter sagen, dass ich ihr Erbe nicht will?"
         }
       ],
       "callout": null,
@@ -105,14 +72,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Ja, der KI-Aktienausverkauf sieht erschreckend aus",
-      "highlight_phrase": "Ja, der KI-Aktienausverkauf sieht erschr",
-      "toc_summary": "Ja, der KI-Aktienausverkauf sieht erschreckend aus",
-      "quick_take": "aber er koennte den Bullenmarkt retten.",
+      "title": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger s",
+      "highlight_phrase": "Technische \"dreifache Bedrohung\" für Akt",
+      "toc_summary": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger s",
+      "quick_take": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger sich verstecken können",
       "bullets": [
         {
           "label": "Detail",
-          "text": "aber er koennte den Bullenmarkt retten."
+          "text": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger sich verstecken können"
         }
       ],
       "callout": null,
@@ -126,14 +93,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf",
-      "highlight_phrase": "USA und andere Nationen unterstützen Ope",
-      "toc_summary": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf",
-      "quick_take": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf China-Gipfel.",
+      "title": "Moody's warnt",
+      "highlight_phrase": "Moody's warnt",
+      "toc_summary": "Moody's warnt",
+      "quick_take": "\"Beispiellose\" KI-Ausgaben gefährden Kreditqualität von Amazon, Meta, Alphabet und anderen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "USA und andere Nationen unterstützen Open-Source-KI mit \"starker Sicherheit\" auf China-Gipfel."
+          "text": "\"Beispiellose\" KI-Ausgaben gefährden Kreditqualität von Amazon, Meta, Alphabet und anderen"
         }
       ],
       "callout": null,
@@ -147,14 +114,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Groesste nachboersliche Kursbewegungen",
-      "highlight_phrase": "Groesste nachboersliche Kursbewegungen",
-      "toc_summary": "Groesste nachboersliche Kursbewegungen",
-      "quick_take": "Intel, AMD, Boston Beer, Deckers und weitere.",
+      "title": "Aktien mit den größten Bewegungen vorbörslich",
+      "highlight_phrase": "Aktien mit den größten Bewegungen vorbör",
+      "toc_summary": "Aktien mit den größten Bewegungen vorbörslich",
+      "quick_take": "Intel, Oracle, American Express & mehr",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Intel, AMD, Boston Beer, Deckers und weitere."
+          "text": "Intel, Oracle, American Express & mehr"
         }
       ],
       "callout": null,
