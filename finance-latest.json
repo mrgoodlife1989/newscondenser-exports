@@ -1,22 +1,76 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-27",
+    "title": "Beating Beta — 2026-07-28",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Ray Dalio on today's market moves.",
+      "highlight_phrase": "Ray Dalio",
+      "toc_summary": "Today's guru pair: Ray Dalio. Macro stance, top picks, strategy signals.",
+      "quick_take": "🌊 Ray Dalio\nMacro-View: Defensiv. Warnt vor AI-Blase.\nBullish: Gold 🟢, Nicht-US-Aktien, Bonds.\nBearish: US-Tech-Konzentration 🔴.",
+      "bullets": [
+        {
+          "label": "Ray Dalio",
+          "text": "Macro-View: Defensiv. Warnt vor AI-Blase. · Bullish: Gold 🟢, Nicht-US-Aktien, Bonds."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "category": "FINANCE · MARKETS",
+      "title": "Markets Snapshot — 2026-07-28",
+      "highlight_phrase": "market snapshot",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "bullets": [
+        {
+          "label": "Equities",
+          "text": "S&P 500 N/A · Nasdaq N/A"
+        },
+        {
+          "label": "Rates & Vol",
+          "text": "10Y N/A% · VIX N/A"
+        },
+        {
+          "label": "Commodities & Crypto",
+          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+        },
+        {
+          "label": "Sentiment",
+          "text": "Fear & Greed Index: N/A"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Yahoo Finance · Bloomberg · CNBC",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, W",
-      "highlight_phrase": "Ölpreise sinken, Aktienfutures erholen s",
-      "toc_summary": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, W",
-      "quick_take": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, Wall Street wartet auf volle Woche",
+      "title": "Analyst warnt",
+      "highlight_phrase": "Analyst warnt",
+      "toc_summary": "Analyst warnt",
+      "quick_take": "Nvidias möglicher OpenAI-Deal könnte alte Tech-Blase neu beleben.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ölpreise sinken, Aktienfutures erholen sich – USA und Iran pausieren Angriffe, Wall Street wartet auf volle Woche"
+          "text": "Nvidias möglicher OpenAI-Deal könnte alte Tech-Blase neu beleben."
         }
       ],
       "callout": null,
@@ -30,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kau",
-      "highlight_phrase": "\"Ich werde definitiv frühzeitig Sozialve",
-      "toc_summary": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kau",
-      "quick_take": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kaum jemand über das offensichtliche Problem?\"",
+      "title": "\"Die Zeit wird zeigen, ob das ein guter Tipp war\"",
+      "highlight_phrase": "\"Die Zeit wird zeigen, ob das ein guter ",
+      "toc_summary": "\"Die Zeit wird zeigen, ob das ein guter Tipp war\"",
+      "quick_take": "Bekam ich eine volle SpaceX-IPO-Allokation?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Ich werde definitiv frühzeitig Sozialversicherung beantragen. Warum spricht kaum jemand über das offensichtliche Problem?\""
+          "text": "Bekam ich eine volle SpaceX-IPO-Allokation?"
         }
       ],
       "callout": null,
@@ -51,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Es ist nichts Persönliches\"",
-      "highlight_phrase": "\"Es ist nichts Persönliches\"",
-      "toc_summary": "\"Es ist nichts Persönliches\"",
-      "quick_take": "Soll ich meiner 96-jährigen Stiefmutter sagen, dass ich ihr Erbe nicht will?",
+      "title": "\"Das ist ein hoher Preis\"",
+      "highlight_phrase": "\"Das ist ein hoher Preis\"",
+      "toc_summary": "\"Das ist ein hoher Preis\"",
+      "quick_take": "Mein Berater sagt, ich brauche keinen Entnahmeplan für 2,3 Mio. Dollar – hat er recht?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Soll ich meiner 96-jährigen Stiefmutter sagen, dass ich ihr Erbe nicht will?"
+          "text": "Mein Berater sagt, ich brauche keinen Entnahmeplan für 2,3 Mio. Dollar – hat er recht?"
         }
       ],
       "callout": null,
@@ -72,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger s",
-      "highlight_phrase": "Technische \"dreifache Bedrohung\" für Akt",
-      "toc_summary": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger s",
-      "quick_take": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger sich verstecken können",
+      "title": "\"Ich fühle mich glücklich\"",
+      "highlight_phrase": "\"Ich fühle mich glücklich\"",
+      "toc_summary": "\"Ich fühle mich glücklich\"",
+      "quick_take": "Ich bin 71 und habe 20.000 Dollar geerbt – was tun?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Technische \"dreifache Bedrohung\" für Aktien – aber auch Orte, an denen Anleger sich verstecken können"
+          "text": "Ich bin 71 und habe 20.000 Dollar geerbt – was tun?"
         }
       ],
       "callout": null,
@@ -93,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Moody's warnt",
-      "highlight_phrase": "Moody's warnt",
-      "toc_summary": "Moody's warnt",
-      "quick_take": "\"Beispiellose\" KI-Ausgaben gefährden Kreditqualität von Amazon, Meta, Alphabet und anderen",
+      "title": "Größte After-Hours-Bewegungen",
+      "highlight_phrase": "Größte After-Hours-Bewegungen",
+      "toc_summary": "Größte After-Hours-Bewegungen",
+      "quick_take": "Cadence Design Systems, Rambus, Welltower u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Beispiellose\" KI-Ausgaben gefährden Kreditqualität von Amazon, Meta, Alphabet und anderen"
+          "text": "Cadence Design Systems, Rambus, Welltower u.a."
         }
       ],
       "callout": null,
@@ -114,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen vorbörslich",
-      "highlight_phrase": "Aktien mit den größten Bewegungen vorbör",
-      "toc_summary": "Aktien mit den größten Bewegungen vorbörslich",
-      "quick_take": "Intel, Oracle, American Express & mehr",
+      "title": "Größte Midday-Bewegungen",
+      "highlight_phrase": "Größte Midday-Bewegungen",
+      "toc_summary": "Größte Midday-Bewegungen",
+      "quick_take": "ASML, SK Hynix, SAP, Forte Bio, Brown-Forman u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Intel, Oracle, American Express & mehr"
+          "text": "ASML, SK Hynix, SAP, Forte Bio, Brown-Forman u.a."
         }
       ],
       "callout": null,
