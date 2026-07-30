@@ -1,36 +1,15 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-28",
+    "title": "Beating Beta — 2026-07-30",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Ray Dalio on today's market moves.",
-      "highlight_phrase": "Ray Dalio",
-      "toc_summary": "Today's guru pair: Ray Dalio. Macro stance, top picks, strategy signals.",
-      "quick_take": "🌊 Ray Dalio\nMacro-View: Defensiv. Warnt vor AI-Blase.\nBullish: Gold 🟢, Nicht-US-Aktien, Bonds.\nBearish: US-Tech-Konzentration 🔴.",
-      "bullets": [
-        {
-          "label": "Ray Dalio",
-          "text": "Macro-View: Defensiv. Warnt vor AI-Blase. · Bullish: Gold 🟢, Nicht-US-Aktien, Bonds."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-28",
+      "title": "Markets Snapshot — 2026-07-30",
       "highlight_phrase": "market snapshot",
       "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
       "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
@@ -63,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Analyst warnt",
-      "highlight_phrase": "Analyst warnt",
-      "toc_summary": "Analyst warnt",
-      "quick_take": "Nvidias möglicher OpenAI-Deal könnte alte Tech-Blase neu beleben.",
+      "title": "Fords Lkw-Wette zahlt sich aus",
+      "highlight_phrase": "Fords Lkw-Wette zahlt sich aus",
+      "toc_summary": "Fords Lkw-Wette zahlt sich aus",
+      "quick_take": "Wall Street bemerkt es",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Nvidias möglicher OpenAI-Deal könnte alte Tech-Blase neu beleben."
+          "text": "Wall Street bemerkt es"
         }
       ],
       "callout": null,
@@ -84,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Die Zeit wird zeigen, ob das ein guter Tipp war\"",
-      "highlight_phrase": "\"Die Zeit wird zeigen, ob das ein guter ",
-      "toc_summary": "\"Die Zeit wird zeigen, ob das ein guter Tipp war\"",
-      "quick_take": "Bekam ich eine volle SpaceX-IPO-Allokation?",
+      "title": "SoFi-Aktie fällt trotz Gewinnüberraschung",
+      "highlight_phrase": "SoFi-Aktie fällt trotz Gewinnüberraschun",
+      "toc_summary": "SoFi-Aktie fällt trotz Gewinnüberraschung",
+      "quick_take": "SoFi-Aktie fällt trotz Gewinnüberraschung",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Bekam ich eine volle SpaceX-IPO-Allokation?"
+          "text": "SoFi-Aktie fällt trotz Gewinnüberraschung"
         }
       ],
       "callout": null,
@@ -105,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Das ist ein hoher Preis\"",
-      "highlight_phrase": "\"Das ist ein hoher Preis\"",
-      "toc_summary": "\"Das ist ein hoher Preis\"",
-      "quick_take": "Mein Berater sagt, ich brauche keinen Entnahmeplan für 2,3 Mio. Dollar – hat er recht?",
+      "title": "Qualcomm unter Druck wegen Speicherproblemen",
+      "highlight_phrase": "Qualcomm unter Druck wegen Speicherprobl",
+      "toc_summary": "Qualcomm unter Druck wegen Speicherproblemen",
+      "quick_take": "Qualcomm unter Druck wegen Speicherproblemen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mein Berater sagt, ich brauche keinen Entnahmeplan für 2,3 Mio. Dollar – hat er recht?"
+          "text": "Qualcomm unter Druck wegen Speicherproblemen"
         }
       ],
       "callout": null,
@@ -126,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich fühle mich glücklich\"",
-      "highlight_phrase": "\"Ich fühle mich glücklich\"",
-      "toc_summary": "\"Ich fühle mich glücklich\"",
-      "quick_take": "Ich bin 71 und habe 20.000 Dollar geerbt – was tun?",
+      "title": "Starbucks wird wieder cool",
+      "highlight_phrase": "Starbucks wird wieder cool",
+      "toc_summary": "Starbucks wird wieder cool",
+      "quick_take": "so gelang die Wende",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich bin 71 und habe 20.000 Dollar geerbt – was tun?"
+          "text": "so gelang die Wende"
         }
       ],
       "callout": null,
@@ -147,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Größte After-Hours-Bewegungen",
-      "highlight_phrase": "Größte After-Hours-Bewegungen",
-      "toc_summary": "Größte After-Hours-Bewegungen",
-      "quick_take": "Cadence Design Systems, Rambus, Welltower u.a.",
+      "title": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modelle",
+      "highlight_phrase": "USA will Asien seine KI aufdrängen, aber",
+      "toc_summary": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modelle",
+      "quick_take": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modellen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Cadence Design Systems, Rambus, Welltower u.a."
+          "text": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modellen"
         }
       ],
       "callout": null,
@@ -168,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Größte Midday-Bewegungen",
-      "highlight_phrase": "Größte Midday-Bewegungen",
-      "toc_summary": "Größte Midday-Bewegungen",
-      "quick_take": "ASML, SK Hynix, SAP, Forte Bio, Brown-Forman u.a.",
+      "title": "Die letzten Male, als der Dow um 1000 Punkte fiel",
+      "highlight_phrase": "Die letzten Male, als der Dow um 1000 Pu",
+      "toc_summary": "Die letzten Male, als der Dow um 1000 Punkte fiel",
+      "quick_take": "und was danach geschah",
       "bullets": [
         {
           "label": "Detail",
-          "text": "ASML, SK Hynix, SAP, Forte Bio, Brown-Forman u.a."
+          "text": "und was danach geschah"
         }
       ],
       "callout": null,
