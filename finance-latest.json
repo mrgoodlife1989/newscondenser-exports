@@ -1,30 +1,51 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-30",
+    "title": "Beating Beta — 2026-07-31",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Warren Buffett on today's market moves.",
+      "highlight_phrase": "Warren Buffett",
+      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\nMacro: Hält $381B Cash, Markt überbewertet.\n🟢 Bullish: KO, AXP, OXY\n🔴 Bearish: Breiter US-Markt (Bewertung)",
+      "bullets": [
+        {
+          "label": "Warren Buffett",
+          "text": "Macro: Hält $381B Cash, Markt überbewertet. · 🟢 Bullish: KO, AXP, OXY"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-30",
+      "title": "Markets Snapshot — 2026-07-31",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.437,63 · Nasdaq 28.106,35 · VIX 17,09 · 10Y 4,66% · Gold $4.134,60 · Oil $82,13 · BTC $64.230,03 · F&G N/A",
+      "quick_take": "S&P 500: 7.437,63\nNasdaq: 28.106,35\nVIX: 17,09 · 10Y: 4,66%\nGold: $4.134,60 · Oil: $82,13\nBitcoin: $64.230,03\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
+          "text": "S&P 500 7.437,63 · Nasdaq 28.106,35"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
+          "text": "10Y 4,66% · VIX 17,09"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+          "text": "Gold $4.134,60 · WTI $82,13 · BTC $64.230,03"
         },
         {
           "label": "Sentiment",
@@ -42,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Fords Lkw-Wette zahlt sich aus",
-      "highlight_phrase": "Fords Lkw-Wette zahlt sich aus",
-      "toc_summary": "Fords Lkw-Wette zahlt sich aus",
-      "quick_take": "Wall Street bemerkt es",
+      "title": "Insider an der Börse senden Warnsignale – Vorsicht geboten?",
+      "highlight_phrase": "Insider an der Börse senden Warnsignale ",
+      "toc_summary": "Insider an der Börse senden Warnsignale – Vorsicht geboten?",
+      "quick_take": "Insider an der Börse senden Warnsignale – Vorsicht geboten?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wall Street bemerkt es"
+          "text": "Insider an der Börse senden Warnsignale – Vorsicht geboten?"
         }
       ],
       "callout": null,
@@ -63,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "SoFi-Aktie fällt trotz Gewinnüberraschung",
-      "highlight_phrase": "SoFi-Aktie fällt trotz Gewinnüberraschun",
-      "toc_summary": "SoFi-Aktie fällt trotz Gewinnüberraschung",
-      "quick_take": "SoFi-Aktie fällt trotz Gewinnüberraschung",
+      "title": "\"Lassen Sie sich nicht reinlegen wie ich\"",
+      "highlight_phrase": "\"Lassen Sie sich nicht reinlegen wie ich",
+      "toc_summary": "\"Lassen Sie sich nicht reinlegen wie ich\"",
+      "quick_take": "Warnung vor unseriösen Pass-Webseiten",
       "bullets": [
         {
           "label": "Detail",
-          "text": "SoFi-Aktie fällt trotz Gewinnüberraschung"
+          "text": "Warnung vor unseriösen Pass-Webseiten"
         }
       ],
       "callout": null,
@@ -84,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Qualcomm unter Druck wegen Speicherproblemen",
-      "highlight_phrase": "Qualcomm unter Druck wegen Speicherprobl",
-      "toc_summary": "Qualcomm unter Druck wegen Speicherproblemen",
-      "quick_take": "Qualcomm unter Druck wegen Speicherproblemen",
+      "title": "Erbrecht",
+      "highlight_phrase": "Erbrecht",
+      "toc_summary": "Erbrecht",
+      "quick_take": "Wie Kinder aus erster Ehe bei Immobilien der Mutter abgesichert werden",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Qualcomm unter Druck wegen Speicherproblemen"
+          "text": "Wie Kinder aus erster Ehe bei Immobilien der Mutter abgesichert werden"
         }
       ],
       "callout": null,
@@ -105,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Starbucks wird wieder cool",
-      "highlight_phrase": "Starbucks wird wieder cool",
-      "toc_summary": "Starbucks wird wieder cool",
-      "quick_take": "so gelang die Wende",
+      "title": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe",
+      "highlight_phrase": "Leere Plätze? Live Nation meldet Rekord-",
+      "toc_summary": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe",
+      "quick_take": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe",
       "bullets": [
         {
           "label": "Detail",
-          "text": "so gelang die Wende"
+          "text": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe"
         }
       ],
       "callout": null,
@@ -126,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modelle",
-      "highlight_phrase": "USA will Asien seine KI aufdrängen, aber",
-      "toc_summary": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modelle",
-      "quick_take": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modellen",
+      "title": "Chinas US-Exporte fallen im Juli nach kurzer Erholung",
+      "highlight_phrase": "Chinas US-Exporte fallen im Juli nach ku",
+      "toc_summary": "Chinas US-Exporte fallen im Juli nach kurzer Erholung",
+      "quick_take": "Chinas US-Exporte fallen im Juli nach kurzer Erholung",
       "bullets": [
         {
           "label": "Detail",
-          "text": "USA will Asien seine KI aufdrängen, aber China dominiert mit günstigeren Modellen"
+          "text": "Chinas US-Exporte fallen im Juli nach kurzer Erholung"
         }
       ],
       "callout": null,
@@ -147,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Die letzten Male, als der Dow um 1000 Punkte fiel",
-      "highlight_phrase": "Die letzten Male, als der Dow um 1000 Pu",
-      "toc_summary": "Die letzten Male, als der Dow um 1000 Punkte fiel",
-      "quick_take": "und was danach geschah",
+      "title": "Größte Kursbewegungen nach Börsenschluss",
+      "highlight_phrase": "Größte Kursbewegungen nach Börsenschluss",
+      "toc_summary": "Größte Kursbewegungen nach Börsenschluss",
+      "quick_take": "Apple, Amazon, Rivian, Reddit & Co.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "und was danach geschah"
+          "text": "Apple, Amazon, Rivian, Reddit & Co."
         }
       ],
       "callout": null,
