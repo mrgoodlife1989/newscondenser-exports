@@ -1,51 +1,30 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-07-31",
+    "title": "Beating Beta — 2026-08-03",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Warren Buffett on today's market moves.",
-      "highlight_phrase": "Warren Buffett",
-      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\nMacro: Hält $381B Cash, Markt überbewertet.\n🟢 Bullish: KO, AXP, OXY\n🔴 Bearish: Breiter US-Markt (Bewertung)",
-      "bullets": [
-        {
-          "label": "Warren Buffett",
-          "text": "Macro: Hält $381B Cash, Markt überbewertet. · 🟢 Bullish: KO, AXP, OXY"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-07-31",
+      "title": "Markets Snapshot — 2026-08-03",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.437,63 · Nasdaq 28.106,35 · VIX 17,09 · 10Y 4,66% · Gold $4.134,60 · Oil $82,13 · BTC $64.230,03 · F&G N/A",
-      "quick_take": "S&P 500: 7.437,63\nNasdaq: 28.106,35\nVIX: 17,09 · 10Y: 4,66%\nGold: $4.134,60 · Oil: $82,13\nBitcoin: $64.230,03\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.489,72 · Nasdaq 28.274,20 · VIX 15,99 · 10Y 4,74% · Gold $4.119,70 · Oil $80,16 · BTC $63.051,58 · F&G N/A",
+      "quick_take": "S&P 500: 7.489,72\nNasdaq: 28.274,20\nVIX: 15,99 · 10Y: 4,74%\nGold: $4.119,70 · Oil: $80,16\nBitcoin: $63.051,58\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.437,63 · Nasdaq 28.106,35"
+          "text": "S&P 500 7.489,72 · Nasdaq 28.274,20"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,66% · VIX 17,09"
+          "text": "10Y 4,74% · VIX 15,99"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.134,60 · WTI $82,13 · BTC $64.230,03"
+          "text": "Gold $4.119,70 · WTI $80,16 · BTC $63.051,58"
         },
         {
           "label": "Sentiment",
@@ -63,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Insider an der Börse senden Warnsignale – Vorsicht geboten?",
-      "highlight_phrase": "Insider an der Börse senden Warnsignale ",
-      "toc_summary": "Insider an der Börse senden Warnsignale – Vorsicht geboten?",
-      "quick_take": "Insider an der Börse senden Warnsignale – Vorsicht geboten?",
+      "title": "Paar mit 1,5 Mio. $ Vermögen",
+      "highlight_phrase": "Paar mit 1,5 Mio. $ Vermögen",
+      "toc_summary": "Paar mit 1,5 Mio. $ Vermögen",
+      "quick_take": "Trust oder Testament zur Vermeidung von Erbstreitigkeiten?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Insider an der Börse senden Warnsignale – Vorsicht geboten?"
+          "text": "Trust oder Testament zur Vermeidung von Erbstreitigkeiten?"
         }
       ],
       "callout": null,
@@ -84,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Lassen Sie sich nicht reinlegen wie ich\"",
-      "highlight_phrase": "\"Lassen Sie sich nicht reinlegen wie ich",
-      "toc_summary": "\"Lassen Sie sich nicht reinlegen wie ich\"",
-      "quick_take": "Warnung vor unseriösen Pass-Webseiten",
+      "title": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Manne",
+      "highlight_phrase": "Kann eine 62-Jährige die volle Social-Se",
+      "toc_summary": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Manne",
+      "quick_take": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Mannes beanspruchen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Warnung vor unseriösen Pass-Webseiten"
+          "text": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Mannes beanspruchen?"
         }
       ],
       "callout": null,
@@ -105,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Erbrecht",
-      "highlight_phrase": "Erbrecht",
-      "toc_summary": "Erbrecht",
-      "quick_take": "Wie Kinder aus erster Ehe bei Immobilien der Mutter abgesichert werden",
+      "title": "Streaming-Tipps für August 2026",
+      "highlight_phrase": "Streaming-Tipps für August 2026",
+      "toc_summary": "Streaming-Tipps für August 2026",
+      "quick_take": "Netflix, Hulu, HBO Max & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wie Kinder aus erster Ehe bei Immobilien der Mutter abgesichert werden"
+          "text": "Netflix, Hulu, HBO Max & mehr."
         }
       ],
       "callout": null,
@@ -126,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe",
-      "highlight_phrase": "Leere Plätze? Live Nation meldet Rekord-",
-      "toc_summary": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe",
-      "quick_take": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe",
+      "title": "Fidelity verlangt Todesurkunde der verstorbenen Schwägerin",
+      "highlight_phrase": "Fidelity verlangt Todesurkunde der verst",
+      "toc_summary": "Fidelity verlangt Todesurkunde der verstorbenen Schwägerin",
+      "quick_take": "was tun?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Leere Plätze? Live Nation meldet Rekord-Ticketverkäufe"
+          "text": "was tun?"
         }
       ],
       "callout": null,
@@ -147,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Chinas US-Exporte fallen im Juli nach kurzer Erholung",
-      "highlight_phrase": "Chinas US-Exporte fallen im Juli nach ku",
-      "toc_summary": "Chinas US-Exporte fallen im Juli nach kurzer Erholung",
-      "quick_take": "Chinas US-Exporte fallen im Juli nach kurzer Erholung",
+      "title": "Goldman-Sachs-Trader auf Rekordkurs",
+      "highlight_phrase": "Goldman-Sachs-Trader auf Rekordkurs",
+      "toc_summary": "Goldman-Sachs-Trader auf Rekordkurs",
+      "quick_take": "Ein Blick hinter die Kulissen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Chinas US-Exporte fallen im Juli nach kurzer Erholung"
+          "text": "Ein Blick hinter die Kulissen."
         }
       ],
       "callout": null,
@@ -168,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Größte Kursbewegungen nach Börsenschluss",
-      "highlight_phrase": "Größte Kursbewegungen nach Börsenschluss",
-      "toc_summary": "Größte Kursbewegungen nach Börsenschluss",
-      "quick_take": "Apple, Amazon, Rivian, Reddit & Co.",
+      "title": "Anleger sollten den vorderen Teil der Zinskurve im Blick behalten",
+      "highlight_phrase": "Anleger sollten den vorderen Teil der Zi",
+      "toc_summary": "Anleger sollten den vorderen Teil der Zinskurve im Blick behalten",
+      "quick_take": "Fed-Sitzungen im Fokus.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Apple, Amazon, Rivian, Reddit & Co."
+          "text": "Fed-Sitzungen im Fokus."
         }
       ],
       "callout": null,
