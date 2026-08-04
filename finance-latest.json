@@ -1,34 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-03",
+    "title": "Beating Beta — 2026-08-04",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Ray Dalio on today's market moves.",
+      "highlight_phrase": "Ray Dalio",
+      "toc_summary": "Today's guru pair: Ray Dalio. Macro stance, top picks, strategy signals.",
+      "quick_take": "🌊 Ray Dalio\n*Macro-View:* Defensiv. Warnt vor einer AI-Blase, die an die Dotcom-Exzesse erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko.\n*Bullish:* 🟢 Gold (4116.80, +1.67%), Nicht-US-Aktien, Bonds (10Y Treasury 4.69, -1.24%).\n*Bearish:* 🔴 US-Tech-Konzentration (Nasdaq 100: 28776.80, +1.78%).",
+      "bullets": [
+        {
+          "label": "Ray Dalio",
+          "text": "*Macro-View:* Defensiv. Warnt vor einer AI-Blase, die an die Dotcom-Exzesse erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko. · *Bullish:* 🟢 Gold (4116.80, +1.67%), Nicht-US-Aktien, Bonds (10Y Treasury 4.69, -1.24%)."
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-03",
+      "title": "Markets Snapshot — 2026-08-04",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.489,72 · Nasdaq 28.274,20 · VIX 15,99 · 10Y 4,74% · Gold $4.119,70 · Oil $80,16 · BTC $63.051,58 · F&G N/A",
-      "quick_take": "S&P 500: 7.489,72\nNasdaq: 28.274,20\nVIX: 15,99 · 10Y: 4,74%\nGold: $4.119,70 · Oil: $80,16\nBitcoin: $63.051,58\nFear & Greed: N/A",
+      "toc_summary": "S&P 7,600.50 · Nasdaq 28,776.80 · VIX 15.86 · 10Y 4.69% · Gold $4,116.80 · Oil $81.11 · BTC $63,759.00 · F&G 46",
+      "quick_take": "S&P 500: 7,600.50\nNasdaq: 28,776.80\nVIX: 15.86 · 10Y: 4.69%\nGold: $4,116.80 · Oil: $81.11\nBitcoin: $63,759.00\nFear & Greed: 46",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.489,72 · Nasdaq 28.274,20"
+          "text": "S&P 500 7,600.50 · Nasdaq 28,776.80"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,74% · VIX 15,99"
+          "text": "10Y 4.69% · VIX 15.86"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.119,70 · WTI $80,16 · BTC $63.051,58"
+          "text": "Gold $4,116.80 · WTI $81.11 · BTC $63,759.00"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
+          "text": "Fear & Greed Index: 46"
         }
       ],
       "callout": null,
@@ -42,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Paar mit 1,5 Mio. $ Vermögen",
-      "highlight_phrase": "Paar mit 1,5 Mio. $ Vermögen",
-      "toc_summary": "Paar mit 1,5 Mio. $ Vermögen",
-      "quick_take": "Trust oder Testament zur Vermeidung von Erbstreitigkeiten?",
+      "title": "‘We have always been civil’",
+      "highlight_phrase": "‘We have always been civil’",
+      "toc_summary": "‘We have always been civil’",
+      "quick_take": "My sister refuses to replace me as executor. Can I step down before she dies?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Trust oder Testament zur Vermeidung von Erbstreitigkeiten?"
+          "text": "My sister refuses to replace me as executor. Can I step down before she dies?"
         }
       ],
       "callout": null,
@@ -63,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Manne",
-      "highlight_phrase": "Kann eine 62-Jährige die volle Social-Se",
-      "toc_summary": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Manne",
-      "quick_take": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Mannes beanspruchen?",
+      "title": "‘My head hit the driver’s window’",
+      "highlight_phrase": "‘My head hit the driver’s window’",
+      "toc_summary": "‘My head hit the driver’s window’",
+      "quick_take": "A teenager T-boned our car. Will Medicare pay my hospital bills?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kann eine 62-Jährige die volle Social-Security-Leistung ihres verstorbenen Mannes beanspruchen?"
+          "text": "A teenager T-boned our car. Will Medicare pay my hospital bills?"
         }
       ],
       "callout": null,
@@ -84,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Streaming-Tipps für August 2026",
-      "highlight_phrase": "Streaming-Tipps für August 2026",
-      "toc_summary": "Streaming-Tipps für August 2026",
-      "quick_take": "Netflix, Hulu, HBO Max & mehr.",
+      "title": "‘I’m easing into retirement’",
+      "highlight_phrase": "‘I’m easing into retirement’",
+      "toc_summary": "‘I’m easing into retirement’",
+      "quick_take": "I’m getting an $80,000 pension payout. Where can I invest it safely?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Netflix, Hulu, HBO Max & mehr."
+          "text": "I’m getting an $80,000 pension payout. Where can I invest it safely?"
         }
       ],
       "callout": null,
@@ -105,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Fidelity verlangt Todesurkunde der verstorbenen Schwägerin",
-      "highlight_phrase": "Fidelity verlangt Todesurkunde der verst",
-      "toc_summary": "Fidelity verlangt Todesurkunde der verstorbenen Schwägerin",
-      "quick_take": "was tun?",
+      "title": "Microsoft’s stock is on a run not seen in 26 years",
+      "highlight_phrase": "Microsoft’s stock is on a run not seen i",
+      "toc_summary": "Microsoft’s stock is on a run not seen in 26 years",
+      "quick_take": "erasing its year-to-date losses",
       "bullets": [
         {
           "label": "Detail",
-          "text": "was tun?"
+          "text": "erasing its year-to-date losses"
         }
       ],
       "callout": null,
@@ -126,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Goldman-Sachs-Trader auf Rekordkurs",
-      "highlight_phrase": "Goldman-Sachs-Trader auf Rekordkurs",
-      "toc_summary": "Goldman-Sachs-Trader auf Rekordkurs",
-      "quick_take": "Ein Blick hinter die Kulissen.",
+      "title": "Stocks making the biggest moves after hours",
+      "highlight_phrase": "Stocks making the biggest moves after ho",
+      "toc_summary": "Stocks making the biggest moves after hours",
+      "quick_take": "Palantir, On Semiconductor, Snap & more",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ein Blick hinter die Kulissen."
+          "text": "Palantir, On Semiconductor, Snap & more"
         }
       ],
       "callout": null,
@@ -147,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Anleger sollten den vorderen Teil der Zinskurve im Blick behalten",
-      "highlight_phrase": "Anleger sollten den vorderen Teil der Zi",
-      "toc_summary": "Anleger sollten den vorderen Teil der Zinskurve im Blick behalten",
-      "quick_take": "Fed-Sitzungen im Fokus.",
+      "title": "Kalshi traders think July jobs report will come in slightly cooler than economis",
+      "highlight_phrase": "Kalshi traders think July jobs report wi",
+      "toc_summary": "Kalshi traders think July jobs report will come in slightly cooler than economis",
+      "quick_take": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Fed-Sitzungen im Fokus."
+          "text": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions"
         }
       ],
       "callout": null,
