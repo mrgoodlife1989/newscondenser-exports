@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "topSignals": [
     {
-      "title": "FuelCell Energy + Siemens MoU (July 9) — first appearance in digest",
-      "text": "— FCEL and Siemens signed a non-binding MoU on July 9, 2026 to co-develop distributed fuel cell power systems for 100 MW+ data center projects. Siemens provides the electrical balance-of-plant (medium-voltage switchgear, microgrid controls, protection relays, SCADA) that data center operators require; FCEL supplies the fuel cell modules. The architecture leverages Siemens's installed base of ~600 GW of global power infrastructure, potentially accelerating FCEL's route to large data center operators who already use Siemens electrical systems. The MoU followed the Hunterbrook/scandium attack on Bloom the same day — giving FCEL a positive catalyst on a difficult day for the sector. GlobeNewswire | DCD | Siemens",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324675/8041/en/Siemens-and-FuelCell-Energy-Collaborate-to-Explore-Scalable-Fuel-Cell-Power-Solutions.html",
+      "title": "Bloom Energy 10-Q/A: $196.3M net income, $300M H1 operating cash flow, $2.69B cash — first cash-generative quarter",
+      "text": "— An amended quarterly report (10-Q/A) for the period ended June 30, 2026, filed in early August, provides the complete financial picture beyond the July 28 earnings release. Key new data: net income $196.3M (Bloom's first profitable quarter), H1 2026 operating cash flow $300M (vs. negative in prior periods), cash/equivalents $2.69B — the strongest balance-sheet position in company history. LCOE model implications: (a) Bloom is now self-financing capex from operations, compressing WACC toward 8.5–9.5%; (b) $2.69B cash enables Fremont 2 GW ramp completion without equity dilution; (c) Q2 gross margin 33.4% confirmed, in line with guidance. Action: extract shipped MW from SEC EDGAR filing to update revenue-per-kW inputs. SEC EDGAR 10-Q | StockTitan 10-Q summary",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026050247/be-20260630.htm",
       "n": 1
     },
     {
-      "title": "FERC RM26-4 abeyance deadline passed August 3 — decision imminent",
-      "text": "— All six RTOs/ISOs had until August 3 to file for a 90-day abeyance under FERC's June 18 show cause orders. No public FERC response is visible as of August 4. Commission has stated it will \"heavily scrutinize\" requests and disfavor extensions. If any abeyance is denied: the August 17 tariff-reform hard deadline activates immediately. If granted: November 16 stakeholder filing deadline. This decision directly triggers or defers the $5–20/MWh avoided-transmission-cost LCOE credit for on-site SOFC projects in PJM, MISO, CAISO, ISO-NE, NYISO, and SPP. Watch ferc.gov/rm26-4 today. FERC RM26-4 docket | McGuireWoods analysis",
+      "title": "FERC RM26-4: August 17 tariff-reform deadline in 12 days — abeyance decision imminent",
+      "text": "— All six RTOs/ISOs (PJM, MISO, CAISO, ISO-NE, NYISO, SPP) submitted abeyance requests by the August 3 deadline. FERC has not yet published its response as of August 5. If FERC denies any abeyance: the August 17 hard tariff-reform deadline activates, requiring RTOs/ISOs to file tariff revisions or show cause. If granted (90-day maximum): November 16 stakeholder filing deadline. Either outcome codifies or defers the $5–20/MWh avoided-transmission-cost benefit for on-site SOFC projects across PJM/MISO/CAISO/ISO-NE/NYISO/SPP regions. LCOE model update triggered by FERC response; no change today. FERC RM26-4 docket | McGuireWoods",
       "url": "https://www.ferc.gov/rm26-4",
       "n": 2
     },
     {
-      "title": "Bloom Energy scandium class action reaches geopolitical risk mainstream",
-      "text": "— The D&O Diary published \"Geopolitical Issues Lead to Securities Suit Against Fuel Cell Company\" in August 2026, framing Bloom's scandium class action as a precedent-setting case for fuel cell manufacturers under securities law. The underlying issue: Hunterbrook's July 8 report traced four China-linked routes into Bloom's scandium supply (direct shipments to its Delaware plant plus ceramics and powders via Thailand, Japan, and South Korea intermediaries). Bloom denied the allegations. The class action (Robbins LLP, Kaplan Fox; Northern District of California) covers buyers of Bloom securities between February 27, 2025 and July 8, 2026; lead plaintiff deadline September 28, 2026. The D&O Diary notes this may be the first fuel cell case driven by geopolitical rare earth supply chain risk rather than product failure — with potential disclosure implications for all SOFC manufacturers using scandium-stabilized zirconia electrolytes. D&O Diary | TipRanks | Robbins LLP",
-      "url": "https://www.dandodiary.com/2026/08/articles/geopolitical-risk/geopolitical-issues-lead-to-securities-suit-against-fuel-cell-company/",
+      "title": "Rolls-Royce SMR GDA Step 3 reaches August 2026 decision point — UK Wylfa construction timeline crystallizes",
+      "text": "— The UK's Generic Design Assessment (GDA) Step 3 for Rolls-Royce's 470 MWe SMR design is due for completion in August 2026 (with some sources indicating a possible slip to December 2026). GDA completion is a prerequisite for construction licensing at the three-unit, 1,400 MW Wylfa Anglesey site under the Rolls-Royce SMR / Great British Energy-Nuclear (GBE-N) contract (signed April 2026). First power target: mid-2030s. European nuclear competitive signal: even the UK's most advanced SMR project cannot supply power before ~2033–2035, confirming SOFCs as the only commercially available firm on-site power option in the UK and European data center market through at least 2032. World Nuclear News | Rolls-Royce SMR | Neutron Bytes",
+      "url": "https://www.world-nuclear-news.org/articles/rolls-royce-smr-progresses-to-final-step-of-uk-ass",
       "n": 3
     }
   ],
@@ -25,82 +25,39 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new announcements August 4. Status from August 3: E3000 G2 EFCF 2026 paper now accessible on ResearchGate — >75% FC electrical efficiency (stack-level), 90% total with heat recovery, 33 kWh/kg H2 in SOEC mode, zero degradation across 23,000 rapid current cycles, performance improvement in electrolysis mode. ELCO I Tallinn factory (360 MW/yr) in production and delivering G2 stacks. Next watch: full peer-reviewed paper and system-boundary efficiency confirmation at production scale (stack-only LHV vs. net system electrical). Elcogen E3000 G2 | ResearchGate paper",
+          "text": "Elcogen (priority): Quiet day August 5. Status unchanged from August 3: E3000 G2 EFCF 2026 paper on ResearchGate — >75% FC electrical efficiency (stack-level LHV), 90% total with heat recovery, 23,000 rapid current cycles with performance improvement in SOEC mode, zero thermal-cycling degradation. ELCO I Tallinn factory (360 MW/yr) in production and delivering G2 stacks. Next watch: full peer-reviewed paper and system-level efficiency confirmation at ELCO I production scale; boundary definition (stack-only LHV vs. net system electrical) critical before LCOE update. Elcogen product page",
           "url": "https://elcogen.com/product/elcostack/",
           "sources": [
             {
-              "title": "Elcogen E3000 G2",
+              "title": "Elcogen product page",
               "url": "https://elcogen.com/product/elcostack/"
-            },
-            {
-              "title": "ResearchGate paper",
-              "url": "https://www.researchgate.net/publication/397913367_Introduction_to_Elcogen_elcoStack_R_E3000_Generation_2_Solid_Oxide_Technology"
             }
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet day. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending commercial-scale H2 demand. SOFC/data-center pathway deferred to 2029+. CEO Elena Scaltritti (since June 1, 2026). FY2026 guidance DKK 7,600–8,400M revenue, EBIT margin 4–9%. Topsoe investor relations",
-          "url": "https://www.topsoe.com/investors",
+          "text": "Topsoe (priority): Quiet day August 5. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending commercial-scale H2 demand; CEO Elena Scaltritti (since June 1, 2026); FY2026 guidance DKK 7,600–8,400M revenue, EBIT margin 4–9%. SOFC/data-center pathway deferred to 2029+. Topsoe.com",
+          "url": "https://www.topsoe.com/",
           "sources": [
             {
-              "title": "Topsoe investor relations",
-              "url": "https://www.topsoe.com/investors"
+              "title": "Topsoe.com",
+              "url": "https://www.topsoe.com/"
             }
           ]
         },
         {
-          "text": "Other players: Quiet day. No new announcements from Bloom (technology), Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, or new entrants.",
-          "url": "",
-          "sources": []
+          "text": "Ceres Power: First royalties received from licensees (Doosan and others scaling commercial-scale manufacturing) — confirms SOFC licensee production at commercial volume. H1 2026 results expected September 2026. No new announcements August 5. Ceres newsroom",
+          "url": "https://www.ceres.tech/newsroom/",
+          "sources": [
+            {
+              "title": "Ceres newsroom",
+              "url": "https://www.ceres.tech/newsroom/"
+            }
+          ]
         }
       ]
     },
     {
       "title": "AI Data Center Deployments",
-      "items": [
-        {
-          "text": "FuelCell Energy + Siemens MoU (July 9, first appearance) — See Top Signal #1. Non-binding MoU targets 100 MW+ co-developed systems combining FCEL fuel cell modules with Siemens electrical BOP, battery energy storage, and microgrid controls. Jointly designed for data centers and industrial offtakers in power-constrained markets. FCEL's 12.5 MW packaged power block (ten 1.25 MW modules) is the primary product unit; Siemens provides the electrical integration layer. GlobeNewswire | Data Center Frontier",
-          "url": "https://www.globenewswire.com/news-release/2026/07/09/3324675/8041/en/Siemens-and-FuelCell-Energy-Collaborate-to-Explore-Scalable-Fuel-Cell-Power-Solutions.html",
-          "sources": [
-            {
-              "title": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/07/09/3324675/8041/en/Siemens-and-FuelCell-Energy-Collaborate-to-Explore-Scalable-Fuel-Cell-Power-Solutions.html"
-            },
-            {
-              "title": "Data Center Frontier",
-              "url": "https://www.datacenterfrontier.com/press-releases/article/55390838/siemens-and-fuelcell-energy-collaborate-to-explore-scalable-fuel-cell-power-solutions"
-            }
-          ]
-        },
-        {
-          "text": "Active pipeline unchanged: Oracle/Jupiter (2.45 GW NM, air permit public hearing Oct 19, NM AG investigation ongoing), Crusoe/Cheyenne (900 MW Phase 1 Bloom SOFCs), FCEL/Fit Energy (380 MW total, 30 MW initial delivery H2 2026), Equinix >100 MW across 19+ DCs, Bloom/Brookfield $25B, Nebius 328 MW EaaS.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Regulations & Policy",
-      "items": [
-        {
-          "text": "FERC RM26-4 — abeyance decision imminent — See Top Signal #2. All six RTO/ISO abeyance requests filed by August 3. FERC decision expected this week. If denied: August 17 tariff reform hard deadline activates; RTOs/ISOs must file tariff revisions enabling expedited interconnection for co-located/self-supply large loads. If granted (90 days): November 16. For SOFC LCOE model: hold $5–20/MWh avoided-T-cost as a conditional input until outcome is published. FERC RM26-4",
-          "url": "https://www.ferc.gov/rm26-4",
-          "sources": [
-            {
-              "title": "FERC RM26-4",
-              "url": "https://www.ferc.gov/rm26-4"
-            }
-          ]
-        },
-        {
-          "text": "Background unchanged: NY state 50 MW+ grid interconnection moratorium (islanded exemption active); EU CADA data center energy efficiency rating scheme still under development (missed Q2 deadline); Germany EnEfG PUE ≤1.2 / ERF ≥10% / 15% waste heat reuse effective July 2026.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Competing On-Site Power",
       "items": [
         {
           "text": "Quiet day.",
@@ -110,38 +67,78 @@
       ]
     },
     {
-      "title": "Market & Financials",
+      "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Bloom Energy (BE): August 3 close $218.32 (+6.08% from $205.81); intraday range $191.00–$224.64. Recovery continues from July 31 intraday trough of $159.80 (post-Q2 earnings selloff combined with scandium class action news). BE +460% over 52 weeks but down ~29% in the past month. 29-analyst consensus PT $273.51 (implied +25% upside from $218). Q2 2026 (reported July 28): record revenue $1.07B, operating income $182.2M (vs. operating loss prior year). FY2026 guidance raised: $3.9–4.2B revenue (+100% at midpoint), $2.55–2.85 non-GAAP EPS, $800–900M operating income. Q3 2026 earnings (October) next catalyst. Scandium class action lead plaintiff deadline: September 28, 2026. CNBC | StockAnalysis.com",
-          "url": "https://www.cnbc.com/quotes/BE",
+          "text": "FERC RM26-4 — abeyance decision pending — See Top Signal #2. All six RTO/ISO abeyance requests filed by August 3. FERC response expected before August 17. No change today; model trigger deferred to FERC publication date. FERC RM26-4",
+          "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
-              "title": "CNBC",
-              "url": "https://www.cnbc.com/quotes/BE"
-            },
-            {
-              "title": "StockAnalysis.com",
-              "url": "https://stockanalysis.com/stocks/be/"
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL): ~$21.60 (August 2 last confirmed close). $225M upsized equity offering (July 7–8) overhang persists. FCEL + Siemens MoU (July 9) not yet translated to a stock catalyst. Q3 FY2026 earnings (October). Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. CNBC",
+          "text": "Background unchanged: NY data center moratorium (50 MW+, islanded exemption active), Germany EnEfG PUE ≤1.2 / ERF ≥10% / 15% waste heat reuse effective July 2026, EU CADA energy efficiency rating scheme still delayed, ITC 48E 30% credit active, ERCOT Batch Zero self-supply pathway active.",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Competing On-Site Power",
+      "items": [
+        {
+          "text": "Rolls-Royce SMR GDA Step 3 (UK, August/December 2026 completion target) — See Top Signal #3. GDA Step 3 completion allows Wylfa construction licensing to proceed; first power mid-2030s. UK SOFC market confirmation: no nuclear competition before 2033 in the UK data center power segment. World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/rolls-royce-smr-progresses-to-final-step-of-uk-ass",
+          "sources": [
+            {
+              "title": "World Nuclear News",
+              "url": "https://www.world-nuclear-news.org/articles/rolls-royce-smr-progresses-to-final-step-of-uk-ass"
+            }
+          ]
+        },
+        {
+          "text": "Background unchanged: Microsoft Project Kilby 2.67 GW CCGT (Texas, first power 2028), DOE $17.5B AP1000 nuclear loans (10+ year horizon), Crusoe/Aalo Atomics (50 MWe INL demo 2027, portfolio end-2029), Meta/Oklo 1.2 GW (Pike County OH, 2030+), Google Meitner Energy Center (wind/solar + gas firming, Texas Panhandle).",
+          "url": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE): Recovery from July 31 trough ($159.80) continues. August 3 close $218.32; August 4 intraday range $191.00–$224.64. August 5: Zacks named BE \"Bull of the Day,\" reinforcing the \"sell-off went too far\" consensus forming around the stock. 29-analyst consensus PT $273.51 (+25% implied upside from current ~$218 range). Amended 10-Q/A (see Top Signal #1) confirms record profitability. Scandium class action lead plaintiff deadline: September 28, 2026. Q3 2026 earnings (October) is the next fundamental catalyst. StockAnalysis.com | Yahoo Finance BE",
+          "url": "https://stockanalysis.com/stocks/be/",
+          "sources": [
+            {
+              "title": "StockAnalysis.com",
+              "url": "https://stockanalysis.com/stocks/be/"
+            },
+            {
+              "title": "Yahoo Finance BE",
+              "url": "https://finance.yahoo.com/quote/BE/"
+            }
+          ]
+        },
+        {
+          "text": "FuelCell Energy (FCEL): ~$23 range (August 4: intraday $21.59–$23.20). $225M equity offering overhang from July 7-8 persisting. Siemens EBOP MoU (July 9) and Torrington expansion (350–500 MW/yr by H2 2027) remain the active catalysts. Q3 FY2026 earnings (October) is the next catalyst. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. CNBC FCEL",
           "url": "https://www.cnbc.com/quotes/FCEL",
           "sources": [
             {
-              "title": "CNBC",
+              "title": "CNBC FCEL",
               "url": "https://www.cnbc.com/quotes/FCEL"
             }
           ]
         },
         {
-          "text": "Ceres Power (LON: CWR): ~292 GBp, no material update since August 3. ~-40% from June peak. First royalties received from licensees (Doosan commercial-scale manufacturing active); H1 2026 results (September) are the next catalyst and first-royalties commercial confirmation. Ceres Power newsroom",
+          "text": "Ceres Power (LON: CWR): Quiet. ~−40% from June peak. First royalties received from licensees; H1 2026 results (September) next catalyst. Ceres newsroom",
           "url": "https://www.ceres.tech/newsroom/",
           "sources": [
             {
-              "title": "Ceres Power newsroom",
+              "title": "Ceres newsroom",
               "url": "https://www.ceres.tech/newsroom/"
             }
           ]
@@ -152,22 +149,16 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "SOFC-GT automated configuration synthesis achieving 72.64% system efficiency (Energy, 2026): New paper published March 23, 2026 in Energy journal: \"Automated configuration synthesis of solid oxide fuel cell – gas turbine (SOFC-GT) hybrid systems: A fuel-syngas block state-mapping approach under SOFC safety constraints\" demonstrates that an automated multi-pressure SOFC-GT configuration synthesis approach raises overall system efficiency from 66.10% to 72.64% (9.89% relative improvement). The method applies a fuel-syngas block state-mapping approach under SOFC safety constraints to identify optimal SOFC-GT integration configurations. LCOE flag: If reproducible at commercial scale, this represents ~+6.5 ppt net electrical efficiency vs. the 66.10% baseline — translating to significant fuel cost savings. ScienceDirect",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360544226009448",
+          "text": "SOFC carbon-deposition risk maps with anode off-gas recirculation (Cell Reports Physical Science, Feb 5, 2026) — \"Chemical activity-based carbon-deposition risk maps for solid oxide fuel cell systems with off-gas recirculation\" presents a normalized-chemical-activity methodology for quantifying carbon-formation risk in SOFC systems using AOGR (anode off-gas recirculation). Key finding: higher AOGR ratios reduce the need for external steam generation but increase fuel dilution and coking risk — a system-level trade-off requiring map-based optimization. 2D and 3D risk maps are provided for all C-H-O gas mixtures, making the tool system-agnostic and applicable to natural-gas SOFCs as deployed by Bloom and Elcogen. More accurate than conventional steam-to-carbon or oxygen-to-carbon metrics. Cell Reports Physical Science00012-3) | ResearchGate",
+          "url": "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26",
           "sources": [
             {
-              "title": "ScienceDirect",
-              "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360544226009448"
-            }
-          ]
-        },
-        {
-          "text": "Scandium supply chain risk — D&O Diary August 2026: The D&O Diary article establishes that SOFC manufacturers using scandium-doped zirconia electrolytes may face enhanced securities disclosure obligations regarding rare earth sourcing geography. First precedent of its kind in the fuel cell sector. D&O Diary",
-          "url": "https://www.dandodiary.com/2026/08/articles/geopolitical-risk/geopolitical-issues-lead-to-securities-suit-against-fuel-cell-company/",
-          "sources": [
+              "title": "Cell Reports Physical Science",
+              "url": "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26"
+            },
             {
-              "title": "D&O Diary",
-              "url": "https://www.dandodiary.com/2026/08/articles/geopolitical-risk/geopolitical-issues-lead-to-securities-suit-against-fuel-cell-company/"
+              "title": "ResearchGate",
+              "url": "https://www.researchgate.net/publication/400494563_Chemical_activity-based_carbon-deposition_risk_maps_for_solid_oxide_fuel_cell_systems_with_off-gas_recirculation"
             }
           ]
         }
@@ -177,46 +168,56 @@
       "title": "Scientific Papers — SOFC Systems",
       "items": [
         {
-          "text": "SOFC-GT automated configuration synthesis (Energy, March 2026) — See Research & IP above. System-level SOFC-GT integration study: automated state-space search over SOFC safety constraints identifies multi-pressure configurations achieving 72.64% system efficiency. Directly relevant to SOFC-GT CHP for data centers where waste heat recovery is a primary value lever alongside firm 24/7 power. ScienceDirect",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360544226009448",
+          "text": "SOFC lifecycle assessment, technology barriers, and environmental impact (RSER Vol. 228, 2026) — \"The technological development trends, barriers, and environmental impact assessment of solid oxide fuel cell (SOFC) from a life cycle perspective,\" Renewable and Sustainable Energy Reviews Vol. 228, 2026. Comprehensive synthesis covering technology readiness, commercialization barriers (high stack cost, incomplete LCI data for O&M and end-of-life phases, methodological variability in published LCA studies), and environmental impact across feedstock types. Key finding: published LCA results may understate true lifecycle costs by 10–20% due to LCI data gaps, particularly in stack replacement logistics and material recovery. Calls for standardized research frameworks. LCOE flag: recommend adding a lifecycle cost uplift sensitivity of +10–15% to base-case LCOE for full-system NPV comparison. RSER / IDEAS",
+          "url": "https://ideas.repec.org/a/eee/rensus/v228y2026ics1364032125012535.html",
           "sources": [
             {
-              "title": "ScienceDirect",
-              "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360544226009448"
+              "title": "RSER / IDEAS",
+              "url": "https://ideas.repec.org/a/eee/rensus/v228y2026ics1364032125012535.html"
             }
           ]
         },
         {
-          "text": "Quiet day otherwise. No new system-level SOFC TEA/LCOE papers or preprints identified for August 4.",
-          "url": "",
-          "sources": []
+          "text": "SOFC carbon-deposition risk maps (Cell Reports Physical Science, 2026) — See Research & IP above. System-scope: SOFC stack model with AOGR. Actionable for BOP design optimization — quantifying carbon risk enables right-sizing of reformer and steam generation infrastructure, potentially reducing BOP capital cost in natural-gas SOFC plants. LCOE flag. Cell Reports Physical Science00012-3)",
+          "url": "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26",
+          "sources": [
+            {
+              "title": "Cell Reports Physical Science",
+              "url": "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26"
+            }
+          ]
         }
       ]
     }
   ],
   "lcoe": [
     {
-      "text": "BE Q2 2026 confirmed ($1.07B revenue, $182.2M operating income): Record quarter confirms backlog-to-revenue conversion at scale. FY2026 guidance $3.9–4.2B implies demand is running ahead of manufacturing capacity (Fremont 2 GW ramp not complete). Implication: system capex reduction may lag manufacturing scale; maintain $5,800–6,500/kW as base-case system capex for H2 2026, with 2027 downside sensitivity at ~$4,500/kW once Fremont ramp completes.",
+      "text": "Bloom 10-Q/A (early August 2026): Net income $196.3M + H1 operating cash flow $300M + cash $2.69B. Bloom is now self-financing at scale: (a) WACC sensitivity band: revise toward 8.5–9.5% if BE holds above $220 through week-end; (b) Q2 gross margin 33.4% confirmed — on guidance; (c) strong balance sheet ($2.69B cash) accelerates Fremont 2 GW ramp, keeping 2027 capex bend trajectory on track. Action: extract shipped MW from SEC EDGAR 10-Q to update revenue-per-kW model input. SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026050247/be-20260630.htm",
+      "sources": [
+        {
+          "title": "SEC EDGAR",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026050247/be-20260630.htm"
+        }
+      ]
+    },
+    {
+      "text": "RSER LCA: 10–20% LCOE underestimation risk from LCI data gaps. Published LCOE studies may understate true 20-year system costs due to incomplete lifecycle inventory data in the operation, maintenance, and end-of-life phases. Recommend adding a \"lifecycle cost uplift\" sensitivity of +10–15% to base-case LCOE for full-NPV comparison against grid alternatives. RSER Vol. 228",
+      "url": "https://ideas.repec.org/a/eee/rensus/v228y2026ics1364032125012535.html",
+      "sources": [
+        {
+          "title": "RSER Vol. 228",
+          "url": "https://ideas.repec.org/a/eee/rensus/v228y2026ics1364032125012535.html"
+        }
+      ]
+    },
+    {
+      "text": "FERC RM26-4: Hold $5–20/MWh avoided-T-cost as conditional LCOE input. Update immediately upon FERC abeyance decision publication (expected before August 17).",
       "url": "",
       "sources": []
     },
     {
-      "text": "SOFC-GT hybrid efficiency 72.64% (new paper): At ~+6.5 ppt net electrical efficiency vs. 66.10% baseline, a SOFC-GT hybrid using the optimized multi-pressure configuration saves approximately $15–20/MWh in fuel costs at $6/MMBtu gas vs. a standalone SOFC. Flag as a \"SOFC-GT hybrid\" sensitivity case in LCOE model; apply only to projects with thermal integration infrastructure (district heat, industrial process heat, or steam turbine bottoming cycle).",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "FERC RM26-4 avoided-T-cost (decision pending): Maintain $5–20/MWh as conditional LCOE placeholder. If abeyance denied: activate as live input for PJM/MISO/CAISO/ISO-NE regions — adds $5–20/MWh economic advantage to on-site SOFC vs. grid-connected generation. If granted: defer to November 16.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Scandium supply chain premium risk: If disclosure requirements tighten following the Bloom class action precedent, SOFC manufacturers may need to source non-China scandium. Current market premium for ex-China scandium oxide: estimated 20–40% above Chinese spot price (~$1,800–2,000/kg Chinese spot; ~$2,200–2,800/kg ex-China). At ~1–2 kg scandium per kW SOFC stack, this adds ~$2,200–5,600/kW incremental material cost in a worst-case non-China sourcing scenario. Flag as a tail-risk sensitivity input, not a base-case assumption.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending (carry-forward): FERC RM26-4 outcome (today/tomorrow). Bloom 10-Q (due September 11 = 45 days from July 28) for explicit shipped MW and revenue-per-kW. Elcogen E3000 G2 system-level efficiency confirmation at ELCO I production scale.",
+      "text": "Pending (carry-forward): FERC RM26-4 FERC decision (this week). Bloom 10-Q shipped MW extraction (SEC EDGAR). Elcogen E3000 G2 system-level efficiency at production scale. Scandium class action lead plaintiff deadline: September 28, 2026. Bloom Q3 2026 earnings (October).",
       "url": "",
       "sources": []
     }
