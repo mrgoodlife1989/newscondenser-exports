@@ -1,55 +1,34 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-04",
+    "title": "Beating Beta — 2026-08-05",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Ray Dalio on today's market moves.",
-      "highlight_phrase": "Ray Dalio",
-      "toc_summary": "Today's guru pair: Ray Dalio. Macro stance, top picks, strategy signals.",
-      "quick_take": "🌊 Ray Dalio\n*Macro-View:* Defensiv. Warnt vor einer AI-Blase, die an die Dotcom-Exzesse erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko.\n*Bullish:* 🟢 Gold (4116.80, +1.67%), Nicht-US-Aktien, Bonds (10Y Treasury 4.69, -1.24%).\n*Bearish:* 🔴 US-Tech-Konzentration (Nasdaq 100: 28776.80, +1.78%).",
-      "bullets": [
-        {
-          "label": "Ray Dalio",
-          "text": "*Macro-View:* Defensiv. Warnt vor einer AI-Blase, die an die Dotcom-Exzesse erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko. · *Bullish:* 🟢 Gold (4116.80, +1.67%), Nicht-US-Aktien, Bonds (10Y Treasury 4.69, -1.24%)."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-04",
+      "title": "Markets Snapshot — 2026-08-05",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7,600.50 · Nasdaq 28,776.80 · VIX 15.86 · 10Y 4.69% · Gold $4,116.80 · Oil $81.11 · BTC $63,759.00 · F&G 46",
-      "quick_take": "S&P 500: 7,600.50\nNasdaq: 28,776.80\nVIX: 15.86 · 10Y: 4.69%\nGold: $4,116.80 · Oil: $81.11\nBitcoin: $63,759.00\nFear & Greed: 46",
+      "toc_summary": "S&P 7.736,52 · Nasdaq 29.733,16 · VIX 16,50 · 10Y 4,63% · Gold $4.186,70 · Oil $74,49 · BTC $64.315,95 · F&G N/A",
+      "quick_take": "S&P 500: 7.736,52\nNasdaq: 29.733,16\nVIX: 16,50 · 10Y: 4,63%\nGold: $4.186,70 · Oil: $74,49\nBitcoin: $64.315,95\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7,600.50 · Nasdaq 28,776.80"
+          "text": "S&P 500 7.736,52 · Nasdaq 29.733,16"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4.69% · VIX 15.86"
+          "text": "10Y 4,63% · VIX 16,50"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4,116.80 · WTI $81.11 · BTC $63,759.00"
+          "text": "Gold $4.186,70 · WTI $74,49 · BTC $64.315,95"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: 46"
+          "text": "Fear & Greed Index: N/A"
         }
       ],
       "callout": null,
@@ -63,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "‘We have always been civil’",
-      "highlight_phrase": "‘We have always been civil’",
-      "toc_summary": "‘We have always been civil’",
-      "quick_take": "My sister refuses to replace me as executor. Can I step down before she dies?",
+      "title": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belo",
+      "highlight_phrase": "Aktien zurück auf Rekordhoch – wer den M",
+      "toc_summary": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belo",
+      "quick_take": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belohnt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "My sister refuses to replace me as executor. Can I step down before she dies?"
+          "text": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belohnt."
         }
       ],
       "callout": null,
@@ -84,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "‘My head hit the driver’s window’",
-      "highlight_phrase": "‘My head hit the driver’s window’",
-      "toc_summary": "‘My head hit the driver’s window’",
-      "quick_take": "A teenager T-boned our car. Will Medicare pay my hospital bills?",
+      "title": "Upstarts KI-Upgrades zahlen sich aus",
+      "highlight_phrase": "Upstarts KI-Upgrades zahlen sich aus",
+      "toc_summary": "Upstarts KI-Upgrades zahlen sich aus",
+      "quick_take": "steigendes Kreditwachstum treibt die Aktie.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "A teenager T-boned our car. Will Medicare pay my hospital bills?"
+          "text": "steigendes Kreditwachstum treibt die Aktie."
         }
       ],
       "callout": null,
@@ -105,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "‘I’m easing into retirement’",
-      "highlight_phrase": "‘I’m easing into retirement’",
-      "toc_summary": "‘I’m easing into retirement’",
-      "quick_take": "I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "title": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung.",
+      "highlight_phrase": "Chipotle entfernt Jalapeños aus einigen ",
+      "toc_summary": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung.",
+      "quick_take": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "I’m getting an $80,000 pension payout. Where can I invest it safely?"
+          "text": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung."
         }
       ],
       "callout": null,
@@ -126,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Microsoft’s stock is on a run not seen in 26 years",
-      "highlight_phrase": "Microsoft’s stock is on a run not seen i",
-      "toc_summary": "Microsoft’s stock is on a run not seen in 26 years",
-      "quick_take": "erasing its year-to-date losses",
+      "title": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte ",
+      "highlight_phrase": "Aktien stehen vor der schwächsten saison",
+      "toc_summary": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte ",
+      "quick_take": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte Verkäufe begrenzen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "erasing its year-to-date losses"
+          "text": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte Verkäufe begrenzen."
         }
       ],
       "callout": null,
@@ -147,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Stocks making the biggest moves after hours",
-      "highlight_phrase": "Stocks making the biggest moves after ho",
-      "toc_summary": "Stocks making the biggest moves after hours",
-      "quick_take": "Palantir, On Semiconductor, Snap & more",
+      "title": "Größte Kursbewegungen nach Börsenschluss",
+      "highlight_phrase": "Größte Kursbewegungen nach Börsenschluss",
+      "toc_summary": "Größte Kursbewegungen nach Börsenschluss",
+      "quick_take": "SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Palantir, On Semiconductor, Snap & more"
+          "text": "SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts u.a."
         }
       ],
       "callout": null,
@@ -168,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Kalshi traders think July jobs report will come in slightly cooler than economis",
-      "highlight_phrase": "Kalshi traders think July jobs report wi",
-      "toc_summary": "Kalshi traders think July jobs report will come in slightly cooler than economis",
-      "quick_take": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+      "title": "Michael Burry wettet gegen die Rally",
+      "highlight_phrase": "Michael Burry wettet gegen die Rally",
+      "toc_summary": "Michael Burry wettet gegen die Rally",
+      "quick_take": "\"Wir sind nahe einem großen Top, möglich ist ein Fall wie 1987.\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions"
+          "text": "\"Wir sind nahe einem großen Top, möglich ist ein Fall wie 1987.\""
         }
       ],
       "callout": null,
