@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-05",
+    "title": "Beating Beta — 2026-08-06",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-05",
+      "title": "Markets Snapshot — 2026-08-06",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.736,52 · Nasdaq 29.733,16 · VIX 16,50 · 10Y 4,63% · Gold $4.186,70 · Oil $74,49 · BTC $64.315,95 · F&G N/A",
-      "quick_take": "S&P 500: 7.736,52\nNasdaq: 29.733,16\nVIX: 16,50 · 10Y: 4,63%\nGold: $4.186,70 · Oil: $74,49\nBitcoin: $64.315,95\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.723,55 · Nasdaq 29.487,79 · VIX 15,81 · 10Y 4,62% · Gold $4.336,30 · Oil $75,55 · BTC $64.516,67 · F&G N/A",
+      "quick_take": "S&P 500: 7.723,55\nNasdaq: 29.487,79\nVIX: 15,81 · 10Y: 4,62%\nGold: $4.336,30 · Oil: $75,55\nBitcoin: $64.516,67\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.736,52 · Nasdaq 29.733,16"
+          "text": "S&P 500 7.723,55 · Nasdaq 29.487,79"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,63% · VIX 16,50"
+          "text": "10Y 4,62% · VIX 15,81"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.186,70 · WTI $74,49 · BTC $64.315,95"
+          "text": "Gold $4.336,30 · WTI $75,55 · BTC $64.516,67"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belo",
-      "highlight_phrase": "Aktien zurück auf Rekordhoch – wer den M",
-      "toc_summary": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belo",
-      "quick_take": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belohnt.",
+      "title": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt",
+      "highlight_phrase": "Sandisk-Aktie fällt, da Prognose die hoh",
+      "toc_summary": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt",
+      "quick_take": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Aktien zurück auf Rekordhoch – wer den Momentum-Crash ausgesessen hat, wird belohnt."
+          "text": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Upstarts KI-Upgrades zahlen sich aus",
-      "highlight_phrase": "Upstarts KI-Upgrades zahlen sich aus",
-      "toc_summary": "Upstarts KI-Upgrades zahlen sich aus",
-      "quick_take": "steigendes Kreditwachstum treibt die Aktie.",
+      "title": "Block baut 40% der Belegschaft für KI ab",
+      "highlight_phrase": "Block baut 40% der Belegschaft für KI ab",
+      "toc_summary": "Block baut 40% der Belegschaft für KI ab",
+      "quick_take": "Ergebnisse deuten auf Erfolg hin",
       "bullets": [
         {
           "label": "Detail",
-          "text": "steigendes Kreditwachstum treibt die Aktie."
+          "text": "Ergebnisse deuten auf Erfolg hin"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung.",
-      "highlight_phrase": "Chipotle entfernt Jalapeños aus einigen ",
-      "toc_summary": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung.",
-      "quick_take": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung.",
+      "title": "Fed-Governor Cook: \"Bereit zu handeln\"",
+      "highlight_phrase": "Fed-Governor Cook: \"Bereit zu handeln\"",
+      "toc_summary": "Fed-Governor Cook: \"Bereit zu handeln\"",
+      "quick_take": "Zinserhöhung zur Inflationsbekämpfung möglich",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Chipotle entfernt Jalapeños aus einigen Filialen nach Salmonellen-Untersuchung."
+          "text": "Zinserhöhung zur Inflationsbekämpfung möglich"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte ",
-      "highlight_phrase": "Aktien stehen vor der schwächsten saison",
-      "toc_summary": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte ",
-      "quick_take": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte Verkäufe begrenzen.",
+      "title": "Warsh und Fed erwägen weniger Meetings",
+      "highlight_phrase": "Warsh und Fed erwägen weniger Meetings",
+      "toc_summary": "Warsh und Fed erwägen weniger Meetings",
+      "quick_take": "Märkte rechnen mit erhöhter Volatilität",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Aktien stehen vor der schwächsten saisonalen Phase – extreme Pessimismus könnte Verkäufe begrenzen."
+          "text": "Märkte rechnen mit erhöhter Volatilität"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Größte Kursbewegungen nach Börsenschluss",
-      "highlight_phrase": "Größte Kursbewegungen nach Börsenschluss",
-      "toc_summary": "Größte Kursbewegungen nach Börsenschluss",
-      "quick_take": "SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts u.a.",
+      "title": "Phishing-Welle",
+      "highlight_phrase": "Phishing-Welle",
+      "toc_summary": "Phishing-Welle",
+      "quick_take": "Gefälschte Einladungen von \"Freunden\" im Umlauf",
       "bullets": [
         {
           "label": "Detail",
-          "text": "SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts u.a."
+          "text": "Gefälschte Einladungen von \"Freunden\" im Umlauf"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Michael Burry wettet gegen die Rally",
-      "highlight_phrase": "Michael Burry wettet gegen die Rally",
-      "toc_summary": "Michael Burry wettet gegen die Rally",
-      "quick_take": "\"Wir sind nahe einem großen Top, möglich ist ein Fall wie 1987.\"",
+      "title": "Pflegefall in der Familie",
+      "highlight_phrase": "Pflegefall in der Familie",
+      "toc_summary": "Pflegefall in der Familie",
+      "quick_take": "Moralische Frage zur staatlichen Übernahme",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Wir sind nahe einem großen Top, möglich ist ein Fall wie 1987.\""
+          "text": "Moralische Frage zur staatlichen Übernahme"
         }
       ],
       "callout": null,
