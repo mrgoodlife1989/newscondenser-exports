@@ -1,30 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-06",
+    "title": "Beating Beta — 2026-08-07",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Warren Buffett & AGGRESSIVE on today's market moves.",
+      "highlight_phrase": "Warren Buffett & AGGRESSIVE",
+      "toc_summary": "Today's guru pair: Warren Buffett & AGGRESSIVE. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\nMacro-View: Markt ueberbewertet, $381B Cash-Polster.\nPicks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt (Bewertung).\nStrategie: Abwarten, Qualitaet zum fairen Preis kaufen.\n\n🚀 AGGRESSIVE\nAllokation: 90% Tech, 10% Cash\nFokus: NVDA, PLTR, COIN, TSM\nZiel: +30-40% | Drawdown: -35%",
+      "bullets": [
+        {
+          "label": "Warren Buffett",
+          "text": "Macro-View: Markt ueberbewertet, $381B Cash-Polster. · Picks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt (Bewertung)."
+        },
+        {
+          "label": "AGGRESSIVE",
+          "text": "Allokation: 90% Tech, 10% Cash · Fokus: NVDA, PLTR, COIN, TSM"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-06",
+      "title": "Markets Snapshot — 2026-08-07",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.723,55 · Nasdaq 29.487,79 · VIX 15,81 · 10Y 4,62% · Gold $4.336,30 · Oil $75,55 · BTC $64.516,67 · F&G N/A",
-      "quick_take": "S&P 500: 7.723,55\nNasdaq: 29.487,79\nVIX: 15,81 · 10Y: 4,62%\nGold: $4.336,30 · Oil: $75,55\nBitcoin: $64.516,67\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.709,96 · Nasdaq 29.373,33 · VIX 15,15 · 10Y 4,67% · Gold $4.309,50 · Oil $78,09 · BTC $64.337,98 · F&G N/A",
+      "quick_take": "S&P 500: 7.709,96\nNasdaq: 29.373,33\nVIX: 15,15 · 10Y: 4,67%\nGold: $4.309,50 · Oil: $78,09\nBitcoin: $64.337,98\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.723,55 · Nasdaq 29.487,79"
+          "text": "S&P 500 7.709,96 · Nasdaq 29.373,33"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,62% · VIX 15,81"
+          "text": "10Y 4,67% · VIX 15,15"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.336,30 · WTI $75,55 · BTC $64.516,67"
+          "text": "Gold $4.309,50 · WTI $78,09 · BTC $64.337,98"
         },
         {
           "label": "Sentiment",
@@ -42,14 +67,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt",
-      "highlight_phrase": "Sandisk-Aktie fällt, da Prognose die hoh",
-      "toc_summary": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt",
-      "quick_take": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt",
+      "title": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont",
+      "highlight_phrase": "Micron-Aktie faellt, bleibt aber von der",
+      "toc_summary": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont",
+      "quick_take": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Sandisk-Aktie fällt, da Prognose die hohen Erwartungen verfehlt"
+          "text": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont"
         }
       ],
       "callout": null,
@@ -63,14 +88,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Block baut 40% der Belegschaft für KI ab",
-      "highlight_phrase": "Block baut 40% der Belegschaft für KI ab",
-      "toc_summary": "Block baut 40% der Belegschaft für KI ab",
-      "quick_take": "Ergebnisse deuten auf Erfolg hin",
+      "title": "\"Er konnte nie mit Geld umgehen\"",
+      "highlight_phrase": "\"Er konnte nie mit Geld umgehen\"",
+      "toc_summary": "\"Er konnte nie mit Geld umgehen\"",
+      "quick_take": "Gefaehrdet eine Rente fuer meinen Bruder sein Supplemental Security Income?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ergebnisse deuten auf Erfolg hin"
+          "text": "Gefaehrdet eine Rente fuer meinen Bruder sein Supplemental Security Income?"
         }
       ],
       "callout": null,
@@ -84,14 +109,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Fed-Governor Cook: \"Bereit zu handeln\"",
-      "highlight_phrase": "Fed-Governor Cook: \"Bereit zu handeln\"",
-      "toc_summary": "Fed-Governor Cook: \"Bereit zu handeln\"",
-      "quick_take": "Zinserhöhung zur Inflationsbekämpfung möglich",
+      "title": "\"Ihre Konten wurden von Medicaid gepluendert\"",
+      "highlight_phrase": "\"Ihre Konten wurden von Medicaid gepluen",
+      "toc_summary": "\"Ihre Konten wurden von Medicaid gepluendert\"",
+      "quick_take": "Zahlt die Lebensversicherung die Kreditkartenschulden?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Zinserhöhung zur Inflationsbekämpfung möglich"
+          "text": "Zahlt die Lebensversicherung die Kreditkartenschulden?"
         }
       ],
       "callout": null,
@@ -105,14 +130,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Warsh und Fed erwägen weniger Meetings",
-      "highlight_phrase": "Warsh und Fed erwägen weniger Meetings",
-      "toc_summary": "Warsh und Fed erwägen weniger Meetings",
-      "quick_take": "Märkte rechnen mit erhöhter Volatilität",
+      "title": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht d",
+      "highlight_phrase": "Die Social-Security-Finanzkrise ist der ",
+      "toc_summary": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht d",
+      "quick_take": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht die Maus",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Märkte rechnen mit erhöhter Volatilität"
+          "text": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht die Maus"
         }
       ],
       "callout": null,
@@ -126,14 +151,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Phishing-Welle",
-      "highlight_phrase": "Phishing-Welle",
-      "toc_summary": "Phishing-Welle",
-      "quick_take": "Gefälschte Einladungen von \"Freunden\" im Umlauf",
+      "title": "Diese Aktien bewegen sich nach Boersenschluss",
+      "highlight_phrase": "Diese Aktien bewegen sich nach Boersensc",
+      "toc_summary": "Diese Aktien bewegen sich nach Boersenschluss",
+      "quick_take": "Twilio, Airbnb, DraftKings, Trade Desk u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Gefälschte Einladungen von \"Freunden\" im Umlauf"
+          "text": "Twilio, Airbnb, DraftKings, Trade Desk u.a."
         }
       ],
       "callout": null,
@@ -147,14 +172,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Pflegefall in der Familie",
-      "highlight_phrase": "Pflegefall in der Familie",
-      "toc_summary": "Pflegefall in der Familie",
-      "quick_take": "Moralische Frage zur staatlichen Übernahme",
+      "title": "Kupfer springt auf Rekordhoch – was das Metall uns sagt",
+      "highlight_phrase": "Kupfer springt auf Rekordhoch – was das ",
+      "toc_summary": "Kupfer springt auf Rekordhoch – was das Metall uns sagt",
+      "quick_take": "Kupfer springt auf Rekordhoch – was das Metall uns sagt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Moralische Frage zur staatlichen Übernahme"
+          "text": "Kupfer springt auf Rekordhoch – was das Metall uns sagt"
         }
       ],
       "callout": null,
