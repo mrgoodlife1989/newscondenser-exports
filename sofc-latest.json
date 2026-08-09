@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "topSignals": [
     {
-      "title": "FERC RM26-4 breakthrough: Commission issues direct \"revise tariff\" orders to PJM, MISO, NYISO, SPP — abeyance effectively rejected",
-      "text": "— Following all six RTOs/ISOs submitting abeyance requests by the August 3 deadline, FERC has now issued substantive orders directing at least four operators — PJM, MISO, NYISO, and SPP — to revise their tariffs specifically to expedite data center development. The language shift from June 18 \"show cause\" orders to binding \"revise tariff\" directives indicates FERC declined to grant full abeyance to these operators. The August 17 hard deadline is 9 days out. LCOE model update: the $5–20/MWh avoided-transmission-cost input for on-site SOFC projects in PJM, MISO, NYISO, and SPP regions should be treated as a conditionally active parameter pending receipt of the August 17 tariff filings. Akin — FERC Directs PJM to Revise Tariff | Akin — FERC Directs MISO to Revise Tariff | Mondaq — FERC Directs NYISO to Revise Tariff | Akin — FERC Directs SPP to Revise Tariff",
-      "url": "https://www.akingump.com/en/insights/blogs/speaking-energy/ferc-directs-pjm-interconnection-to-revise-tariff-to-expedite-data-center-development",
+      "title": "Bloom Energy + MiTAC Fremont: SOFC-islanded microgrid at AI server manufacturing campus (August 6, first appearance)",
+      "text": "— Bloom Energy announced an expanded partnership with MiTAC Computing Technology Corp. on August 6, adding an islanded fuel cell microgrid at MiTAC's AI server manufacturing campus in Fremont, California. The deployment adds to an existing Bloom system at MiTAC's San Jose facility, increasing total contracted on-site capacity across both California sites. Bloom now serves nearly two dozen AI infrastructure customers with approximately 250 MW of contracted capacity — up from essentially zero two years ago. Evercore ISI reiterated an Outperform rating and $350 price target following the announcement, with analyst Nicholas Amicucci noting \"AI reach is deeper than investors thought.\" Bloom Energy PR | Evercore/TipRanks | Benzinga",
+      "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Continues-to-Set-the-Standard-for-AI-Onsite-Power-with-Expanded-MiTAC-Partnership/default.aspx",
       "n": 1
     },
     {
-      "title": "Oracle Project Jupiter: advocacy group files motion to dismiss air quality permit application",
-      "text": "— Beyond the twice-denied natural gas pipeline, New Energy Economy has now filed a motion to dismiss the entire air quality permit application, arguing the project cannot legally proceed without a viable fuel supply route. The NMED hearing officer ordered developers (Yucca Growth Infrastructure) to respond to the dismiss motion. The ABQ Journal described the permit as now \"tripping over pipeline denial.\" If the dismiss motion is granted, the entire permit process restarts — far worse than a permit denial followed by reapplication with revised plans. The September 14 public hearing date is now directly threatened. ABQ Journal — Project Jupiter permit trips over pipeline denial | Santa Fe New Mexican — motion to toss permit | NMELC",
-      "url": "https://www.abqjournal.com/news/project-jupiter-permit-trips-over-pipeline-denial/3097673",
+      "title": "FERC RM26-4: CAISO fast-tracks November compliance filing; ISO-NE tables \"Bring Your Own Generation\" requirement — 8 days to August 17 hard deadline",
+      "text": "— New details have emerged on how CAISO and ISO-NE are responding to FERC's June 18 show cause orders (the two operators whose treatment was unclear after PJM, MISO, NYISO, and SPP received direct \"revise tariff\" orders on August 8). CAISO is fast-tracking a stakeholder compliance process aimed at a November filing (consistent with an abeyance grant). ISO-NE has proposed a \"Bring Your Own Generation\" (BYOG) requirement for large loads: new data center and industrial customers seeking interconnection would be required to demonstrate access to on-site generation as a condition of interconnection approval. If adopted, BYOG would structurally mandate on-site firm power for all new large loads in ISO-NE territory — making SOFC systems a regulatory necessity, not merely an economic choice. August 17 tariff-reform deadline remains 8 days out. Akin — FERC Launches ISO-NE Section 206 | Akin — FERC Launches CAISO Section 206 | Climate Solutions Law — RTO/ISO Preview",
+      "url": "https://www.akingump.com/en/insights/blogs/speaking-energy/ferc-launches-section-206-proceeding-targeting-iso-nes-treatment-of-large-loads",
       "n": 2
     },
     {
-      "title": "Ceres Power Endura: Delta Electronics to begin MW-scale SOFC production for AI data centers by Q4 2026",
-      "text": "— Delta Electronics (Taiwan; Ceres licensee, £43M deal signed January 2024) is developing MW-scale SOFC power systems for AI data centers using the Ceres Endura 10.8 kW stack platform (launched April 18, 2026), with production scheduled by end-2026. This represents the first commercially confirmed ramp of European-licensed solid oxide technology for the data center market by an Asian manufacturer. Endura's scalability architecture: 10.8 kW stack → 100 kW module → 500 kW system → 2 MW blocks → 108 MW representative DC installation. Goldman Sachs August Conviction Buy on Ceres (168% upside) explicitly cites this data center momentum. EnkiAI — Ceres Endura | Ceres SOFC for data centres | EnkiAI — Delta deal",
-      "url": "https://enkiai.com/solid-oxide-fuel-cells/ceres-powers-2026-sofc-strategy-endura-data-centers/",
+      "title": "Rystad Energy: fuel cell market to reach $30B by 2030, SOFC system costs to fall 20-25% — first appearance",
+      "text": "— Published in late June 2026, Rystad Energy's definitive market sizing of the data center fuel cell opportunity has not previously appeared in this digest. Key figures: global fuel cell market revenues surge from ~$2.8B in 2025 to ~$30B by 2030 (10x increase), driven almost entirely by AI data centers. Cumulative DC fuel cell demand 2026-2030: 10.4 GW. Roughly 40% of projected 2030 US data center capacity modeled as pursuing on-site generation. SOFC system costs expected to fall 20-25% by 2030 as manufacturing scales. Scandium supply chain bottleneck (Bloom's primary rare earth dependency) is identified as the key risk to the base case. Manufacturing output on track for 4 GW/yr capacity by 2030 vs. 1.8 GW/yr today. LCOE flag. Rystad Energy | OilPrice | Gasworld",
+      "url": "https://www.rystadenergy.com/news/data-center-fuel-cell-power-demand",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet day. No new announcements August 8. Status unchanged: E3000 G2 — >75% FC electrical efficiency (stack-level LHV), 90% total with heat recovery, 23,000 rapid current cycles in SOEC mode with performance improvement, zero thermal-cycling degradation. ELCO I Tallinn factory (360 MW/yr) in production delivering G2 stacks. €140M total funding secured. Next watch: full peer-reviewed paper and system-level efficiency confirmation at production scale. Elcogen",
+          "text": "Elcogen (priority): Quiet day August 9. Status unchanged: E3000 G2 — >75% FC electrical efficiency (stack-level LHV), 90% total with heat recovery, 23,000 rapid current cycles in SOEC mode with performance improvement, zero thermal-cycling degradation (EFCF 2026 / ResearchGate paper). ELCO I Tallinn factory (360 MW/yr) in volume production and delivering G2 stacks. €140M total funding secured. Next watch: full peer-reviewed EFCF paper and system-level efficiency confirmation at ELCO I production scale. Elcogen",
           "url": "https://elcogen.com/product/elcostack/",
           "sources": [
             {
@@ -35,24 +35,19 @@
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet day. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending commercial-scale H2 demand recovery; SOFC/data-center pathway deferred to 2029+; CEO Elena Scaltritti (since June 1, 2026); FY2026 guidance DKK 7,600–8,400M revenue, EBIT margin 4–9%. Topsoe",
+          "text": "Topsoe (priority): Quiet day August 9. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending commercial-scale H2 demand recovery; CEO Elena Scaltritti (since June 1, 2026); FY2026 guidance DKK 7,600-8,400M revenue, EBIT margin 4-9%. SOFC/data-center pathway deferred to 2029+. Topsoe.com",
           "url": "https://www.topsoe.com/",
           "sources": [
             {
-              "title": "Topsoe",
+              "title": "Topsoe.com",
               "url": "https://www.topsoe.com/"
             }
           ]
         },
         {
-          "text": "Ceres Power / Delta Electronics (Endura platform): See Top Signal #3. Key product spec: five-year lifetime design, fuel-flexible (NG and H2), dual-mode SOFC/SOEC capability. Delta Electronics production ramp by Q4 2026 makes this the nearest-term European-technology commercialization event beyond Elcogen ELCO I. Ceres newsroom",
-          "url": "https://www.ceres.tech/newsroom/",
-          "sources": [
-            {
-              "title": "Ceres newsroom",
-              "url": "https://www.ceres.tech/newsroom/"
-            }
-          ]
+          "text": "Other players: Quiet day. No new announcements from Bloom (technology), Ceres Power (stack), SolydEra, FuelCell Energy (stack-level), Mitsubishi Power, Kyocera, or Aisin.",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -60,7 +55,17 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Oracle Project Jupiter (2.45 GW, New Mexico) — permit dismiss threat: See Top Signal #2. The dismiss motion adds a new legal layer: even if the September 14 hearing proceeds, a ruling on the dismiss motion may preempt it. Oracle maintains the project is \"on schedule\" but the regulatory picture is materially more complex than the September hearing alone. Developer attorneys cited $325M/month carrying cost to justify the September scheduling acceleration request; a dismiss ruling would freeze that clock entirely. ABQ Journal | Source NM (prior)",
+          "text": "Bloom Energy + MiTAC Fremont islanded microgrid (August 6, first appearance): See Top Signal #1. Key detail: Fremont campus is an AI server manufacturing facility — not a data center in the traditional sense. This marks the first confirmed SOFC deployment at an AI hardware manufacturer's campus (vs. hyperscaler or colocation DC), broadening the addressable market definition. Total Bloom AI customer count: ~24 customers, ~250 MW. Customer list beyond the previously named (Oracle, Nebius, Brookfield, AEP, Equinix) confirmed to be wider than the market estimated. Bloom Energy PR",
+          "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Continues-to-Set-the-Standard-for-AI-Onsite-Power-with-Expanded-MiTAC-Partnership/default.aspx",
+          "sources": [
+            {
+              "title": "Bloom Energy PR",
+              "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Continues-to-Set-the-Standard-for-AI-Onsite-Power-with-Expanded-MiTAC-Partnership/default.aspx"
+            }
+          ]
+        },
+        {
+          "text": "Oracle Project Jupiter (2.45 GW, New Mexico): No new update on the dismiss motion. The hearing officer ordered developers (Yucca Growth Infrastructure) to respond to the New Energy Economy dismiss motion by last Tuesday — watch NMED docket for the ruling. The September 14 public hearing date remains threatened if the dismiss motion is granted. Developer attorneys cited $325M/month carrying costs as the basis for the original September rescheduling request; a dismiss ruling would halt proceedings entirely pending fuel supply solution. No new filings identified for August 9. ABQ Journal | NMELC",
           "url": "https://www.abqjournal.com/news/project-jupiter-permit-trips-over-pipeline-denial/3097673",
           "sources": [
             {
@@ -68,13 +73,13 @@
               "url": "https://www.abqjournal.com/news/project-jupiter-permit-trips-over-pipeline-denial/3097673"
             },
             {
-              "title": "Source NM (prior)",
-              "url": "https://sourcenm.com/2026/07/31/hearing-for-project-jupiter-data-centers-air-quality-permit-application-rescheduled-to-september/"
+              "title": "NMELC",
+              "url": "https://nmelc.org/2026/08/03/jupiter-air-quality-permit-hearing-moved-up/"
             }
           ]
         },
         {
-          "text": "Active pipeline otherwise unchanged: Crusoe/Cheyenne (900 MW Phase 1 Bloom SOFCs, H2 2026 first data halls), FCEL/Fit Energy (380 MW total, 30 MW initial delivery H2 2026), Equinix >100 MW across 19+ DCs, Bloom/Brookfield $25B framework, Nebius 328 MW EaaS.",
+          "text": "Active pipeline carry-forward: Crusoe/Cheyenne (900 MW Phase 1 Bloom SOFCs, first data halls H2 2026), FCEL/Fit Energy (380 MW total, 30 MW initial delivery H2 2026), Equinix >100 MW (19+ DCs), Bloom/Brookfield $25B framework, Nebius 328 MW EaaS, Delta Electronics Q4 2026 production ramp (Ceres Endura).",
           "url": "",
           "sources": []
         }
@@ -84,21 +89,25 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC RM26-4 — direct tariff-revision orders now issued (August 17 hard deadline T-9 days): See Top Signal #1. FERC has issued binding \"revise tariff\" orders to PJM, MISO, NYISO, and SPP — a clear step beyond the June 18 show cause orders. CAISO and ISO-NE status unclear; watch FERC docket for similar orders or confirmed abeyance grants for these two. If all six RTOs file tariff revisions by August 17: the regulatory case for on-site SOFC in every major US grid region is codified simultaneously. FERC RM26-4 docket | McGuireWoods background",
-          "url": "https://www.ferc.gov/rm26-4",
+          "text": "FERC RM26-4 — August 17 deadline in 8 days; CAISO and ISO-NE positions clarified: See Top Signal #2. CAISO: fast-tracking a November compliance filing (abeyance likely granted for 90 days, putting the deadline to November 16). ISO-NE: proposing a \"Bring Your Own Generation\" requirement for large loads — a structural rule change that would make on-site firm power mandatory for new hyperscale data center interconnection in New England. Direct \"revise tariff\" orders already issued to PJM, MISO, NYISO, and SPP (August 8). The picture after August 17: four operators filing tariff revisions (activating the $5-20/MWh avoided-T-cost benefit), CAISO targeting November, ISO-NE potentially adopting BYOG with a separate November-range filing. Climate Solutions Law | Akin/Lexology CAISO | FERC RM26-4 docket",
+          "url": "https://www.climatesolutionslaw.com/2026/07/rtos-and-isos-answer-a-national-preview-of-how-all-six-grid-operators-plan-to-respond-to-the-large-load-surge/",
           "sources": [
+            {
+              "title": "Climate Solutions Law",
+              "url": "https://www.climatesolutionslaw.com/2026/07/rtos-and-isos-answer-a-national-preview-of-how-all-six-grid-operators-plan-to-respond-to-the-large-load-surge/"
+            },
+            {
+              "title": "Akin/Lexology CAISO",
+              "url": "https://www.lexology.com/library/detail.aspx?g=62b8b93a-cd0e-42f0-87ea-64acb93c7275"
+            },
             {
               "title": "FERC RM26-4 docket",
               "url": "https://www.ferc.gov/rm26-4"
-            },
-            {
-              "title": "McGuireWoods background",
-              "url": "https://www.mcguirewoods.com/client-resources/alerts/2026/6/ferc-issues-section-206-show-cause-orders-directing-all-six-rtos-isos-to-justify-or-reform-large-load-integration-rules/"
             }
           ]
         },
         {
-          "text": "Background unchanged: NY data center moratorium (50 MW+, EO 62 in statute, islanded exemption active); Germany EnEfG PUE ≤1.2 / ERF ≥10% / 15% waste heat reuse effective July 2026; EU CADA energy efficiency rating scheme delayed; ITC 48E 30% credit active for all fuel cell feedstocks; ERCOT Batch Zero self-supply pathway active.",
+          "text": "Background unchanged: NY data center moratorium (50 MW+, EO 62, islanded exemption active); Germany EnEfG PUE ≤1.2 / ERF ≥10% / 15% waste heat reuse from July 2026; EU CADA energy efficiency rating scheme delayed; ITC 48E 30% credit active for all fuel cell feedstocks; ERCOT Batch Zero self-supply pathway active.",
           "url": "",
           "sources": []
         }
@@ -108,7 +117,12 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "ISO-NE \"Bring Your Own Generation\" proposal: If adopted, BYOG creates a regulatory obligation for on-site firm power at any large load seeking ISO-NE interconnection — effectively eliminating the choice between SOFC and grid connection for large data centers in New England (Maine, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island). The only commercially available, rapidly deployable, 24/7 firm on-site generation technology at the required scale is SOFC. The proposal is not yet final; watch for FERC's response to ISO-NE's August 17 filing.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Background unchanged from August 8: Blue Energy/GE Vernova/Crusoe gas-to-nuclear 2.5 GW (Phase 1 gas 2030, BWRX-300 2032); Holtec/Entergy/Hyundai E&C dual SMR-300 MOA Gulf South (2033+); Microsoft TMI Unit 1 restart (835 MW, first electrons 2027 — grid restart, not new build); Meta/Oklo 1.2 GW Pike County OH (2030+); Microsoft Project Kilby 2.67 GW CCGT Texas (first power 2028); TVA/Kairos Power/Google 50 MW PPA (Hermes 2 FHR, 2030 first power). SOFC 90-day deployment advantage unchallenged through 2029.",
           "url": "",
           "sources": []
         }
@@ -118,21 +132,25 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Recovery from July 31 intraday trough ($159.80) intact; last confirmed close $219.22 (August 5, +6.5% on the day). 29-analyst consensus PT $273.51 (+25% implied upside from current range). Scandium class action (Nevins v. Bloom Energy, No. 26-cv-07944, N.D. Cal.): lead plaintiff deadline September 28, 2026. Q3 2026 earnings (October) is the next fundamental catalyst. FY2026 guidance raised to $3.9–4.2B revenue; $2.69B cash on hand. StockAnalysis.com | D&O Diary — scandium precedent",
-          "url": "https://stockanalysis.com/stocks/be/",
+          "text": "Bloom Energy (BE): Evercore ISI reiterates Outperform $350 on expanded MiTAC partnership (August 6 announcement). \"AI reach is deeper than investors thought.\" Stock in the $220+ range continuing recovery from July 31 trough ($159.80). 29-analyst consensus PT $273.51; Evercore is the highest single PT at $350. Scandium class action (Nevins v. Bloom Energy, N.D. Cal., No. 26-cv-07944): lead plaintiff deadline September 28, 2026. Q3 2026 earnings (October) is the next fundamental catalyst. FY2026 guidance: $3.9-4.2B revenue, $2.55-2.85 non-GAAP EPS, $2.69B cash. Bloom Energy PR | Evercore/TipRanks | StockAnalysis.com",
+          "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Continues-to-Set-the-Standard-for-AI-Onsite-Power-with-Expanded-MiTAC-Partnership/default.aspx",
           "sources": [
+            {
+              "title": "Bloom Energy PR",
+              "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Continues-to-Set-the-Standard-for-AI-Onsite-Power-with-Expanded-MiTAC-Partnership/default.aspx"
+            },
+            {
+              "title": "Evercore/TipRanks",
+              "url": "https://www.tipranks.com/news/ai-reach-is-deeper-than-investors-thought-says-evercore-analyst-about-bloom-energy-be-stock-still-falls"
+            },
             {
               "title": "StockAnalysis.com",
               "url": "https://stockanalysis.com/stocks/be/"
-            },
-            {
-              "title": "D&O Diary — scandium precedent",
-              "url": "https://www.dandodiary.com/2026/08/articles/geopolitical-risk/geopolitical-issues-lead-to-securities-suit-against-fuel-cell-company/"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL): August 7 intraday range $18.69–$21.19, close ~$19.80 — sliding from the $21–23 post-offering range on continued $225M equity offering overhang (July 7–8). 4 GW data center pipeline (89% DC customers), Siemens EBOP MoU (July 9), Torrington expansion (350–500 MW/yr by H2 2027) active. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. Q3 FY2026 earnings (October) next catalyst. CNBC FCEL",
+          "text": "FuelCell Energy (FCEL): Quiet day. ~$19-21 range (down from $21-23 post-offering area). $225M equity offering overhang (July 7-8) continues to weigh. 4 GW sales pipeline (89% DC customers), Siemens EBOP MoU (July 9), Torrington expansion (350-500 MW/yr by H2 2027). Q3 FY2026 earnings (October) is next catalyst. Analyst range: B. Riley Buy $32 | Jefferies Buy $24 | UBS Neutral $22. CNBC FCEL",
           "url": "https://www.cnbc.com/quotes/FCEL",
           "sources": [
             {
@@ -142,14 +160,19 @@
           ]
         },
         {
-          "text": "Ceres Power (LON: CWR): Goldman Sachs August Conviction Buy (168% upside) — covered Aug 7. Shares ~248p, -15% in August. Delta Electronics Q4 2026 production ramp is the most proximate execution catalyst before H1 2026 results (September). TheStreet / Goldman",
+          "text": "Ceres Power (LON: CWR): Goldman Sachs August Conviction Buy (168% upside) unchanged. Delta Electronics Q4 2026 production ramp (Ceres Endura 10.8 kW stack) is the next execution catalyst before H1 2026 results (September). Stock down ~15% in August to date on broader AI spending sentiment. TheStreet/Goldman",
           "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-cwr-ceres-power-stock-buy-rating",
           "sources": [
             {
-              "title": "TheStreet / Goldman",
+              "title": "TheStreet/Goldman",
               "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-cwr-ceres-power-stock-buy-rating"
             }
           ]
+        },
+        {
+          "text": "Market sizing (Rystad): Fuel cell market $2.8B (2025) → $30B (2030); 10.4 GW cumulative DC demand; manufacturing capacity to 4 GW/yr by 2030. See Top Signal #3.",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -157,7 +180,17 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "\"Comprehensive review of current trends and future directions of metal-supported solid oxide fuel cell: From materials to applications\" (International Journal of Minerals, Metallurgy and Materials, Springer, 2026, DOI: 10.1007/s12613-026-3402-0) — Comprehensive review of MS-SOFCs (metal-supported SOFCs) covering thin electrolytes, mixed ionic-electronic conductors, chromium poisoning mitigation, and advanced manufacturing techniques. Key advantage of MS-SOFC architecture vs. conventional ceramic: rapid thermal cycling, enhanced mechanical stability under prolonged operation, lower manufacturing cost, and high electrochemical performance under conditions relevant to dynamic data center load-following. Not system-level TEA, but materials roadmap relevant for estimating the stack cost trajectory toward the $1,000/kW target. Springer IJMMM",
+          "url": "https://link.springer.com/article/10.1007/s12613-026-3402-0",
+          "sources": [
+            {
+              "title": "Springer IJMMM",
+              "url": "https://link.springer.com/article/10.1007/s12613-026-3402-0"
+            }
+          ]
+        },
+        {
+          "text": "Quiet day otherwise for new IP/patent filings.",
           "url": "",
           "sources": []
         }
@@ -176,32 +209,27 @@
   ],
   "lcoe": [
     {
-      "text": "FERC RM26-4 — $5–20/MWh avoided-T-cost now conditionally active: With direct \"revise tariff\" orders issued to PJM, MISO, NYISO, and SPP, the avoided-transmission-cost benefit for on-site SOFC projects in these regions is entering the active regulatory framework. Activate as a live LCOE input upon August 17 tariff filings. CAISO and ISO-NE status still uncertain — hold conditional for these two until FERC publishes their treatment. FERC RM26-4",
-      "url": "https://www.ferc.gov/rm26-4",
+      "text": "Rystad SOFC system cost reduction (new): 20-25% by 2030. From current base-case $5,800-6,500/kW, Rystad's trajectory projects $4,350-5,200/kW by 2030 at current manufacturing scale-up pace. Add as a \"2030 cost curve\" sensitivity alongside the base-case and optimistic scenarios. At $4,500/kW and 30% ITC 48E credit: effective net capex $3,150/kW — approaching competitiveness with new CCGT capex ($2,000-2,200/kW) without the grid interconnection premium. Rystad Energy",
+      "url": "https://www.rystadenergy.com/news/data-center-fuel-cell-power-demand",
       "sources": [
         {
-          "title": "FERC RM26-4",
-          "url": "https://www.ferc.gov/rm26-4"
+          "title": "Rystad Energy",
+          "url": "https://www.rystadenergy.com/news/data-center-fuel-cell-power-demand"
         }
       ]
     },
     {
-      "text": "Oracle Project Jupiter dismiss risk — SOFC pipeline concentration flag: If the 2.45 GW permit is dismissed rather than denied on merit, there is no simple reapplication path — Oracle would need a fundamentally different fuel supply solution before refiling. This is the most material near-term downside scenario for the global SOFC deployment pipeline. A dismissed Project Jupiter removes ~16% of total announced SOFC AI data center capacity from the 2026–2028 pipeline. Monitor NMED docket for the hearing officer's ruling on the dismiss motion.",
+      "text": "ISO-NE BYOG regulatory scenario: If adopted, on-site generation is no longer optional for new large-load interconnection in New England. Model as a \"BYOG-mandated\" scenario in which SOFC LCOE is compared against grid cost + BYOG penalty (effectively: SOFC competes against nothing, as it IS the compliance solution). Add as an upper-bound demand scenario for ISO-NE region market sizing.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Ceres Endura / Delta Q4 2026 production: When Delta begins production, it creates the first verifiable commercial unit economics data point for a licensed SOFC system in data center deployment. Watch Ceres H1 2026 results (September) for any royalty-per-kW or licensing-margin disclosure relevant to valuing the licensee model.",
+      "text": "Bloom + MiTAC Fremont: AI manufacturing as new SOFC market segment. First confirmed SOFC deployment at an AI server manufacturing facility (not a DC or hyperscaler). Suggests addressable market for SOFC extends to the full AI infrastructure supply chain — manufacturing campuses, assembly facilities, HPC cooling infrastructure — not just DC campuses. No direct LCOE impact, but relevant for market sizing upstream of data center deployments.",
       "url": "",
       "sources": []
     },
     {
-      "text": "FCEL at ~$19.80: If FCEL holds above $18 support, the offering overhang is absorbing well; a break below suggests market is discounting pipeline maturation risk. No direct LCOE input, but FCEL's valuation trajectory signals market confidence in MCFC data center deployments (which compete with SOFC on economics at scale).",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending (carry-forward): FERC RM26-4 tariff filings and CAISO/ISO-NE treatment (August 17, T-9 days). Oracle Project Jupiter hearing officer ruling on dismiss motion (timing unknown). Bloom 10-Q shipped MW extraction (SEC EDGAR, due September 11). Elcogen E3000 G2 system-level efficiency at ELCO I production scale. Scandium class action lead plaintiff deadline September 28. Bloom Q3 2026 earnings (October). Ceres H1 2026 results (September). Oracle Project Jupiter air permit hearing September 14 (if dismiss motion not granted).",
+      "text": "Pending (carry-forward, priority-ranked): (1) FERC RM26-4 PJM/MISO/NYISO/SPP tariff filings August 17 — activate $5-20/MWh avoided-T-cost as live LCOE input. (2) Oracle Project Jupiter hearing officer ruling on dismiss motion — if granted, removes ~16% of 2026-2028 SOFC DC pipeline from base case. (3) CAISO/ISO-NE BYOG/November filing outcomes. (4) Bloom 10-Q shipped MW extraction (SEC EDGAR, due September 11). (5) Elcogen E3000 G2 system-level efficiency at ELCO I production scale. (6) Scandium class action lead plaintiff deadline September 28. (7) Oracle Project Jupiter air permit hearing September 14 (if dismiss motion denied). (8) Ceres H1 2026 results and Delta Electronics Q4 ramp confirmation (September). (9) Bloom Q3 2026 earnings (October).",
       "url": "",
       "sources": []
     }
