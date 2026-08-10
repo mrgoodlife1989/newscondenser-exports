@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-07",
+    "title": "Beating Beta — 2026-08-10",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,18 +9,14 @@
     {
       "number": "01",
       "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Warren Buffett & AGGRESSIVE on today's market moves.",
-      "highlight_phrase": "Warren Buffett & AGGRESSIVE",
-      "toc_summary": "Today's guru pair: Warren Buffett & AGGRESSIVE. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\nMacro-View: Markt ueberbewertet, $381B Cash-Polster.\nPicks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt (Bewertung).\nStrategie: Abwarten, Qualitaet zum fairen Preis kaufen.\n\n🚀 AGGRESSIVE\nAllokation: 90% Tech, 10% Cash\nFokus: NVDA, PLTR, COIN, TSM\nZiel: +30-40% | Drawdown: -35%",
+      "title": "Guru Radar: AGGRESSIVE on today's market moves.",
+      "highlight_phrase": "AGGRESSIVE",
+      "toc_summary": "Today's guru pair: AGGRESSIVE. Macro stance, top picks, strategy signals.",
+      "quick_take": "🚀 AGGRESSIVE\n- Allokation: 90% Aktien / 10% Cash\n- Picks: NVDA, PLTR, UBER, ORCL\n- Renditeziel: +30% | Drawdown: -35%",
       "bullets": [
         {
-          "label": "Warren Buffett",
-          "text": "Macro-View: Markt ueberbewertet, $381B Cash-Polster. · Picks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt (Bewertung)."
-        },
-        {
           "label": "AGGRESSIVE",
-          "text": "Allokation: 90% Tech, 10% Cash · Fokus: NVDA, PLTR, COIN, TSM"
+          "text": "- Allokation: 90% Aktien / 10% Cash · - Picks: NVDA, PLTR, UBER, ORCL"
         }
       ],
       "callout": null,
@@ -34,22 +30,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-07",
+      "title": "Markets Snapshot — 2026-08-10",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.709,96 · Nasdaq 29.373,33 · VIX 15,15 · 10Y 4,67% · Gold $4.309,50 · Oil $78,09 · BTC $64.337,98 · F&G N/A",
-      "quick_take": "S&P 500: 7.709,96\nNasdaq: 29.373,33\nVIX: 15,15 · 10Y: 4,67%\nGold: $4.309,50 · Oil: $78,09\nBitcoin: $64.337,98\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.757,64 · Nasdaq 29.722,30 · VIX 14,90 · 10Y 4,66% · Gold $4.384,30 · Oil $78,75 · BTC $65.047,95 · F&G N/A",
+      "quick_take": "S&P 500: 7.757,64\nNasdaq: 29.722,30\nVIX: 14,90 · 10Y: 4,66%\nGold: $4.384,30 · Oil: $78,75\nBitcoin: $65.047,95\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.709,96 · Nasdaq 29.373,33"
+          "text": "S&P 500 7.757,64 · Nasdaq 29.722,30"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,67% · VIX 15,15"
+          "text": "10Y 4,66% · VIX 14,90"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.309,50 · WTI $78,09 · BTC $64.337,98"
+          "text": "Gold $4.384,30 · WTI $78,75 · BTC $65.047,95"
         },
         {
           "label": "Sentiment",
@@ -67,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont",
-      "highlight_phrase": "Micron-Aktie faellt, bleibt aber von der",
-      "toc_summary": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont",
-      "quick_take": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont",
+      "title": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt",
+      "highlight_phrase": "US-Futures flach – Anleger warten auf In",
+      "toc_summary": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt",
+      "quick_take": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Micron-Aktie faellt, bleibt aber von der Speicherchip-Schwemme verschont"
+          "text": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt"
         }
       ],
       "callout": null,
@@ -88,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Er konnte nie mit Geld umgehen\"",
-      "highlight_phrase": "\"Er konnte nie mit Geld umgehen\"",
-      "toc_summary": "\"Er konnte nie mit Geld umgehen\"",
-      "quick_take": "Gefaehrdet eine Rente fuer meinen Bruder sein Supplemental Security Income?",
+      "title": "\"Ich gleite in den Ruhestand\"",
+      "highlight_phrase": "\"Ich gleite in den Ruhestand\"",
+      "toc_summary": "\"Ich gleite in den Ruhestand\"",
+      "quick_take": "80.000 $ Payout – wohin damit?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Gefaehrdet eine Rente fuer meinen Bruder sein Supplemental Security Income?"
+          "text": "80.000 $ Payout – wohin damit?"
         }
       ],
       "callout": null,
@@ -109,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Ihre Konten wurden von Medicaid gepluendert\"",
-      "highlight_phrase": "\"Ihre Konten wurden von Medicaid gepluen",
-      "toc_summary": "\"Ihre Konten wurden von Medicaid gepluendert\"",
-      "quick_take": "Zahlt die Lebensversicherung die Kreditkartenschulden?",
+      "title": "Heirat mit 67",
+      "highlight_phrase": "Heirat mit 67",
+      "toc_summary": "Heirat mit 67",
+      "quick_take": "Verlust von SSI und Divorced-Spouse-Benefits?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Zahlt die Lebensversicherung die Kreditkartenschulden?"
+          "text": "Verlust von SSI und Divorced-Spouse-Benefits?"
         }
       ],
       "callout": null,
@@ -130,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht d",
-      "highlight_phrase": "Die Social-Security-Finanzkrise ist der ",
-      "toc_summary": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht d",
-      "quick_take": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht die Maus",
+      "title": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort",
+      "highlight_phrase": "Zahl der S&P-500-Besieger auf 4-Jahres-H",
+      "toc_summary": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort",
+      "quick_take": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Die Social-Security-Finanzkrise ist der Elefant im Raum – aber ignoriert nicht die Maus"
+          "text": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort"
         }
       ],
       "callout": null,
@@ -151,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Diese Aktien bewegen sich nach Boersenschluss",
-      "highlight_phrase": "Diese Aktien bewegen sich nach Boersensc",
-      "toc_summary": "Diese Aktien bewegen sich nach Boersenschluss",
-      "quick_take": "Twilio, Airbnb, DraftKings, Trade Desk u.a.",
+      "title": "ETF-Branche",
+      "highlight_phrase": "ETF-Branche",
+      "toc_summary": "ETF-Branche",
+      "quick_take": "Risk Assets gewinnen trotz Zinsunsicherheit an Zugkraft",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Twilio, Airbnb, DraftKings, Trade Desk u.a."
+          "text": "Risk Assets gewinnen trotz Zinsunsicherheit an Zugkraft"
         }
       ],
       "callout": null,
@@ -172,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Kupfer springt auf Rekordhoch – was das Metall uns sagt",
-      "highlight_phrase": "Kupfer springt auf Rekordhoch – was das ",
-      "toc_summary": "Kupfer springt auf Rekordhoch – was das Metall uns sagt",
-      "quick_take": "Kupfer springt auf Rekordhoch – was das Metall uns sagt",
+      "title": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investi",
+      "highlight_phrase": "Berkshire-Gewinne steigen – CEO Greg Abe",
+      "toc_summary": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investi",
+      "quick_take": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investieren\n\n━━━━━━━━━━━━\n\n🚀 TOP-MOVER HEUTE\n🟢 PLTR: +10,32% | UBER: +6,46% | NOW: +6,42%\n🟢 CRM: +3,20% | CRWD: +3,39% | SNOW: +3,93%\n\nAktien im Fokus\n🟢 NVDA: 223,96 (+2,27%) – Ziel 303, Strong Buy\n🟢 ORCL: 147,02 (+2,47%) – Ziel 247, +68% Upside\n🔴 AMD: 483,36 (-1,21%) – Signal: Avoid\n\n━━━━━━━━━",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kupfer springt auf Rekordhoch – was das Metall uns sagt"
+          "text": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investieren\n\n━━━━━━━━━━━━\n\n🚀 TOP-MOVER HEUTE\n🟢 PLTR: +10,32% | UBER: +6,46% | NOW: +6,42%\n🟢 CRM: +3,20% | CRWD: +3,39% | SNOW: "
         }
       ],
       "callout": null,
