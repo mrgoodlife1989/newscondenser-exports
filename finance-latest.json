@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-10",
+    "title": "Beating Beta — 2026-08-11",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,14 +9,14 @@
     {
       "number": "01",
       "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: AGGRESSIVE on today's market moves.",
-      "highlight_phrase": "AGGRESSIVE",
-      "toc_summary": "Today's guru pair: AGGRESSIVE. Macro stance, top picks, strategy signals.",
-      "quick_take": "🚀 AGGRESSIVE\n- Allokation: 90% Aktien / 10% Cash\n- Picks: NVDA, PLTR, UBER, ORCL\n- Renditeziel: +30% | Drawdown: -35%",
+      "title": "Guru Radar: Ray Dalio on today's market moves.",
+      "highlight_phrase": "Ray Dalio",
+      "toc_summary": "Today's guru pair: Ray Dalio. Macro stance, top picks, strategy signals.",
+      "quick_take": "🌊 Ray Dalio\n*Macro-View:* Defensiv. Warnt vor einer AI-getriebenen Blase, die an die Dotcom-Ära erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko für die Weltwirtschaft.\n*Bullish:* Gold (aktuell 4.474,90 USD, +3,09% 🔼), Nicht-US-Aktien, Anleihen (10Y Treasury bei 4,70%, Rendite steigt).\n*Bearish:* US-Tech-Konzentration, insbesondere die \"Magnificent Seven\" und AI-Infrastruktur-Titel.",
       "bullets": [
         {
-          "label": "AGGRESSIVE",
-          "text": "- Allokation: 90% Aktien / 10% Cash · - Picks: NVDA, PLTR, UBER, ORCL"
+          "label": "Ray Dalio",
+          "text": "*Macro-View:* Defensiv. Warnt vor einer AI-getriebenen Blase, die an die Dotcom-Ära erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko für die Weltwirtschaft. · *Bullish:* Gold (aktuell 4.474,90 USD, +3,09% 🔼), Nicht-US-Aktien, Anleihen (10Y Treasury bei 4,70%, Rendite steigt)."
         }
       ],
       "callout": null,
@@ -30,22 +30,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-10",
+      "title": "Markets Snapshot — 2026-08-11",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.757,64 · Nasdaq 29.722,30 · VIX 14,90 · 10Y 4,66% · Gold $4.384,30 · Oil $78,75 · BTC $65.047,95 · F&G N/A",
-      "quick_take": "S&P 500: 7.757,64\nNasdaq: 29.722,30\nVIX: 14,90 · 10Y: 4,66%\nGold: $4.384,30 · Oil: $78,75\nBitcoin: $65.047,95\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.753,11 · Nasdaq 29.621,80 · VIX 15,46 · 10Y 4,70% · Gold $4.474,90 · Oil $82,39 · BTC $63.978,06 · F&G N/A",
+      "quick_take": "S&P 500: 7.753,11\nNasdaq: 29.621,80\nVIX: 15,46 · 10Y: 4,70%\nGold: $4.474,90 · Oil: $82,39\nBitcoin: $63.978,06\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.757,64 · Nasdaq 29.722,30"
+          "text": "S&P 500 7.753,11 · Nasdaq 29.621,80"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,66% · VIX 14,90"
+          "text": "10Y 4,70% · VIX 15,46"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.384,30 · WTI $78,75 · BTC $65.047,95"
+          "text": "Gold $4.474,90 · WTI $82,39 · BTC $63.978,06"
         },
         {
           "label": "Sentiment",
@@ -63,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt",
-      "highlight_phrase": "US-Futures flach – Anleger warten auf In",
-      "toc_summary": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt",
-      "quick_take": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt",
+      "title": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur",
+      "highlight_phrase": "Nvidia spannt mit Wall-Street-Firmen zus",
+      "toc_summary": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur",
+      "quick_take": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur zu finanzieren.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "US-Futures flach – Anleger warten auf Inflationsdaten, Iran-Unsicherheit bleibt"
+          "text": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur zu finanzieren."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich gleite in den Ruhestand\"",
-      "highlight_phrase": "\"Ich gleite in den Ruhestand\"",
-      "toc_summary": "\"Ich gleite in den Ruhestand\"",
-      "quick_take": "80.000 $ Payout – wohin damit?",
+      "title": "\"Ihre Bankkonten wurden von Medicaid leergeräumt\": Meine verstorbene Freundin hatte 20.000 $ Kreditkartenschulden",
+      "highlight_phrase": "\"Ihre Bankkonten wurden von Medicaid lee",
+      "toc_summary": "\"Ihre Bankkonten wurden von Medicaid leergeräumt\": Meine verstorbene Freundin hatte 20.000 $ Kreditkartenschulden",
+      "quick_take": "zahlt ihre Lebensversicherung?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "80.000 $ Payout – wohin damit?"
+          "text": "zahlt ihre Lebensversicherung?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Heirat mit 67",
-      "highlight_phrase": "Heirat mit 67",
-      "toc_summary": "Heirat mit 67",
-      "quick_take": "Verlust von SSI und Divorced-Spouse-Benefits?",
+      "title": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebni",
+      "highlight_phrase": "Rocket Lab kündigt große Pläne an, aber ",
+      "toc_summary": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebni",
+      "quick_take": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebnisse.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Verlust von SSI und Divorced-Spouse-Benefits?"
+          "text": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebnisse."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort",
-      "highlight_phrase": "Zahl der S&P-500-Besieger auf 4-Jahres-H",
-      "toc_summary": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort",
-      "quick_take": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort",
+      "title": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes.",
+      "highlight_phrase": "Das ist die Postleitzahl mit dem heißest",
+      "toc_summary": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes.",
+      "quick_take": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Zahl der S&P-500-Besieger auf 4-Jahres-Hoch – und der Trend setzt sich fort"
+          "text": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "ETF-Branche",
-      "highlight_phrase": "ETF-Branche",
-      "toc_summary": "ETF-Branche",
-      "quick_take": "Risk Assets gewinnen trotz Zinsunsicherheit an Zugkraft",
+      "title": "Nvidia sichert sich $500 Mrd. Finanzierung",
+      "highlight_phrase": "Nvidia sichert sich $500 Mrd. Finanzieru",
+      "toc_summary": "Nvidia sichert sich $500 Mrd. Finanzierung",
+      "quick_take": "CEO Jensen Huang sagt CNBC, seine Chips seien ein \"investierbares Asset\".",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Risk Assets gewinnen trotz Zinsunsicherheit an Zugkraft"
+          "text": "CEO Jensen Huang sagt CNBC, seine Chips seien ein \"investierbares Asset\"."
         }
       ],
       "callout": null,
@@ -168,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investi",
-      "highlight_phrase": "Berkshire-Gewinne steigen – CEO Greg Abe",
-      "toc_summary": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investi",
-      "quick_take": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investieren\n\n━━━━━━━━━━━━\n\n🚀 TOP-MOVER HEUTE\n🟢 PLTR: +10,32% | UBER: +6,46% | NOW: +6,42%\n🟢 CRM: +3,20% | CRWD: +3,39% | SNOW: +3,93%\n\nAktien im Fokus\n🟢 NVDA: 223,96 (+2,27%) – Ziel 303, Strong Buy\n🟢 ORCL: 147,02 (+2,47%) – Ziel 247, +68% Upside\n🔴 AMD: 483,36 (-1,21%) – Signal: Avoid\n\n━━━━━━━━━",
+      "title": "Aktien mit den größten Bewegungen am Mittag",
+      "highlight_phrase": "Aktien mit den größten Bewegungen am Mit",
+      "toc_summary": "Aktien mit den größten Bewegungen am Mittag",
+      "quick_take": "NetApp, Intel, Apple, Doximity, Verisk Analytics & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Berkshire-Gewinne steigen – CEO Greg Abel beginnt, Buffetts Cash-Berg zu investieren\n\n━━━━━━━━━━━━\n\n🚀 TOP-MOVER HEUTE\n🟢 PLTR: +10,32% | UBER: +6,46% | NOW: +6,42%\n🟢 CRM: +3,20% | CRWD: +3,39% | SNOW: "
+          "text": "NetApp, Intel, Apple, Doximity, Verisk Analytics & mehr."
         }
       ],
       "callout": null,
