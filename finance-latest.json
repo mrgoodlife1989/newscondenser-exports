@@ -1,51 +1,30 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-11",
+    "title": "Beating Beta — 2026-08-13",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Ray Dalio on today's market moves.",
-      "highlight_phrase": "Ray Dalio",
-      "toc_summary": "Today's guru pair: Ray Dalio. Macro stance, top picks, strategy signals.",
-      "quick_take": "🌊 Ray Dalio\n*Macro-View:* Defensiv. Warnt vor einer AI-getriebenen Blase, die an die Dotcom-Ära erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko für die Weltwirtschaft.\n*Bullish:* Gold (aktuell 4.474,90 USD, +3,09% 🔼), Nicht-US-Aktien, Anleihen (10Y Treasury bei 4,70%, Rendite steigt).\n*Bearish:* US-Tech-Konzentration, insbesondere die \"Magnificent Seven\" und AI-Infrastruktur-Titel.",
-      "bullets": [
-        {
-          "label": "Ray Dalio",
-          "text": "*Macro-View:* Defensiv. Warnt vor einer AI-getriebenen Blase, die an die Dotcom-Ära erinnert. Sieht die US-Tech-Konzentration als systemisches Risiko für die Weltwirtschaft. · *Bullish:* Gold (aktuell 4.474,90 USD, +3,09% 🔼), Nicht-US-Aktien, Anleihen (10Y Treasury bei 4,70%, Rendite steigt)."
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-11",
+      "title": "Markets Snapshot — 2026-08-13",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.753,11 · Nasdaq 29.621,80 · VIX 15,46 · 10Y 4,70% · Gold $4.474,90 · Oil $82,39 · BTC $63.978,06 · F&G N/A",
-      "quick_take": "S&P 500: 7.753,11\nNasdaq: 29.621,80\nVIX: 15,46 · 10Y: 4,70%\nGold: $4.474,90 · Oil: $82,39\nBitcoin: $63.978,06\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.748,50 · Nasdaq 29.742,60 · VIX 14,55 · 10Y 4,68% · Gold $4.469,20 · Oil $82,23 · BTC $63.478,76 · F&G N/A",
+      "quick_take": "S&P 500: 7.748,50\nNasdaq: 29.742,60\nVIX: 14,55 · 10Y: 4,68%\nGold: $4.469,20 · Oil: $82,23\nBitcoin: $63.478,76\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.753,11 · Nasdaq 29.621,80"
+          "text": "S&P 500 7.748,50 · Nasdaq 29.742,60"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,70% · VIX 15,46"
+          "text": "10Y 4,68% · VIX 14,55"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.474,90 · WTI $82,39 · BTC $63.978,06"
+          "text": "Gold $4.469,20 · WTI $82,23 · BTC $63.478,76"
         },
         {
           "label": "Sentiment",
@@ -63,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur",
-      "highlight_phrase": "Nvidia spannt mit Wall-Street-Firmen zus",
-      "toc_summary": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur",
-      "quick_take": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur zu finanzieren.",
+      "title": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach.",
+      "highlight_phrase": "Cisco meldet Rekordergebnisse dank KI-\"S",
+      "toc_summary": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach.",
+      "quick_take": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Nvidia spannt mit Wall-Street-Firmen zusammen, um $500 Mrd. für KI-Infrastruktur zu finanzieren."
+          "text": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach."
         }
       ],
       "callout": null,
@@ -84,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ihre Bankkonten wurden von Medicaid leergeräumt\": Meine verstorbene Freundin hatte 20.000 $ Kreditkartenschulden",
-      "highlight_phrase": "\"Ihre Bankkonten wurden von Medicaid lee",
-      "toc_summary": "\"Ihre Bankkonten wurden von Medicaid leergeräumt\": Meine verstorbene Freundin hatte 20.000 $ Kreditkartenschulden",
-      "quick_take": "zahlt ihre Lebensversicherung?",
+      "title": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinte",
+      "highlight_phrase": "Ehefrau kann mit 62 Jahren 900 Dollar be",
+      "toc_summary": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinte",
+      "quick_take": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinterbliebenenrente warten?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "zahlt ihre Lebensversicherung?"
+          "text": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinterbliebenenrente warten?"
         }
       ],
       "callout": null,
@@ -105,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebni",
-      "highlight_phrase": "Rocket Lab kündigt große Pläne an, aber ",
-      "toc_summary": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebni",
-      "quick_take": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebnisse.",
+      "title": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?",
+      "highlight_phrase": "100-Dollar-Schein im Gemeinschaftswaschr",
+      "toc_summary": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?",
+      "quick_take": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Rocket Lab kündigt große Pläne an, aber die Aktie fällt wegen gemischter Ergebnisse."
+          "text": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?"
         }
       ],
       "callout": null,
@@ -126,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes.",
-      "highlight_phrase": "Das ist die Postleitzahl mit dem heißest",
-      "toc_summary": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes.",
-      "quick_take": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes.",
+      "title": "\"Der Markt brennt\"",
+      "highlight_phrase": "\"Der Markt brennt\"",
+      "toc_summary": "\"Der Markt brennt\"",
+      "quick_take": "Soll ich 1.000 Dollar vom Brokerage-Konto nehmen, um den Autokredit zu tilgen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Das ist die Postleitzahl mit dem heißesten Immobilienmarkt des Landes."
+          "text": "Soll ich 1.000 Dollar vom Brokerage-Konto nehmen, um den Autokredit zu tilgen?"
         }
       ],
       "callout": null,
@@ -147,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Nvidia sichert sich $500 Mrd. Finanzierung",
-      "highlight_phrase": "Nvidia sichert sich $500 Mrd. Finanzieru",
-      "toc_summary": "Nvidia sichert sich $500 Mrd. Finanzierung",
-      "quick_take": "CEO Jensen Huang sagt CNBC, seine Chips seien ein \"investierbares Asset\".",
+      "title": "Größte After-Hours-Bewegungen",
+      "highlight_phrase": "Größte After-Hours-Bewegungen",
+      "toc_summary": "Größte After-Hours-Bewegungen",
+      "quick_take": "Cisco, Jack in the Box, Cerebras, StubHub & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "CEO Jensen Huang sagt CNBC, seine Chips seien ein \"investierbares Asset\"."
+          "text": "Cisco, Jack in the Box, Cerebras, StubHub & mehr."
         }
       ],
       "callout": null,
@@ -168,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen am Mittag",
-      "highlight_phrase": "Aktien mit den größten Bewegungen am Mit",
-      "toc_summary": "Aktien mit den größten Bewegungen am Mittag",
-      "quick_take": "NetApp, Intel, Apple, Doximity, Verisk Analytics & mehr.",
+      "title": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom ",
+      "highlight_phrase": "SpaceX-Leerverkäufer gehen die Munition ",
+      "toc_summary": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom ",
+      "quick_take": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom Tief.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "NetApp, Intel, Apple, Doximity, Verisk Analytics & mehr."
+          "text": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom Tief."
         }
       ],
       "callout": null,
