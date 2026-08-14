@@ -1,30 +1,51 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-13",
+    "title": "Beating Beta — 2026-08-14",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Warren Buffett on today's market moves.",
+      "highlight_phrase": "Warren Buffett",
+      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\nMacro: Hält $381B Cash, Markt überbewertet.\n🟢 Bullish: KO, AXP, OXY | 🔴 Bearish: Breiter US-Markt\nStrategie: Cash-Position als Option auf günstigere Zeiten.",
+      "bullets": [
+        {
+          "label": "Warren Buffett",
+          "text": "Macro: Hält $381B Cash, Markt überbewertet. · 🟢 Bullish: KO, AXP, OXY | 🔴 Bearish: Breiter US-Markt"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-13",
+      "title": "Markets Snapshot — 2026-08-14",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.748,50 · Nasdaq 29.742,60 · VIX 14,55 · 10Y 4,68% · Gold $4.469,20 · Oil $82,23 · BTC $63.478,76 · F&G N/A",
-      "quick_take": "S&P 500: 7.748,50\nNasdaq: 29.742,60\nVIX: 14,55 · 10Y: 4,68%\nGold: $4.469,20 · Oil: $82,23\nBitcoin: $63.478,76\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.798,99 · Nasdaq 30.084,50 · VIX 14,63 · 10Y 4,64% · Gold $4.371,90 · Oil $81,31 · BTC $63.401,00 · F&G N/A",
+      "quick_take": "S&P 500: 7.798,99\nNasdaq: 30.084,50\nVIX: 14,63 · 10Y: 4,64%\nGold: $4.371,90 · Oil: $81,31\nBitcoin: $63.401,00\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.748,50 · Nasdaq 29.742,60"
+          "text": "S&P 500 7.798,99 · Nasdaq 30.084,50"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,68% · VIX 14,55"
+          "text": "10Y 4,64% · VIX 14,63"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.469,20 · WTI $82,23 · BTC $63.478,76"
+          "text": "Gold $4.371,90 · WTI $81,31 · BTC $63.401,00"
         },
         {
           "label": "Sentiment",
@@ -42,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach.",
-      "highlight_phrase": "Cisco meldet Rekordergebnisse dank KI-\"S",
-      "toc_summary": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach.",
-      "quick_take": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach.",
+      "title": "Reddit steigt nach monatelanger Spekulation in den S&P 500 auf",
+      "highlight_phrase": "Reddit steigt nach monatelanger Spekulat",
+      "toc_summary": "Reddit steigt nach monatelanger Spekulation in den S&P 500 auf",
+      "quick_take": "Analysten sehen dennoch Risiken.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Cisco meldet Rekordergebnisse dank KI-\"Superzyklus\" – Aktie gibt dennoch nach."
+          "text": "Analysten sehen dennoch Risiken."
         }
       ],
       "callout": null,
@@ -63,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinte",
-      "highlight_phrase": "Ehefrau kann mit 62 Jahren 900 Dollar be",
-      "toc_summary": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinte",
-      "quick_take": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinterbliebenenrente warten?",
+      "title": "\"Meine Frau und ich sind beide im Ruhestand\"",
+      "highlight_phrase": "\"Meine Frau und ich sind beide im Ruhest",
+      "toc_summary": "\"Meine Frau und ich sind beide im Ruhestand\"",
+      "quick_take": "Sollten wir unsere 2,3 Mio. Dollar Investments anfassen, um eine 300.000-Dollar-Hypothek mit 2,9% Zins abzuloesen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ehefrau kann mit 62 Jahren 900 Dollar beanspruchen – jetzt nehmen oder auf Hinterbliebenenrente warten?"
+          "text": "Sollten wir unsere 2,3 Mio. Dollar Investments anfassen, um eine 300.000-Dollar-Hypothek mit 2,9% Zins abzuloesen?"
         }
       ],
       "callout": null,
@@ -84,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?",
-      "highlight_phrase": "100-Dollar-Schein im Gemeinschaftswaschr",
-      "toc_summary": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?",
-      "quick_take": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?",
+      "title": "Dells Aktie schlaegt Micron und AMD in diesem Jahr",
+      "highlight_phrase": "Dells Aktie schlaegt Micron und AMD in d",
+      "toc_summary": "Dells Aktie schlaegt Micron und AMD in diesem Jahr",
+      "quick_take": "und legt weiter zu.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "100-Dollar-Schein im Gemeinschaftswaschraum des Airbnbs gefunden – was tun?"
+          "text": "und legt weiter zu."
         }
       ],
       "callout": null,
@@ -105,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Der Markt brennt\"",
-      "highlight_phrase": "\"Der Markt brennt\"",
-      "toc_summary": "\"Der Markt brennt\"",
-      "quick_take": "Soll ich 1.000 Dollar vom Brokerage-Konto nehmen, um den Autokredit zu tilgen?",
+      "title": "Salesforce-Aktie steigt",
+      "highlight_phrase": "Salesforce-Aktie steigt",
+      "toc_summary": "Salesforce-Aktie steigt",
+      "quick_take": "J.P. Morgan stuft KI-Aengste als uebertrieben ein.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Soll ich 1.000 Dollar vom Brokerage-Konto nehmen, um den Autokredit zu tilgen?"
+          "text": "J.P. Morgan stuft KI-Aengste als uebertrieben ein."
         }
       ],
       "callout": null,
@@ -126,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Größte After-Hours-Bewegungen",
-      "highlight_phrase": "Größte After-Hours-Bewegungen",
-      "toc_summary": "Größte After-Hours-Bewegungen",
-      "quick_take": "Cisco, Jack in the Box, Cerebras, StubHub & mehr.",
+      "title": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa.",
+      "highlight_phrase": "Uber kooperiert mit Chinas Pony.ai fuer ",
+      "toc_summary": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa.",
+      "quick_take": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Cisco, Jack in the Box, Cerebras, StubHub & mehr."
+          "text": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa."
         }
       ],
       "callout": null,
@@ -147,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom ",
-      "highlight_phrase": "SpaceX-Leerverkäufer gehen die Munition ",
-      "toc_summary": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom ",
-      "quick_take": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom Tief.",
+      "title": "Diese Charts zeigen, warum die Rally weiterlaeuft",
+      "highlight_phrase": "Diese Charts zeigen, warum die Rally wei",
+      "toc_summary": "Diese Charts zeigen, warum die Rally weiterlaeuft",
+      "quick_take": "Die Gewinnmargen sind auf Rekordhoch.\n\n━━━",
       "bullets": [
         {
           "label": "Detail",
-          "text": "SpaceX-Leerverkäufer gehen die Munition aus – Aktie erholt sich um über 40% vom Tief."
+          "text": "Die Gewinnmargen sind auf Rekordhoch.\n\n━━━"
         }
       ],
       "callout": null,
