@@ -1,21 +1,21 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "topSignals": [
     {
-      "title": "Oracle Project Jupiter: Green Chile Pipeline delayed 6 months to Feb 2027 — ORCL -3.7%, BE falls in sympathy",
-      "text": "— A regulatory filing by Energy Transfer's Transwestern Pipeline unit (published August 14) disclosed that the Green Chile Project's in-service target date has moved to February 1, 2027, from the original August 15, 2026 deadline. The ~18-mile pipeline is designed to deliver up to 400 Mmcf/day of natural gas to the 2.45 GW Bloom SOFC campus in Doña Ana County, NM. ORCL fell 3.7% to near 52-week lows (~$120–122); Bloom Energy shares declined in sympathy. Oracle insists \"Project Jupiter remains on schedule,\" but this is the third supply-chain setback (first March pipeline rejection, second July 14 land commissioner denial, now in-service delay). September 14 NMED air-quality permit hearing remains set. Seeking Alpha | DCD | Motley Fool | StockTwits",
-      "url": "https://seekingalpha.com/news/4633501-gas-pipeline-for-proposed-165b-oracle-data-center-delayed-to-2027",
+      "title": "Doosan Fuel Cell / Reverion GmbH: first overseas Ceres-licensed SOFC stack export, $76.7M",
+      "text": "— On August 5–6, 2026, Doosan Fuel Cell announced its largest-ever overseas contract: KRW 108.7 billion (~$76.7M) to supply mid-to-low-temperature (620°C) reversible SOFC stacks to Reverion GmbH (University of Munich spin-out) for deployment in European containerised biogas power plants. Stacks will be delivered in phases through H2 2027. This marks the first overseas export of mass-produced SOFC core components from Doosan's new 50 MW factory in South Korea, using technology licensed from Ceres Power. Reverion will use the stacks in reversible SOFC/SOEC mode — generating power from biogas and optionally producing green hydrogen. Strategic significance: first commercial proof of Ceres Power's stack licensing model delivering European export volume; validates Ceres's Endura platform at production scale outside Korea; Reverion's reversible deployment is a new SOFC-data-center-adjacent use case (distributed biogas-to-power). Ceres Power (CWR.L) shares responded positively on the news. Gasworld | Hydrogen Fuel News | LSE/Ceres announcement | FuelCellsWorks",
+      "url": "https://www.gasworld.com/story/doosan-fuel-cell-enters-76-7m-supply-agreement-with-german-start-up/2257077.article/",
       "n": 1
     },
     {
-      "title": "Texas ERCOT data center grid pause — direct positive for on-site SOFC",
-      "text": "— Governor Greg Abbott directed PUCT and ERCOT to audit all data center projects in the interconnection queue before approving any new grid connections. ERCOT suspended its Batch Zero Large Load classification notifications (previously scheduled August 7, 2026); ERCOT will seek a good-cause exception at the PUCT August 20 open meeting. ~474 GW of pending interconnection requests (90% data centers) are now in limbo. Self-supply projects — SOFC behind-the-meter campuses including Hedgehog Texas (104 MW→1.5 GW, already pre-construction) — are exempted from queue requirements. Per 24/7 Wall St.: \"retail sentiment turned bullish in August after Texas paused new data center approvals, read as favorable for onsite fuel cell providers.\" PUCT August 20 is the next procedural gate. Texas Tribune | Utility Dive | Troutman",
-      "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
+      "title": "ERCOT Batch Zero suspended — PUCT August 20 hearing to define audit scope for 474 GW DC queue",
+      "text": "— Following Gov. Abbott's August 3 directive, ERCOT confirmed it has suspended the Batch Zero Large Load classification notification (originally due August 7) and will seek a \"good cause\" exception at the PUCT's August 20 open meeting. The audit covers approximately 250–300 projects — roughly 90% data centers — drawn from ERCOT's unprecedented 474 GW of interconnection requests (5x ERCOT's record peak demand). ERCOT stated publicly that the audit could take months to complete. The August 20 PUCT hearing will establish the audit scope, timeline, and any interim interconnection rules. SOFC implication: on-site SOFC deployments that are grid-independent (behind-the-meter, not requiring ERCOT interconnection) are structurally exempt from the Batch Zero freeze. Hedgehog USA Texas (1.5 GW Bloom SOFC, ERCOT Batch Zero self-supply pathway) is directly in the frozen queue and could face delay. Market interpretation: retail investors read the Texas pause as broadly bullish for on-site SOFC bypass solutions. Watch August 20 PUCT open meeting for audit criteria and any Batch Zero exemption language. Holland & Knight | Bracewell | Akin Gump | Houston Public Media | Texas Tribune",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/08/texas-gov-abbott-directs-data-center-audit",
       "n": 2
     },
     {
-      "title": "FERC RM26-4: T-2 days to August 17 hard deadline",
-      "text": "— PJM, MISO, NYISO, and SPP must submit large-load interconnection tariff filings or compliance responses by Monday August 17. No filings published as of August 15. Monday's submissions will define the regulatory cost structure across ~70% of US load and convert the $5–20/MWh avoided-transmission-cost SOFC LCOE benefit from an estimate to a quantified tariff input. LCOE model update scheduled August 18. FERC RM26-4 | McGuireWoods",
+      "title": "FERC RM26-4: T-1 day — August 17 tariff reform deadline arrives tomorrow",
+      "text": "— As of August 16, no conforming tariff filings from PJM, MISO, NYISO, or SPP have appeared in the FERC RM26-4 docket. Tomorrow is the hard statutory deadline: each RTO must either file revised large-load interconnection tariff language or submit a compliance response justifying the status quo. These filings will define, for the first time in formal tariff text, how co-located large-load data centers (>20 MW, >=69 kV) interact with grid costs across ~70% of US electrical load — the direct regulatory basis for the $5–20/MWh avoided-transmission-cost SOFC LCOE benefit. CAISO tracks November; ISO-NE BYOG mandate pending. Activate LCOE avoided-T-cost input once filings land August 17–18. FERC RM26-4 docket | BD Law | Akin Gump",
       "url": "https://www.ferc.gov/rm26-4",
       "n": 3
     }
@@ -25,17 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet day August 15. Status unchanged: E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 23,000 SOEC rapid-cycle validated); ELCO I Tallinn factory (360 MW/yr) in volume production; deliveries underway to key partners. No new announcements. Elcogen",
-          "url": "https://elcogen.com/",
+          "text": "Elcogen (priority): Quiet day August 16. Status unchanged: E3000 G2 platform in volume production at ELCO I Tallinn (360 MW/yr); deliveries to key partners underway since Q2 2026. Most recent external activity: Bonicorn/Eltronic Southeast Asia PtX partnership (Apr 2026), JNK India MoU (Feb 2026), EC Executive VP Teresa Ribera factory visit (June 2026). No new announcements. Elcogen",
+          "url": "https://elcogen.com/category/news/",
           "sources": [
             {
               "title": "Elcogen",
-              "url": "https://elcogen.com/"
+              "url": "https://elcogen.com/category/news/"
             }
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet day August 15. Status unchanged: Herning SOEC factory hibernated pending H2 demand recovery; CEO Elena Scaltritti since June 1, 2026; FY2026 guidance DKK 7,600–8,400M; SOFC/data-center pathway deferred to 2029+. No new SOFC announcements. Topsoe",
+          "text": "Topsoe (priority): Quiet day August 16. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending H2 market recovery; CEO Elena Scaltritti since June 1, 2026; FY2026 guidance DKK 7,600–8,400M; SOFC/data-center pathway deferred to 2029+. No new SOFC product or partnership announcements. Topsoe",
           "url": "https://www.topsoe.com/",
           "sources": [
             {
@@ -45,7 +45,17 @@
           ]
         },
         {
-          "text": "Other players: Quiet day. No new announcements from FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, or Aisin. Ceres Power: Goldman Sachs Conviction Buy (168% upside, Aug 13) remains the live catalyst; H1 2026 results (September) is the next company-level event.",
+          "text": "Ceres Power / Doosan: Doosan Fuel Cell's $76.7M Reverion export deal (see Top Signal #1) is the primary Ceres-ecosystem development this week. Ceres shares reacted positively; Goldman Sachs August European Conviction Buy (168% upside) remains active. Delta Electronics Q4 2026 Ceres Endura (10.8 kW) ramp remains the next European-licensed SOFC commercialisation milestone. No new Ceres Power corporate announcements beyond the Doosan/Reverion RNS disclosure. LSE announcement",
+          "url": "https://www.londonstockexchange.com/news-article/CWR/doosan-fuel-cell-sofc-order-with-reverion-gmbh/17725765",
+          "sources": [
+            {
+              "title": "LSE announcement",
+              "url": "https://www.londonstockexchange.com/news-article/CWR/doosan-fuel-cell-sofc-order-with-reverion-gmbh/17725765"
+            }
+          ]
+        },
+        {
+          "text": "Other players: Quiet day. No new announcements from FuelCell Energy, SolydEra, Mitsubishi Power, Kyocera, or Aisin.",
           "url": "",
           "sources": []
         }
@@ -55,21 +65,31 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Oracle Project Jupiter (2.45 GW, Doña Ana County NM): Green Chile Pipeline delayed to Feb 1, 2027 — see Top Signal #1. Third supply-chain regulatory setback for Project Jupiter. NMED September 14 air permit hearing is the parallel critical-path item; the project can advance the permit process regardless of pipeline status, but construction cannot proceed without a fuel supply solution. Oracle maintains the project is on schedule; market skepticism reflected in ORCL stock near 52-week low. Seeking Alpha | BigGo Finance",
-          "url": "https://seekingalpha.com/news/4633501-gas-pipeline-for-proposed-165b-oracle-data-center-delayed-to-2027",
+          "text": "Oracle Project Jupiter (2.45 GW Bloom SOFC, Santa Teresa NM): No new developments August 15–16. September 14 NMED public hearing remains confirmed as the decisive venue following hearing examiner reversal of the dismiss motion. The gas pipeline access question (Energy Transfer route, twice denied from NM state trust land) will be argued at the September 14 hearing. Air permit decision deadline: November 2026. Oracle maintains the project is on schedule. ABQ Journal | Source NM",
+          "url": "https://www.abqjournal.com/news/hearing-examiner-reverses-order-that-could-have-derailed-project-jupiter/3100711",
           "sources": [
             {
-              "title": "Seeking Alpha",
-              "url": "https://seekingalpha.com/news/4633501-gas-pipeline-for-proposed-165b-oracle-data-center-delayed-to-2027"
+              "title": "ABQ Journal",
+              "url": "https://www.abqjournal.com/news/hearing-examiner-reverses-order-that-could-have-derailed-project-jupiter/3100711"
             },
             {
-              "title": "BigGo Finance",
-              "url": "https://finance.biggo.com/news/cb5844a5-3620-484f-a98b-31d80ae171dd"
+              "title": "Source NM",
+              "url": "https://sourcenm.com/2026/07/31/hearing-for-project-jupiter-data-centers-air-quality-permit-application-rescheduled-to-september/"
             }
           ]
         },
         {
-          "text": "Active pipeline carry-forward (unchanged): Nebius/Bloom 328 MW Vineland NJ (confirmed active Aug 12); Crusoe/Cheyenne 900 MW Phase 1 (first data halls H2 2026); Hedgehog Texas 1.5 GW (104 MW Phase 1, pre-construction, self-supply, ERCOT audit-exempt); FCEL/Fit Energy 380 MW (30 MW H2 2026 delivery); Equinix >100 MW (19+ DCs); Bloom/Brookfield $25B EaaS framework; ECL/PowerCell 300 MW+ H2-ready.",
+          "text": "ERCOT Batch Zero / Hedgehog USA Texas (1.5 GW Bloom): See Top Signal #2. August 20 PUCT hearing may determine whether Batch Zero self-supply projects face delays alongside grid-interconnect applicants. Pre-construction Phase 1 (104 MW) TCEQ permit registration unchanged. No new filings. Troutman Pepper",
+          "url": "https://www.troutman.com/insights/texas-hits-pause-on-data-center-grid-connections-amid-growing-oversight-push/",
+          "sources": [
+            {
+              "title": "Troutman Pepper",
+              "url": "https://www.troutman.com/insights/texas-hits-pause-on-data-center-grid-connections-amid-growing-oversight-push/"
+            }
+          ]
+        },
+        {
+          "text": "Active pipeline carry-forward unchanged: Nebius/Bloom 328 MW Vineland NJ (confirmed active Aug 12); Crusoe/Cheyenne 900 MW Phase 1 (first data halls H2 2026); FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026); Equinix >100 MW (19+ DCs); Bloom/Brookfield $25B EaaS framework; ECL/PowerCell 300 MW+ H2-ready.",
           "url": "",
           "sources": []
         }
@@ -79,22 +99,27 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC RM26-4 (T-2 days, Monday August 17): See Top Signal #3. No tariff filings confirmed as of August 15. Monday's PJM/MISO/NYISO/SPP submissions will activate the $5–20/MWh avoided-T-cost as a live LCOE input for on-site SOFC projects in those footprints. Activate as LCOE model sensitivity lever once filings land; model update August 18.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Texas ERCOT data center grid audit (PUCT August 20): See Top Signal #2. Governor Abbott's directive pauses grid approvals for all new large-load data centers; PUCT August 20 open meeting determines whether Batch Zero Large Load processing resumes or suspension continues. Self-supply (off-grid SOFC) projects are exempted — a structural tailwind for behind-the-meter deployments in Texas. Texas Tribune",
-          "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
+          "text": "FERC RM26-4 — T-1 day to August 17 deadline: See Top Signal #3. No RTO filings as of August 16. Monitor FERC eLibrary from Monday morning. FERC RM26-4",
+          "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
-              "title": "Texas Tribune",
-              "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+              "title": "FERC RM26-4",
+              "url": "https://www.ferc.gov/rm26-4"
             }
           ]
         },
         {
-          "text": "Background unchanged: NY EO 62 data center moratorium (50 MW+, islanded exemption active); Germany EnEfG PUE ≤1.2/ERF ≥10%/15% waste heat from July 2026; EU CADA energy efficiency rating scheme delayed; ITC 48E 30% credit active for all fuel cell feedstocks.",
+          "text": "ERCOT/PUCT August 20 hearing: See Top Signal #2. Outcome determines audit scope and Batch Zero interim rules. Self-supply SOFC projects: monitor for any explicit carve-out language. ERCOT Batch Zero notice",
+          "url": "https://www.ercot.com/services/comm/mkt_notices/M-A080326-01",
+          "sources": [
+            {
+              "title": "ERCOT Batch Zero notice",
+              "url": "https://www.ercot.com/services/comm/mkt_notices/M-A080326-01"
+            }
+          ]
+        },
+        {
+          "text": "Background unchanged: NY EO 62 data center moratorium (50 MW+, islanded exemption active); Germany EnEfG PUE ≤1.2/ERF ≥10%/15% waste heat from July 2026; EU CADA energy efficiency rating scheme delayed; ITC 48E 30% credit active for all fuel cell feedstocks; 8 US states with enacted data center tax restrictions.",
           "url": "",
           "sources": []
         }
@@ -104,21 +129,21 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Rolls-Royce SMR (UK): GDA Step 3 completion is scheduled for August 2026 (53-month process that started July 31, 2024). No ONR Design Acceptance Confirmation issued as of August 15. If published this week or next, it marks the first Western SMR cleared for UK construction authorization and is the trigger for Wylfa (three units, Great British Energy-Nuclear). Relevant to UK/European SOFC competitive timeline from ~2035 onward. ONR | GDA process",
-          "url": "https://www.onr.org.uk/generic-design-assessment/assessment-of-reactors/rolls-royce-smr/",
+          "text": "Rolls-Royce SMR GDA Step 3: August 2026 was the scheduled completion date for the 53-month UK Generic Design Assessment (Step 3 started July 31, 2024). No Design Acceptance Confirmation (DAC) published by ONR as of August 16. A DAC issuance this month would mark the first Western SMR to clear full UK regulatory assessment and trigger construction authorisation at Wylfa. If delayed, it further widens SOFC's deployment speed advantage in European co-location markets. Watch ONR/Rolls-Royce SMR press channels. Rolls-Royce SMR progress | World Nuclear News",
+          "url": "https://www.rolls-royce-smr.com/our-progress",
           "sources": [
             {
-              "title": "ONR",
-              "url": "https://www.onr.org.uk/generic-design-assessment/assessment-of-reactors/rolls-royce-smr/"
+              "title": "Rolls-Royce SMR progress",
+              "url": "https://www.rolls-royce-smr.com/our-progress"
             },
             {
-              "title": "GDA process",
-              "url": "https://gda.rolls-royce-smr.com/gda-process"
+              "title": "World Nuclear News",
+              "url": "https://www.world-nuclear-news.org/articles/rolls-royce-smr-progresses-to-final-step-of-uk-ass"
             }
           ]
         },
         {
-          "text": "Background unchanged: 13 hyperscaler nuclear deals totaling >9.8 GW; nuclear 10+ year lead times remain SOFC's primary competitive differentiator for near-term deployment; NuScale VOYGR-12 first units not before 2031; battery LCOE ~$25/MWh unsuitable for 24/7 AI baseload.",
+          "text": "Background unchanged: 13 hyperscaler nuclear deals totalling >9.8 GW; nuclear 10+ year lead times remain SOFC's primary competitive differentiator for near-term deployment; battery LCOE ~$25/MWh unsuitable for 24/7 AI baseload.",
           "url": "",
           "sources": []
         }
@@ -128,39 +153,30 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Stock corrected on August 14 from the ~$391 all-time intraday high (August 12) alongside ORCL on Project Jupiter pipeline delay news; 24/7 Wall St. (August 14) cites a current price of ~$246, implying the close was well below the recent record. Still up significantly YTD. 29-analyst consensus remains Buy; average PT $273.51. RBC Capital Buy, PT $335: \"major demand ramp\" entering data centers. 24/7 Wall St. PT $251.84. Motley Fool (August 13) analysis on \"Is Bloom Energy a Buy, Hold, or Sell After Its 1,920% Run?\" concludes that $20B+ backlog and hyperscaler validation are structurally intact but execution risk at elevated valuations is real. 247wallst Aug 14 | Motley Fool Aug 13 | Barchart/RBC",
-          "url": "https://247wallst.com/investing/2026/08/14/bloom-energy-stock-has-exploded-heres-what-could-drive-it-even-higher/",
+          "text": "Bloom Energy (BE): Stock continues consolidating after the August 12 record close near $391 (+13% on Nebius confirmation). Analysis from Foreign Policy Journal (August 15) and NAI 500 frames the post-500%-surge question as whether execution on the $20B+ backlog sustains the valuation (81x forward P/E). Texas data center audit pause widely interpreted as bullish for on-site fuel cell bypass. 247wallst (Aug 14): \"What Could Drive It Even Higher\" — backlog conversion, Oracle Jupiter permit, AEP Wyoming replacement, and FERC RM26-4 tariff outcome are the four near-term catalysts. Foreign Policy Journal | 247wallst | NAI 500",
+          "url": "https://www.foreignpolicyjournal.com/2026/08/15/bloom-energy-nyse-be-rides-ai-power-boom-what-could-push-shares-even-higher/",
           "sources": [
             {
-              "title": "247wallst Aug 14",
+              "title": "Foreign Policy Journal",
+              "url": "https://www.foreignpolicyjournal.com/2026/08/15/bloom-energy-nyse-be-rides-ai-power-boom-what-could-push-shares-even-higher/"
+            },
+            {
+              "title": "247wallst",
               "url": "https://247wallst.com/investing/2026/08/14/bloom-energy-stock-has-exploded-heres-what-could-drive-it-even-higher/"
             },
             {
-              "title": "Motley Fool Aug 13",
-              "url": "https://www.fool.com/investing/2026/08/13/is-bloom-energy-a-buy-hold-or-sell-after-its-run/"
-            },
-            {
-              "title": "Barchart/RBC",
-              "url": "https://www.barchart.com/story/news/1750398/bloom-energy-is-already-up-240-in-2026-but-rbc-analysts-still-think-it-has-room-to-run"
+              "title": "NAI 500",
+              "url": "https://nai500.com/blog/2026/08/bloom-energy-the-ai-data-center-power-champion-faces-a-crucial-test-after-a-500-surge/"
             }
           ]
         },
         {
-          "text": "Oracle (ORCL): Down 3.7% August 14 to near 52-week lows (~$120–122) on Green Chile Pipeline delay filing. Motley Fool: \"Why Oracle Stock Got Trounced Today.\" TheStreet | Motley Fool",
-          "url": "https://www.thestreet.com/investing/stocks/oracle-orcl-stock-new-mexico-pipeline-project-jupiter",
-          "sources": [
-            {
-              "title": "TheStreet",
-              "url": "https://www.thestreet.com/investing/stocks/oracle-orcl-stock-new-mexico-pipeline-project-jupiter"
-            },
-            {
-              "title": "Motley Fool",
-              "url": "https://www.fool.com/investing/2026/08/14/why-oracle-stock-got-trounced-today/"
-            }
-          ]
+          "text": "Ceres Power (CWR.L): Positive reaction to Doosan/Reverion $76.7M deal (Aug 5–6). Goldman Sachs Conviction Buy (168% upside) unchanged. Delta Electronics Q4 Endura ramp remains the next catalyst.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "FuelCell Energy, Ceres Power, SolydEra: Quiet. No new material disclosures August 14–15.",
+          "text": "FuelCell Energy (FCEL): No new material announcements. $225M secondary offering (Jul 2026), Siemens EBOP partnership, $49M ExIm Bank Korea financing all active. Q3 FY2026 earnings ~September 2026.",
           "url": "",
           "sources": []
         }
@@ -170,14 +186,9 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Quiet day. No new SOFC-specific patents or IP filings identified for August 15. Cell/stack-materials: Wiley Chemistry – An Asian Journal (2026) published a concise review of SOFC electrode and catalyst advances, covering power density, polarization resistance, and durability; materials-only scope, not system-level. Wiley Asian J.",
-          "url": "https://aces.onlinelibrary.wiley.com/doi/10.1002/asia.70619",
-          "sources": [
-            {
-              "title": "Wiley Asian J.",
-              "url": "https://aces.onlinelibrary.wiley.com/doi/10.1002/asia.70619"
-            }
-          ]
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -194,27 +205,22 @@
   ],
   "lcoe": [
     {
-      "text": "FERC RM26-4 (Monday August 17): PJM/MISO/NYISO/SPP tariff filings will define the avoided-transmission-cost input ($5–20/MWh range). Activate as live LCOE sensitivity lever once filings land. Model update scheduled August 18.",
+      "text": "Doosan/Reverion SOFC stack pricing proxy: The $76.7M deal covers stacks delivered through H2 2027 from Doosan's 50 MW/yr factory. No per-kW stack price disclosed publicly. Doosan deal size / Reverion plant capacity ratio: Reverion's containerised units are typically 200 kW–1 MW scale. If the deal covers ~20–30 MW of stacks (mid-range for 50 MW factory allocation), implied stack price ~$2,500–3,800/kW — consistent with the $4,000–6,000/kW total system capex (stack typically 50–60% of system cost). Treat as directional; monitor Reverion project announcements for deployed capacity figures.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Texas ERCOT grid pause (PUCT August 20): If Batch Zero Large Load suspension extends into Q4, adjust Texas on-site SOFC pipeline upside: Hedgehog Texas (104 MW pre-construction, self-supply) competes in an environment where utility-grid competitors are stalled. No direct LCOE model parameter changes; flag for pipeline-volume sensitivity.",
+      "text": "ERCOT audit: Texas on-site SOFC queue risk quantification. If the PUCT August 20 ruling exempts behind-the-meter self-supply projects from the audit (as ERCOT's current Batch Zero framework implies), Hedgehog USA Phase 1 (104 MW) remains on track; if not, a months-long delay shifts the Texas SOFC pipeline risk by 1–2 quarters. Relevant for 2027 market-size scenario in LCOE model.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Oracle Project Jupiter pipeline delay (Feb 1, 2027): Pipeline delay pushes the fuel supply schedule ~6 months for the 2.45 GW Bloom SOFC campus. If air permit clears September 14, construction may begin with interim supply arrangements or a smaller Phase 1 fuel allotment. No LCOE model update to per-kWh structure; affects aggregate MW-deployment timing in the Bloom Energy backlog model.",
+      "text": "FERC RM26-4 — activate tomorrow: When PJM/MISO/NYISO/SPP filings land August 17–18, extract: (a) any explicit self-supply/co-located load exemption mechanism, (b) the defined cost-allocation structure for large loads that do interconnect, and (c) study timeline for large-load applications. These three items define the $5–20/MWh avoided-T-cost input range for multi-region SOFC LCOE scenarios.",
       "url": "",
       "sources": []
     },
     {
-      "text": "BE stock correction from ~$391 to ~$246 (August 14): With BE pulling back ~37% from record high, revise WACC sensitivity band upward toward 10.5–11% (from 10–10.5% active since August 3). Bloom's cost of capital directly affects EaaS $/MWh pricing. Revisit after August 17 (FERC filings) and August 20 (PUCT) catalysts — both are structural positive triggers.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending (carry-forward, priority-ranked): (1) FERC RM26-4 PJM/MISO/NYISO/SPP filings Monday August 17 → model update August 18. (2) PUCT August 20 hearing on ERCOT Batch Zero suspension. (3) NMED September 14 air permit hearing for Project Jupiter. (4) Bloom 10-Q shipped MW extraction (SEC EDGAR, due September 11). (5) Elcogen E3000 G2 system-level efficiency confirmation at ELCO I production scale. (6) Ceres H1 2026 results (September). (7) Bloom Q3 2026 earnings (October). (8) Rolls-Royce SMR GDA Step 3 completion (August 2026, no ONR announcement yet).",
+      "text": "Pending (carry-forward, priority-ranked): (1) PUCT August 20 ERCOT Batch Zero hearing — audit scope and self-supply carve-out. (2) FERC RM26-4 August 17 tariff filings — model update August 18. (3) NMED September 14 air permit hearing for Project Jupiter. (4) Bloom 10-Q shipped MW extraction (SEC EDGAR, due September 11). (5) Elcogen E3000 G2 system-level efficiency confirmation at ELCO I production scale. (6) Ceres H1 2026 results (September). (7) Bloom Q3 2026 earnings (October). (8) Rolls-Royce SMR GDA Step 3 DAC from ONR (August 2026, still pending).",
       "url": "",
       "sources": []
     }
