@@ -1,51 +1,30 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-14",
+    "title": "Beating Beta — 2026-08-17",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Warren Buffett on today's market moves.",
-      "highlight_phrase": "Warren Buffett",
-      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\nMacro: Hält $381B Cash, Markt überbewertet.\n🟢 Bullish: KO, AXP, OXY | 🔴 Bearish: Breiter US-Markt\nStrategie: Cash-Position als Option auf günstigere Zeiten.",
-      "bullets": [
-        {
-          "label": "Warren Buffett",
-          "text": "Macro: Hält $381B Cash, Markt überbewertet. · 🟢 Bullish: KO, AXP, OXY | 🔴 Bearish: Breiter US-Markt"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-14",
+      "title": "Markets Snapshot — 2026-08-17",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.798,99 · Nasdaq 30.084,50 · VIX 14,63 · 10Y 4,64% · Gold $4.371,90 · Oil $81,31 · BTC $63.401,00 · F&G N/A",
-      "quick_take": "S&P 500: 7.798,99\nNasdaq: 30.084,50\nVIX: 14,63 · 10Y: 4,64%\nGold: $4.371,90 · Oil: $81,31\nBitcoin: $63.401,00\nFear & Greed: N/A",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.798,99 · Nasdaq 30.084,50"
+          "text": "S&P 500 N/A · Nasdaq N/A"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,64% · VIX 14,63"
+          "text": "10Y N/A% · VIX N/A"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.371,90 · WTI $81,31 · BTC $63.401,00"
+          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
         },
         {
           "label": "Sentiment",
@@ -63,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Reddit steigt nach monatelanger Spekulation in den S&P 500 auf",
-      "highlight_phrase": "Reddit steigt nach monatelanger Spekulat",
-      "toc_summary": "Reddit steigt nach monatelanger Spekulation in den S&P 500 auf",
-      "quick_take": "Analysten sehen dennoch Risiken.",
+      "title": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale.",
+      "highlight_phrase": "US-Aktienfutures kaum verändert – Anlege",
+      "toc_summary": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale.",
+      "quick_take": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Analysten sehen dennoch Risiken."
+          "text": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale."
         }
       ],
       "callout": null,
@@ -84,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Meine Frau und ich sind beide im Ruhestand\"",
-      "highlight_phrase": "\"Meine Frau und ich sind beide im Ruhest",
-      "toc_summary": "\"Meine Frau und ich sind beide im Ruhestand\"",
-      "quick_take": "Sollten wir unsere 2,3 Mio. Dollar Investments anfassen, um eine 300.000-Dollar-Hypothek mit 2,9% Zins abzuloesen?",
+      "title": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf ",
+      "highlight_phrase": "Kann ich jetzt 50 % der Social Security ",
+      "toc_summary": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf ",
+      "quick_take": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf meine höhere Leistung wechseln?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Sollten wir unsere 2,3 Mio. Dollar Investments anfassen, um eine 300.000-Dollar-Hypothek mit 2,9% Zins abzuloesen?"
+          "text": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf meine höhere Leistung wechseln?"
         }
       ],
       "callout": null,
@@ -105,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Dells Aktie schlaegt Micron und AMD in diesem Jahr",
-      "highlight_phrase": "Dells Aktie schlaegt Micron und AMD in d",
-      "toc_summary": "Dells Aktie schlaegt Micron und AMD in diesem Jahr",
-      "quick_take": "und legt weiter zu.",
+      "title": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?",
+      "highlight_phrase": "Freundin verstorben – kann Medicaid das ",
+      "toc_summary": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?",
+      "quick_take": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "und legt weiter zu."
+          "text": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?"
         }
       ],
       "callout": null,
@@ -126,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Salesforce-Aktie steigt",
-      "highlight_phrase": "Salesforce-Aktie steigt",
-      "toc_summary": "Salesforce-Aktie steigt",
-      "quick_take": "J.P. Morgan stuft KI-Aengste als uebertrieben ein.",
+      "title": "„Ein zweischneidiges Schwert\"",
+      "highlight_phrase": "„Ein zweischneidiges Schwert\"",
+      "toc_summary": "„Ein zweischneidiges Schwert\"",
+      "quick_take": "42.000-Dollar-Bonus des Ehemanns gefährdet ACA-Subvention.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "J.P. Morgan stuft KI-Aengste als uebertrieben ein."
+          "text": "42.000-Dollar-Bonus des Ehemanns gefährdet ACA-Subvention."
         }
       ],
       "callout": null,
@@ -147,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa.",
-      "highlight_phrase": "Uber kooperiert mit Chinas Pony.ai fuer ",
-      "toc_summary": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa.",
-      "quick_take": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa.",
+      "title": "Goldman Sachs",
+      "highlight_phrase": "Goldman Sachs",
+      "toc_summary": "Goldman Sachs",
+      "quick_take": "China-Aktien profitieren von neuer KI-Hardware-Exportwelle.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Uber kooperiert mit Chinas Pony.ai fuer 2.000 Robotaxis in Europa."
+          "text": "China-Aktien profitieren von neuer KI-Hardware-Exportwelle."
         }
       ],
       "callout": null,
@@ -168,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Diese Charts zeigen, warum die Rally weiterlaeuft",
-      "highlight_phrase": "Diese Charts zeigen, warum die Rally wei",
-      "toc_summary": "Diese Charts zeigen, warum die Rally weiterlaeuft",
-      "quick_take": "Die Gewinnmargen sind auf Rekordhoch.\n\n━━━",
+      "title": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Imm",
+      "highlight_phrase": "Berkshire Hathaway stockt Alphabet zur T",
+      "toc_summary": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Imm",
+      "quick_take": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Immobilien-Wetten.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Die Gewinnmargen sind auf Rekordhoch.\n\n━━━"
+          "text": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Immobilien-Wetten."
         }
       ],
       "callout": null,
