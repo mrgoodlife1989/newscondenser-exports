@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-17",
+    "title": "Beating Beta — 2026-08-19",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-17",
+      "title": "Markets Snapshot — 2026-08-19",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.691,76 · Nasdaq 29.490,96 · VIX 15,84 · 10Y 4,71% · Gold $4.409,40 · Oil $84,69 · BTC $64.295,84 · F&G N/A",
+      "quick_take": "S&P 500: 7.691,76\nNasdaq: 29.490,96\nVIX: 15,84 · 10Y: 4,71%\nGold: $4.409,40 · Oil: $84,69\nBitcoin: $64.295,84\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
+          "text": "S&P 500 7.691,76 · Nasdaq 29.490,96"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
+          "text": "10Y 4,71% · VIX 15,84"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+          "text": "Gold $4.409,40 · WTI $84,69 · BTC $64.295,84"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale.",
-      "highlight_phrase": "US-Aktienfutures kaum verändert – Anlege",
-      "toc_summary": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale.",
-      "quick_take": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale.",
+      "title": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck",
+      "highlight_phrase": "Trump haelt sich mit neuen 50%-Zoellen a",
+      "toc_summary": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck",
+      "quick_take": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck",
       "bullets": [
         {
           "label": "Detail",
-          "text": "US-Aktienfutures kaum verändert – Anleger warten auf Fed-Signale."
+          "text": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf ",
-      "highlight_phrase": "Kann ich jetzt 50 % der Social Security ",
-      "toc_summary": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf ",
-      "quick_take": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf meine höhere Leistung wechseln?",
+      "title": "Cerebras: Post-IPO-Flaute",
+      "highlight_phrase": "Cerebras: Post-IPO-Flaute",
+      "toc_summary": "Cerebras: Post-IPO-Flaute",
+      "quick_take": "Comeback haengt an neuem Chip",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Kann ich jetzt 50 % der Social Security meines Mannes beantragen und mit 70 auf meine höhere Leistung wechseln?"
+          "text": "Comeback haengt an neuem Chip"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?",
-      "highlight_phrase": "Freundin verstorben – kann Medicaid das ",
-      "toc_summary": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?",
-      "quick_take": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?",
+      "title": "\"Wir sind ueberzeugte Christen\": Sohn und Schwiegertochter brechen Kontakt nach politischem Streit ab",
+      "highlight_phrase": "\"Wir sind ueberzeugte Christen\": Sohn un",
+      "toc_summary": "\"Wir sind ueberzeugte Christen\": Sohn und Schwiegertochter brechen Kontakt nach politischem Streit ab",
+      "quick_take": "Testament aendern?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Freundin verstorben – kann Medicaid das Familienhaus verlangen?"
+          "text": "Testament aendern?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "„Ein zweischneidiges Schwert\"",
-      "highlight_phrase": "„Ein zweischneidiges Schwert\"",
-      "toc_summary": "„Ein zweischneidiges Schwert\"",
-      "quick_take": "42.000-Dollar-Bonus des Ehemanns gefährdet ACA-Subvention.",
+      "title": "Sohn arbeitet nicht, zahlt aber 500 Dollar fuer Krankenversicherung",
+      "highlight_phrase": "Sohn arbeitet nicht, zahlt aber 500 Doll",
+      "toc_summary": "Sohn arbeitet nicht, zahlt aber 500 Dollar fuer Krankenversicherung",
+      "quick_take": "ist das fair?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "42.000-Dollar-Bonus des Ehemanns gefährdet ACA-Subvention."
+          "text": "ist das fair?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Goldman Sachs",
-      "highlight_phrase": "Goldman Sachs",
-      "toc_summary": "Goldman Sachs",
-      "quick_take": "China-Aktien profitieren von neuer KI-Hardware-Exportwelle.",
+      "title": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirts",
+      "highlight_phrase": "Was der Abschwung des chinesischen Spiri",
+      "toc_summary": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirts",
+      "quick_take": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirtschaft aussagt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "China-Aktien profitieren von neuer KI-Hardware-Exportwelle."
+          "text": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirtschaft aussagt"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Imm",
-      "highlight_phrase": "Berkshire Hathaway stockt Alphabet zur T",
-      "toc_summary": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Imm",
-      "quick_take": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Immobilien-Wetten.",
+      "title": "Groesste After-Hours-Bewegungen",
+      "highlight_phrase": "Groesste After-Hours-Bewegungen",
+      "toc_summary": "Groesste After-Hours-Bewegungen",
+      "quick_take": "Toll Brothers, Keysight Technologies, La-Z-Boy u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Berkshire Hathaway stockt Alphabet zur Top-3-Position auf, erhöht Delta- und Immobilien-Wetten."
+          "text": "Toll Brothers, Keysight Technologies, La-Z-Boy u.a."
         }
       ],
       "callout": null,
