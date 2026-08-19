@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-19",
   "topSignals": [
     {
-      "title": "FERC RM26-4 Deadline Day: All Six RTOs/ISOs Must File Large-Load Tariff Reforms",
-      "text": "— August 17 is the hard statutory deadline under FERC's June 18 Section 206 show cause orders. PJM, MISO, NYISO, SPP, CAISO, and ISO-NE must submit revised large-load interconnection tariff language or compliance responses justifying the status quo. No filings were confirmed as of August 16. Today's submissions will define — in formal tariff text — how co-located large loads (>20 MW, ≥69 kV) interact with the transmission grid across ~70% of US electrical load, converting the estimated $5–20/MWh avoided-transmission-cost SOFC LCOE benefit into a quantifiable, jurisdiction-specific tariff input. LCOE model update due August 18 once filings are reviewed. PJM's February 2026 co-location filing had already proposed a \"Bring Your Own Generation\" (BYOG) expedited track and new service carve-outs for co-located data centers — today's RM26-4 response may expand or revise that framework. FERC RM26-4 docket | McGuireWoods | White & Case on PJM BYOG | BD Law",
-      "url": "https://www.ferc.gov/rm26-4",
+      "title": "Bloom Energy CEO: \"Visibility for 25 GW of Deployments\" — Scandium Supply Chain Controversy Erupts",
+      "text": "— On the Q2 2026 earnings call (July 28), CEO K.R. Sridhar stated: \"We have visibility currently based on what we are working for 25 gigawatts of like deployments. And we are not dependent on China.\" Scandium oxide — a trace dopant in every Bloom SOFC — is sourced from the waste streams of Ti/Ni/Co/bauxite/U processing across multiple countries, not dedicated mining; management claims this supply chain can support 25 GW/yr of annual production. A short-seller report subsequently surfaced, alleging that 25 GW/yr would require ~220 tonnes ScOx at the 5 GW milestone alone against a global 2030 projected supply of ~240 tonnes — triggering a ~12% stock drop from the August 12 record close ($391). Bloom rebutted; stock rebounded ~6%. At ~$700–800M revenue/GW, 25 GW implies a ~$17.5–20B cumulative product revenue opportunity, before the $25B Brookfield EaaS framework and service income. This is the most important scale signal for SOFC LCOE cost-curve modelling. Motley Fool / Yahoo Finance | Bloom ScOx blog | Discovery Alert — short-seller analysis | FuelCell China — rebound report",
+      "url": "https://finance.yahoo.com/energy/articles/bloom-energy-says-visibility-25-055000213.html",
       "n": 1
     },
     {
-      "title": "Oracle Project Jupiter: NMED Hearing Examiner Withdraws Aug 11 Gas-Supply Deadline — All Issues Deferred to September 14",
-      "text": "— Hearing examiner Max Shepherd withdrew his August 5 order (which had required Yucca Growth Infrastructure to respond to New Energy Economy's dismissal motion by August 11), ruling that all gas supply questions — including the unresolved half-mile state trust land pipeline crossing — will be addressed at the September 14 public hearing. The withdrawal preserves the September 14 date but confirms the fuel supply path for the 2.45 GW Bloom SOFC campus remains legally unresolved through at least November 2026 (when an air permit decision is expected). Oracle maintains the project is on schedule. ABQ Journal | NM Env Law Center | NMED Aug 4 order",
-      "url": "https://www.abqjournal.com/news/hearing-examiner-reverses-order-that-could-have-derailed-project-jupiter/3100711",
+      "title": "PUCT August 20 Hearing — Tomorrow: ERCOT Batch Zero Scope, Good Cause Exception, Carve-Out Language",
+      "text": "— The PUCT open meeting tomorrow will set the formal scope, timeline, and interim interconnection rules for the suspended ERCOT Batch Zero Large Load process (~250–300 projects, 474 GW, 90% data centers). Pre-confirmed: truly islanded self-supply (no grid connection) falls outside ERCOT's process entirely. Key pending decisions: (a) \"good cause\" exception mechanism for individual projects; (b) whether the islanded carve-out is formalized in tariff language or remains informal guidance; (c) audit methodology and timeline. Outcome directly affects Hedgehog USA (1.5 GW Bloom SOFC Texas, 104 MW Phase 1 pre-construction) and sets the US self-supply precedent. Gibson Dunn | B&W Energy Law | ERCOT Batch Zero release",
+      "url": "https://www.gibsondunn.com/what-governor-abbotts-data-center-audit-directive-means-for-ercot-and-the-batch-zero-study-process/",
       "n": 2
     },
     {
-      "title": "PUCT August 20 Hearing — 3 Days Out: Audit Scope and Self-Supply Carve-Out Decision for 474 GW Texas Queue",
-      "text": "— The PUCT August 20 open meeting will establish the scope, timeline, and interim interconnection rules for the suspended ERCOT Batch Zero Large Load process covering ~250–300 projects (474 GW, 90% data centers). The pivotal question is whether self-supply SOFC projects (behind-the-meter, not requiring ERCOT interconnection) receive explicit carve-out language exempting them from the audit. Hedgehog USA Texas (1.5 GW Bloom SOFC, 104 MW Phase 1 pre-construction) is among the projects in limbo. Market consensus treats the Texas grid pause as structurally bullish for on-site fuel cell bypass. Gibson Dunn | Greenberg Traurig | Texas Tribune",
-      "url": "https://www.gibsondunn.com/what-governor-abbotts-data-center-audit-directive-means-for-ercot-and-the-batch-zero-study-process/",
+      "title": "Nature Nanotechnology PEM Catalyst Breakthrough: 75% Less Platinum, 85% Retention After 150,000 Cycles",
+      "text": "— WashU McKelvey School of Engineering (lead: Prof. Gang Wu; co-authors from Brookhaven NL, Lawrence Berkeley NL, Northeastern U, U Pittsburgh) published August 6 in Nature Nanotechnology: Pt-Co intermetallic nanoparticles heated to 1,000°C form a highly ordered structure that retains 85% of performance after 150,000 voltage cycles (~25,000h). 75% less platinum vs. conventional PEM catalysts. This directly addresses the primary barrier — cost and durability limits — that has kept PEM fuel cells out of mainstream data center deployment. If commercialised at scale, it represents a competing on-site power pathway to SOFC for AI data centers with green hydrogen access. SOFC remains differentiated by multi-fuel flexibility and higher electrical efficiency. phys.org | ScienceDaily | Intelligent Living",
+      "url": "https://phys.org/news/2026-08-carbon-nanostructure-fuel-cell-catalyst.html",
       "n": 3
     }
   ],
@@ -25,27 +25,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet day August 17. Status unchanged: E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C operating temperature) in volume production at ELCO I Tallinn (360 MW/yr); deliveries to key partners ongoing since Q2 2026. Most recent external activity: August 3 insights piece by Stefano Piscitelli on industrial energy strategy. No new product or partnership announcements. Elcogen",
+          "text": "Elcogen (priority): Quiet day August 19. No new announcements. Status unchanged: E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C operating temperature) in volume production at ELCO I Tallinn (360 MW/yr); deliveries to key partners ongoing since Q2 2026. Most recent external activities in 2026: JNK India MoU (April 7), Bonicorn/Eltronic PtX Thailand partnership (March 23), EC Executive VP Teresa Ribera factory visit (June 2026). No new product or partnership announcements in August 2026. Elcogen newsroom",
           "url": "https://elcogen.com/category/news/",
           "sources": [
             {
-              "title": "Elcogen",
+              "title": "Elcogen newsroom",
               "url": "https://elcogen.com/category/news/"
             }
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet day August 17. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending H2 demand recovery; CEO Elena Scaltritti since June 1, 2026; FY2026 guidance DKK 7,600–8,400M; SOFC/data-center commercial pathway deferred to 2029+. No new SOFC announcements. Topsoe",
+          "text": "Topsoe (priority): Quiet day August 19. Status unchanged: Herning SOEC factory (500 MW/yr) hibernated pending H2 demand recovery; SOEC commercialisation shifted from project supply to technology licensing (First Ammonia ammonia-synthesis licensing deal, August 12 — not SOEC); CEO Elena Scaltritti since June 1, 2026; FY2026 guidance DKK 7,600–8,400M. No SOFC announcements; data-center commercial pathway deferred to 2029+. Topsoe.com",
           "url": "https://www.topsoe.com/",
           "sources": [
             {
-              "title": "Topsoe",
+              "title": "Topsoe.com",
               "url": "https://www.topsoe.com/"
             }
           ]
         },
         {
-          "text": "Other players: Quiet day. No new announcements from Bloom Energy, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, or Aisin beyond items in prior digests.",
+          "text": "Other players: Quiet day August 19. No new announcements from Bloom Energy (25 GW disclosure was from July 28 Q2 call), FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, or Aisin.",
           "url": "",
           "sources": []
         }
@@ -55,22 +55,12 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Oracle Project Jupiter (2.45 GW Bloom SOFC, Dona Ana County NM): See Top Signal #2. NMED hearing examiner withdrawal of Aug 11 order confirms all gas supply and pipeline access disputes proceed to September 14 hearing. No construction can begin without resolved fuel supply and a granted air permit; earliest decision timeline November 2026.",
+          "text": "Bloom Energy 25 GW scale visibility (first full digest coverage): See Top Signal #1. At current ~$700–800M revenue/GW and 5 GW/yr manufacturing capacity, 25 GW represents a decade-scale opportunity. Scandium supply chain controversy is the key risk — short-seller claims near-term supply ceiling at ~5 GW/yr; Bloom management disputes this. LCOE cost-curve assumptions for post-2028 scenarios should be sensitivity-tested against both views.",
           "url": "",
           "sources": []
         },
         {
-          "text": "13 US States reconsidering data center tax breaks (August 2026): Thirteen states moved to roll back or revisit data center tax incentives in August 2026, reflecting a shift from pure-incentive to cost-allocation and demand-response frameworks. This reduces the economic advantage of grid-connected data center projects and implicitly strengthens the self-supply bypass value proposition. Data Center Knowledge",
-          "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026",
-          "sources": [
-            {
-              "title": "Data Center Knowledge",
-              "url": "https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-august-2026"
-            }
-          ]
-        },
-        {
-          "text": "Active pipeline carry-forward unchanged: Nebius/Bloom 328 MW Vineland NJ (confirmed active Aug 12); Crusoe/Cheyenne 900 MW Phase 1 (first data halls H2 2026); Hedgehog Texas 1.5 GW (104 MW Phase 1, ERCOT audit status pending August 20 PUCT); FCEL/Fit Energy 380 MW (30 MW initial delivery H2 2026); Equinix >100 MW (19+ DCs); Bloom/Brookfield $25B EaaS framework; ECL/PowerCell 300 MW+ H2-ready.",
+          "text": "Active pipeline carry-forward unchanged: Oracle Jupiter 2.45 GW (NMED September 14 hearing, gas supply unresolved); Crusoe/Cheyenne 900 MW Phase 1 (first data halls H2 2026); Hedgehog Texas 1.5 GW, 104 MW Phase 1 (PUCT August 20 — carve-out pending); Nebius/Bloom 328 MW Vineland NJ (confirmed active); FCEL/Fit Energy 380 MW (30 MW H2 2026); Equinix 100 MW+ (19+ DCs); Bloom/Brookfield $25B EaaS; ECL/PowerCell 300 MW+ H2-ready.",
           "url": "",
           "sources": []
         }
@@ -80,22 +70,26 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC RM26-4 — Deadline day, August 17: See Top Signal #1. Monitor FERC eLibrary from today for filings from PJM, MISO, NYISO, SPP, CAISO, and ISO-NE. Key extraction targets: (a) explicit self-supply or co-located load exemption mechanisms; (b) cost-allocation structures for large loads that do interconnect; (c) queue study timelines and reform specifics. LCOE model update August 18. FERC eLibrary RM26-4",
+          "text": "FERC RM26-4 — Comment period now open (~30 days, through ~September 16): All six RTOs/ISOs (PJM, MISO, NYISO, SPP, CAISO, ISO-NE) submitted responses to the FERC June 18 show cause orders by the August 17 deadline. Interested parties now have 30 days to comment on whether the filed tariff proposals are just and reasonable. Priority extracts: (a) PJM BYOG expedited track cost parameters; (b) MISO large-load study timeline and cost allocation; (c) NYISO self-supply treatment. These will replace the $5–20/MWh avoided-T-cost placeholder in the SOFC LCOE model. FERC RM26-4 docket | Climate Solutions Legal Digest — RTO preview",
           "url": "https://www.ferc.gov/rm26-4",
           "sources": [
             {
-              "title": "FERC eLibrary RM26-4",
+              "title": "FERC RM26-4 docket",
               "url": "https://www.ferc.gov/rm26-4"
+            },
+            {
+              "title": "Climate Solutions Legal Digest — RTO preview",
+              "url": "https://www.climatesolutionslaw.com/2026/07/rtos-and-isos-answer-a-national-preview-of-how-all-six-grid-operators-plan-to-respond-to-the-large-load-surge/"
             }
           ]
         },
         {
-          "text": "ERCOT/PUCT August 20 hearing (3 days): See Top Signal #3. Outcome determines audit scope and any interim self-supply carve-out language. Monitor for ERCOT's \"good cause\" exception motion filing and PUCT staff recommendations ahead of meeting.",
+          "text": "PUCT August 20 — Tomorrow (see Top Signal #2): Monitor for the formal \"good cause\" exception mechanism and cost-allocation language that will define behind-the-meter SOFC project economics in Texas.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Background unchanged: NY EO 62 data center moratorium (50 MW+, islanded exemption active); Germany EnEfG PUE ≤1.2/ERF ≥10%/15% waste heat from July 2026; EU CADA energy efficiency rating scheme delayed; ITC 48E 30% credit active for all fuel cell feedstocks.",
+          "text": "Background unchanged: NY EO 62 data center moratorium (50 MW+, islanded exemption active); Germany EnEfG PUE ≤1.2/ERF ≥10%/15% waste heat from July 2026; ITC 48E 30% credit active for all fuel cell feedstocks.",
           "url": "",
           "sources": []
         }
@@ -105,21 +99,22 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Rolls-Royce SMR GDA Step 3 — Still no DAC as August runs out: The 53-month UK Generic Design Assessment was projected to complete in August 2026. As of August 16, no Design Acceptance Confirmation (DAC) has been published by ONR. With two weeks remaining in August, either the DAC arrives this month (marking the first Western SMR to clear full UK regulatory assessment and triggering Wylfa construction authorization) or the process slips to Q4 2026. A slip further widens SOFC's deployment speed advantage in UK/European near-term markets. ONR GDA | World Nuclear News",
+          "text": "Rolls-Royce SMR GDA Step 3 — August deadline virtually gone: As of August 19, ONR has not issued a Design Acceptance Confirmation (DAC). Approximately 6 working days remain in August; the 53-month GDA schedule targeting August 2026 completion appears to have slipped to Q4 2026. Confirmed slip would be the last working-days-of-August milestone to watch. Near-term impact: SOFC deployment speed advantage in UK/EU markets is maintained or extended. ONR GDA page",
           "url": "https://www.onr.org.uk/generic-design-assessment/assessment-of-reactors/rolls-royce-smr/",
           "sources": [
             {
-              "title": "ONR GDA",
+              "title": "ONR GDA page",
               "url": "https://www.onr.org.uk/generic-design-assessment/assessment-of-reactors/rolls-royce-smr/"
-            },
-            {
-              "title": "World Nuclear News",
-              "url": "https://www.world-nuclear-news.org/articles/rolls-royce-smr-progresses-to-final-step-of-uk-ass"
             }
           ]
         },
         {
-          "text": "Background unchanged: 13 hyperscaler nuclear deals totalling >9.8 GW; nuclear 10+ year lead times remain SOFC's primary competitive differentiator for near-term deployment; battery LCOE ~$25/MWh unsuitable for 24/7 AI baseload.",
+          "text": "PEM fuel cell cost breakthrough (Nature Nanotechnology, Aug 6): See Top Signal #3. Pt-Co intermetallic nanoparticle approach reduces Pt loading by 75%, extends cycle life to 150,000 cycles. If it reaches production cost parity, PEM + H2 supply could compete with SOFC in green-hydrogen-accessible data center markets. SOFC differentiators — multi-fuel flexibility, higher electrical efficiency — remain intact in the near term.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Background unchanged: 13 hyperscaler nuclear deals >9.8 GW; nuclear 10+ year lead times; battery LCOE ~$25/MWh unsuitable for 24/7 AI baseload.",
           "url": "",
           "sources": []
         }
@@ -129,30 +124,31 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Stock rebounding from the August 14 close (~$246) following the Project Jupiter pipeline sell-off. One analyst summary from the August 17 week shows approximately $345.85 (+250% YTD), suggesting a sharp recovery in the direction of the August 12 record close (~$391). Securities class action lawsuits (covering Q1 2026 guidance statements) have a September 28, 2026 deadline. Pending near-term catalysts: FERC RM26-4 filings (today), PUCT August 20 hearing, NMED September 14 hearing, Bloom 10-Q (due September 11), Q3 earnings (October). StockAnalysis | Yahoo Finance | 247wallst",
-          "url": "https://stockanalysis.com/stocks/be/",
+          "text": "Bloom Energy (BE): A short-seller report alleging China dependency and physical impossibility of scaling ScOx supply to 25 GW wiped ~12% from the stock's August 12 record close ($391); Bloom's rebuttal (diversified non-China supply, waste-stream sourcing, Q2 earnings disclosures) drove a ~6% rebound. Stock trading around $244–246, ~+150% YTD vs. peak +435%. Valuation: ~$70B market cap, ~81× forward earnings (Motley Fool, August 16) — considered stretched but defensible if 25 GW pipeline converts. Bloom did NOT appear on Motley Fool's \"10 best stocks to buy now\" list. Near-term catalysts: PUCT August 20, NMED September 14, Bloom 10-Q (September 11), Q3 earnings (October). Motley Fool Aug 16 | 247wallst Aug 14",
+          "url": "https://www.fool.com/investing/2026/08/16/bloom-energy-stock-has-surged-150-in-2026-is-it/",
           "sources": [
             {
-              "title": "StockAnalysis",
-              "url": "https://stockanalysis.com/stocks/be/"
+              "title": "Motley Fool Aug 16",
+              "url": "https://www.fool.com/investing/2026/08/16/bloom-energy-stock-has-surged-150-in-2026-is-it/"
             },
             {
-              "title": "Yahoo Finance",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-surged-150-142500309.html"
-            },
-            {
-              "title": "247wallst",
+              "title": "247wallst Aug 14",
               "url": "https://247wallst.com/investing/2026/08/14/bloom-energy-stock-has-exploded-heres-what-could-drive-it-even-higher/"
             }
           ]
         },
         {
-          "text": "FuelCell Energy (FCEL): No material new disclosures. Torrington factory targeting 100 MW/yr annualized run rate by October 31, 2026. Q3 FY2026 earnings expected ~September 2026.",
+          "text": "Broader markets (pre-open futures, Aug 19): S&P Futures −0.45%, Nasdaq Futures −0.89%, VIX +6.60% to 15.19; crude oil +0.99% to $85.34/bbl. Modest risk-off environment; crude price uptick increases gas-price sensitivity of SOFC LCOE.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): No new corporate announcements. Next catalyst: H1 2026 results (September). Doosan/Reverion $76.7M deal (covered August 16) continues to support Goldman Sachs Conviction Buy (168% upside) thesis.",
+          "text": "FuelCell Energy (FCEL): No material new disclosures. Torrington 100 MW/yr target by October 31, 2026.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Power (CWR.L): No new corporate announcements. Next catalyst: H1 2026 results (September).",
           "url": "",
           "sources": []
         }
@@ -162,12 +158,16 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "ACS Energy & Fuels: Mobile SOFC with NaBH4 Hydrogen Generation (March 7, 2026, first appearance in digest) — \"Design and the Study of the Mobile Solid Oxide Fuel Cell System with Hydrogen Generation\" presents a self-sustaining mobile SOFC that generates hydrogen via NaBH4 hydrolysis using recovered anode off-gas condensate water. Application is portable, but the closed-loop hydrogen self-sufficiency concept (recovering water -> generating H2 -> feeding SOFC) is relevant for data center SOFC systems exploring fuel supply independence from the natural gas grid. ACS Energy & Fuels",
-          "url": "https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c06728",
+          "text": "Nature Nanotechnology, August 6, 2026 (first appearance in digest): \"Carbon nanostructure improves fuel-cell catalyst durability while reducing platinum use.\" WashU / Brookhaven NL / Lawrence Berkeley NL / Northeastern U / U Pittsburgh. Pt-Co intermetallic nanoparticles, ordered structure formed at 1,000°C, retained 85% performance after 150,000 voltage cycles (~25,000h). 75% less platinum vs. conventional PEM catalysts. Context: PEM technology milestone relevant as competing on-site power for H2-accessible data centers; not SOFC, but relevant for the competing-tech landscape and future hybrid SOFC/PEM scenarios. Not LCOE-model relevant for SOFC directly. phys.org | ScienceDaily",
+          "url": "https://phys.org/news/2026-08-carbon-nanostructure-fuel-cell-catalyst.html",
           "sources": [
             {
-              "title": "ACS Energy & Fuels",
-              "url": "https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c06728"
+              "title": "phys.org",
+              "url": "https://phys.org/news/2026-08-carbon-nanostructure-fuel-cell-catalyst.html"
+            },
+            {
+              "title": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
             }
           ]
         }
@@ -177,31 +177,40 @@
       "title": "Scientific Papers — SOFC Systems",
       "items": [
         {
-          "text": "\"Optimization of SOFC Combined Steam and Power System Utilizing By-Product Hydrogen\" (ScienceDirect, 2025, pii S0360319925044842, first appearance) — Develops a 25 kW SOFC Combined Steam and Power (CSP) system fueled by industrial by-product hydrogen; optimizes to maximize combined steam and power output, achieving reported combined energy utilization ~88–92%. Context: by-product H2 feedstock (petrochemical), not directly data-center applicable, but supports CHP architecture trade studies where process steam is a deliverable alongside power. Not LCOE-model relevant as a standalone reference. ScienceDirect",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925044842",
-          "sources": [
-            {
-              "title": "ScienceDirect",
-              "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925044842"
-            }
-          ]
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
         }
       ]
     }
   ],
   "lcoe": [
     {
-      "text": "FERC RM26-4 filings (today, August 17): Extract formal avoided-transmission-cost range and co-located/self-supply cost-allocation treatment from each RTO filing. Priority: PJM BYOG track cost parameters, MISO large-load study timeline, NYISO self-supply treatment. This replaces the $5–20/MWh estimate with a tariff-backed input. Model update August 18.",
+      "text": "Bloom scandium supply chain controversy (new, high priority): If the short-seller thesis is correct (~220t ScOx required at 5 GW milestone vs. ~240t global 2030 supply), Bloom faces a binding constraint above ~5 GW/yr — which caps the SOFC near-term cost-curve improvement rate. If management is correct (diversified waste-stream supply sufficient for 25 GW/yr), the cost curve can steepen materially post-2028. Sensitivity analysis needed: SOFC LCOE cost-curve shape under 5 GW/yr vs. 25 GW/yr production scenarios. Discovery Alert | Energies Media",
+      "url": "https://discoveryalert.com.au/bloom-energy-scandium-supply-chain-china-risk-2026/",
+      "sources": [
+        {
+          "title": "Discovery Alert",
+          "url": "https://discoveryalert.com.au/bloom-energy-scandium-supply-chain-china-risk-2026/"
+        },
+        {
+          "title": "Energies Media",
+          "url": "https://energiesmedia.com/bloom-energy-scandium-oxide-supply-chain/"
+        }
+      ]
+    },
+    {
+      "text": "FERC RM26-4 comment period (extract after ~September 16): Formal tariff text from each RTO/ISO is now public on FERC eLibrary. Priority extracts: (a) PJM BYOG track avoided-transmission-cost parameters; (b) MISO large-load study timeline; (c) NYISO self-supply cost allocation. These values replace the $5–20/MWh placeholder.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Project Jupiter fuel supply risk (through at least November 2026): Gas supply unresolved through the September 14 hearing; air permit decision not before November. Sensitivity-test Bloom backlog conversion schedule with a 6–12 month Jupiter delay. No change to per-kWh SOFC LCOE structure.",
+      "text": "PUCT August 20 (tomorrow): Formal islanded carve-out language and any cost-allocation or registration requirements will affect behind-the-meter SOFC economics in Texas. Monitor for tariff filing post-meeting.",
       "url": "",
       "sources": []
     },
     {
-      "text": "PUCT August 20 self-supply carve-out (3 days): Explicit carve-out preserves Texas SOFC pipeline on schedule; absence of carve-out adds 1–2 quarter delay to Texas deployment scenarios.",
+      "text": "Natural gas / crude direction: Crude +0.99% to $85.34/bbl today. Watch EIA weekly gas storage report (Thursday August 20). SOFC LCOE sensitivity: +$1/MMBtu gas adds ~$10–15/MWh to LCOE at base case capex.",
       "url": "",
       "sources": []
     },
@@ -211,7 +220,7 @@
       "sources": []
     },
     {
-      "text": "Pending (carry-forward, priority-ranked): (1) FERC RM26-4 RTO/ISO filings today -> LCOE model update August 18. (2) PUCT August 20 ERCOT Batch Zero hearing - self-supply carve-out. (3) NMED September 14 air permit hearing for Project Jupiter. (4) Bloom 10-Q shipped MW extraction (SEC EDGAR, due September 11). (5) Elcogen E3000 G2 system-level efficiency confirmation at ELCO I production scale. (6) Ceres H1 2026 results (September). (7) Bloom Q3 2026 earnings (October). (8) Rolls-Royce SMR GDA Step 3 DAC from ONR (scheduled August 2026, pending as of August 16).",
+      "text": "Pending (carry-forward, priority-ranked): (1) PUCT August 20 — Batch Zero scope, timelines, islanded carve-out (tomorrow). (2) FERC RM26-4 comment period — formal tariff text extract (~September 16). (3) NMED September 14 — Project Jupiter air permit hearing. (4) Bloom 10-Q MW-shipped extraction (SEC EDGAR, due September 11). (5) Bloom scandium controversy resolution. (6) Elcogen E3000 G2 system-level efficiency confirmation at ELCO I production scale. (7) Ceres H1 2026 results (September). (8) Bloom Q3 2026 earnings (October). (9) Rolls-Royce SMR GDA Step 3 DAC from ONR (August deadline slipping to Q4).",
       "url": "",
       "sources": []
     }
