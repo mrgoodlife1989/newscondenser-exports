@@ -1,30 +1,51 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-19",
+    "title": "Beating Beta — 2026-08-20",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: GURU-KONSENS MUSTER-PORTFOLIO on today's market moves.",
+      "highlight_phrase": "GURU-KONSENS MUSTER-PORTFOLIO",
+      "toc_summary": "Today's guru pair: GURU-KONSENS MUSTER-PORTFOLIO. Macro stance, top picks, strategy signals.",
+      "quick_take": "💼 GURU-KONSENS MUSTER-PORTFOLIO\n1. NVDA — 12% | $217.56 | Halbleiter-Superzyklus läuft. | Tepper, Druckenmiller\n2. GOOGL — 11% | $344.72 | KI-Suche & Cloud-Moat. | Ackman, Druckenmiller\n3. AMZN — 10% | $265.84 | AWS + Retail-Margin-Hebel. | Ackman, Druckenmiller",
+      "bullets": [
+        {
+          "label": "GURU-KONSENS MUSTER-PORTFOLIO",
+          "text": "1. NVDA — 12% | $217.56 | Halbleiter-Superzyklus läuft. | Tepper, Druckenmiller · 2. GOOGL — 11% | $344.72 | KI-Suche & Cloud-Moat. | Ackman, Druckenmiller"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-19",
+      "title": "Markets Snapshot — 2026-08-20",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.691,76 · Nasdaq 29.490,96 · VIX 15,84 · 10Y 4,71% · Gold $4.409,40 · Oil $84,69 · BTC $64.295,84 · F&G N/A",
-      "quick_take": "S&P 500: 7.691,76\nNasdaq: 29.490,96\nVIX: 15,84 · 10Y: 4,71%\nGold: $4.409,40 · Oil: $84,69\nBitcoin: $64.295,84\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.707,98 · Nasdaq 29.426,02 · VIX 14,89 · 10Y 4,65% · Gold $4.546,90 · Oil $84,49 · BTC $69.250,06 · F&G N/A",
+      "quick_take": "S&P 500: 7.707,98\nNasdaq: 29.426,02\nVIX: 14,89 · 10Y: 4,65%\nGold: $4.546,90 · Oil: $84,49\nBitcoin: $69.250,06\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.691,76 · Nasdaq 29.490,96"
+          "text": "S&P 500 7.707,98 · Nasdaq 29.426,02"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,71% · VIX 15,84"
+          "text": "10Y 4,65% · VIX 14,89"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.409,40 · WTI $84,69 · BTC $64.295,84"
+          "text": "Gold $4.546,90 · WTI $84,49 · BTC $69.250,06"
         },
         {
           "label": "Sentiment",
@@ -42,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck",
-      "highlight_phrase": "Trump haelt sich mit neuen 50%-Zoellen a",
-      "toc_summary": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck",
-      "quick_take": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck",
+      "title": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung",
+      "highlight_phrase": "Chip-Rally stolpert – Analysten sehen tr",
+      "toc_summary": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung",
+      "quick_take": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Trump haelt sich mit neuen 50%-Zoellen auf kanadische Waren zurueck"
+          "text": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung"
         }
       ],
       "callout": null,
@@ -63,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Cerebras: Post-IPO-Flaute",
-      "highlight_phrase": "Cerebras: Post-IPO-Flaute",
-      "toc_summary": "Cerebras: Post-IPO-Flaute",
-      "quick_take": "Comeback haengt an neuem Chip",
+      "title": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivi",
+      "highlight_phrase": "China trotzt dem globalen Renditeanstieg",
+      "toc_summary": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivi",
+      "quick_take": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivität",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Comeback haengt an neuem Chip"
+          "text": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivität"
         }
       ],
       "callout": null,
@@ -84,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Wir sind ueberzeugte Christen\": Sohn und Schwiegertochter brechen Kontakt nach politischem Streit ab",
-      "highlight_phrase": "\"Wir sind ueberzeugte Christen\": Sohn un",
-      "toc_summary": "\"Wir sind ueberzeugte Christen\": Sohn und Schwiegertochter brechen Kontakt nach politischem Streit ab",
-      "quick_take": "Testament aendern?",
+      "title": "Fed-Protokoll",
+      "highlight_phrase": "Fed-Protokoll",
+      "toc_summary": "Fed-Protokoll",
+      "quick_take": "Zinserhöhung nötig, falls Inflation nicht abkühlt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Testament aendern?"
+          "text": "Zinserhöhung nötig, falls Inflation nicht abkühlt"
         }
       ],
       "callout": null,
@@ -105,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Sohn arbeitet nicht, zahlt aber 500 Dollar fuer Krankenversicherung",
-      "highlight_phrase": "Sohn arbeitet nicht, zahlt aber 500 Doll",
-      "toc_summary": "Sohn arbeitet nicht, zahlt aber 500 Dollar fuer Krankenversicherung",
-      "quick_take": "ist das fair?",
+      "title": "Rentner-Tipp",
+      "highlight_phrase": "Rentner-Tipp",
+      "toc_summary": "Rentner-Tipp",
+      "quick_take": "Investment mit garantierter 5% sicherer Entnahmerate",
       "bullets": [
         {
           "label": "Detail",
-          "text": "ist das fair?"
+          "text": "Investment mit garantierter 5% sicherer Entnahmerate"
         }
       ],
       "callout": null,
@@ -126,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirts",
-      "highlight_phrase": "Was der Abschwung des chinesischen Spiri",
-      "toc_summary": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirts",
-      "quick_take": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirtschaft aussagt",
+      "title": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair",
+      "highlight_phrase": "Sohn zahlt $500 für Krankenversicherung,",
+      "toc_summary": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair",
+      "quick_take": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Was der Abschwung des chinesischen Spirituosenherstellers Moutai ueber die Wirtschaft aussagt"
+          "text": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair?"
         }
       ],
       "callout": null,
@@ -147,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Groesste After-Hours-Bewegungen",
-      "highlight_phrase": "Groesste After-Hours-Bewegungen",
-      "toc_summary": "Groesste After-Hours-Bewegungen",
-      "quick_take": "Toll Brothers, Keysight Technologies, La-Z-Boy u.a.",
+      "title": "Vollmacht der Schwiegermutter",
+      "highlight_phrase": "Vollmacht der Schwiegermutter",
+      "toc_summary": "Vollmacht der Schwiegermutter",
+      "quick_take": "Habe ich als Executor und Trustee die ultimative Autorität?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Toll Brothers, Keysight Technologies, La-Z-Boy u.a."
+          "text": "Habe ich als Executor und Trustee die ultimative Autorität?"
         }
       ],
       "callout": null,
