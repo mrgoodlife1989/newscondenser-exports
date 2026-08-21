@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-20",
+    "title": "Beating Beta — 2026-08-21",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,14 +9,14 @@
     {
       "number": "01",
       "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: GURU-KONSENS MUSTER-PORTFOLIO on today's market moves.",
-      "highlight_phrase": "GURU-KONSENS MUSTER-PORTFOLIO",
-      "toc_summary": "Today's guru pair: GURU-KONSENS MUSTER-PORTFOLIO. Macro stance, top picks, strategy signals.",
-      "quick_take": "💼 GURU-KONSENS MUSTER-PORTFOLIO\n1. NVDA — 12% | $217.56 | Halbleiter-Superzyklus läuft. | Tepper, Druckenmiller\n2. GOOGL — 11% | $344.72 | KI-Suche & Cloud-Moat. | Ackman, Druckenmiller\n3. AMZN — 10% | $265.84 | AWS + Retail-Margin-Hebel. | Ackman, Druckenmiller",
+      "title": "Guru Radar: Warren Buffett on today's market moves.",
+      "highlight_phrase": "Warren Buffett",
+      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\nMacro: Bärmarkt-Risiko, Bewertungen zu hoch. $381B Cash-Polster.\nPicks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt\nStrategie: Cash halten, auf Schnäppchen warten.",
       "bullets": [
         {
-          "label": "GURU-KONSENS MUSTER-PORTFOLIO",
-          "text": "1. NVDA — 12% | $217.56 | Halbleiter-Superzyklus läuft. | Tepper, Druckenmiller · 2. GOOGL — 11% | $344.72 | KI-Suche & Cloud-Moat. | Ackman, Druckenmiller"
+          "label": "Warren Buffett",
+          "text": "Macro: Bärmarkt-Risiko, Bewertungen zu hoch. $381B Cash-Polster. · Picks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt"
         }
       ],
       "callout": null,
@@ -28,49 +28,16 @@
       ]
     },
     {
-      "number": "02",
-      "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-20",
-      "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.707,98 · Nasdaq 29.426,02 · VIX 14,89 · 10Y 4,65% · Gold $4.546,90 · Oil $84,49 · BTC $69.250,06 · F&G N/A",
-      "quick_take": "S&P 500: 7.707,98\nNasdaq: 29.426,02\nVIX: 14,89 · 10Y: 4,65%\nGold: $4.546,90 · Oil: $84,49\nBitcoin: $69.250,06\nFear & Greed: N/A",
-      "bullets": [
-        {
-          "label": "Equities",
-          "text": "S&P 500 7.707,98 · Nasdaq 29.426,02"
-        },
-        {
-          "label": "Rates & Vol",
-          "text": "10Y 4,65% · VIX 14,89"
-        },
-        {
-          "label": "Commodities & Crypto",
-          "text": "Gold $4.546,90 · WTI $84,49 · BTC $69.250,06"
-        },
-        {
-          "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Yahoo Finance · Bloomberg · CNBC",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung",
-      "highlight_phrase": "Chip-Rally stolpert – Analysten sehen tr",
-      "toc_summary": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung",
-      "quick_take": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung",
+      "title": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair",
+      "highlight_phrase": "\"Mein Sohn arbeitet nicht, zahlt aber $5",
+      "toc_summary": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair",
+      "quick_take": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Chip-Rally stolpert – Analysten sehen trotzdem Grund zur Hoffnung"
+          "text": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair?\""
         }
       ],
       "callout": null,
@@ -84,14 +51,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivi",
-      "highlight_phrase": "China trotzt dem globalen Renditeanstieg",
-      "toc_summary": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivi",
-      "quick_take": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivität",
+      "title": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\"",
+      "highlight_phrase": "\"Ich habe Vollmacht für meine Schwiegerm",
+      "toc_summary": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\"",
+      "quick_take": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "China trotzt dem globalen Renditeanstieg und steigert Diversifikationsattraktivität"
+          "text": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\""
         }
       ],
       "callout": null,
@@ -105,14 +72,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Fed-Protokoll",
-      "highlight_phrase": "Fed-Protokoll",
-      "toc_summary": "Fed-Protokoll",
-      "quick_take": "Zinserhöhung nötig, falls Inflation nicht abkühlt",
+      "title": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Akt",
+      "highlight_phrase": "\"Unser 4-jähriger Sohn hat $100.000 im 5",
+      "toc_summary": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Akt",
+      "quick_take": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Aktien kaufen?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Zinserhöhung nötig, falls Inflation nicht abkühlt"
+          "text": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Aktien kaufen?\""
         }
       ],
       "callout": null,
@@ -126,14 +93,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Rentner-Tipp",
-      "highlight_phrase": "Rentner-Tipp",
-      "toc_summary": "Rentner-Tipp",
-      "quick_take": "Investment mit garantierter 5% sicherer Entnahmerate",
+      "title": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Kon",
+      "highlight_phrase": "\"Wir sind in unseren 50ern mit $1,5 Mio.",
+      "toc_summary": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Kon",
+      "quick_take": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Konvertierung?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Investment mit garantierter 5% sicherer Entnahmerate"
+          "text": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Konvertierung?\""
         }
       ],
       "callout": null,
@@ -147,14 +114,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair",
-      "highlight_phrase": "Sohn zahlt $500 für Krankenversicherung,",
-      "toc_summary": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair",
-      "quick_take": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair?",
+      "title": "\"Chinesische humanoide Roboter",
+      "highlight_phrase": "\"Chinesische humanoide Roboter",
+      "toc_summary": "\"Chinesische humanoide Roboter",
+      "quick_take": "Größtes Hindernis sind Menschen\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Sohn zahlt $500 für Krankenversicherung, obwohl er nicht arbeitet – ist das fair?"
+          "text": "Größtes Hindernis sind Menschen\""
         }
       ],
       "callout": null,
@@ -168,14 +135,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Vollmacht der Schwiegermutter",
-      "highlight_phrase": "Vollmacht der Schwiegermutter",
-      "toc_summary": "Vollmacht der Schwiegermutter",
-      "quick_take": "Habe ich als Executor und Trustee die ultimative Autorität?",
+      "title": "\"Aktien mit größten Bewegungen",
+      "highlight_phrase": "\"Aktien mit größten Bewegungen",
+      "toc_summary": "\"Aktien mit größten Bewegungen",
+      "quick_take": "Walmart, Deere, CrowdStrike, Moderna & mehr\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Habe ich als Executor und Trustee die ultimative Autorität?"
+          "text": "Walmart, Deere, CrowdStrike, Moderna & mehr\""
         }
       ],
       "callout": null,
