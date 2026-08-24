@@ -1,28 +1,40 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-21",
+    "title": "Beating Beta — 2026-08-24",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Warren Buffett on today's market moves.",
-      "highlight_phrase": "Warren Buffett",
-      "toc_summary": "Today's guru pair: Warren Buffett. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\nMacro: Bärmarkt-Risiko, Bewertungen zu hoch. $381B Cash-Polster.\nPicks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt\nStrategie: Cash halten, auf Schnäppchen warten.",
+      "number": "02",
+      "category": "FINANCE · MARKETS",
+      "title": "Markets Snapshot — 2026-08-24",
+      "highlight_phrase": "market snapshot",
+      "toc_summary": "S&P 7.674,37 · Nasdaq 29.308,86 · VIX 15,13 · 10Y 4,74% · Gold $4.684,90 · Oil $85,57 · BTC $77.465,79 · F&G N/A",
+      "quick_take": "S&P 500: 7.674,37\nNasdaq: 29.308,86\nVIX: 15,13 · 10Y: 4,74%\nGold: $4.684,90 · Oil: $85,57\nBitcoin: $77.465,79\nFear & Greed: N/A",
       "bullets": [
         {
-          "label": "Warren Buffett",
-          "text": "Macro: Bärmarkt-Risiko, Bewertungen zu hoch. $381B Cash-Polster. · Picks: 🟢 KO, AXP, OXY | 🔴 Breiter US-Markt"
+          "label": "Equities",
+          "text": "S&P 500 7.674,37 · Nasdaq 29.308,86"
+        },
+        {
+          "label": "Rates & Vol",
+          "text": "10Y 4,74% · VIX 15,13"
+        },
+        {
+          "label": "Commodities & Crypto",
+          "text": "Gold $4.684,90 · WTI $85,57 · BTC $77.465,79"
+        },
+        {
+          "label": "Sentiment",
+          "text": "Fear & Greed Index: N/A"
         }
       ],
       "callout": null,
       "sources": [
         {
-          "title": "Beating Beta Daily Edition",
+          "title": "Yahoo Finance · Bloomberg · CNBC",
           "url": null
         }
       ]
@@ -30,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair",
-      "highlight_phrase": "\"Mein Sohn arbeitet nicht, zahlt aber $5",
-      "toc_summary": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair",
-      "quick_take": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair?\"",
+      "title": "US-Futures flach, während USA und Kanada am Rande eines Handelskriegs stehen.",
+      "highlight_phrase": "US-Futures flach, während USA und Kanada",
+      "toc_summary": "US-Futures flach, während USA und Kanada am Rande eines Handelskriegs stehen.",
+      "quick_take": "US-Futures flach, während USA und Kanada am Rande eines Handelskriegs stehen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Mein Sohn arbeitet nicht, zahlt aber $500 für Krankenversicherung. Ist das fair?\""
+          "text": "US-Futures flach, während USA und Kanada am Rande eines Handelskriegs stehen."
         }
       ],
       "callout": null,
@@ -51,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\"",
-      "highlight_phrase": "\"Ich habe Vollmacht für meine Schwiegerm",
-      "toc_summary": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\"",
-      "quick_take": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\"",
+      "title": "\"Mein Sohn arbeitet nicht, zahlt aber 500 $ für Krankenversicherung. Ist das fai",
+      "highlight_phrase": "\"Mein Sohn arbeitet nicht, zahlt aber 50",
+      "toc_summary": "\"Mein Sohn arbeitet nicht, zahlt aber 500 $ für Krankenversicherung. Ist das fai",
+      "quick_take": "\"Mein Sohn arbeitet nicht, zahlt aber 500 $ für Krankenversicherung. Ist das fair?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Ich habe Vollmacht für meine Schwiegermutter – bin ich überfordert?\""
+          "text": "\"Mein Sohn arbeitet nicht, zahlt aber 500 $ für Krankenversicherung. Ist das fair?\""
         }
       ],
       "callout": null,
@@ -72,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Akt",
-      "highlight_phrase": "\"Unser 4-jähriger Sohn hat $100.000 im 5",
-      "toc_summary": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Akt",
-      "quick_take": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Aktien kaufen?\"",
+      "title": "\"Der Markt brennt\"",
+      "highlight_phrase": "\"Der Markt brennt\"",
+      "toc_summary": "\"Der Markt brennt\"",
+      "quick_take": "Soll ich 1.000 $ vom Brokerage-Konto nehmen, um meinen Autokredit abzuzahlen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Unser 4-jähriger Sohn hat $100.000 im 529-Plan. Sollten wir bei Bullenmarkt Aktien kaufen?\""
+          "text": "Soll ich 1.000 $ vom Brokerage-Konto nehmen, um meinen Autokredit abzuzahlen?"
         }
       ],
       "callout": null,
@@ -93,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Kon",
-      "highlight_phrase": "\"Wir sind in unseren 50ern mit $1,5 Mio.",
-      "toc_summary": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Kon",
-      "quick_take": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Konvertierung?\"",
+      "title": "\"Wir sind überzeugte Christen\"",
+      "highlight_phrase": "\"Wir sind überzeugte Christen\"",
+      "toc_summary": "\"Wir sind überzeugte Christen\"",
+      "quick_take": "Sohn und Schwiegertochter haben Kontakt abgebrochen – Testament ändern?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Wir sind in unseren 50ern mit $1,5 Mio. in 401(k)s. Ist es zu früh für Roth-Konvertierung?\""
+          "text": "Sohn und Schwiegertochter haben Kontakt abgebrochen – Testament ändern?"
         }
       ],
       "callout": null,
@@ -114,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "\"Chinesische humanoide Roboter",
-      "highlight_phrase": "\"Chinesische humanoide Roboter",
-      "toc_summary": "\"Chinesische humanoide Roboter",
-      "quick_take": "Größtes Hindernis sind Menschen\"",
+      "title": "Wells Fargo und Citigroup könnten eine große Bank kaufen – diese 5 Regionalbanke",
+      "highlight_phrase": "Wells Fargo und Citigroup könnten eine g",
+      "toc_summary": "Wells Fargo und Citigroup könnten eine große Bank kaufen – diese 5 Regionalbanke",
+      "quick_take": "Wells Fargo und Citigroup könnten eine große Bank kaufen – diese 5 Regionalbanken passen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Größtes Hindernis sind Menschen\""
+          "text": "Wells Fargo und Citigroup könnten eine große Bank kaufen – diese 5 Regionalbanken passen."
         }
       ],
       "callout": null,
@@ -135,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "\"Aktien mit größten Bewegungen",
-      "highlight_phrase": "\"Aktien mit größten Bewegungen",
-      "toc_summary": "\"Aktien mit größten Bewegungen",
-      "quick_take": "Walmart, Deere, CrowdStrike, Moderna & mehr\"",
+      "title": "Kalshi-Händler erwarten, dass die Bitcoin-Rallye das Jahr nahe dem aktuellen Niv",
+      "highlight_phrase": "Kalshi-Händler erwarten, dass die Bitcoi",
+      "toc_summary": "Kalshi-Händler erwarten, dass die Bitcoin-Rallye das Jahr nahe dem aktuellen Niv",
+      "quick_take": "Kalshi-Händler erwarten, dass die Bitcoin-Rallye das Jahr nahe dem aktuellen Niveau beendet.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Walmart, Deere, CrowdStrike, Moderna & mehr\""
+          "text": "Kalshi-Händler erwarten, dass die Bitcoin-Rallye das Jahr nahe dem aktuellen Niveau beendet."
         }
       ],
       "callout": null,
