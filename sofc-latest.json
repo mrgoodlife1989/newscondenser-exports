@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "topSignals": [
     {
-      "title": "Project Jupiter's \"trial by ambush\" timeline takes effect today - NM Supreme Court still silent on both emergency stays",
-      "text": "August 24 is the exact date NMED released the full administrative record to opponents while simultaneously requiring their technical testimony, the compressed schedule New Energy Economy's August 19 emergency petition called \"trial by ambush\" in asking the NM Supreme Court to halt the September 14 air-quality-permit hearing. As of today's search, the Court has not ruled on either that petition or the Center for Biological Diversity's August 20 water-well challenge - meaning the process opponents sought to freeze is now proceeding exactly as scheduled, absent last-minute court intervention. Source NM | Searchlight NM | KFOX",
-      "url": "https://sourcenm.com/2026/08/19/environmental-group-asks-nm-supreme-court-to-pause-project-jupiters-air-quality-permit-hearing/",
+      "title": "Ceres Power extends rally on Weichai Power SOFC ramp-up signal.",
+      "text": "Ceres shares gained ~22% this week (third straight week of double-digit gains, ~1,000% over one year) after Goldman Sachs lifted its price target to a Street-high 670p, citing faster-than-expected SOFC ramp-up signals from Weichai Power, which holds exclusive China manufacturing rights to Ceres' stack technology. Momentum traces back to Bloom Energy's raised full-year outlook. Bloomberg / TradingView",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/ceres-power-shares-near-1-000-gain-as-fuel-cell-rally-extends",
       "n": 1
     },
     {
-      "title": "Bloom Energy extends its slide into a third week, now ~48% off the August 12 record with no fresh catalyst",
-      "text": "BE fell as much as 6% Monday morning to around $203, roughly 13 sessions removed from its ~$391 record close. Today's coverage attributes the move to the same overhangs already tracked in this digest (post-earnings valuation reset from ~81x forward earnings, unresolved scandium-sourcing short-seller/class-action overhang) rather than any new development. Yahoo Finance / 24/7 Wall St",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-rallies-6-while-163801484.html",
+      "title": "PJM's Reliability Backstop Procurement — the ~60 GW capacity shortfall auction — is scheduled to begin in September 2026",
+      "text": ", per PJM's public filings; requested tariff effective date remains October 12. This is the mechanism most likely to reshape near-term economics for behind-the-meter/on-site generation (SOFC included) serving PJM-territory data centers. Day Pitney / FERC",
+      "url": "https://www.daypitney.com/alert-federal-energy-regulatory-commission-orders-major-pjm-tariff-reforms-for-co-located-load-and-behind-the-meter-generation",
       "n": 2
     },
     {
-      "title": "FuelCell Energy and Ceres Power both firm up the same morning, underscoring the weakness is Bloom-specific, not sector-wide",
-      "text": "FCEL rose 6% to ~$19.63 and Ceres Power (CWR.L) traded up roughly 8% intraday to ~439p (from Friday's 407p close). Neither move is tied to a specific news catalyst in today's coverage, extending the FCEL/Bloom divergence first flagged August 21. Yahoo Finance / 24/7 Wall St | Yahoo UK Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-rallies-6-while-163801484.html",
+      "title": "Elcogen and Topsoe: no new dated announcements in the last 24-48h.",
+      "text": "Elcogen's latest public output remains an insight/thought-leadership piece on clean-energy scaling as industrial strategy (no new product, capacity, or partnership news since the E3000 G2 platform launch and the JNK India MoU). Topsoe's most recent dated items are the August 11 First Ammonia SOEC agreement and the August 19 Sasol/Allied Biofuels licensing deal — both SOEC-side, not SOFC, and both already several days old; still hibernating its Herning factory per the May strategic-pathway reset. Status explicitly logged per standing instruction. Elcogen News / Topsoe News",
+      "url": "https://elcogen.com/category/news/",
       "n": 3
     }
   ],
@@ -25,27 +25,12 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet day August 24. Direct check of Elcogen's news archive confirms no releases since June 30 (China-EU clean energy collaboration recognition at the Chengdu forum). Status unchanged: E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C) in volume production at ELCO I Tallinn (360 MW/yr); no news since the June Ribera factory visit and April JNK India MoU. Elcogen newsroom",
-          "url": "https://elcogen.com/category/news/",
-          "sources": [
-            {
-              "title": "Elcogen newsroom",
-              "url": "https://elcogen.com/category/news/"
-            }
-          ]
+          "text": "Elcogen:* No new news in the last 24-48h. Standing status: elcoStack E3000 G2 platform (mass-manufacturable, launched earlier in 2026) remains the current flagship; Tallinn factory (opened Sept 2025) unchanged; JNK India MoU still the most recent partnership signal.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Topsoe (priority): Quiet day August 24 on SOFC/SOEC specifically. Status unchanged: Herning SOEC factory hibernated, commercialization pursued via licensing deals only (First Ammonia, August 11; Sasol/Allied Biofuels methanol synthesis, August 19). SOFC data-center pathway remains deferred to 2029+. Topsoe.com",
-          "url": "https://www.topsoe.com/",
-          "sources": [
-            {
-              "title": "Topsoe.com",
-              "url": "https://www.topsoe.com/"
-            }
-          ]
-        },
-        {
-          "text": "Other players: Quiet Monday. No new dated announcements from Bloom Energy, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Sunfire beyond the stock moves already covered under Market & Financials.",
+          "text": "Topsoe:* No new SOFC-specific news. SOEC side quiet since the August 19 Sasol/Allied Biofuels licensing agreement; Herning factory hibernation (per May 2026 guidance reset) unchanged.",
           "url": "",
           "sources": []
         }
@@ -55,12 +40,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Jupiter (Oracle/OpenAI, NM, 2.45 GW Bloom SOFC): See Top Signal #1. Both NM Supreme Court petitions remain undecided; the September 14 NMED hearing status stays contingent on the Court's response.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Other pipeline items (Crusoe/Cheyenne, Hedgehog Texas, Nebius/Bloom NJ, Equinix, FCEL/Fit Energy, PowerCell/ECL Santa Clara): no updates today; status unchanged from August 23.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -70,7 +50,22 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "PJM's Reliability Backstop Procurement (~60 GW shortfall auction) targeted for September launch — see Top Signal #2.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No update on the NM Supreme Court's handling of the two Project Jupiter petitions or the NMED September 14 hearing.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FERC RM26-4 large-load interconnection docket: no ruling yet.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Germany EnEfG amendment: still no confirmed Bundestag/Bundesrat timeline (carry-forward from August 23).",
           "url": "",
           "sources": []
         }
@@ -80,17 +75,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Rubicon Professional Services crosses 1 GW of installed battery storage capacity (announced August 18, first mention in this digest) - a scale marker for battery storage's growing footprint around data centers generally, though the announcement is not hyperscaler-specific and carries no single-project detail. EE Journal",
-          "url": "https://www.eejournal.com/industry_news/rubicon-professional-services-surpasses-one-gigawatt-of-battery-energy-storage-capacity-as-ai-accelerates-data-center-demand/",
-          "sources": [
-            {
-              "title": "EE Journal",
-              "url": "https://www.eejournal.com/industry_news/rubicon-professional-services-surpasses-one-gigawatt-of-battery-energy-storage-capacity-as-ai-accelerates-data-center-demand/"
-            }
-          ]
-        },
-        {
-          "text": "No dated updates today on the Rolls-Royce SMR GDA (DAC still pending, Q4 2026/Q1 2027 estimate unchanged), the Blue Energy/GE Vernova Hitachi Texas gas-plus-nuclear project (agreement announced August 13, already tracked), other hyperscaler nuclear deals (Meta/TerraPower, Meta/Oklo, Amazon/Talen), or Energy Vault's 1.25 GW Texas platform (covered August 23).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -100,12 +85,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): See Top Signal #2. Scandium class-action lead-plaintiff deadline unchanged (September 28). 10-Q with MW-shipped/ASP detail due September 11.",
+          "text": "Ceres Power (CWR.L): See Top Signal #1 — Goldman Sachs 670p price target, ~1,000% 1-year gain.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL) / Ceres Power (CWR.L): See Top Signal #3. FCEL's Zacks Rank #2 upgrade and Ceres' Goldman Sachs Conviction Buy (168% upside), both logged August 23, remain the standing bullish theses behind today's moves; no new dated catalyst identified for either.",
+          "text": "Bloom Energy (BE): Up 136% YTD / ~344% over one year per latest tracking; record Q2 revenue of $1.065B (first billion-dollar quarter) already on file. No new dated catalyst since the scandium class-action deadline (Sept 28) and 10-Q date (Sept 11), both carried forward.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FuelCell Energy (FCEL): No new news; Zacks #2 upgrade from Aug 23 remains the standing thesis.",
           "url": "",
           "sources": []
         }
@@ -134,7 +124,22 @@
   ],
   "lcoe": [
     {
-      "text": "Pending (carry-forward, priority-ranked): (1) NM Supreme Court responses to both Project Jupiter petitions - the compressed hearing-prep timeline takes effect today (August 24) with no ruling yet. (2) PJM's Expedited Interconnection Track, targeted to go live this month (August 2026) per PJM's public disclosures - watch for confirmation. (3) PJM BYONG/Large Load Registry docket, FERC action ahead of the October 12 effective date. (4) FERC RM26-4 large-load interconnection docket, Commission action still pending. (5) NMED September 14 Project Jupiter hearing, contingent on the Court. (6) Bloom 10-Q MW-shipped/ASP extraction (September 11). (7) Bloom scandium class-action lead-plaintiff deadline (September 28). (8) Ceres H1 2026 results (September). (9) Bloom Q3 2026 earnings (October). (10) Rolls-Royce SMR GDA DAC (Q4 2026/Q1 2027 estimate). (11) Germany EnEfG amendment - Bundestag/Bundesrat timeline not yet public.",
+      "text": "EIA August 2026 STEO Henry Hub revision (confirmed figures): 2026 Henry Hub spot price forecast cut to $3.44/MMBtu (from $3.67 in July STEO, >6% reduction); near-term prices expected to stay below $3.00/MMBtu until November, averaging $3.03/MMBtu over the remaining five months of 2026; Q4 2026 average projected at $3.57/MMBtu; 2027 annual average projected at $3.49/MMBtu. This refines (with harder numbers) the STEO revision flagged qualitatively on August 22 - recommend using these figures directly in the gas-price input for the LCOE model.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Germany EnEfG easing: still no updated figures beyond the August 23 flag.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Unverified lead (not yet actionable): hybrid SOFC system design reporting LCOE of $0.155/kWh at 66.3% electrical efficiency - needs primary-source confirmation before use.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending carry-forward list unchanged from August 24 (NM Supreme Court/Project Jupiter, PJM Expedited Interconnection Track, PJM BYONG/Large Load Registry, FERC RM26-4, Bloom 10-Q/class-action dates, Ceres H1 results, Bloom Q3 earnings, Rolls-Royce SMR GDA, Germany EnEfG timeline).",
       "url": "",
       "sources": []
     }
