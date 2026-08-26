@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "topSignals": [
     {
-      "title": "Ceres Power extends rally on Weichai Power SOFC ramp-up signal.",
-      "text": "Ceres shares gained ~22% this week (third straight week of double-digit gains, ~1,000% over one year) after Goldman Sachs lifted its price target to a Street-high 670p, citing faster-than-expected SOFC ramp-up signals from Weichai Power, which holds exclusive China manufacturing rights to Ceres' stack technology. Momentum traces back to Bloom Energy's raised full-year outlook. Bloomberg / TradingView",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/ceres-power-shares-near-1-000-gain-as-fuel-cell-rally-extends",
+      "title": "New Mexico Supreme Court grants stay, pausing both Project Jupiter proceedings.",
+      "text": "Ruling Sunday, August 23 (reported August 24), the Court unanimously paused the NMED air-quality permit hearing and the emergency water-well authorization for Oracle's 2.45 GW Bloom SOFC data center in Santa Teresa, resolving for now the two petitions this digest has tracked since August 19-20. The State Engineer and NMED must respond by September 2. If the stay holds, the September 14 hearing cannot proceed as scheduled, pushing the permitting track past SemiAnalysis's 2029 first-power base case. KVIA | NM Political Report",
+      "url": "https://kvia.com/news/local-news/2026/08/24/new-mexico-supreme-court-pauses-project-jupiter-water-well-drilling-air-permit-proceeding/",
       "n": 1
     },
     {
-      "title": "PJM's Reliability Backstop Procurement — the ~60 GW capacity shortfall auction — is scheduled to begin in September 2026",
-      "text": ", per PJM's public filings; requested tariff effective date remains October 12. This is the mechanism most likely to reshape near-term economics for behind-the-meter/on-site generation (SOFC included) serving PJM-territory data centers. Day Pitney / FERC",
-      "url": "https://www.daypitney.com/alert-federal-energy-regulatory-commission-orders-major-pjm-tariff-reforms-for-co-located-load-and-behind-the-meter-generation",
+      "title": "PJM's capacity backstop gets a hard price ceiling: $555/MW-day, up from $325.",
+      "text": "A deeper read of PJM's Reliability Backstop Procurement (FERC Docket ER26-3380) shows a two-track design: a bilateral-matching window already open since August 2026 for data centers to contract directly with new supply, and a residual auction (bid window September 30 to October 21, results by December 2) capped at $555/MW-day in UCAP terms for contracts up to 15 years, up from the $325/MW-day cap the last base auction hit across its entire footprint. NRDC estimates PJM could pay up to $20 billion for new plants under the mechanism. A usable ceiling for benchmarking behind-the-meter SOFC against the cost of staying grid-connected in PJM territory, see LCOE section below. Electron Economics | Utility Dive",
+      "url": "https://electroneconomics.substack.com/p/pjms-reliability-backstop-procurement",
       "n": 2
     },
     {
-      "title": "Elcogen and Topsoe: no new dated announcements in the last 24-48h.",
-      "text": "Elcogen's latest public output remains an insight/thought-leadership piece on clean-energy scaling as industrial strategy (no new product, capacity, or partnership news since the E3000 G2 platform launch and the JNK India MoU). Topsoe's most recent dated items are the August 11 First Ammonia SOEC agreement and the August 19 Sasol/Allied Biofuels licensing deal — both SOEC-side, not SOFC, and both already several days old; still hibernating its Herning factory per the May strategic-pathway reset. Status explicitly logged per standing instruction. Elcogen News / Topsoe News",
-      "url": "https://elcogen.com/category/news/",
+      "title": "TerraPower names Hyundai E&C as EPC for up to 8 Natrium reactors, SK Innovation deal alongside (August 14, first appearance).",
+      "text": "Announced during a Seoul trip by Bill Gates and CEO Chris Levesque with Korea's Prime Minister, HD Hyundai, HDEC, SK Innovation and the Export-Import Bank of Korea, TerraPower named Hyundai Engineering & Construction EPC contractor for up to eight future Natrium plants (345 MW sodium-cooled fast reactor plus molten-salt storage, peaking to 500 MW), with completion, price and performance guarantees. A firmer commercialization step than the non-binding Holtec/Entergy/Hyundai Gulf South MOA already on file, though first power still runs into the 2030s, leaving SOFC's near-term deployment-speed advantage intact. World Nuclear News | TerraPower | UPI",
+      "url": "https://www.world-nuclear-news.org/articles/terrapower-and-hd-hyundai-sign-natrium-reactor-agreements",
       "n": 3
     }
   ],
@@ -25,12 +25,41 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen:* No new news in the last 24-48h. Standing status: elcoStack E3000 G2 platform (mass-manufacturable, launched earlier in 2026) remains the current flagship; Tallinn factory (opened Sept 2025) unchanged; JNK India MoU still the most recent partnership signal.",
-          "url": "",
-          "sources": []
+          "text": "Elcogen (priority): Confirmed quiet via direct newsroom check (elcogen.com/category/news). Latest post remains June 30 (China-EU Energy Technology Innovation Cooperation Forum recognition); nothing since the May 11 E3000 G2 platform launch. Status unchanged: E3000 G2 in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
+          "url": "https://elcogen.com/category/news/",
+          "sources": [
+            {
+              "title": "Elcogen News",
+              "url": "https://elcogen.com/category/news/"
+            }
+          ]
         },
         {
-          "text": "Topsoe:* No new SOFC-specific news. SOEC side quiet since the August 19 Sasol/Allied Biofuels licensing agreement; Herning factory hibernation (per May 2026 guidance reset) unchanged.",
+          "text": "Topsoe (priority): Confirmed quiet via direct site check (topsoe.com/news). The three most recent posts (August 25, 19, 11) are all ammonia/SAF business content, not SOFC or SOEC. No stack-side announcement found. Herning SOEC factory hibernation unchanged since the May strategic reset; SOFC data-center pathway still deferred to 2029+. Topsoe News",
+          "url": "https://www.topsoe.com/",
+          "sources": [
+            {
+              "title": "Topsoe News",
+              "url": "https://www.topsoe.com/"
+            }
+          ]
+        },
+        {
+          "text": "Sunfire (new): Broke ground on a SOEC test facility at BASF's Industriepark Lausitz, Schwarzheide, Brandenburg (dated August 19); commissioning targeted for end of 2026 to validate its latest SOEC generation (up to 89% LHV efficiency) ahead of a 2030+ scale-up. SOEC side only, consistent with Sunfire's 2024 exit from the SOFC/fuel-cell business already on file. Renewable Energy Magazine | gasworld",
+          "url": "https://www.renewableenergymagazine.com/hydrogen/sunfire-begins-construction-of-soec-test-facility-20260819",
+          "sources": [
+            {
+              "title": "Renewable Energy Magazine",
+              "url": "https://www.renewableenergymagazine.com/hydrogen/sunfire-begins-construction-of-soec-test-facility-20260819"
+            },
+            {
+              "title": "gasworld",
+              "url": "https://www.gasworld.com/story/sunfire-starts-building-soec-pilot-plant-at-basf-facility/2257667.article/"
+            }
+          ]
+        },
+        {
+          "text": "Other players: No new stack/cell-level announcements from Bloom, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, or Aisin in the last 24-48h beyond items covered under Market & Financials.",
           "url": "",
           "sources": []
         }
@@ -50,22 +79,22 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "PJM's Reliability Backstop Procurement (~60 GW shortfall auction) targeted for September launch — see Top Signal #2.",
+          "text": "NM Supreme Court stay on Project Jupiter: see Top Signal #1.",
           "url": "",
           "sources": []
         },
         {
-          "text": "No update on the NM Supreme Court's handling of the two Project Jupiter petitions or the NMED September 14 hearing.",
+          "text": "PJM Reliability Backstop Procurement pricing detail: see Top Signal #2.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FERC RM26-4 large-load interconnection docket: no ruling yet.",
+          "text": "FERC RM26-4 large-load interconnection docket: no ruling yet; still tracking toward the mid-September comment window already on file.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Germany EnEfG amendment: still no confirmed Bundestag/Bundesrat timeline (carry-forward from August 23).",
+          "text": "Germany EnEfG amendment: no dated update on Bundestag/Bundesrat scheduling; figures unchanged from the August 23 flag.",
           "url": "",
           "sources": []
         }
@@ -75,7 +104,22 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "TerraPower/Hyundai E&C/SK Innovation Natrium agreements: see Top Signal #3.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Gas turbine backlog (background, unchanged): GE Vernova's slot-reservation backlog stands near 116 GW, Siemens Energy near 69 GW; a turbine ordered today ships in 2031. Lead times continue to favor SOFC for pre-2029 capacity.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Rolls-Royce SMR: no dated update; Generic Design Assessment Design Acceptance Confirmation still pending (Q4 2026/Q1 2027 estimate unchanged).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No new dated developments on grid-scale batteries, PEM/hydrogen competitors, or other hyperscaler nuclear deals (Meta/TerraPower, Meta/Oklo, Amazon/Talen) beyond what is already on file.",
           "url": "",
           "sources": []
         }
@@ -85,17 +129,31 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Ceres Power (CWR.L): See Top Signal #1 — Goldman Sachs 670p price target, ~1,000% 1-year gain.",
-          "url": "",
-          "sources": []
+          "text": "Bloom Energy (BE): Closed August 25 at $215.39 (intraday $204.02-$217.33), +5.35% on the day, extending the recovery from the July 31 trough of $159.80. A congressional disclosure dated August 21 shows Rep. Nancy Pelosi purchased Bloom shares (reported value $4.25M-$14.5M) on July 24; drew fresh trading attention this week but is not a company-side catalyst. Scandium class-action lead-plaintiff deadline (September 28) unchanged. Benzinga | TradingKey",
+          "url": "https://www.benzinga.com/markets/equities/26/08/61408927/bloom-energy-stock-rises-as-pelosi-linked-trades-draw-fresh-attention",
+          "sources": [
+            {
+              "title": "Benzinga",
+              "url": "https://www.benzinga.com/markets/equities/26/08/61408927/bloom-energy-stock-rises-as-pelosi-linked-trades-draw-fresh-attention"
+            },
+            {
+              "title": "TradingKey",
+              "url": "https://www.tradingkey.com/news/market-movers/262130827-market-movers-be-20260825"
+            }
+          ]
         },
         {
-          "text": "Bloom Energy (BE): Up 136% YTD / ~344% over one year per latest tracking; record Q2 revenue of $1.065B (first billion-dollar quarter) already on file. No new dated catalyst since the scandium class-action deadline (Sept 28) and 10-Q date (Sept 11), both carried forward.",
-          "url": "",
-          "sources": []
+          "text": "FuelCell Energy (FCEL): Confirmed Q3 2026 results conference call for September 2 at 10:00 a.m. ET (date newly confirmed via the August 25 release). No other new news. GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350334/8041/en/fuelcell-energy-announces-third-quarter-2026-results-conference-call-on-september-2-2026-at-10-00-a-m-eastern-time.html",
+          "sources": [
+            {
+              "title": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/08/25/3350334/8041/en/fuelcell-energy-announces-third-quarter-2026-results-conference-call-on-september-2-2026-at-10-00-a-m-eastern-time.html"
+            }
+          ]
         },
         {
-          "text": "FuelCell Energy (FCEL): No new news; Zacks #2 upgrade from Aug 23 remains the standing thesis.",
+          "text": "Ceres Power (CWR.L): No new dated news beyond August 25's Goldman Sachs coverage. H1 2026 interim results date not yet published; last year's equivalent report landed September 26, 2025, so a similar date this year is a reasonable but unconfirmed assumption.",
           "url": "",
           "sources": []
         }
@@ -124,22 +182,17 @@
   ],
   "lcoe": [
     {
-      "text": "EIA August 2026 STEO Henry Hub revision (confirmed figures): 2026 Henry Hub spot price forecast cut to $3.44/MMBtu (from $3.67 in July STEO, >6% reduction); near-term prices expected to stay below $3.00/MMBtu until November, averaging $3.03/MMBtu over the remaining five months of 2026; Q4 2026 average projected at $3.57/MMBtu; 2027 annual average projected at $3.49/MMBtu. This refines (with harder numbers) the STEO revision flagged qualitatively on August 22 - recommend using these figures directly in the gas-price input for the LCOE model.",
+      "text": "PJM backstop price ceiling as an avoided-cost benchmark (✎ my calculation from PJM's reported figures, not a primary-sourced number): $555/MW-day works out to about $202.6/kW-year ($555 x 365 days), versus roughly $118.6/kW-year at the prior $325/MW-day base-auction cap. That is a usable ceiling for what a PJM-territory data center might otherwise pay for capacity if it stays grid-connected, i.e. the avoided-cost benchmark that behind-the-meter SOFC economics need to beat, on top of avoided energy costs. See Top Signal #2.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Germany EnEfG easing: still no updated figures beyond the August 23 flag.",
+      "text": "Gas price case: EIA's August STEO figures ($3.44/MMBtu 2026 average, $3.03/MMBtu for the remaining five months) are unchanged from the August 25 flag; no new revision today.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Unverified lead (not yet actionable): hybrid SOFC system design reporting LCOE of $0.155/kWh at 66.3% electrical efficiency - needs primary-source confirmation before use.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending carry-forward list unchanged from August 24 (NM Supreme Court/Project Jupiter, PJM Expedited Interconnection Track, PJM BYONG/Large Load Registry, FERC RM26-4, Bloom 10-Q/class-action dates, Ceres H1 results, Bloom Q3 earnings, Rolls-Royce SMR GDA, Germany EnEfG timeline).",
+      "text": "Pending carry-forward list, updated from August 25 (NM Supreme Court item now resolved, see Top Signal #1): PJM Expedited Interconnection Track confirmation, PJM BYONG/Large Load Registry FERC action (ahead of October 12), FERC RM26-4, NMED September 14 Project Jupiter hearing (now contingent on the stay holding), Bloom 10-Q MW-shipped/ASP extraction (September 11), Bloom scandium class-action deadline (September 28), Ceres H1 2026 results (September, unconfirmed date), Bloom Q3 2026 earnings (October), Rolls-Royce SMR GDA DAC (Q4 2026/Q1 2027 estimate), Germany EnEfG Bundestag/Bundesrat timeline.",
       "url": "",
       "sources": []
     }
