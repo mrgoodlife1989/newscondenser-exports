@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "topSignals": [
     {
-      "title": "Germany's EnEfG data-center rules take final shape ahead of autumn Bundestag debate.",
-      "text": "The Bundeskabinett's June 24 draft amendment (parliamentary passage expected this autumn) sets PUE ceilings of 1.6/1.4 (mid-2027/2030) for existing data centers and 1.2 for new builds with a doubled four-year grace period, raises the in-scope threshold to 500 kW installed IT power, and pushes the 100%-renewable-electricity mandate from 2027 to 2030. Directly relevant to opex/design assumptions for any SOFC-CHP data-center case in Germany or the EU - see LCOE section below. DENEFF | FPS Law | Gleiss Lutz",
-      "url": "https://deneff.org/energieeffizienzgesetz-enefg-novelle-2026-erklaert/",
+      "title": "Bloom Energy closes +4.5% at $228.11 on fresh Mizuho and Clear Street upgrades to Outperform/Buy, rebounding from Thursday's round trip to a $244 intraday high and a $216.14 close.",
+      "text": "BE traded $219.21-$237.45 and closed at $228.11 (+$9.79), extending the Pelosi-disclosure rally flagged August 25-27. The two analyst upgrades cite margin gains and roughly $27B in financing capacity (unverified, see LCOE section) - the first dated catalyst beyond the Pelosi trade and the Q2 beat-and-raise. Motley Fool | StockAnalysis",
+      "url": "https://www.fool.com/investing/2026/08/27/i-finally-bought-bloom-energy-heres-what-took-me-s/",
       "n": 1
     },
     {
-      "title": "Ceres Power spins out its flow-battery unit as \"Certain Energy\" after a GBP10m raise (August 26).",
-      "text": "RFC Power, Ceres' manganese flow-battery subsidiary for long-duration storage, closed a GBP10m (approx. $13.6m) Series A led by the British Business Bank with Centrica and Temasek Trust's Catalytic Capital participating; Ceres retains approximately 37% equity, a revenue share, and a board seat. A capital-light way for a cash-constrained SOFC/SOEC licensor to keep a toehold in adjacent storage tech, not a core-technology announcement. Investegate | Proactive Investors",
-      "url": "https://www.investegate.co.uk/announcement/rns/ceres-power-holdings--cwr/ceres-spins-out-rfc-power/9740961",
+      "title": "Texas's ERCOT data-center audit gets hard numbers for the first time in this digest: up to 300 projects, ~200 GW of future demand - double ERCOT's own peak-demand record - under review through roughly December 10.",
+      "text": "Gov. Abbott's August 3 order paused new ERCOT interconnection studies pending a PUCT/ERCOT verification sweep; the August 14 ERCOT board meeting confirmed the scope and a \"less than nine months\" completion target, consistent with the December 10 date reported directly by Utility Dive. Under 10% of audited data centers were found compliant with existing power/water reporting law. This digest has carried \"ERCOT audit, targeted completion December 2026\" as a pending item since August 22 without noting the scale - useful context for behind-the-meter SOFC's core pitch (skip the queue) in the US's second-largest data-center market. Utility Dive | Texas Tribune",
+      "url": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
       "n": 2
     },
     {
-      "title": "Bloom Energy: stock extends its Pelosi-linked rally; Q3 2026 earnings date now confirmed for October 27.",
-      "text": "BE rose another 3.2% today, continuing the run triggered by the August 21 disclosure of Nancy Pelosi's household position; consensus for the October 27 report sits at $0.64 EPS (vs. $0.15 a year ago) and approx. $1.07B revenue (vs. $519M). A modest, calendar-driven update - no new operating catalyst behind today's move. Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-rallying-today-93CH-4877404",
+      "title": "Correction to this digest's standing framing: FERC's large-load interconnection reform is a nationwide six-RTO action, not a PJM-specific one.",
+      "text": "FERC's June 18 show-cause orders went to all six FERC-jurisdictional grid operators - PJM, MISO, SPP, CAISO, ISO-NE and NYISO - not PJM alone, as this digest's PJM-centric coverage (BYONG, the Reliability Backstop Procurement) has implied since mid-August. All six filed responses by the August 17 deadline; a 30-day intervenor-comment window is now open on each. The \"avoid the interconnection queue\" value driver this digest has so far priced only against PJM benchmarks (the $555/MW-day backstop cap, August 26) likely applies in the other five territories too, each on its own timeline and price. Akin Gump | FERC.gov",
+      "url": "https://www.akingump.com/en/insights/blogs/speaking-energy/ferc-issues-landmark-show-cause-orders-on-large-load-interconnection",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Confirmed quiet via direct newsroom check (elcogen.com/category/news) - no post since June 30. Other items surfaced today (SYRIUS Horizon Europe steel-decarbonization project, a new CTO appointment, TIME Top GreenTech recognition) all predate that and are already on file. Status unchanged: E3000 G2 in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
+          "text": "Elcogen (priority): Quiet day. Direct newsroom check (elcogen.com/category/news) confirms no post since June 30. Status unchanged: E3000 G2 platform in volume production at ELCO I Tallinn (360 MW/yr); no news since the April JNK India MoU. Elcogen News",
           "url": "https://elcogen.com/category/news/",
           "sources": [
             {
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "text": "Topsoe (priority): Confirmed quiet via direct site check (topsoe.com/news) - no stack- or SOEC-specific post found beyond the ammonia/SAF items already noted August 25-26. Herning SOEC factory hibernation and the 2029+ SOFC data-center pathway are unchanged. Topsoe News",
+          "text": "Topsoe (priority): Quiet day on SOFC/SOEC specifically. Direct site check (topsoe.com/news) finds nothing beyond the already-logged ammonia/SAF licensing items (First Ammonia August 11; Sasol/Allied Biofuels August 19 and 25). Herning SOEC factory hibernation and the 2029+ SOFC data-center pathway unchanged. Topsoe News",
           "url": "https://www.topsoe.com/",
           "sources": [
             {
@@ -45,12 +45,7 @@
           ]
         },
         {
-          "text": "Ceres Power (update): Spins out flow-battery unit RFC Power as Certain Energy - see Top Signal #2. A diversification move in adjacent long-duration storage, not a core SOFC/SOEC announcement.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Other players: No new stack/cell-level announcements from Bloom, FuelCell Energy, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion in the last 24-48h beyond items covered under Market & Financials.",
+          "text": "Other players: No new stack/cell-level announcements from FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, Sunfire, or Convion in the last 24-48h beyond items covered under Market & Financials.",
           "url": "",
           "sources": []
         }
@@ -70,31 +65,32 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Germany EnEfG: see Top Signal #1 for full detail.",
+          "text": "FERC's nationwide large-load reform: see Top Signal #3.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Project Jupiter (NM): Following the August 23 stay, NMED confirmed it is preparing its required Supreme Court response (due September 2) and released a draft version of its administrative record, stating this gives the public \"ample time to review, regardless of how the timeline moves forward.\" No ruling yet; the September 14 hearing remains contingent on the stay's outcome. KRQE | Source NM",
-          "url": "https://www.krqe.com/news/new-mexico/new-mexico-supreme-court-puts-key-project-jupiter-hearing-on-hold/",
+          "text": "Texas ERCOT audit: see Top Signal #2.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Project Jupiter: NMED/State Engineer Supreme Court response due September 2 (see AI Data Center Deployments above).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Germany EnEfG: no new development since the August 27 entry; amendment still awaits autumn Bundestag/Bundesrat passage. One detail surfaced today that may describe a different sub-provision than the 500 kW installed-IT-power threshold already flagged: a narrower reporting obligation applying to operators with >23.6 GWh total final energy consumption or data centers with >1 MW nominal total energy input. Flagged for reconciliation, not yet treated as a correction. DENEFF",
+          "url": "https://deneff.org/energieeffizienzgesetz-enefg-novelle-2026-erklaert/",
           "sources": [
             {
-              "title": "KRQE",
-              "url": "https://www.krqe.com/news/new-mexico/new-mexico-supreme-court-puts-key-project-jupiter-hearing-on-hold/"
-            },
-            {
-              "title": "Source NM",
-              "url": "https://sourcenm.com/2026/08/24/nm-supreme-court-temporarily-halt-project-jupiter-air-quality-permit-hearing/"
+              "title": "DENEFF",
+              "url": "https://deneff.org/energieeffizienzgesetz-enefg-novelle-2026-erklaert/"
             }
           ]
         },
         {
-          "text": "PJM/FERC large-load rules: No new order. PJM's Interim Resource Adequacy Service proposal for large loads without their own power supply and the Reliability Backstop Procurement (see August 26 digest) remain pending at FERC; the RM26-4 comment window is still tracking toward mid-September.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "US tax credits: No change to 45V ($0.60/kg maximum credit, production must begin before 2028) or 48E (30% ITC, domestic-content thresholds stepping 45%/2026 -> 50%/2027 -> 55%/2028) - both unchanged from prior digests.",
+          "text": "US tax credits (45V, 48E) unchanged.",
           "url": "",
           "sources": []
         }
@@ -114,17 +110,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Ceres Power (CWR.L): RFC Power/Certain Energy spinout - see Top Signal #2. Goldman Sachs' Conviction Buy (168% upside, flagged August 25) unchanged. H1 2026 interim results still have no announced date (last year's equivalent: September 26, 2025).",
+          "text": "Bloom Energy (BE): see Top Signal #1. Scandium class-action lead-plaintiff deadline (September 28) and 10-Q (September 11) unchanged; Q3 2026 earnings confirmed for October 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Bloom Energy (BE): +3.2% today - see Top Signal #3. Next earnings confirmed for October 27, 2026.",
+          "text": "FuelCell Energy (FCEL): no new news; Q3 2026 results call confirmed for September 2, 10:00 a.m. ET.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): Q3 2026 results call confirmed for September 2, 10:00 a.m. ET (unchanged from August 25).",
+          "text": "Ceres Power (CWR.L): no new news beyond the August 26 RFC Power/Certain Energy spinout; Goldman Sachs' 670p target (August 25) and H1 2026 results (September, unconfirmed date) unchanged.",
           "url": "",
           "sources": []
         }
@@ -153,22 +149,27 @@
   ],
   "lcoe": [
     {
-      "text": "Germany EnEfG thresholds (✓ sourced, not my calculation): PUE <=1.6 (mid-2027) / <=1.4 (2030) for existing data centers (vs. 1.5/1.3 previously planned), <=1.2 for new builds with the compliance grace period doubled to four years; 100%-renewable-electricity mandate deferred from 2027 to 2030; in-scope threshold raised to 500 kW installed IT power (from 300 kW connection capacity). Relevant to opex/design assumptions for any EU SOFC-CHP data-center case. See Top Signal #1.",
+      "text": "FERC's nationwide scope broadens the \"avoided interconnection queue\" benefit driver (see Top Signal #3): the LCOE model's avoided-cost-of-grid-connection benefit side has so far been anchored only to PJM benchmarks (the $555/MW-day backstop cap, August 26). With MISO, SPP, CAISO, ISO-NE and NYISO now under the same FERC show-cause reform, the same benefit driver plausibly applies in those territories too, each with its own price/timeline once individual tariff reforms are approved - worth a multi-RTO version of that calculation rather than a PJM-only one.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Ceres RFC Power/Certain Energy raise (✎ my conversion, not primary-sourced): GBP10m ≈ $13.6m at today's spot rate (GBP/USD 1.3642, xe.com). A data point on capital-raising appetite/cost for SOFC-adjacent players diversifying into storage, not a direct LCOE input.",
+      "text": "Texas scale numbers as a queue-pressure proxy (see Top Signal #2): ~200 GW of Texas data-center demand sitting behind an audit with no firm restart date (targeted within nine months of August 14, i.e. by roughly May 2027, with December 10, 2026 reported as the specific ERCOT target) is a concrete, large-market illustration of the multi-year interconnection delay that behind-the-meter SOFC is priced against - useful as a qualitative anchor even without a dollar figure attached.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Gas price case: EIA's August STEO figures ($3.44/MMBtu 2026 average, $3.03/MMBtu remaining five months, approx. $2.87/MMBtu Q3 2026 Henry Hub) unchanged from prior digests.",
+      "text": "Bloom Energy's \"~$27B financing capacity\" (✎ as reported by Motley Fool, not independently verified): if accurate, a data point on capital availability for SOFC deployment financing at scale; flagged for confirmation before use.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending carry-forward: PJM Expedited Interconnection Track, PJM large-load rules (IRAS/BYONG) at FERC, FERC RM26-4 (mid-September comment window), Bloom 10-Q MW-shipped/ASP extraction (September 11), Bloom scandium class-action deadline (September 28), Ceres H1 2026 results (September, unconfirmed date), Bloom Q3 2026 earnings (now confirmed October 27), FCEL Q3 2026 results call (September 2), Rolls-Royce SMR GDA DAC (Q4 2026/Q1 2027 estimate), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), NM Project Jupiter Supreme Court response deadline (September 2).",
+      "text": "Gas price case: EIA's August STEO figures ($3.44/MMBtu 2026 average, $2.87/MMBtu Q3, $3.03/MMBtu remaining five months) unchanged, no new revision today.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending carry-forward: PJM Expedited Interconnection Track confirmation, FERC RM26-4 comment window (~September 16), intervenor-comment windows now open on all six RTOs' show-cause filings (30 days from August 17, i.e. ~September 16), NMED/State Engineer Project Jupiter Supreme Court response (September 2), Bloom 10-Q (September 11), Bloom scandium class-action deadline (September 28), FCEL Q3 call (September 2), Ceres H1 2026 results (September, unconfirmed date), Bloom Q3 earnings (October 27), Rolls-Royce SMR GDA DAC (Q4 2026/Q1 2027 estimate), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit completion (~December 10, 2026).",
       "url": "",
       "sources": []
     }
