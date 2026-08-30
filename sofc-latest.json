@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "topSignals": [
     {
-      "title": "Topsoe's H1 2026 results show its SOEC retreat deepening faster than guided: the Power-to-X impairment is now DKK 4,100–4,400M, up from the DKK 3,500–3,900M range set in May.",
-      "text": "Company announcements No. 10/2026 and 11/2026 (August 27) — missed by this digest's priority Topsoe checks on August 26–28 because those looked only at topsoe.com/news and not the separate investor-relations feed — show H1 2026 revenue of DKK 3,412M (down from DKK 3,679M in H1 2025) and a net loss of DKK 2,840M, driven by a DKK 3,570M Power-to-X asset impairment plus DKK 209M of restructuring costs booked so far. The full one-off cost is now guided to DKK 4,100–4,400M (≈EUR 550–590M ✎, at the ~7.46 DKK/EUR peg), versus DKK 3,500–3,900M previously — roughly a EUR 65–80M (✎) increase — while the core, non-SOEC business is outperforming: FY2026 revenue guidance raised to DKK 8,000–8,500M (≈EUR 1.07–1.14B ✎) and EBIT-margin-ex-special-items guidance raised to 7.0–10.0% (from 4.0–9.0%). Hard numbers behind the \"SOFC data-center pathway deferred to 2029+\" read this digest has carried since mid-August. Topsoe H1 2026 statement | Topsoe financial outlook update",
-      "url": "https://www.topsoe.com/H126",
+      "title": "MISO's FERC large-load tariff filing deadline is tomorrow (August 31) — no filing found yet as of this weekend check.",
+      "text": "MISO committed to file its Large Load Interconnection Reliability Requirements Tariff with FERC before end of August 2026, responding to the June 18 six-RTO show-cause order; a fuller response is due November 16. Neither MISO's own site nor trade coverage shows a filing yet — the first real test (flagged here August 28–29) of whether the reform converts into an actual tariff change lands within 24 hours of this digest. MISO Large Load Interconnection | Akin Gump",
+      "url": "https://www.misoenergy.org/planning/large-loads---container-page/large-load-additions/",
       "n": 1
     },
     {
-      "title": "MISO's tariff filing under FERC's nationwide large-load reform is due within days — the first real test of whether the six-RTO show-cause order (flagged here August 28) converts into actual rule changes.",
-      "text": "MISO has committed to file its Large Load Interconnection Reliability Requirements Tariff — addressing the large-load and co-located-load protections FERC's June 18 order found deficient — before the end of August 2026 (i.e. by Monday, August 31), with a fuller response due November 16. PJM, MISO, SPP, CAISO, ISO-NE and NYISO all filed initial responses by the August 17 deadline; this would be the first of the six to turn into a concrete proposed tariff change. Same \"skip the interconnection queue\" driver behind-the-meter SOFC is priced against, now testable RTO by RTO. Akin Gump | MISO Large Load Interconnection",
-      "url": "https://www.akingump.com/en/insights/blogs/speaking-energy/ferc-directs-midcontinent-independent-system-operator-to-revise-tariff-to-expedite-data-center-development",
+      "title": "Germany's EnEfG reform loosens the PUE bar for new data centers rather than tightening it — a detail not previously carried in this digest.",
+      "text": "Current law requires PUE ≤1.2 for data centers commissioned from July 1, 2026; the cabinet-adopted amendment (draft April 9, cabinet decision June 24) relaxes this to ≤1.3, and for existing centers raises the planned 2027/2030 ceilings from 1.5/1.3 to 1.6/1.4. Still pending Bundestag/Bundesrat passage this autumn — a proposal, not yet law — but worth flagging as background for any German SOFC-CHP siting case, since it slightly lowers the regulatory floor that on-site efficiency gains compete against. cloudmagazin | cms.law",
+      "url": "https://www.cloudmagazin.com/2026/07/06/enefg-novelle-rechenzentren-pflichten-gelockert/",
       "n": 2
     },
     {
-      "title": "First dollar figure attached to Texas's ERCOT audit pause: BloombergNEF estimates $8–15 billion in delay costs across 49.8 GW (~20%) of the U.S. data-center pipeline (BNEF analysis dated early/mid-August; first appearance in this digest).",
-      "text": "BNEF's range runs from just over $8 billion by Q1 2027 if 60% of delayed capacity is AI-related, to roughly $15 billion in a full-delay, 100%-AI-compute scenario — the first cost figure attached to the audit-pause this digest has tracked by scope alone (~300 projects, ~200 GW under review, ~December 10 target) since August 22. For scale: ERCOT's total interconnection queue is ~474 GW (~90% data centers, about five times ERCOT's peak demand), of which the ~200 GW under the Abbott-ordered audit is a subset, not the whole queue. See LCOE section for a derived cost-per-GW figure. PowerMag/BNEF | Utility Dive",
-      "url": "https://www.powermag.com/texas-audit-could-delay-49-8-gw-of-data-center-load-cost-projects-up-to-15-billion-bnef-warns/",
+      "title": "Priority-stack check: both Elcogen and Topsoe confirmed quiet over the weekend.",
+      "text": "Elcogen's newsroom shows no post since June 30 (E3000 G2 remains in volume production at ELCO I Tallinn, 360 MW/yr). Topsoe's press room shows nothing beyond the August 27 H1 2026 financial disclosure already covered in this digest — no new SOFC/SOEC product, factory, or partnership news. Elcogen News | Topsoe News",
+      "url": "https://elcogen.com/category/news/",
       "n": 3
     }
   ],
@@ -25,22 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Confirmed quiet via direct newsroom check (elcogen.com/category/news) — no post since June 30. One \"Insights\" opinion piece by Stefano Piscitelli (August 3) surfaced again in searches; it is commentary, not a company announcement, and does not change the status. E3000 G2 platform remains in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
-          "url": "https://elcogen.com/category/news/",
-          "sources": [
-            {
-              "title": "Elcogen News",
-              "url": "https://elcogen.com/category/news/"
-            }
-          ]
-        },
-        {
-          "text": "Topsoe (priority): Not quiet — see Top Signal #1 for the H1 2026 financial disclosure this digest's prior news-page-only checks missed. No new SOFC/SOEC product, factory, or partnership news beyond the financial update. Herning SOEC factory hibernation and the 2029+ SOFC data-center pathway stand, now with a harder cost number behind the retreat.",
+          "text": "Elcogen (priority): Quiet — see Top Signal #3.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other players: No new stack/cell-level announcements from Bloom, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, Sunfire, or Convion in the last 24–48h beyond items covered under Market & Financials.",
+          "text": "Topsoe (priority): Quiet — see Top Signal #3.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Other players: No new stack/cell-level announcements from Bloom, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, Sunfire, or Convion in the last 24–48h.",
           "url": "",
           "sources": []
         }
@@ -60,27 +55,27 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC six-RTO large-load reform: MISO tariff filing imminent — see Top Signal #2.",
+          "text": "FERC six-RTO large-load reform: MISO tariff filing deadline tomorrow — see Top Signal #1.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Texas ERCOT audit: BNEF cost quantification — see Top Signal #3. Completion still targeted ~December 10, 2026.",
+          "text": "Germany EnEfG: PUE relaxation detail — see Top Signal #2. Bundestag/Bundesrat passage still expected autumn 2026; the >23.6 GWh/>1 MW reporting-threshold question flagged August 28 remains unreconciled against the 500 kW installed-IT-power threshold from the June 24 cabinet draft.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Project Jupiter (NM): NMED/State Engineer Supreme Court response due September 2 (see AI Data Center Deployments above).",
+          "text": "Texas ERCOT audit: Unchanged — still targeting ~December 10, 2026 completion. Confirmed scope (queue ~474 GW, ~90% data centers; ~300 projects ≥75 MW in the Batch Zero audit; separate community-impact review for projects ≥25 MW) matches what's already on file; no new dated development.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Germany EnEfG: No new development since August 27–28; still awaiting autumn Bundestag/Bundesrat passage. The narrower reporting-threshold detail flagged August 28 (>23.6 GWh total final energy consumption / >1 MW nominal total energy input) remains unreconciled against the 500 kW installed-IT-power threshold from the June 24 cabinet draft — carried forward as an open item, not yet resolved.",
+          "text": "Project Jupiter (NM): Supreme Court response due September 2 (see AI Data Center Deployments above).",
           "url": "",
           "sources": []
         },
         {
-          "text": "US tax credits (45V, 48E) unchanged.",
+          "text": "US tax credits (45V, 48E): unchanged.",
           "url": "",
           "sources": []
         }
@@ -90,22 +85,17 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Rolls-Royce SMR (background, not a dated development): the UK Generic Design Assessment's Step 3 was originally scoped as a 53-month process, which lands its expected completion — and a possible Design Acceptance Confirmation — around now (August 2026). No DAC has been confirmed granted as of today; worth a dedicated check in the next few digests given the timing.",
+          "text": "Rolls-Royce SMR: Step 3 (Detailed Assessment) is still targeted for completion \"in August 2026\" per Rolls-Royce SMR's own published timeline. No Design Acceptance Confirmation/Statement of Design Acceptability found granted as of today — continuing to watch given the timing flagged August 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Gas turbines: GE Vernova (116 GW backlog as of Q2, targeting 125 GW by year-end — of which only 53 GW is firm equipment backlog and 63 GW is slot reservations) and Siemens Energy (69 GW, lead times ~3 years) both unchanged since late-July/Q2 reporting. Included today only because the firm-vs-reservation split (53/63 GW) hadn't been carried in this digest before; it matters because slot reservations can lapse, unlike firm SOFC orders.",
+          "text": "NuScale Power: No PPA signed as of today. The \"could change everything\" TVA-deal speculation flagged August 28 remains unconfirmed; commentary now points to a subsequent earnings call rather than an imminent signing.",
           "url": "",
           "sources": []
         },
         {
-          "text": "NuScale Power: Motley Fool (August 28) reports a possible imminent PPA described as one that \"could change everything\" for the SMR industry — unconfirmed and speculative, no signed deal found. Watching for confirmation.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "No new dated developments on grid-scale batteries or PEM/hydrogen competitors beyond what is already on file.",
+          "text": "Gas turbines, grid-scale batteries, PEM/hydrogen: no new dated developments beyond what is already on file.",
           "url": "",
           "sources": []
         }
@@ -115,22 +105,22 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): No new trading session — Saturday. Friday's close and the Mizuho/Clear Street analyst upgrades were already captured in the August 28 digest; not repeated here. Weekend-only item: a Motley Fool sentiment piece (\"I'm Not Selling My Bloom Energy Shares, Even After This Run,\" August 28) — investor commentary, not a new catalyst. Scandium class-action lead-plaintiff deadline (September 28) unchanged; a further law-firm solicitation (Bragar Eagel & Squire, August 27) adds no new facts to the underlying case.",
+          "text": "Bloom Energy (BE): No trading session (Sunday). Nothing new since Friday's $228.11 close on the Mizuho/Clear Street upgrades already captured August 28.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe: H1 2026 results and revised FY2026 guidance — see Top Signal #1.",
+          "text": "Topsoe: Nothing beyond Top Signal #3.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): No new news; Q3 2026 results call confirmed for September 2, 10:00 a.m. ET.",
+          "text": "FuelCell Energy (FCEL): No dated news today; Q3 2026 results call remains confirmed for September 2, 10:00 a.m. ET.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): Routine Total Voting Rights notice (August 28): 213,826,715 ordinary shares in issue, none in treasury. No news beyond the August 26 RFC Power/Certain Energy spinout already on file.",
+          "text": "Ceres Power (CWR.L): No new announcement since the August 28 Total Voting Rights notice.",
           "url": "",
           "sources": []
         }
@@ -159,27 +149,17 @@
   ],
   "lcoe": [
     {
-      "text": "Topsoe SOEC unit economics (context, not a direct technical cost input): the growing Power-to-X impairment (Top Signal #1) is corporate-financial evidence, not a technical LCOE parameter, but it corroborates this digest's standing assumption that Topsoe's SOFC/SOEC data-center pathway is not commercially active before 2029.",
+      "text": "Germany PUE relaxation (✎ indirect input, not a technical cost figure): a looser regulatory PUE ceiling (see Top Signal #2) marginally narrows the efficiency-driven case for behind-the-meter SOFC-CHP in Germany relative to standard grid-tied cooling/IT infrastructure, since the compliance floor is being lowered rather than raised. Directional only — no €/kWh or capex figure attached.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Texas delay-cost-per-GW (✎ my calculation from BNEF's two named scenarios, not primary-sourced): roughly $268M/GW (partial case: $8B ÷ 29.9 GW at 60% AI-related) to $301M/GW (full-delay case: $15B ÷ 49.8 GW) — a rough order-of-magnitude for what a multi-quarter interconnection delay costs per GW of stranded Texas data-center capacity, usable as a comparison point against behind-the-meter SOFC's speed-to-power value proposition specifically in ERCOT.",
+      "text": "Gas price case (✓ unchanged, EIA STEO): confirmed unchanged — $3.44/MMBtu 2026 average, $3.03/MMBtu average for the remaining five months of 2026. Next STEO due mid-to-late September; no update expected before then.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Gas price case (✓ cross-checked directly against EIA's own August STEO page plus two independent trade-press summaries): confirmed unchanged — $3.44/MMBtu 2026 average, $2.87/MMBtu Q3 2026, $3.03/MMBtu remaining five months of 2026. Note for the record: one AI-generated web-search summary today asserted $3.91/MMBtu for Q3 2026; a direct fetch of eia.gov and three independent trade-press recaps of the same August STEO all report $2.87/MMBtu, so the $3.91 figure was a search-summary artifact and has been discarded rather than carried forward. Next STEO due mid-to-late September.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "EU power price backdrop (background, direction unchanged): German day-ahead power was ~€141/MWh as of August 24, having spiked above €300/MWh during the August 12 heat-wave-plus-solar-eclipse event — consistent with the elevated, gas-set European price environment this digest's EU SOFC-CHP cases have assumed. Not a new datapoint, included for continuity.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending carry-forward: MISO tariff filing (imminent, within days), PJM Expedited Interconnection Track confirmation, PJM Reliability Backstop Procurement bid window (September 30–October 21), FERC RM26-4 comment window (~September 16), intervenor-comment windows on all six RTOs' show-cause filings (~September 16), NMED/State Engineer Project Jupiter Supreme Court response (September 2), Bloom 10-Q (September 11), Bloom scandium class-action lead-plaintiff deadline (September 28), FCEL Q3 call (September 2), Ceres H1 2026 results (September, unconfirmed date), Bloom Q3 2026 earnings (October 27), Rolls-Royce SMR GDA DAC (expected within weeks per the 53-month/August 2026 timeline, not yet confirmed), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit completion (~December 10, 2026).",
+      "text": "Pending carry-forward: MISO tariff filing (due August 31), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit completion (~December 10, 2026), Project Jupiter NMED/State Engineer Supreme Court response (September 2), FCEL Q3 call (September 2), Bloom 10-Q (September 11), Ceres H1 2026 results (September, date unconfirmed), Bloom scandium class-action lead-plaintiff deadline (September 28), Rolls-Royce SMR GDA DAC (expected within weeks per the August 2026 target, not yet confirmed), Bloom Q3 2026 earnings (October 27).",
       "url": "",
       "sources": []
     }
