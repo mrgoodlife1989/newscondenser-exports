@@ -1,21 +1,21 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "topSignals": [
     {
-      "title": "MISO's FERC large-load tariff filing deadline is tomorrow (August 31) — no filing found yet as of this weekend check.",
-      "text": "MISO committed to file its Large Load Interconnection Reliability Requirements Tariff with FERC before end of August 2026, responding to the June 18 six-RTO show-cause order; a fuller response is due November 16. Neither MISO's own site nor trade coverage shows a filing yet — the first real test (flagged here August 28–29) of whether the reform converts into an actual tariff change lands within 24 hours of this digest. MISO Large Load Interconnection | Akin Gump",
+      "title": "MISO's self-committed deadline to file its large-load interconnection tariff with FERC is today — no filing confirmed as of this check, for the second day running.",
+      "text": "MISO told stakeholders it would file the Large Load Interconnection Reliability Requirements Tariff with FERC \"before end of August 2026,\" responding to the June 18 six-RTO show-cause order (the earlier 60-day justification deadline was August 17; the substantive tariff-revision filing is the one due today). No ER26-docket filing or MISO press confirmation found yet — carries over unresolved into September. MISO Large Load Interconnection | Akin Gump",
       "url": "https://www.misoenergy.org/planning/large-loads---container-page/large-load-additions/",
       "n": 1
     },
     {
-      "title": "Germany's EnEfG reform loosens the PUE bar for new data centers rather than tightening it — a detail not previously carried in this digest.",
-      "text": "Current law requires PUE ≤1.2 for data centers commissioned from July 1, 2026; the cabinet-adopted amendment (draft April 9, cabinet decision June 24) relaxes this to ≤1.3, and for existing centers raises the planned 2027/2030 ceilings from 1.5/1.3 to 1.6/1.4. Still pending Bundestag/Bundesrat passage this autumn — a proposal, not yet law — but worth flagging as background for any German SOFC-CHP siting case, since it slightly lowers the regulatory floor that on-site efficiency gains compete against. cloudmagazin | cms.law",
-      "url": "https://www.cloudmagazin.com/2026/07/06/enefg-novelle-rechenzentren-pflichten-gelockert/",
+      "title": "NuScale's much-discussed TVA mega-deal is a financing structure, not a NuScale-owned fleet — a distinction not previously spelled out in this digest.",
+      "text": "Reporting on the up-to-6-8 GW NuScale/TVA/Entra1 SMR program (still a non-binding September 2025 MOU, PPA not yet signed) clarifies that Entra1 Energy — not NuScale — would finance and own the reactors, selling output to TVA under future PPAs; NuScale's role is technology licensing/supply. Relevant for comparing SOFC's simpler owner-operator or PPA models against SMR's more complex financing stack when the two compete for the same data-center load. Motley Fool | Inside Climate News",
+      "url": "https://www.fool.com/investing/2026/08/28/nuscale-wouldn-t-own-a-reactor-in-the-deal-driving-its-stock/",
       "n": 2
     },
     {
-      "title": "Priority-stack check: both Elcogen and Topsoe confirmed quiet over the weekend.",
-      "text": "Elcogen's newsroom shows no post since June 30 (E3000 G2 remains in volume production at ELCO I Tallinn, 360 MW/yr). Topsoe's press room shows nothing beyond the August 27 H1 2026 financial disclosure already covered in this digest — no new SOFC/SOEC product, factory, or partnership news. Elcogen News | Topsoe News",
+      "title": "Priority-stack check: Elcogen and Topsoe both confirmed quiet for a second straight day.",
+      "text": "Elcogen's newsroom shows nothing since the August 3 Insight piece (interview on manufacturing-style scaling); ELCO I Tallinn remains in volume production at 360 MW/yr. Topsoe's press room shows nothing beyond the already-logged August 27 H1 2026 results (Company Announcements 10/2026 and 11/2026). No new SOFC/SOEC product, factory, partnership, or funding news from either priority stack. Elcogen News | Topsoe News",
       "url": "https://elcogen.com/category/news/",
       "n": 3
     }
@@ -35,7 +35,7 @@
           "sources": []
         },
         {
-          "text": "Other players: No new stack/cell-level announcements from Bloom, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, Sunfire, or Convion in the last 24–48h.",
+          "text": "Other players: No new stack/cell-level announcements found today from Bloom, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, Sunfire, or Convion. Background check on SolydEra/Convion and Mitsubishi/Kyocera turned up only pre-existing partnerships (SolydEra-Convion 2023 tie-up) and market-report boilerplate — nothing dated to the last 24–48h.",
           "url": "",
           "sources": []
         }
@@ -55,22 +55,22 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "FERC six-RTO large-load reform: MISO tariff filing deadline tomorrow — see Top Signal #1.",
+          "text": "MISO large-load tariff filing: Deadline is today — see Top Signal #1.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Germany EnEfG: PUE relaxation detail — see Top Signal #2. Bundestag/Bundesrat passage still expected autumn 2026; the >23.6 GWh/>1 MW reporting-threshold question flagged August 28 remains unreconciled against the 500 kW installed-IT-power threshold from the June 24 cabinet draft.",
+          "text": "Germany EnEfG: PUE-relaxation detail from August 30 stands; Bundestag/Bundesrat passage still expected this autumn, and the reporting-threshold question (>23.6 GWh/>1 MW vs. 500 kW installed-IT-power) remains unreconciled.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Texas ERCOT audit: Unchanged — still targeting ~December 10, 2026 completion. Confirmed scope (queue ~474 GW, ~90% data centers; ~300 projects ≥75 MW in the Batch Zero audit; separate community-impact review for projects ≥25 MW) matches what's already on file; no new dated development.",
+          "text": "Texas ERCOT audit: Unchanged, still targeting ~December 10, 2026 completion.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Project Jupiter (NM): Supreme Court response due September 2 (see AI Data Center Deployments above).",
+          "text": "Project Jupiter (NM): Supreme Court response due September 2 — see AI Data Center Deployments above.",
           "url": "",
           "sources": []
         },
@@ -85,17 +85,27 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Rolls-Royce SMR: Step 3 (Detailed Assessment) is still targeted for completion \"in August 2026\" per Rolls-Royce SMR's own published timeline. No Design Acceptance Confirmation/Statement of Design Acceptability found granted as of today — continuing to watch given the timing flagged August 27.",
+          "text": "SMR reality check (Inside Climate News, Aug 30): As of August 2026, zero SMRs are commercially deployed in the US; of 22 designs under development (per Third Way), only two — both NuScale's — hold NRC design approval. Texas Gov. Abbott's early-August pause on new data-center approvals (cited as a lack of energy and water) prompted NuScale's CEO to pitch SMRs as the fix the next day on its Q2 call — illustrates SMR vendors positioning against the same grid/water bottlenecks SOFC already addresses on a 90-day deployment timeline. Inside Climate News",
+          "url": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/",
+          "sources": [
+            {
+              "title": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/"
+            }
+          ]
+        },
+        {
+          "text": "NuScale/TVA/Entra1 ownership structure: See Top Signal #2 — financing complexity (three-party structure, non-binding MOU, no signed PPA) versus SOFC's simpler on-balance-sheet or PPA-direct models.",
           "url": "",
           "sources": []
         },
         {
-          "text": "NuScale Power: No PPA signed as of today. The \"could change everything\" TVA-deal speculation flagged August 28 remains unconfirmed; commentary now points to a subsequent earnings call rather than an imminent signing.",
+          "text": "Rolls-Royce SMR GDA: Still targeting \"August 2026\" completion per its own published Step-3 timeline; no Design Acceptance Confirmation/Statement of Design Acceptability found granted as of today. Given the month ends today, this is now the item to watch first in September.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Gas turbines, grid-scale batteries, PEM/hydrogen: no new dated developments beyond what is already on file.",
+          "text": "Gas turbines, grid-scale batteries, PEM/hydrogen: no new dated developments.",
           "url": "",
           "sources": []
         }
@@ -105,22 +115,27 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): No trading session (Sunday). Nothing new since Friday's $228.11 close on the Mizuho/Clear Street upgrades already captured August 28.",
+          "text": "Bloom Energy (BE): No new trading session data beyond Friday August 28's close ($228.11, per the August 28 digest entry, following the Mizuho/Clear Street upgrades). Recent range this month: ~$157 low to ~$248 high. No new catalyst identified today.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe: Nothing beyond Top Signal #3.",
+          "text": "FuelCell Energy (FCEL): Q3 FY2026 results call remains confirmed for September 2, 10:00 a.m. ET — nothing new today.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): No dated news today; Q3 2026 results call remains confirmed for September 2, 10:00 a.m. ET.",
-          "url": "",
-          "sources": []
+          "text": "Ceres Power (CWR.L): Share price 410.12p as of August 28 (+1.56% that session); its subsidiary RFC Power (manganese flow battery, long-duration storage) closed a £10M Series A on August 26 with British Business Bank, Centrica, Ceres, and Temasek Trust participating — reduces Ceres' RFC Power stake to ~37%. Diversification move, not core SOFC news, but relevant to Ceres' capital allocation. Investing.com",
+          "url": "https://www.investing.com/news/company-news/ceres-power-spins-out-battery-unit-retains-37-stake-93CH-4876542",
+          "sources": [
+            {
+              "title": "Investing.com",
+              "url": "https://www.investing.com/news/company-news/ceres-power-spins-out-battery-unit-retains-37-stake-93CH-4876542"
+            }
+          ]
         },
         {
-          "text": "Ceres Power (CWR.L): No new announcement since the August 28 Total Voting Rights notice.",
+          "text": "Topsoe: Nothing beyond the already-logged August 27 H1 2026 results.",
           "url": "",
           "sources": []
         }
@@ -149,17 +164,12 @@
   ],
   "lcoe": [
     {
-      "text": "Germany PUE relaxation (✎ indirect input, not a technical cost figure): a looser regulatory PUE ceiling (see Top Signal #2) marginally narrows the efficiency-driven case for behind-the-meter SOFC-CHP in Germany relative to standard grid-tied cooling/IT infrastructure, since the compliance floor is being lowered rather than raised. Directional only — no €/kWh or capex figure attached.",
+      "text": "No new capex/opex/efficiency figures today. The Nature Communications modular-SOFC LCOE figure ($0.155/kWh, hybrid series-parallel design, four-scale-up-strategy comparison) noted above is ✎ background-only for this digest — it predates the window and needs cross-checking against whether it's already in [[inocel-systemparameter-rechner]] or the LCOE model before use, not treated as a new input here.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Gas price case (✓ unchanged, EIA STEO): confirmed unchanged — $3.44/MMBtu 2026 average, $3.03/MMBtu average for the remaining five months of 2026. Next STEO due mid-to-late September; no update expected before then.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending carry-forward: MISO tariff filing (due August 31), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit completion (~December 10, 2026), Project Jupiter NMED/State Engineer Supreme Court response (September 2), FCEL Q3 call (September 2), Bloom 10-Q (September 11), Ceres H1 2026 results (September, date unconfirmed), Bloom scandium class-action lead-plaintiff deadline (September 28), Rolls-Royce SMR GDA DAC (expected within weeks per the August 2026 target, not yet confirmed), Bloom Q3 2026 earnings (October 27).",
+      "text": "Pending carry-forward: MISO tariff filing (due today, unfiled as of this check), Rolls-Royce SMR GDA completion (self-set for \"August 2026,\" unconfirmed as of today), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit completion (~December 10, 2026), Project Jupiter NMED/State Engineer Supreme Court response (September 2), FCEL Q3 call (September 2), Bloom 10-Q (September 11), Ceres H1 2026 results (September, date unconfirmed), Bloom scandium class-action lead-plaintiff deadline (September 28), Bloom Q3 2026 earnings (October 27).",
       "url": "",
       "sources": []
     }
