@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-27",
+    "title": "Beating Beta — 2026-08-31",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-27",
+      "title": "Markets Snapshot — 2026-08-31",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.675,70 · Nasdaq 29.224,52 · VIX 15,21 · 10Y 4,66% · Gold $4.684,00 · Oil $81,54 · BTC $78.718,28 · F&G N/A",
-      "quick_take": "S&P 500: 7.675,70\nNasdaq: 29.224,52\nVIX: 15,21 · 10Y: 4,66%\nGold: $4.684,00 · Oil: $81,54\nBitcoin: $78.718,28\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.711,76 · Nasdaq 29.433,43 · VIX 14,43 · 10Y 4,72% · Gold $4.450,20 · Oil $85,40 · BTC $77.477,16 · F&G N/A",
+      "quick_take": "S&P 500: 7.711,76\nNasdaq: 29.433,43\nVIX: 14,43 · 10Y: 4,72%\nGold: $4.450,20 · Oil: $85,40\nBitcoin: $77.477,16\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.675,70 · Nasdaq 29.224,52"
+          "text": "S&P 500 7.711,76 · Nasdaq 29.433,43"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,66% · VIX 15,21"
+          "text": "10Y 4,72% · VIX 14,43"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.684,00 · WTI $81,54 · BTC $78.718,28"
+          "text": "Gold $4.450,20 · WTI $85,40 · BTC $77.477,16"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "„Mein Hauptziel ist es, Menschen zu helfen\": Single, 74, mit 10 Mio. $",
-      "highlight_phrase": "„Mein Hauptziel ist es, Menschen zu helf",
-      "toc_summary": "„Mein Hauptziel ist es, Menschen zu helfen\": Single, 74, mit 10 Mio. $",
-      "quick_take": "was tun?",
+      "title": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-",
+      "highlight_phrase": "US-Futures geben nach – Chance auf Zinse",
+      "toc_summary": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-",
+      "quick_take": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-Kommentaren",
       "bullets": [
         {
           "label": "Detail",
-          "text": "was tun?"
+          "text": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-Kommentaren"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "CrowdStrike-Aktie schießt nach oben",
-      "highlight_phrase": "CrowdStrike-Aktie schießt nach oben",
-      "toc_summary": "CrowdStrike-Aktie schießt nach oben",
-      "quick_take": "KI beschert dem Cybersicherheitsunternehmen das „beste Quartal der Geschichte\" 🚀",
+      "title": "„Das ultimative Geschenk“",
+      "highlight_phrase": "„Das ultimative Geschenk“",
+      "toc_summary": "„Das ultimative Geschenk“",
+      "quick_take": "Meine Mutter schenkte mir ein Haus – soll ich es zurückübertragen, um Kapitalerträge zu sparen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "KI beschert dem Cybersicherheitsunternehmen das „beste Quartal der Geschichte\" 🚀"
+          "text": "Meine Mutter schenkte mir ein Haus – soll ich es zurückübertragen, um Kapitalerträge zu sparen?"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Fed-Gouverneurin Lisa Cook bestreitet Hypothekenbetrug",
-      "highlight_phrase": "Fed-Gouverneurin Lisa Cook bestreitet Hy",
-      "toc_summary": "Fed-Gouverneurin Lisa Cook bestreitet Hypothekenbetrug",
-      "quick_take": "Trump habe keine Grundlage für ihre Absetzung",
+      "title": "„Mein Hauptziel ist es, Menschen zu helfen“",
+      "highlight_phrase": "„Mein Hauptziel ist es, Menschen zu helf",
+      "toc_summary": "„Mein Hauptziel ist es, Menschen zu helfen“",
+      "quick_take": "Ich bin 74, Single und habe 10 Mio. $ – was soll ich tun?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Trump habe keine Grundlage für ihre Absetzung"
+          "text": "Ich bin 74, Single und habe 10 Mio. $ – was soll ich tun?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Salesforce-Aktie profitiert von Anthropic-Partnerschaft",
-      "highlight_phrase": "Salesforce-Aktie profitiert von Anthropi",
-      "toc_summary": "Salesforce-Aktie profitiert von Anthropic-Partnerschaft",
-      "quick_take": "weitere Earnings-Highlights",
+      "title": "„Ich fühle mich eingeengt“",
+      "highlight_phrase": "„Ich fühle mich eingeengt“",
+      "toc_summary": "„Ich fühle mich eingeengt“",
+      "quick_take": "Mein Vater finanzierte meine 800.000 $-Roth IRA – darf er bestimmen, wie ich investiere?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "weitere Earnings-Highlights"
+          "text": "Mein Vater finanzierte meine 800.000 $-Roth IRA – darf er bestimmen, wie ich investiere?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Die größten After-Hours-Bewegungen",
-      "highlight_phrase": "Die größten After-Hours-Bewegungen",
-      "toc_summary": "Die größten After-Hours-Bewegungen",
-      "quick_take": "Nvidia, Salesforce, CrowdStrike, Urban Outfitters u. a.",
+      "title": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konze",
+      "highlight_phrase": "Analysten mögen diesen Humanoid-Zuliefer",
+      "toc_summary": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konze",
+      "quick_take": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konzepte bleiben",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Nvidia, Salesforce, CrowdStrike, Urban Outfitters u. a."
+          "text": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konzepte bleiben"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Die größten Mittagsbewegungen",
-      "highlight_phrase": "Die größten Mittagsbewegungen",
-      "toc_summary": "Die größten Mittagsbewegungen",
-      "quick_take": "Meta, Abercrombie & Fitch, Zoom, Intuit u. a.",
+      "title": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren",
+      "highlight_phrase": "Mais- und Weizenpreise springen auf höch",
+      "toc_summary": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren",
+      "quick_take": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Meta, Abercrombie & Fitch, Zoom, Intuit u. a."
+          "text": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren"
         }
       ],
       "callout": null,
