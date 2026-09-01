@@ -1,55 +1,22 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-08-31",
+    "title": "Beating Beta — 2026-09-01",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "02",
-      "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-08-31",
-      "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.711,76 · Nasdaq 29.433,43 · VIX 14,43 · 10Y 4,72% · Gold $4.450,20 · Oil $85,40 · BTC $77.477,16 · F&G N/A",
-      "quick_take": "S&P 500: 7.711,76\nNasdaq: 29.433,43\nVIX: 14,43 · 10Y: 4,72%\nGold: $4.450,20 · Oil: $85,40\nBitcoin: $77.477,16\nFear & Greed: N/A",
-      "bullets": [
-        {
-          "label": "Equities",
-          "text": "S&P 500 7.711,76 · Nasdaq 29.433,43"
-        },
-        {
-          "label": "Rates & Vol",
-          "text": "10Y 4,72% · VIX 14,43"
-        },
-        {
-          "label": "Commodities & Crypto",
-          "text": "Gold $4.450,20 · WTI $85,40 · BTC $77.477,16"
-        },
-        {
-          "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Yahoo Finance · Bloomberg · CNBC",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-",
-      "highlight_phrase": "US-Futures geben nach – Chance auf Zinse",
-      "toc_summary": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-",
-      "quick_take": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-Kommentaren",
+      "title": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliarden",
+      "highlight_phrase": "Amazon-Aktie rutscht ab, nachdem die FTC",
+      "toc_summary": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliarden",
+      "quick_take": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliardenhoehe vorwirft.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "US-Futures geben nach – Chance auf Zinserhöhung steigt nach Warshs Jackson-Hole-Kommentaren"
+          "text": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliardenhoehe vorwirft."
         }
       ],
       "callout": null,
@@ -63,14 +30,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "„Das ultimative Geschenk“",
-      "highlight_phrase": "„Das ultimative Geschenk“",
-      "toc_summary": "„Das ultimative Geschenk“",
-      "quick_take": "Meine Mutter schenkte mir ein Haus – soll ich es zurückübertragen, um Kapitalerträge zu sparen?",
+      "title": "\"Ich lasse Geld liegen\"",
+      "highlight_phrase": "\"Ich lasse Geld liegen\"",
+      "toc_summary": "\"Ich lasse Geld liegen\"",
+      "quick_take": "Soll ich mit 64 frueher Rentenleistungen nehmen oder warten? Finanzberatung fuer Ehepaare.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Meine Mutter schenkte mir ein Haus – soll ich es zurückübertragen, um Kapitalerträge zu sparen?"
+          "text": "Soll ich mit 64 frueher Rentenleistungen nehmen oder warten? Finanzberatung fuer Ehepaare."
         }
       ],
       "callout": null,
@@ -84,14 +51,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "„Mein Hauptziel ist es, Menschen zu helfen“",
-      "highlight_phrase": "„Mein Hauptziel ist es, Menschen zu helf",
-      "toc_summary": "„Mein Hauptziel ist es, Menschen zu helfen“",
-      "quick_take": "Ich bin 74, Single und habe 10 Mio. $ – was soll ich tun?",
+      "title": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein ko",
+      "highlight_phrase": "Der S&P 500 faellt normalerweise im Sept",
+      "toc_summary": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein ko",
+      "quick_take": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein koennte.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich bin 74, Single und habe 10 Mio. $ – was soll ich tun?"
+          "text": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein koennte."
         }
       ],
       "callout": null,
@@ -105,14 +72,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "„Ich fühle mich eingeengt“",
-      "highlight_phrase": "„Ich fühle mich eingeengt“",
-      "toc_summary": "„Ich fühle mich eingeengt“",
-      "quick_take": "Mein Vater finanzierte meine 800.000 $-Roth IRA – darf er bestimmen, wie ich investiere?",
+      "title": "\"Wir haben nie studiert\"",
+      "highlight_phrase": "\"Wir haben nie studiert\"",
+      "toc_summary": "\"Wir haben nie studiert\"",
+      "quick_take": "Wie koennen wir mit 62 das College-Studium unserer Enkelin finanzieren?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mein Vater finanzierte meine 800.000 $-Roth IRA – darf er bestimmen, wie ich investiere?"
+          "text": "Wie koennen wir mit 62 das College-Studium unserer Enkelin finanzieren?"
         }
       ],
       "callout": null,
@@ -126,14 +93,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konze",
-      "highlight_phrase": "Analysten mögen diesen Humanoid-Zuliefer",
-      "toc_summary": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konze",
-      "quick_take": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konzepte bleiben",
+      "title": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht al",
+      "highlight_phrase": "Maerkte sehen Warsh als Befuerworter ein",
+      "toc_summary": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht al",
+      "quick_take": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht alle sind ueberzeugt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Analysten mögen diesen Humanoid-Zulieferer – auch wenn die Roboter vorerst Konzepte bleiben"
+          "text": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht alle sind ueberzeugt."
         }
       ],
       "callout": null,
@@ -147,14 +114,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren",
-      "highlight_phrase": "Mais- und Weizenpreise springen auf höch",
-      "toc_summary": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren",
-      "quick_take": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren",
+      "title": "Groesste Aktienbewegungen am Mittag",
+      "highlight_phrase": "Groesste Aktienbewegungen am Mittag",
+      "toc_summary": "Groesste Aktienbewegungen am Mittag",
+      "quick_take": "PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Mais- und Weizenpreise springen auf höchstes Niveau seit über drei Jahren"
+          "text": "PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & mehr."
         }
       ],
       "callout": null,
