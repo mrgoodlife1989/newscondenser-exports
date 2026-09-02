@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "topSignals": [
     {
-      "title": "Bloom Energy's August slide looks like a rate/valuation event, not a demand event.",
-      "text": "BE fell roughly 13.5% over the week of Aug 21–28 (closing around $217–228, still down ~38% from its ~$351 52-week high) despite a Q2 beat (revenue $1.065B, +165% YoY, guidance raised to $3.9–4.2B) and a rising 10-year Treasury yield — but FuelCell Energy barely moved over the same stretch. Analysts read the divergence as investors questioning Bloom's ~240x trailing-earnings valuation, not the underlying AI-datacenter fuel-cell demand story. Benzinga | 247wallst | BigGo Finance",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/60948348/bloom-energy-stock-edges-lower-wednesday-whats-driving-the-move",
+      "title": "FuelCell Energy's Q3 FY2026 results were due today before market open, with a 10:00 a.m. ET call — but confirmed figures were not yet indexed as of this digest.",
+      "text": "Analysts had modeled a 16.3% YoY revenue decline; the prior quarter (Q2 FY2026, ended April 30) showed revenue of $35.6M, backlog down 9.9% YoY to $1.14B, and sales pipeline up 267% QoQ to 4 GW. Search results returned only the pre-announcement scheduling notice, not the released numbers — treat any Q3 figures seen elsewhere today as unconfirmed until cross-checked against the actual 8-K/press release tomorrow. GlobeNewswire (schedule)",
+      "url": "https://www.globenewswire.com/news-release/2026/08/25/3350334/8041/en/fuelcell-energy-announces-third-quarter-2026-results-conference-call-on-september-2-2026-at-10-00-a-m-eastern-time.html",
       "n": 1
     },
     {
-      "title": "Project Jupiter: the stayed hearing was set for Sept. 14 in Sunland Park, and the contested hearing officer has already recused himself.",
-      "text": "New detail clarifying the Aug 23–24 NM Supreme Court stay logged previously: the NMED air-quality permit hearing for Bloom's 2.45 GW fuel-cell system was scheduled to start Sept. 14, hearing officer Max Shepherd withdrew Aug 24, and NMED is publishing its draft administrative record online in the meantime. All parties (NMED, State Engineer) must respond to the stay by tomorrow, Sept. 2. Source NM",
+      "title": "Project Jupiter: all parties' responses to the NM Supreme Court stay are due today, Sept. 2.",
+      "text": "The Aug. 23–24 stay paused both the NMED air-quality permit hearing (which had been moved to Sept. 14) and an emergency well-water authorization for Bloom's 2.45 GW fuel-cell system at the Oracle/OpenAI data-center campus in Doña Ana County. NMED and the State Engineer must respond today; no ruling found yet as of this check. Source NM",
       "url": "https://sourcenm.com/2026/08/24/nm-supreme-court-temporarily-halt-project-jupiter-air-quality-permit-hearing/",
       "n": 2
     },
     {
-      "title": "Priority-stack check: Elcogen and Topsoe both confirmed quiet for a third straight day; MISO's self-set Aug 31 tariff-filing deadline has now passed with no confirmed FERC filing.",
-      "text": "Elcogen's newsroom shows nothing since the Aug 24 Paris MoU/China-Europe recognition; Topsoe's press room shows nothing beyond the already-logged Aug 27 H1 2026 results. Separately, MISO had said it would file its Large Load Interconnection Reliability Requirements Tariff with FERC \"before end of August\" — no ER26-docket filing or MISO confirmation found as of this check, so the item carries over into September unresolved. Elcogen News | Topsoe News | MISO Large Load Interconnection",
+      "title": "Priority-stack check: Elcogen and Topsoe are quiet for a fourth straight day; MISO's self-set Aug 31 large-load tariff filing deadline is now overdue with no confirmed FERC docket entry.",
+      "text": "Elcogen's newsroom shows nothing since the Aug 24 Paris MoU; Topsoe's press room shows nothing beyond the already-logged Aug 27 H1 2026 results and the (now months-old) Herning SOEC hibernation. MISO said it would file its Large Load Interconnection Reliability Requirements Tariff \"before end of August\" — still no ER26-docket filing found; the full show-cause response to FERC remains due Nov 16, 2026. Elcogen News | Topsoe News | MISO Large Load Interconnection",
       "url": "https://elcogen.com/category/news/",
       "n": 3
     }
@@ -25,17 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet — see Top Signal #3. No news beyond the already-logged Aug 24 Paris MoU.",
+          "text": "Elcogen (priority): Quiet — see Top Signal #3. No news beyond the already-logged Aug 24 Paris MoU/China-Europe recognition.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): Quiet — see Top Signal #3. No news beyond the already-logged Aug 27 H1 2026 results.",
+          "text": "Topsoe (priority): Quiet — see Top Signal #3. No news beyond the already-logged Aug 27 H1 2026 results; Herning SOEC hibernation (440 jobs, 500 MW/yr) and CEO Elena Scaltritti (since June 1) remain unchanged background.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other players: No new stack/cell announcements found today from Bloom, FuelCell Energy, Ceres Power, SolydEra, Mitsubishi Power, Kyocera, Aisin, Sunfire, or Convion.",
+          "text": "Other players: No new stack/cell announcements found today from Bloom, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
           "url": "",
           "sources": []
         }
@@ -45,12 +45,12 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Jupiter (Oracle/OpenAI, NM): See Top Signal #2 — hearing-officer recusal and Sept. 14 hearing date now confirmed as background; Supreme Court response deadline is tomorrow, Sept. 2.",
+          "text": "Project Jupiter (Oracle/OpenAI, NM): See Top Signal #2 — Supreme Court response deadline today.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Standing pipeline unchanged: Bloom-AEP 1 GW, Bloom-Brookfield $25B framework, Bloom-Nebius, Bloom-Equinix >100 MW/19 sites, FCEL-Fit Energy up to 380 MW, Ceres-Weichai China licence, FCEL-SDCL up to 450 MW.",
+          "text": "Standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B), Bloom-Brookfield $5B partnership, Bloom-Nebius, Bloom-Equinix >100 MW/19 sites, FCEL-Fit Energy up to 380 MW, Ceres-Centrica UK/Europe multi-GW pipeline, FCEL-SDCL up to 450 MW.",
           "url": "",
           "sources": []
         }
@@ -60,22 +60,27 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "MISO large-load tariff filing: Self-set deadline (Aug 31) has passed with no confirmed filing — see Top Signal #3. Full show-cause response to FERC still due Nov 16, 2026.",
+          "text": "MISO large-load tariff filing: Self-set Aug 31 deadline now overdue with no confirmed filing — see Top Signal #3. Full show-cause response to FERC still due Nov 16, 2026.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Project Jupiter (NM): Supreme Court response due Sept. 2 — see Top Signal #2.",
+          "text": "Project Jupiter (NM): Supreme Court response due today — see Top Signal #2.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Germany EnEfG: Unchanged — PUE ≤1.2 for new data centers from July 2026, waste-heat reuse ramp (10%→15%→20%), 100% renewable electricity from Jan 2027; Bundestag/Bundesrat passage still expected this autumn.",
+          "text": "Germany EnEfG: Unchanged. A June 24, 2026 draft act to accelerate transposition of the EU Energy Efficiency Directive would scale back some national EnEfG requirements to the EU minimum, but Bundestag/Bundesrat passage is still pending this autumn — worth re-checking once a floor vote is scheduled, since it could soften the PUE ≤1.2/waste-heat-reuse targets already in the LCOE assumptions.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Texas ERCOT audit, US tax credits (45V, 48E): unchanged.",
+          "text": "Rolls-Royce SMR UK Generic Design Assessment: self-set \"August 2026\" completion target has now passed with still no confirmed grant found — carries into a second week unresolved.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Texas ERCOT audit, US ITC 45V/48E, Virginia data-center legislation: unchanged.",
           "url": "",
           "sources": []
         }
@@ -85,31 +90,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Bloom vs. FCEL selloff divergence: See Top Signal #1 — read by analysts as a valuation/rate story rather than a competitive or demand-side signal against fuel cells.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Gas turbine supply crunch (background, GE Vernova Q2 call): Heavy-duty gas turbine orders placed today won't deliver until 2031; GE Vernova's gas-power backlog reached 116 GW in Q2 2026 (target ≥125 GW by year-end), with roughly 20% tied to data centers; Siemens Energy said 60–65% of its 14 GW YTD gas-turbine orders came from data centers. This backlog is the core argument for SOFC's faster deployment timeline versus CCGT. Yahoo/OilPrice | Enverus",
-          "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.amp.html",
-          "sources": [
-            {
-              "title": "Yahoo/OilPrice",
-              "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.amp.html"
-            },
-            {
-              "title": "Enverus",
-              "url": "https://www.enverus.com/blog/the-queue-before-the-queue-gevs-backlog-extends-to-2031/"
-            }
-          ]
-        },
-        {
-          "text": "Rolls-Royce SMR GDA: Self-set \"August 2026\" completion target for the UK Generic Design Assessment (Design Acceptance Confirmation from ONR / Statement of Design Acceptability from EA) has passed with no confirmed grant found — first item to watch in September, alongside the MISO filing.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "No new SMR/nuclear data-center deals dated to the last 24–48h (NuScale/TVA/Entra1 financing-structure clarification already logged Aug 31).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -119,24 +100,14 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Trading ~$217–228 as of late August (-38% from ~$351 52-wk high, still +125% YTD). See Top Signal #1 for the valuation/rate narrative. Securities-fraud lawsuit lead-plaintiff deadline reminder: Sept. 28, 2026 (unchanged, background only). GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/08/31/3353633/34548/en/deadline-alert-bloom-energy-corporation-be-shareholders-who-lost-money-urged-to-contact-glancy-prongay-wolke-rotter-llp-about-securities-fraud-lawsuit.html",
-          "sources": [
-            {
-              "title": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/08/31/3353633/34548/en/deadline-alert-bloom-energy-corporation-be-shareholders-who-lost-money-urged-to-contact-glancy-prongay-wolke-rotter-llp-about-securities-fraud-lawsuit.html"
-            }
-          ]
+          "text": "FuelCell Energy (FCEL): Q3 FY2026 results and call held today — see Top Signal #1. Confirmed figures not available in search as of this digest; follow up tomorrow for backlog, cash runway, and data-center pipeline commentary.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): Q3 FY2026 results confirmed for tomorrow, Sept. 2, before market open, with a 10:00 a.m. ET call — first hard data point on backlog/orders since the Q2 report (backlog $1.14B, down ~9.9% YoY) referenced in earlier digests. GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350334/8041/en/fuelcell-energy-announces-third-quarter-2026-results-conference-call-on-september-2-2026-at-10-00-a-m-eastern-time.html",
-          "sources": [
-            {
-              "title": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/08/25/3350334/8041/en/fuelcell-energy-announces-third-quarter-2026-results-conference-call-on-september-2-2026-at-10-00-a-m-eastern-time.html"
-            }
-          ]
+          "text": "Bloom Energy (BE): Trading in the $200–206 range as of Sept 1 (still +125%+ YTD, down from the ~$351 52-week high). Securities-fraud lead-plaintiff deadline reminder: Sept. 28, 2026 (unchanged, background only). Next scheduled catalyst: 10-Q on Sept 11.",
+          "url": "",
+          "sources": []
         },
         {
           "text": "Topsoe: Nothing beyond the already-logged Aug 27 H1 2026 results.",
@@ -164,50 +135,26 @@
       "title": "Scientific Papers — SOFC Systems",
       "items": [
         {
-          "text": "\"A review on system configurations and integration strategies of solid oxide fuel cell-based combined energy systems\" — Applied Thermal Engineering, Vol. 302 (2026 issue). System-level review of SOFC stack/off-gas/BOP configurations for combined-energy-system integration. Publication date within the volume not confirmed as September; needs a direct-source date check before treating as new. LCOE-relevant: possibly (BOP configuration cost drivers) — verify before use. ScienceDirect",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S2213138826001190",
-          "sources": [
-            {
-              "title": "ScienceDirect",
-              "url": "https://www.sciencedirect.com/science/article/abs/pii/S2213138826001190"
-            }
-          ]
-        },
-        {
-          "text": "\"Energy, exergy and economic (3E) analysis of a high-efficiency reversible solid oxide cell system integrated with thermal energy storage\" — ScienceDirect (2026, journal/date unconfirmed). System-level 3E (energy/exergy/economic) analysis of a reversible SOC system with thermal storage — directly relevant to reversible SOFC/SOEC + data-center load-following use cases. LCOE-relevant: yes — economic analysis component, needs date/journal confirmation before citing figures. ScienceDirect",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378775326016939",
-          "sources": [
-            {
-              "title": "ScienceDirect",
-              "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378775326016939"
-            }
-          ]
+          "text": "Quiet day.",
+          "url": "",
+          "sources": []
         }
       ]
     }
   ],
   "lcoe": [
     {
-      "text": "Natural gas price forecasts diverge sharply by source — not usable as-is without reconciliation: EIA's most recent published STEO figure (Sept 2025 vintage) put Henry Hub Q3 2026 at ~$4.29/MMBtu ($4.30/MMBtu annual average for 2026), while a separate EIA note from January 2026 projected ~$3.50/MMBtu for 2026, and third-party forecasters (Long Forecast) show ~$2.75–3.32/MMBtu for September 2026 specifically. ✎ Treat the $4.00–4.30/MMBtu range already in the model as the more defensible EIA-sourced figure; the sub-$3.50 forecasts are from lower-reliability sources and should not overwrite it without checking the latest STEO directly. NaturalGasIntel | Long Forecast",
+      "text": "EIA Henry Hub forecast for Q3 2026 (per the October 2025 STEO) sits at ~$3.91/MMBtu, below the $4.00–4.30/MMBtu range currently used in the model. This is an older STEO vintage (not the August 2026 edition already flagged Sept 1 as the more defensible current source), so treat this as a data point for reconciliation only — pull the August 2026 STEO's specific Q3/Q4 2026 print directly before adjusting the model's gas-price assumption either up or down. NaturalGasIntel",
       "url": "https://naturalgasintel.com/news/us-natural-gas-prices-to-average-370-in-4q-and-430-in-2026-says-eia/",
       "sources": [
         {
           "title": "NaturalGasIntel",
           "url": "https://naturalgasintel.com/news/us-natural-gas-prices-to-average-370-in-4q-and-430-in-2026-says-eia/"
-        },
-        {
-          "title": "Long Forecast",
-          "url": "https://longforecast.com/natural-gas-forecast-2017-2018-2019"
         }
       ]
     },
     {
-      "text": "Two system-level papers flagged above (SOFC-BOP integration review; reversible-SOC 3E analysis) — potentially LCOE-relevant but not yet verified for date/journal; do not cite figures from either until confirmed.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending carry-forward: MISO tariff filing (self-set deadline Aug 31 passed, unfiled as of this check), Rolls-Royce SMR GDA completion (self-set \"August 2026\" target passed, unconfirmed), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit completion (~Dec 10, 2026), Project Jupiter Supreme Court response (Sept 2, tomorrow), FCEL Q3 call (Sept 2, tomorrow), Bloom 10-Q (Sept 11), Ceres H1 2026 results (September, date unconfirmed), Bloom securities-fraud lead-plaintiff deadline (Sept 28), Bloom Q3 2026 earnings (Oct 27).",
+      "text": "Pending carry-forward, unchanged: MISO tariff filing (overdue), Rolls-Royce SMR GDA completion (self-set target passed, unconfirmed), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit (~Dec 10, 2026), FCEL Q3 results (today — figures pending confirmation), Bloom 10-Q (Sept 11), Ceres H1 2026 results (September, date unconfirmed), Bloom securities-fraud lead-plaintiff deadline (Sept 28), Bloom Q3 2026 earnings (Oct 27).",
       "url": "",
       "sources": []
     }
