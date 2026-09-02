@@ -1,22 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-01",
+    "title": "Beating Beta — 2026-09-02",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "02",
+      "category": "FINANCE · MARKETS",
+      "title": "Markets Snapshot — 2026-09-02",
+      "highlight_phrase": "market snapshot",
+      "toc_summary": "S&P 7.631,47 · Nasdaq 29.077,22 · VIX 16,34 · 10Y 4,80% · Gold $4.357,90 · Oil $90,87 · BTC $77.277,12 · F&G N/A",
+      "quick_take": "S&P 500: 7.631,47\nNasdaq: 29.077,22\nVIX: 16,34 · 10Y: 4,80%\nGold: $4.357,90 · Oil: $90,87\nBitcoin: $77.277,12\nFear & Greed: N/A",
+      "bullets": [
+        {
+          "label": "Equities",
+          "text": "S&P 500 7.631,47 · Nasdaq 29.077,22"
+        },
+        {
+          "label": "Rates & Vol",
+          "text": "10Y 4,80% · VIX 16,34"
+        },
+        {
+          "label": "Commodities & Crypto",
+          "text": "Gold $4.357,90 · WTI $90,87 · BTC $77.277,12"
+        },
+        {
+          "label": "Sentiment",
+          "text": "Fear & Greed Index: N/A"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Yahoo Finance · Bloomberg · CNBC",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliarden",
-      "highlight_phrase": "Amazon-Aktie rutscht ab, nachdem die FTC",
-      "toc_summary": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliarden",
-      "quick_take": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliardenhoehe vorwirft.",
+      "title": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose",
+      "highlight_phrase": "Dells KI-Server treiben starke Quartalsz",
+      "toc_summary": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose",
+      "quick_take": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Amazon-Aktie rutscht ab, nachdem die FTC versteckte Werbegebuehren in Milliardenhoehe vorwirft."
+          "text": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose"
         }
       ],
       "callout": null,
@@ -30,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich lasse Geld liegen\"",
-      "highlight_phrase": "\"Ich lasse Geld liegen\"",
-      "toc_summary": "\"Ich lasse Geld liegen\"",
-      "quick_take": "Soll ich mit 64 frueher Rentenleistungen nehmen oder warten? Finanzberatung fuer Ehepaare.",
+      "title": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage",
+      "highlight_phrase": "Palo Alto Networks-Aktie faellt trotz st",
+      "toc_summary": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage",
+      "quick_take": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Soll ich mit 64 frueher Rentenleistungen nehmen oder warten? Finanzberatung fuer Ehepaare."
+          "text": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage"
         }
       ],
       "callout": null,
@@ -51,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein ko",
-      "highlight_phrase": "Der S&P 500 faellt normalerweise im Sept",
-      "toc_summary": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein ko",
-      "quick_take": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein koennte.",
+      "title": "\"Ich lasse Geld liegen\"",
+      "highlight_phrase": "\"Ich lasse Geld liegen\"",
+      "toc_summary": "\"Ich lasse Geld liegen\"",
+      "quick_take": "Soll ich mit 64 frueher oder mit 70 spaeter Rente beziehen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Der S&P 500 faellt normalerweise im September - warum dieses Jahr anders sein koennte."
+          "text": "Soll ich mit 64 frueher oder mit 70 spaeter Rente beziehen?"
         }
       ],
       "callout": null,
@@ -72,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Wir haben nie studiert\"",
-      "highlight_phrase": "\"Wir haben nie studiert\"",
-      "toc_summary": "\"Wir haben nie studiert\"",
-      "quick_take": "Wie koennen wir mit 62 das College-Studium unserer Enkelin finanzieren?",
+      "title": "\"Das ist nicht fair\": Mein Zwillingsbruder und ich erbten Haeuser",
+      "highlight_phrase": "\"Das ist nicht fair\": Mein Zwillingsbrud",
+      "toc_summary": "\"Das ist nicht fair\": Mein Zwillingsbruder und ich erbten Haeuser",
+      "quick_take": "kann ich ihn an Steuern beteiligen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wie koennen wir mit 62 das College-Studium unserer Enkelin finanzieren?"
+          "text": "kann ich ihn an Steuern beteiligen?"
         }
       ],
       "callout": null,
@@ -93,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht al",
-      "highlight_phrase": "Maerkte sehen Warsh als Befuerworter ein",
-      "toc_summary": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht al",
-      "quick_take": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht alle sind ueberzeugt.",
+      "title": "Diese Aktien bewegen sich nach Boersenschluss",
+      "highlight_phrase": "Diese Aktien bewegen sich nach Boersensc",
+      "toc_summary": "Diese Aktien bewegen sich nach Boersenschluss",
+      "quick_take": "Dell, MongoDB, GitLab u.a.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Maerkte sehen Warsh als Befuerworter einer Zinserhoehung im September - nicht alle sind ueberzeugt."
+          "text": "Dell, MongoDB, GitLab u.a."
         }
       ],
       "callout": null,
@@ -114,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Groesste Aktienbewegungen am Mittag",
-      "highlight_phrase": "Groesste Aktienbewegungen am Mittag",
-      "toc_summary": "Groesste Aktienbewegungen am Mittag",
-      "quick_take": "PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & mehr.",
+      "title": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August",
+      "highlight_phrase": "Wettmarkt-Trader erwarten Erholung beim ",
+      "toc_summary": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August",
+      "quick_take": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August",
       "bullets": [
         {
           "label": "Detail",
-          "text": "PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & mehr."
+          "text": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August"
         }
       ],
       "callout": null,
