@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-02",
+    "title": "Beating Beta — 2026-09-03",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-02",
+      "title": "Markets Snapshot — 2026-09-03",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.631,47 · Nasdaq 29.077,22 · VIX 16,34 · 10Y 4,80% · Gold $4.357,90 · Oil $90,87 · BTC $77.277,12 · F&G N/A",
-      "quick_take": "S&P 500: 7.631,47\nNasdaq: 29.077,22\nVIX: 16,34 · 10Y: 4,80%\nGold: $4.357,90 · Oil: $90,87\nBitcoin: $77.277,12\nFear & Greed: N/A",
+      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
+      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.631,47 · Nasdaq 29.077,22"
+          "text": "S&P 500 N/A · Nasdaq N/A"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,80% · VIX 16,34"
+          "text": "10Y N/A% · VIX N/A"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.357,90 · WTI $90,87 · BTC $77.277,12"
+          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose",
-      "highlight_phrase": "Dells KI-Server treiben starke Quartalsz",
-      "toc_summary": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose",
-      "quick_take": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose",
+      "title": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase ",
+      "highlight_phrase": "Broadcom-Aktie fällt trotz starker Zahle",
+      "toc_summary": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase ",
+      "quick_take": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase für Anleger 💥",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Dells KI-Server treiben starke Quartalszahlen und angehobene Prognose"
+          "text": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase für Anleger 💥"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage",
-      "highlight_phrase": "Palo Alto Networks-Aktie faellt trotz st",
-      "toc_summary": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage",
-      "quick_take": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage",
+      "title": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich ",
+      "highlight_phrase": "Snowflake-Aktie schießt nach oben – KI-P",
+      "toc_summary": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich ",
+      "quick_take": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich 🚀",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Palo Alto Networks-Aktie faellt trotz starker KI-Cybersecurity-Nachfrage"
+          "text": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich 🚀"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich lasse Geld liegen\"",
-      "highlight_phrase": "\"Ich lasse Geld liegen\"",
-      "toc_summary": "\"Ich lasse Geld liegen\"",
-      "quick_take": "Soll ich mit 64 frueher oder mit 70 spaeter Rente beziehen?",
+      "title": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum",
+      "highlight_phrase": "HPE folgt Dell – KI-Server-Boom beschert",
+      "toc_summary": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum",
+      "quick_take": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Soll ich mit 64 frueher oder mit 70 spaeter Rente beziehen?"
+          "text": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Das ist nicht fair\": Mein Zwillingsbruder und ich erbten Haeuser",
-      "highlight_phrase": "\"Das ist nicht fair\": Mein Zwillingsbrud",
-      "toc_summary": "\"Das ist nicht fair\": Mein Zwillingsbruder und ich erbten Haeuser",
-      "quick_take": "kann ich ihn an Steuern beteiligen?",
+      "title": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403",
+      "highlight_phrase": "\"Wir sind in unseren 60ern. Wir verdiene",
+      "toc_summary": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403",
+      "quick_take": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403(b)s. Ist es zu spät für Roth Conversions?\"",
       "bullets": [
         {
           "label": "Detail",
-          "text": "kann ich ihn an Steuern beteiligen?"
+          "text": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403(b)s. Ist es zu spät für Roth Conversions?\""
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Diese Aktien bewegen sich nach Boersenschluss",
-      "highlight_phrase": "Diese Aktien bewegen sich nach Boersensc",
-      "toc_summary": "Diese Aktien bewegen sich nach Boersenschluss",
-      "quick_take": "Dell, MongoDB, GitLab u.a.",
+      "title": "New York Feds Williams",
+      "highlight_phrase": "New York Feds Williams",
+      "toc_summary": "New York Feds Williams",
+      "quick_take": "Renditeanstieg spiegelt starke Wirtschaftsaussichten wider",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Dell, MongoDB, GitLab u.a."
+          "text": "Renditeanstieg spiegelt starke Wirtschaftsaussichten wider"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August",
-      "highlight_phrase": "Wettmarkt-Trader erwarten Erholung beim ",
-      "toc_summary": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August",
-      "quick_take": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August",
+      "title": "Größte vorbörsliche Gewinner",
+      "highlight_phrase": "Größte vorbörsliche Gewinner",
+      "toc_summary": "Größte vorbörsliche Gewinner",
+      "quick_take": "Vertiv, Sirius, Dell, MongoDB & mehr",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wettmarkt-Trader erwarten Erholung beim US-Jobwachstum im August"
+          "text": "Vertiv, Sirius, Dell, MongoDB & mehr"
         }
       ],
       "callout": null,
