@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "topSignals": [
     {
-      "title": "FuelCell Energy reports Q3 FY2026 miss but lands its first data-center Capacity Reservation Agreement — 75 MW in Texas.",
-      "text": "Revenue fell 29% YoY to $33M; a $24.5M gross loss (including $17M of inventory write-downs and firm-purchase-commitment charges tied to the Fit Energy Phase 0 agreement) drove an adjusted loss of $0.64/share, missing the $0.53 estimate by ~21%. Backlog rose 4.1% YoY to $1.3B and Awarded Capacity Backlog grew by $2.4B on Fit Energy's option for up to 350 additional MW. The new deal — six 12.5 MW FuelCell Energy Block systems for an unnamed major data-center operator, upfront reservation payment, definitive agreements still pending — is FCEL's first standalone data-center contract distinct from the Fit Energy relationship. Stock fell ~13% on the day as the loss overshadowed the deal. GlobeNewswire | SEC 8-K | 24/7 Wall St.",
-      "url": "https://www.globenewswire.com/news-release/2026/09/02/3355029/8041/en/fuelcell-energy-reports-third-fiscal-quarter-2026-results-executes-first-data-center-power-agreement-increases-annualized-production-rate-focuses-on-capacity-expansion.html",
+      "title": "NM Supreme Court unanimously denies Project Jupiter developers' bid to partially reopen the air-quality permit case (ruling published Sept 1).",
+      "text": "Yucca Growth Infrastructure LLC had asked the court to partially vacate its Aug 23 stay and let pre-hearing filings resume; the court said no, keeping the Sept 14 hearing on Bloom's 2.45 GW fuel-cell air permit paused. The underlying dispute — whether NMED can hold the hearing before the project's natural-gas pipeline clears its own regulatory hurdles — is still undecided on the merits. Carries into a new week with no resolution date in sight. Source NM | KRWG | ABQ Journal",
+      "url": "https://sourcenm.com/2026/09/01/nm-supreme-court-denies-project-jupiter-developers-request-to-partially-resume-air-quality-case/",
       "n": 1
     },
     {
-      "title": "MISO files its Large Load Interconnection Reliability Requirements Tariff with FERC (Aug 28), closing the overdue flag from yesterday's digest.",
-      "text": "The filing (docket EL26-70-000) responds to FERC's June 18 show-cause order and sets technical standards — visibility/modeling data, real-time and day-ahead load forecasting — for any facility over 50 MW connecting to MISO's grid; it does not itself decide the case. MISO's and transmission owners' full show-cause response to FERC remains due Nov 16, 2026. Directly relevant to how fast AI-load interconnection queues clear versus the on-site SOFC alternative. Utility Dive | FERC RM26-4",
-      "url": "https://www.utilitydive.com/news/large-load-reliability-requirements-miso-ferc/829278/",
+      "title": "Bloom Energy jumps 8.48% to close at $237.67 on Sept 3, resolving yesterday's flagged price discrepancy.",
+      "text": "Day range $212.12–$238.41. Move continues the AI-infrastructure re-rating theme (Q2 revenue +165.5% YoY to $1.07B, FY2026 guidance raised to $3.9–4.2B) rather than any single news catalyst identified today. Separately, a second law firm (Bronstein, Gewirtz & Grossman) publicized solicitation for the existing securities class action (Feb 2025–July 2026 class period, China-sourced-scandium allegations); lead-plaintiff deadline remains Sept 28. TradingKey | GlobeNewswire",
+      "url": "https://www.tradingkey.com/news/market-movers/262149571-market-movers-be-20260903",
       "n": 2
     },
     {
-      "title": "Project Jupiter: Sept 2 response deadline to the NM Supreme Court stay has passed with no ruling found yet; Oracle reaffirms commitment.",
-      "text": "The stay (issued Aug 23–24) still pauses both the NMED air-quality permit hearing for Bloom's 2.45 GW fuel-cell system and an emergency well-water authorization at the Oracle/OpenAI Doña Ana County campus; neither underlying legal challenge has been decided on the merits, and the stay does not itself halt construction. Oracle said publicly it remains committed to developing the project \"responsibly.\" No new court action identified as of this digest — carries into a new week. UPR | Source NM",
-      "url": "https://www.upr.org/politics/2026-09-01/new-mexico-data-center-project-juniper-paused",
+      "title": "Ceres Power confirms H1 2026 interim results for Wed, 23 Sept 2026 (RNS filed Sept 3), resolving yesterday's \"date unconfirmed\" LCOE flag.",
+      "text": "Notably, Ceres' standard company boilerplate now explicitly names \"AI data centres\" for the first time (alongside commercial/industrial and green-hydrogen use cases) — a small but real signal of how central the data-center segment has become to Ceres' own positioning since the March 2026 Centrica partnership. LSE RNS",
+      "url": "https://www.lse.co.uk/rns/CWR/notice-of-interim-results-htdqt6vbm4xfwvp.html",
       "n": 3
     }
   ],
@@ -25,17 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet for a fifth straight day. No news beyond the already-logged Aug 24 Paris MoU; background unchanged (E3000 G2 platform rollout, 360 MW Tallinn factory, Casale P2X MoU, JNK India MoU).",
+          "text": "Elcogen (priority): Quiet for a sixth straight day. No news beyond the already-logged Aug 24 Paris MoU; background unchanged (E3000 G2 platform, 360 MW Tallinn factory, Casale P2X MoU, JNK India MoU).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): Quiet. No news beyond the already-logged Aug 27 H1 2026 results and the May 2026 SOEC-pathway/Herning-hibernation decision. The ABB/Fluor alliance for a standardized next-generation SOEC factory concept (targeting Chesterfield, Virginia, by 2028) is background context, not new — first surfaced pre-hibernation.",
-          "url": "",
-          "sources": []
+          "text": "Topsoe (priority): SOFC/SOEC side quiet — nothing beyond the already-logged Aug 27 H1 2026 results and the May 2026 SOEC-pathway/Herning-hibernation decision. Non-SOFC company news: Topsoe announced Sept 1 a \"major breakthrough\" in its separate battery-materials business — cobalt-free LNMO cathode cells demonstrating 1,500 charge-discharge cycles at 80% capacity retention (3–5x prior LNMO durability), aimed at automotive EV cells. Different business line from the SOFC/SOEC stack franchise, flagged here only for company-status completeness. Topsoe",
+          "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/a-significant-breakthrough-in-lnmo-battery-cycle-life",
+          "sources": [
+            {
+              "title": "Topsoe",
+              "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/a-significant-breakthrough-in-lnmo-battery-cycle-life"
+            }
+          ]
         },
         {
-          "text": "Other players: No new stack/cell announcements found today from Bloom, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
+          "text": "Other players: Ceres' updated corporate boilerplate now names AI data centres explicitly — see Top Signal #3. No new stack/cell announcements found today from Bloom, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
           "url": "",
           "sources": []
         }
@@ -45,17 +50,12 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "FuelCell Energy first standalone data-center Capacity Reservation Agreement (Texas, 75 MW): See Top Signal #1.",
+          "text": "Project Jupiter (Oracle/OpenAI, NM): See Top Signal #1 — air permit hearing stays paused, no ruling on the merits yet.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Project Jupiter (Oracle/OpenAI, NM): See Top Signal #3 — court response deadline passed, no ruling yet.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B), Bloom-Brookfield $5B partnership, Bloom-Nebius $2.6B, Bloom-Equinix >100 MW/19 sites, FCEL-Fit Energy up to 380 MW (+$2.4B awarded-capacity option), Ceres-Centrica UK/Europe multi-GW pipeline, FCEL-SDCL up to 450 MW.",
+          "text": "Standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B), Bloom-Brookfield $5B partnership, Bloom-Nebius $2.6B, Bloom-Equinix >100 MW/19 sites, FCEL-Fit Energy up to 380 MW (+$2.4B awarded-capacity option), FCEL's new 75 MW Texas Capacity Reservation Agreement (logged Sept 3), Ceres-Centrica UK/Europe multi-GW pipeline, FCEL-SDCL up to 450 MW.",
           "url": "",
           "sources": []
         }
@@ -65,27 +65,27 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "MISO large-load tariff filed with FERC (Aug 28): See Top Signal #2 — resolves the \"overdue\" flag carried since Sept 1.",
+          "text": "Project Jupiter (NM): See Top Signal #1 — Supreme Court denial keeps the stay in place.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Project Jupiter (NM): Court response deadline passed — see Top Signal #3.",
+          "text": "FERC RM26-4 large-load interconnection: Unchanged. MISO's tariff filing (Aug 28) is in; reply comments to RTO/ISO show-cause responses remain due Sept 16, 2026.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rolls-Royce SMR UK GDA: Design Acceptance Confirmation is contingent on completing Step 3 (\"detailed assessment\"), self-targeted for August 2026; no confirmation of issuance found — now carries into a third week unresolved. Not SOFC-specific but relevant as a competing on-site baseload timeline benchmark.",
+          "text": "Rolls-Royce SMR UK GDA: Design Acceptance Confirmation self-target (August 2026) has now passed with no confirmation found — unresolved for a fourth week. Competing on-site baseload timeline benchmark, not SOFC-specific.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Germany EnEfG: Unchanged — the June 24 draft act to accelerate EU Energy Efficiency Directive transposition (which could soften the PUE ≤1.2/waste-heat-reuse targets already in the LCOE model) is still pending a Bundestag/Bundesrat floor vote this autumn; no schedule found yet.",
+          "text": "Germany EnEfG: Unchanged — draft amendment still pending a Bundestag/Bundesrat floor vote this autumn; no schedule found yet.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Texas ERCOT audit, US ITC 45V/48E, Virginia data-center legislation: unchanged.",
+          "text": "Texas ERCOT audit, US ITC 45V/48E, Virginia data-center legislation, EU CADA: unchanged.",
           "url": "",
           "sources": []
         }
@@ -95,9 +95,24 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
+          "text": "McDermott + Doosan Enerbility MOU (Aug 4, background — surfaced in today's search, not new news): Framework to jointly evaluate gas-turbine/generator power projects, explicitly including behind-the-meter generation for data centers. Relevant as another gas-turbine EPC pairing chasing the same load. McDermott",
+          "url": "https://www.mcdermott.com/press-release-detail/123074/mcdermott-and-doosan-enerbility-sign-memorandum-understanding-explore-power-generation-opportunities",
+          "sources": [
+            {
+              "title": "McDermott",
+              "url": "https://www.mcdermott.com/press-release-detail/123074/mcdermott-and-doosan-enerbility-sign-memorandum-understanding-explore-power-generation-opportunities"
+            }
+          ]
+        },
+        {
+          "text": "\"Gas-plus-nuclear\" hybrid for data centers (Victoria, Texas): Engineering, licensing and safety-analysis work advancing on a project pairing GE Vernova 7HA.02 gas turbines with GEH BWRX-300 SMRs; FID targeted 2027. Pitch is a natural-gas bridge to nuclear cutting time-to-power to under 48 months. Directly competes with SOFC's faster-deployment value proposition on the gas-turbine side, and with 2030s SMR timelines on the nuclear side. Power Engineering",
+          "url": "https://www.power-eng.com/nuclear/first-gas-plus-nuclear-plant-for-data-centers-advanced-manufacturing-is-closer-to-becoming-a-reality/",
+          "sources": [
+            {
+              "title": "Power Engineering",
+              "url": "https://www.power-eng.com/nuclear/first-gas-plus-nuclear-plant-for-data-centers-advanced-manufacturing-is-closer-to-becoming-a-reality/"
+            }
+          ]
         }
       ]
     },
@@ -105,22 +120,22 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "FuelCell Energy (FCEL): Q3 FY2026 — see Top Signal #1. Revenue $33M (-29% YoY), gross loss $24.5M, adjusted EPS -$0.64 (miss vs -$0.53 est.), backlog $1.3B (+4.1% YoY), Awarded Capacity Backlog +$2.4B, annualized production rate ~37 MW (target 100 MW by October 2026). Stock -13% on the day.",
+          "text": "Bloom Energy (BE): +8.48% to $237.67 close Sept 3 (day range $212.12–238.41) — see Top Signal #2. Next catalysts: 10-Q Sept 11, securities-suit lead-plaintiff deadline Sept 28, Q3 earnings Oct 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Bloom Energy (BE): Last reliably confirmed level is the $200–206 range as of Sept 1 (-3.5% intraday on a securities-suit legal-notice reminder); a same-day search today returned a materially different price/market-cap that doesn't reconcile with Bloom's known share count or 52-week high (~$351) and is being treated as bad data rather than reported — worth a manual check if you need today's exact print. Lead-plaintiff deadline reminder: Sept 28, 2026. Next scheduled catalyst: 10-Q on Sept 11.",
+          "text": "FuelCell Energy (FCEL): Continued post-earnings slide — traded $13.83–14.98 on Sept 3, down further from $17.08 on Sept 1 (was ~$26 pre-Q3-report). Consensus (8 analysts) stays \"Buy\" with a $22.83 average 12-month price target, i.e. the Street hasn't repriced the long-term thesis despite the post-miss selloff. Annualized production rate target: 100 MW by October 2026.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe: Nothing beyond the already-logged Aug 27 H1 2026 results.",
+          "text": "Ceres Power (CWR.L): H1 2026 interim results date confirmed for Sept 23 — see Top Signal #3. No new pricing beyond the already-logged Aug 26 RFC Power £10M Series A spin-out.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): No new pricing/news beyond the already-logged Aug 26 RFC Power £10M Series A spin-out (37% retained stake).",
+          "text": "Topsoe: Nothing new on the SOFC/SOEC side; see Stack & Cell Technology for the (non-SOFC) battery-materials news.",
           "url": "",
           "sources": []
         }
@@ -149,7 +164,7 @@
   ],
   "lcoe": [
     {
-      "text": "The August 2026 EIA STEO (the current, most defensible vintage) confirms Henry Hub averaging ~$3.91/MMBtu in Q3 2026 — resolves the reconciliation flagged Sept 1–2 between the October-2025-vintage $3.70/4Q and the model's current $4.00–4.30/MMBtu assumption. This is now the number to reconcile against directly rather than the older STEO print; consider whether the model's gas-price assumption should move down slightly toward ~$3.90–4.00/MMBtu for near-term (2026) scenarios. EIA STEO PDF",
+      "text": "EIA Henry Hub Q3 2026 figure needs a direct-source check — two secondhand citations disagree. Yesterday's digest cited an October-2025-vintage STEO figure of ~$3.91/MMBtu for Q3 2026. A search today surfaced a claim, attributed to the \"August 2026 STEO,\" that Henry Hub stays below $3.00/MMBtu until November 2026 — which doesn't reconcile with the $3.91 figure or with the model's current $4.00–4.30/MMBtu assumption. Both citations are secondhand (news-site paraphrases, not the primary PDF read directly), so treat neither as settled; recommend pulling the current EIA STEO PDF directly before adjusting the model's gas-price assumption. EIA STEO PDF",
       "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
       "sources": [
         {
@@ -159,7 +174,12 @@
       ]
     },
     {
-      "text": "Pending carry-forward, unchanged: Rolls-Royce SMR GDA completion (self-set target passed, still unconfirmed), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit (~Dec 10, 2026), Bloom 10-Q (Sept 11), Ceres H1 2026 results (September, date unconfirmed), Bloom securities-fraud lead-plaintiff deadline (Sept 28), Bloom Q3 2026 earnings (Oct 27), FCEL production ramp to 100 MW annualized (October 2026).",
+      "text": "Ceres H1 2026 results date now fixed: Sept 23, 2026 — resolves the \"date unconfirmed\" carry-forward.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending carry-forward, unchanged: Rolls-Royce SMR GDA completion (self-set target passed, still unconfirmed, now 4th week), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit (~Dec 10, 2026), Bloom 10-Q (Sept 11), Bloom securities-fraud lead-plaintiff deadline (Sept 28), Bloom Q3 2026 earnings (Oct 27), FCEL production ramp to 100 MW annualized (October 2026).",
       "url": "",
       "sources": []
     }
