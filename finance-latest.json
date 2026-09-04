@@ -1,30 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-03",
+    "title": "Beating Beta — 2026-09-04",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: Warren Buffett & Aggressive on today's market moves.",
+      "highlight_phrase": "Warren Buffett & Aggressive",
+      "toc_summary": "Today's guru pair: Warren Buffett & Aggressive. Macro stance, top picks, strategy signals.",
+      "quick_take": "🎩 Warren Buffett\nSitzt auf Rekord-Cash von $381 Mrd. und warnt vor überbewerteten Märkten. Er sieht weiterhin Value in Einzelwerten, nicht im breiten Index.\n🟢 Bullish: KO, AXP, OXY\n🔴 Bearish: Breiter US-Markt (Bewertung)\n\n🚀 Aggressive\nAllokation: 95% Aktien, 5% Cash\nFokus: NVDA, TSM, MU, ORCL\nRenditeziel: +30-40% | Drawdown: -35%",
+      "bullets": [
+        {
+          "label": "Warren Buffett",
+          "text": "Sitzt auf Rekord-Cash von $381 Mrd. und warnt vor überbewerteten Märkten. Er sieht weiterhin Value in Einzelwerten, nicht im breiten Index. · 🟢 Bullish: KO, AXP, OXY"
+        },
+        {
+          "label": "Aggressive",
+          "text": "Allokation: 95% Aktien, 5% Cash · Fokus: NVDA, TSM, MU, ORCL"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-03",
+      "title": "Markets Snapshot — 2026-09-04",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P N/A · Nasdaq N/A · VIX N/A · 10Y N/A% · Gold $N/A · Oil $N/A · BTC $N/A · F&G N/A",
-      "quick_take": "S&P 500: N/A\nNasdaq: N/A\nVIX: N/A · 10Y: N/A%\nGold: $N/A · Oil: $N/A\nBitcoin: $N/A\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.747,71 · Nasdaq 29.482,32 · VIX 14,32 · 10Y 4,76% · Gold $4.522,00 · Oil $91,90 · BTC $80.836,00 · F&G N/A",
+      "quick_take": "S&P 500: 7.747,71\nNasdaq: 29.482,32\nVIX: 14,32 · 10Y: 4,76%\nGold: $4.522,00 · Oil: $91,90\nBitcoin: $80.836,00\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 N/A · Nasdaq N/A"
+          "text": "S&P 500 7.747,71 · Nasdaq 29.482,32"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y N/A% · VIX N/A"
+          "text": "10Y 4,76% · VIX 14,32"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $N/A · WTI $N/A · BTC $N/A"
+          "text": "Gold $4.522,00 · WTI $91,90 · BTC $80.836,00"
         },
         {
           "label": "Sentiment",
@@ -42,14 +67,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase ",
-      "highlight_phrase": "Broadcom-Aktie fällt trotz starker Zahle",
-      "toc_summary": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase ",
-      "quick_take": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase für Anleger 💥",
+      "title": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn",
+      "highlight_phrase": "Snowflakes Geheimwaffe treibt Aktie Rich",
+      "toc_summary": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn",
+      "quick_take": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Broadcom-Aktie fällt trotz starker Zahlen – verlängert eine frustrierende Phase für Anleger 💥"
+          "text": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn"
         }
       ],
       "callout": null,
@@ -63,14 +88,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich ",
-      "highlight_phrase": "Snowflake-Aktie schießt nach oben – KI-P",
-      "toc_summary": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich ",
-      "quick_take": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich 🚀",
+      "title": "Enkel mit schwerer psychischer Erkrankung",
+      "highlight_phrase": "Enkel mit schwerer psychischer Erkrankun",
+      "toc_summary": "Enkel mit schwerer psychischer Erkrankung",
+      "quick_take": "Wie schütze ich sein Erbe?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Snowflake-Aktie schießt nach oben – KI-Prognose übertrifft Erwartungen deutlich 🚀"
+          "text": "Wie schütze ich sein Erbe?"
         }
       ],
       "callout": null,
@@ -84,14 +109,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum",
-      "highlight_phrase": "HPE folgt Dell – KI-Server-Boom beschert",
-      "toc_summary": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum",
-      "quick_take": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum",
+      "title": "Adobe benennt neuen CEO – Aktie fällt dennoch",
+      "highlight_phrase": "Adobe benennt neuen CEO – Aktie fällt de",
+      "toc_summary": "Adobe benennt neuen CEO – Aktie fällt dennoch",
+      "quick_take": "Adobe benennt neuen CEO – Aktie fällt dennoch",
       "bullets": [
         {
           "label": "Detail",
-          "text": "HPE folgt Dell – KI-Server-Boom beschert starkes Gewinnwachstum"
+          "text": "Adobe benennt neuen CEO – Aktie fällt dennoch"
         }
       ],
       "callout": null,
@@ -105,14 +130,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403",
-      "highlight_phrase": "\"Wir sind in unseren 60ern. Wir verdiene",
-      "toc_summary": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403",
-      "quick_take": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403(b)s. Ist es zu spät für Roth Conversions?\"",
+      "title": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab",
+      "highlight_phrase": "Lululemon setzt auf weite Hosen, Kunden ",
+      "toc_summary": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab",
+      "quick_take": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab",
       "bullets": [
         {
           "label": "Detail",
-          "text": "\"Wir sind in unseren 60ern. Wir verdienen 345.000 $ und haben 1 Million $ in 403(b)s. Ist es zu spät für Roth Conversions?\""
+          "text": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab"
         }
       ],
       "callout": null,
@@ -126,14 +151,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "New York Feds Williams",
-      "highlight_phrase": "New York Feds Williams",
-      "toc_summary": "New York Feds Williams",
-      "quick_take": "Renditeanstieg spiegelt starke Wirtschaftsaussichten wider",
+      "title": "Größte Premarket-Bewegungen",
+      "highlight_phrase": "Größte Premarket-Bewegungen",
+      "toc_summary": "Größte Premarket-Bewegungen",
+      "quick_take": "Snowflake, Moderna, Broadcom & Co.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Renditeanstieg spiegelt starke Wirtschaftsaussichten wider"
+          "text": "Snowflake, Moderna, Broadcom & Co."
         }
       ],
       "callout": null,
@@ -147,14 +172,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Größte vorbörsliche Gewinner",
-      "highlight_phrase": "Größte vorbörsliche Gewinner",
-      "toc_summary": "Größte vorbörsliche Gewinner",
-      "quick_take": "Vertiv, Sirius, Dell, MongoDB & mehr",
+      "title": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus",
+      "highlight_phrase": "China attackiert G20-Erklärung zu Export",
+      "toc_summary": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus",
+      "quick_take": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Vertiv, Sirius, Dell, MongoDB & mehr"
+          "text": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus"
         }
       ],
       "callout": null,
