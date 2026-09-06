@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "topSignals": [
     {
-      "title": "Bloom Energy confirmed for S&P 500 inclusion effective Sept 21, 2026 — stock closed +7.35% and kept climbing after-hours.",
-      "text": "S&P Dow Jones Indices announced after Friday's close that Bloom Energy, Illumina, and Everpure will join the S&P 500, replacing Molson Coors, Trade Desk, and Builders FirstSource, effective before the open on Sept 21. BE closed the regular session at $252.87 (+$17.32/+7.35%, day range $235.55–253.30, 16.4M shares) on index-inclusion speculation already circulating that morning, then added another +5.25% after-hours to $266.14 once the announcement was confirmed. Market cap now ~$74.5B, comfortably clearing the size/liquidity/four-quarter-profitability screens S&P requires. This is the single biggest structural catalyst logged for Bloom this year: passive S&P-tracking funds (SPY, VOO, IVV and others) must now buy the stock, permanently deepening the shareholder base for the AI-datacenter SOFC bellwether. TipRanks | Barron's | Bloomberg",
-      "url": "https://www.tipranks.com/news/the-fly/bloom-energy-everpure-illumina-to-be-added-to-sp-500-at-open-on-9-21-thefly-news",
+      "title": "Elcogen: confirmed quiet for an eighth straight day.",
+      "text": "Direct newsroom check (elcogen.com/category/news) shows nothing posted since the Aug 31 write-up of the Aug 24 Paris MoU with China Southern Power Grid group company Guangzhou Xinzhili Energy Technology. Status unchanged: elcoStack E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C) in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
+      "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "EIA's August 2026 STEO directly confirms Henry Hub sub-$3.00/MMBtu through November — resolving yesterday's flagged gas-price discrepancy, and it cuts against the LCOE model's current assumption.",
-      "text": "Direct review of secondary reporting on the EIA's own August STEO shows futures through September 2026 held below $3.00/MMBtu, with EIA expecting the spot price to stay below $3.00/MMBtu until November 2026 and average just $3.03/MMBtu over the rest of the year (full-year 2026 average $3.44/MMBtu). That is materially below the $4.00–4.30/MMBtu the LCOE model currently carries and below the $3.91/MMBtu figure an older (Oct-2025-vintage) STEO citation had suggested. Recommend pulling the primary STEO PDF directly and revisiting the model's near-term gas-price input — a $3.00–3.44/MMBtu base case would meaningfully lower SOFC opex (and CCGT opex) versus what's currently modeled. EIA STEO PDF | Rigzone",
-      "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "title": "Topsoe: SOFC/SOEC side still quiet; only new item is off-topic (battery materials, not fuel cells).",
+      "text": "Direct press-releases check shows nothing beyond the already-logged Aug 27 H1 2026 results and March 2026 SOEC pathway reset. The one new Topsoe item this week — a Sept 1 announcement of 1,500-cycle/80%-capacity durability for its cobalt-free LNMO cathode material (with Guangzhou Tinci Materials) — is EV battery-materials technology, a separate Topsoe business line unrelated to SOFC/SOEC; logged here only so it isn't mistaken for a fuel-cell development. Topsoe LNMO breakthrough | Topsoe press releases",
+      "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/a-significant-breakthrough-in-lnmo-battery-cycle-life",
       "n": 2
     },
     {
-      "title": "Virginia's first-in-the-nation data-center electricity tax starts accruing this month — and it taxes self-generated power too.",
-      "text": "The $0.011/kWh consumption tax (signed into the FY2027 budget in June, applying from July 1, 2026) requires its first monthly returns and payments in September 2026, per guidance the State Corporation Commission has been finalizing. The tax explicitly covers both utility-supplied and qualifying self-generated electricity, capped at $600M in annual statewide revenue with refunds above that. Relevant nuance for LCOE work: an on-site SOFC (or gas-turbine) installation serving a Virginia data center does not automatically escape this levy the way it might escape interconnection queues — worth a specific line item in any Virginia-sited deployment scenario. Williams Mullen | Greenberg Traurig",
-      "url": "https://www.williamsmullen.com/insights/news/legal-news/virginia-budget-creates-new-electricity-consumption-tax-data-centers",
+      "title": "Housekeeping note: an \"Oracle triple-SMR gigawatt data center\" story recirculating in aggregator/AI-generated content this week is a 2024 announcement, not new.",
+      "text": "Several low-quality outlets are republishing Larry Ellison's September 2024 announcement (three SMRs for a 1 GW data center, location undisclosed, no timeline) with 2026 datelines. Verified against Data Center Frontier/Tom's Hardware originals — flagging so this doesn't get miscarried into a future digest as breaking news.",
+      "url": "",
       "n": 3
     }
   ],
@@ -25,31 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet for a seventh straight day. Direct newsroom check (elcogen.com/category/news) confirms nothing since the Aug 24 Paris MoU with a China Southern Power Grid group company (Guangzhou Xinzhili Energy Technology), posted Aug 31. Status unchanged: elcoStack E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C) in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News | MoU announcement",
-          "url": "https://elcogen.com/category/news/",
-          "sources": [
-            {
-              "title": "Elcogen News",
-              "url": "https://elcogen.com/category/news/"
-            },
-            {
-              "title": "MoU announcement",
-              "url": "https://elcogen.com/elcogen-and-china-southern-power-grid-group-company-sign-mou-on-solid-oxide-technology/"
-            }
-          ]
+          "text": "Elcogen (priority): See Top Signal #1. No other announcements found from Elcogen this week.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Topsoe (priority): SOFC/SOEC side quiet — press releases page shows nothing beyond the already-logged Aug 27 H1 2026 results and the March 2026 SOEC strategic-pathway reset (Herning hibernation). Background check confirms Elena Scaltritti's CEO appointment (effective March/June 2026, succeeding Roeland Baan) is old news, not a new item. No SOFC-specific announcement identified today. Topsoe press releases",
-          "url": "https://www.topsoe.com/press-releases",
-          "sources": [
-            {
-              "title": "Topsoe press releases",
-              "url": "https://www.topsoe.com/press-releases"
-            }
-          ]
+          "text": "Topsoe (priority): See Top Signal #2. No SOFC/SOEC-specific announcement identified.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "No new stack/cell announcements found today from Bloom, Ceres, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
+          "text": "Ceres Power: Direct newsroom check confirms most recent item is still the Sept 1 \"Net Zero Champion\" award (Engineering Matters Awards) — nothing new since. No update on the Centrica/Delta Electronics partnership or H1 2026 results (due Sept 23).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No new stack/cell announcements found from Bloom, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
           "url": "",
           "sources": []
         }
@@ -59,12 +50,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Project Jupiter (Oracle/OpenAI, NM): Unchanged — the Sept 1 NM Supreme Court denial (already logged as a Top Signal yesterday) stands; the Sept 14 air-permit hearing remains stayed with no new development since.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B), Bloom-Brookfield $5B partnership, Bloom-Nebius $2.6B, Bloom-Equinix >100 MW/19 sites, FCEL-Fit Energy up to 380 MW (+$2.4B awarded-capacity option), FCEL's 75 MW Texas Capacity Reservation Agreement, Ceres-Centrica UK/Europe multi-GW pipeline, FCEL-SDCL up to 450 MW.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -74,37 +60,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Virginia data-center electricity tax: See Top Signal #3 — first returns/payments due this month.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Project Jupiter (NM): See AI Data Center Deployments above — stay unchanged.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "FERC RM26-4 large-load interconnection: Unchanged. MISO's tariff filing is in; the full show-cause response from RTOs/ISOs remains due Nov 16, 2026.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Rolls-Royce SMR UK GDA: Design Acceptance Confirmation self-target (August 2026) remains unconfirmed — unresolved for a fifth week. Competing on-site baseload benchmark, not SOFC-specific. ONR GDA statement",
-          "url": "https://www.onr.org.uk/generic-design-assessment/assessment-of-reactors/rolls-royce-smr/step-1-gda-statement-for-the-rolls-royce-smr",
-          "sources": [
-            {
-              "title": "ONR GDA statement",
-              "url": "https://www.onr.org.uk/generic-design-assessment/assessment-of-reactors/rolls-royce-smr/step-1-gda-statement-for-the-rolls-royce-smr"
-            }
-          ]
-        },
-        {
-          "text": "Germany EnEfG: Unchanged — draft amendment still awaiting a Bundestag/Bundesrat floor vote this autumn.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Texas ERCOT audit, US ITC 45V/48E, EU CADA: unchanged.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -124,35 +80,7 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): S&P 500 inclusion — see Top Signal #1. Closed $252.87 (+7.35%), after-hours $266.14 (+5.25%). A separate Kaplan Fox & Kilsheimer securities class action (same underlying scandium-sourcing allegations as the Bronstein Gewirtz suit logged Sept 3) continues soliciting investors ahead of the Sept 28 lead-plaintiff deadline — now a multi-firm solicitation pattern, not a new legal development. Next catalysts: 10-Q Sept 11, lead-plaintiff deadline Sept 28, Q3 earnings Oct 27. TipRanks",
-          "url": "https://www.tipranks.com/news/bloom-energy-stock-be-is-rising-6-in-fridays-after-hours-trading-heres-why",
-          "sources": [
-            {
-              "title": "TipRanks",
-              "url": "https://www.tipranks.com/news/bloom-energy-stock-be-is-rising-6-in-fridays-after-hours-trading-heres-why"
-            }
-          ]
-        },
-        {
-          "text": "FuelCell Energy (FCEL): Trading essentially flat and stabilized — $14.72 (+0.34%) as of Friday afternoon, previous close $14.67, day range $14.50–15.09 — in line with the post-earnings range logged since Sept 2–3 (was ~$26 pre-Q3-report). Two plaintiff-law-firm \"investigation\" solicitations (Kehoe Law Firm Sept 2, Johnson Fistel Sept 3) targeting the Fit Energy agreement disclosures have surfaced since the earnings miss; these are pre-litigation client-solicitation notices, not confirmed filed lawsuits, but worth tracking alongside Bloom's active securities suit. Consensus stays \"Buy,\" 12-month price target now $20.86 (+41.7%). StockAnalysis.com | Kehoe Law | Johnson Fistel",
-          "url": "https://stockanalysis.com/stocks/fcel/",
-          "sources": [
-            {
-              "title": "StockAnalysis.com",
-              "url": "https://stockanalysis.com/stocks/fcel/"
-            },
-            {
-              "title": "Kehoe Law",
-              "url": "https://www.globenewswire.com/news-release/2026/09/02/3355341/0/en/fuelcell-energy-investors-kehoe-law-firm-investigates-fit-energy-agreement-disclosures-fcel.html"
-            },
-            {
-              "title": "Johnson Fistel",
-              "url": "https://www.newsfilecorp.com/release/312807/FUELCELL-ENERGY-INC.-FCEL-INVESTIGATION-Johnson-Fistel-Investigates-Potential-Securities-Claims"
-            }
-          ]
-        },
-        {
-          "text": "Ceres Power / Topsoe: No new pricing or disclosures beyond what's already logged (Ceres H1 2026 results confirmed Sept 23; Topsoe nothing new on SOFC/SOEC).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -179,21 +107,5 @@
       ]
     }
   ],
-  "lcoe": [
-    {
-      "text": "EIA Henry Hub gas price — see Top Signal #2. August 2026 STEO points to sub-$3.00/MMBtu through November, ~$3.03/MMBtu average for the rest of 2026, $3.44/MMBtu full-year average — well below the model's current $4.00–4.30/MMBtu assumption. Recommend a direct-PDF pull and a model update before the next gas-price-sensitive scenario is run.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Virginia data-center electricity tax ($0.011/kWh) — see Top Signal #3. Applies to both grid-supplied and qualifying self-generated power; add as an explicit surcharge line for any Virginia-sited LCOE scenario, SOFC included.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending carry-forward, unchanged: Rolls-Royce SMR GDA completion (self-set target passed, still unconfirmed, now 5th week), Germany EnEfG Bundestag/Bundesrat vote (autumn 2026), Texas ERCOT audit (~Dec 10, 2026), Bloom 10-Q (Sept 11), Bloom securities-fraud lead-plaintiff deadline (Sept 28), Bloom Q3 2026 earnings (Oct 27), FCEL production ramp to 100 MW annualized (October 2026), Ceres H1 2026 results (Sept 23).",
-      "url": "",
-      "sources": []
-    }
-  ]
+  "lcoe": []
 }
