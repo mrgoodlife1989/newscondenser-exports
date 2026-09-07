@@ -1,55 +1,30 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-04",
+    "title": "Beating Beta — 2026-09-07",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: Warren Buffett & Aggressive on today's market moves.",
-      "highlight_phrase": "Warren Buffett & Aggressive",
-      "toc_summary": "Today's guru pair: Warren Buffett & Aggressive. Macro stance, top picks, strategy signals.",
-      "quick_take": "🎩 Warren Buffett\nSitzt auf Rekord-Cash von $381 Mrd. und warnt vor überbewerteten Märkten. Er sieht weiterhin Value in Einzelwerten, nicht im breiten Index.\n🟢 Bullish: KO, AXP, OXY\n🔴 Bearish: Breiter US-Markt (Bewertung)\n\n🚀 Aggressive\nAllokation: 95% Aktien, 5% Cash\nFokus: NVDA, TSM, MU, ORCL\nRenditeziel: +30-40% | Drawdown: -35%",
-      "bullets": [
-        {
-          "label": "Warren Buffett",
-          "text": "Sitzt auf Rekord-Cash von $381 Mrd. und warnt vor überbewerteten Märkten. Er sieht weiterhin Value in Einzelwerten, nicht im breiten Index. · 🟢 Bullish: KO, AXP, OXY"
-        },
-        {
-          "label": "Aggressive",
-          "text": "Allokation: 95% Aktien, 5% Cash · Fokus: NVDA, TSM, MU, ORCL"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-04",
+      "title": "Markets Snapshot — 2026-09-07",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.747,71 · Nasdaq 29.482,32 · VIX 14,32 · 10Y 4,76% · Gold $4.522,00 · Oil $91,90 · BTC $80.836,00 · F&G N/A",
-      "quick_take": "S&P 500: 7.747,71\nNasdaq: 29.482,32\nVIX: 14,32 · 10Y: 4,76%\nGold: $4.522,00 · Oil: $91,90\nBitcoin: $80.836,00\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.718,60 · Nasdaq 29.544,15 · VIX 14,53 · 10Y 4,78% · Gold $4.476,60 · Oil $91,48 · BTC $79.830,86 · F&G N/A",
+      "quick_take": "S&P 500: 7.718,60\nNasdaq: 29.544,15\nVIX: 14,53 · 10Y: 4,78%\nGold: $4.476,60 · Oil: $91,48\nBitcoin: $79.830,86\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.747,71 · Nasdaq 29.482,32"
+          "text": "S&P 500 7.718,60 · Nasdaq 29.544,15"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,76% · VIX 14,32"
+          "text": "10Y 4,78% · VIX 14,53"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.522,00 · WTI $91,90 · BTC $80.836,00"
+          "text": "Gold $4.476,60 · WTI $91,48 · BTC $79.830,86"
         },
         {
           "label": "Sentiment",
@@ -67,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn",
-      "highlight_phrase": "Snowflakes Geheimwaffe treibt Aktie Rich",
-      "toc_summary": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn",
-      "quick_take": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn",
+      "title": "Enkel mit schwerer psychischer Erkrankung",
+      "highlight_phrase": "Enkel mit schwerer psychischer Erkrankun",
+      "toc_summary": "Enkel mit schwerer psychischer Erkrankung",
+      "quick_take": "wie das Vermoegen schuetzen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Snowflakes Geheimwaffe treibt Aktie Richtung Rekordgewinn"
+          "text": "wie das Vermoegen schuetzen?"
         }
       ],
       "callout": null,
@@ -88,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Enkel mit schwerer psychischer Erkrankung",
-      "highlight_phrase": "Enkel mit schwerer psychischer Erkrankun",
-      "toc_summary": "Enkel mit schwerer psychischer Erkrankung",
-      "quick_take": "Wie schütze ich sein Erbe?",
+      "title": "Geerbte Haueser",
+      "highlight_phrase": "Geerbte Haueser",
+      "toc_summary": "Geerbte Haueser",
+      "quick_take": "Kann der Bruder zur Kasse gebeten werden?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wie schütze ich sein Erbe?"
+          "text": "Kann der Bruder zur Kasse gebeten werden?"
         }
       ],
       "callout": null,
@@ -109,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Adobe benennt neuen CEO – Aktie fällt dennoch",
-      "highlight_phrase": "Adobe benennt neuen CEO – Aktie fällt de",
-      "toc_summary": "Adobe benennt neuen CEO – Aktie fällt dennoch",
-      "quick_take": "Adobe benennt neuen CEO – Aktie fällt dennoch",
+      "title": "Umzug nach Kalifornien mit groesserer Hypothek in den 70ern",
+      "highlight_phrase": "Umzug nach Kalifornien mit groesserer Hy",
+      "toc_summary": "Umzug nach Kalifornien mit groesserer Hypothek in den 70ern",
+      "quick_take": "sinnvoll?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Adobe benennt neuen CEO – Aktie fällt dennoch"
+          "text": "sinnvoll?"
         }
       ],
       "callout": null,
@@ -130,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab",
-      "highlight_phrase": "Lululemon setzt auf weite Hosen, Kunden ",
-      "toc_summary": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab",
-      "quick_take": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab",
+      "title": "\"Armut muss nicht meine Realitaet sein\"",
+      "highlight_phrase": "\"Armut muss nicht meine Realitaet sein\"",
+      "toc_summary": "\"Armut muss nicht meine Realitaet sein\"",
+      "quick_take": "Vom Sozialhilfe-Empfaenger zum Investor.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Lululemon setzt auf weite Hosen, Kunden lehnen enge Leggings ab"
+          "text": "Vom Sozialhilfe-Empfaenger zum Investor."
         }
       ],
       "callout": null,
@@ -151,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Größte Premarket-Bewegungen",
-      "highlight_phrase": "Größte Premarket-Bewegungen",
-      "toc_summary": "Größte Premarket-Bewegungen",
-      "quick_take": "Snowflake, Moderna, Broadcom & Co.",
+      "title": "Zucker schlaegt Aktienmarkt",
+      "highlight_phrase": "Zucker schlaegt Aktienmarkt",
+      "toc_summary": "Zucker schlaegt Aktienmarkt",
+      "quick_take": "was hinter dem Rally steckt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Snowflake, Moderna, Broadcom & Co."
+          "text": "was hinter dem Rally steckt."
         }
       ],
       "callout": null,
@@ -172,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus",
-      "highlight_phrase": "China attackiert G20-Erklärung zu Export",
-      "toc_summary": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus",
-      "quick_take": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus",
+      "title": "Weisse Haus prueft Kandidaten fuer CFTC-Posten",
+      "highlight_phrase": "Weisse Haus prueft Kandidaten fuer CFTC-",
+      "toc_summary": "Weisse Haus prueft Kandidaten fuer CFTC-Posten",
+      "quick_take": "unklar ob besetzt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "China attackiert G20-Erklärung zu Exportabhängigkeit – Vorwurf: Protektionismus"
+          "text": "unklar ob besetzt."
         }
       ],
       "callout": null,
