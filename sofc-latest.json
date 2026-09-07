@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "topSignals": [
     {
-      "title": "Elcogen: confirmed quiet for an eighth straight day.",
-      "text": "Direct newsroom check (elcogen.com/category/news) shows nothing posted since the Aug 31 write-up of the Aug 24 Paris MoU with China Southern Power Grid group company Guangzhou Xinzhili Energy Technology. Status unchanged: elcoStack E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C) in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
-      "url": "https://elcogen.com/category/news/",
+      "title": "US markets closed for Labor Day — no Bloom/FCEL trading activity to report.",
+      "text": "Sept 7, 2026 is a federal holiday; NYSE and Nasdaq were closed. Bloom Energy's last print remains Friday Sept 4's close of $252.87 (+7.35%) with an after-hours run to $266.14 on confirmed S&P 500 inclusion (effective Sept 21); FuelCell Energy's last print remains Friday's $14.72. No new market data expected until Tuesday Sept 8.",
+      "url": "",
       "n": 1
     },
     {
-      "title": "Topsoe: SOFC/SOEC side still quiet; only new item is off-topic (battery materials, not fuel cells).",
-      "text": "Direct press-releases check shows nothing beyond the already-logged Aug 27 H1 2026 results and March 2026 SOEC pathway reset. The one new Topsoe item this week — a Sept 1 announcement of 1,500-cycle/80%-capacity durability for its cobalt-free LNMO cathode material (with Guangzhou Tinci Materials) — is EV battery-materials technology, a separate Topsoe business line unrelated to SOFC/SOEC; logged here only so it isn't mistaken for a fuel-cell development. Topsoe LNMO breakthrough | Topsoe press releases",
-      "url": "https://www.topsoe.com/knowledge-and-insights/expert-articles/a-significant-breakthrough-in-lnmo-battery-cycle-life",
+      "title": "Elcogen: confirmed quiet for a ninth straight day.",
+      "text": "Direct newsroom check (elcogen.com/category/news, re-verified today) shows nothing posted since the Aug 31 write-up of the Aug 24 Paris MoU with China Southern Power Grid group company Guangzhou Xinzhili Energy Technology. Status unchanged: elcoStack E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C) in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
+      "url": "https://elcogen.com/category/news/",
       "n": 2
     },
     {
-      "title": "Housekeeping note: an \"Oracle triple-SMR gigawatt data center\" story recirculating in aggregator/AI-generated content this week is a 2024 announcement, not new.",
-      "text": "Several low-quality outlets are republishing Larry Ellison's September 2024 announcement (three SMRs for a 1 GW data center, location undisclosed, no timeline) with 2026 datelines. Verified against Data Center Frontier/Tom's Hardware originals — flagging so this doesn't get miscarried into a future digest as breaking news.",
+      "title": "Topsoe: SOFC/SOEC side still quiet.",
+      "text": "No press-room item beyond the already-logged Aug 27 H1 2026 results, the Aug 28 full-year guidance revision (revenue raised to DKK 8,000–8,500m, EBIT margin raised to 7.0–10.0%, driven by Technology/catalyst-sales strength — not SOFC/SOEC), and the March 2026 SOEC pathway reset (Herning hibernation). No SOFC-specific announcement identified today.",
       "url": "",
       "n": 3
     }
@@ -25,22 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): See Top Signal #1. No other announcements found from Elcogen this week.",
+          "text": "Elcogen (priority): See Top Signal #2. No other announcements found.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): See Top Signal #2. No SOFC/SOEC-specific announcement identified.",
+          "text": "Topsoe (priority): See Top Signal #3. No SOFC/SOEC-specific announcement identified.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power: Direct newsroom check confirms most recent item is still the Sept 1 \"Net Zero Champion\" award (Engineering Matters Awards) — nothing new since. No update on the Centrica/Delta Electronics partnership or H1 2026 results (due Sept 23).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "No new stack/cell announcements found from Bloom, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
+          "text": "No new stack/cell announcements found from Bloom, Ceres, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
           "url": "",
           "sources": []
         }
@@ -60,7 +55,27 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Virginia data-center electricity tax ($0.011/kWh, applies to self-generated power too): unchanged, first monthly returns due this month.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FERC RM26-4 large-load interconnection: unchanged; RTO/ISO show-cause responses due Nov 16, 2026.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Spain's draft decree on data-center renewable-energy requirements (EU-establishment, in-EU data residency, provisional energy/water efficiency limits) had its public-hearing window open through Sept 4 — final terms could still shift; worth a follow-up check once finalized, since it would be the first EU country-level data-center energy rule with this scope.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Australia (AEMC): regulators continue pushing for large data centers to bring their own firmed clean generation and pay full network-connection costs, following PM Albanese's July 15 \"net-generators, not net-users\" pledge — still a proposal, not yet legislated; relevant as a potential precedent for BTM-SOFC-favorable rules outside the US/EU.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Rolls-Royce SMR UK GDA, Germany EnEfG, Texas ERCOT audit, US ITC 45V/48E: unchanged.",
           "url": "",
           "sources": []
         }
