@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "topSignals": [
     {
-      "title": "US markets closed for Labor Day — no Bloom/FCEL trading activity to report.",
-      "text": "Sept 7, 2026 is a federal holiday; NYSE and Nasdaq were closed. Bloom Energy's last print remains Friday Sept 4's close of $252.87 (+7.35%) with an after-hours run to $266.14 on confirmed S&P 500 inclusion (effective Sept 21); FuelCell Energy's last print remains Friday's $14.72. No new market data expected until Tuesday Sept 8.",
-      "url": "",
+      "title": "UBS raises Bloom Energy price target to $325 (from $300), reiterates Buy, on the S&P 500-inclusion catalyst.",
+      "text": "Analyst Manav Gupta's revision — up from the $300 PT set July 30 — cites Bloom's confirmed addition to the S&P 500 (effective before the open on Sept 21) and the company's \"behind-the-meter power\" strength for AI data centers. First analyst price-target move logged since the Sept 4 index-inclusion announcement. TipRanks/TheFly",
+      "url": "https://www.tipranks.com/news/the-fly/bloom-energy-price-target-raised-to-325-from-300-at-ubs-thefly-news",
       "n": 1
     },
     {
-      "title": "Elcogen: confirmed quiet for a ninth straight day.",
+      "title": "Elcogen: confirmed quiet for a tenth straight day.",
       "text": "Direct newsroom check (elcogen.com/category/news, re-verified today) shows nothing posted since the Aug 31 write-up of the Aug 24 Paris MoU with China Southern Power Grid group company Guangzhou Xinzhili Energy Technology. Status unchanged: elcoStack E3000 G2 platform (>75% FC electrical efficiency, 90% with heat recovery, 650°C) in volume production at ELCO I Tallinn (360 MW/yr). Elcogen News",
       "url": "https://elcogen.com/category/news/",
       "n": 2
     },
     {
       "title": "Topsoe: SOFC/SOEC side still quiet.",
-      "text": "No press-room item beyond the already-logged Aug 27 H1 2026 results, the Aug 28 full-year guidance revision (revenue raised to DKK 8,000–8,500m, EBIT margin raised to 7.0–10.0%, driven by Technology/catalyst-sales strength — not SOFC/SOEC), and the March 2026 SOEC pathway reset (Herning hibernation). No SOFC-specific announcement identified today.",
-      "url": "",
+      "text": "Direct press-releases check (topsoe.com/press-releases) shows nothing beyond the already-logged Aug 27 H1 2026 results and the March 2026 SOEC pathway reset (Herning hibernation). The site's two featured items — the H1 statement and CEO Elena Scaltritti's appointment — are both old news, not new developments. No SOFC-specific announcement identified today. Topsoe press releases",
+      "url": "https://www.topsoe.com/press-releases",
       "n": 3
     }
   ],
@@ -35,7 +35,12 @@
           "sources": []
         },
         {
-          "text": "No new stack/cell announcements found from Bloom, Ceres, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
+          "text": "Ceres Power: No new stack/cell news. Last items remain the Sept 1 \"Net Zero Champion\" award and the Aug 26 RFC Power/Certain Energy spin-out (£10M Series A, ~37% retained stake); no update on the Centrica/Delta Electronics partnership. H1 2026 interim results still confirmed for Sept 23.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No new stack/cell announcements found from Bloom, FuelCell Energy, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, or Convion.",
           "url": "",
           "sources": []
         }
@@ -55,27 +60,32 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Virginia data-center electricity tax ($0.011/kWh, applies to self-generated power too): unchanged, first monthly returns due this month.",
+          "text": "Spain's draft data-center renewables decree (80% new-renewables, hourly-matched, ≥1 MW facilities): Public consultation window closed Sept 4 as scheduled; the Council of Ministers has not yet finalized or published final decree terms. Still positioned as the first EU country-level rule of this scope — worth a follow-up once final terms land. PV-Tech background",
+          "url": "https://www.pv-tech.org/spain-80-energy-consumption-data-centres-renewables/",
+          "sources": [
+            {
+              "title": "PV-Tech background",
+              "url": "https://www.pv-tech.org/spain-80-energy-consumption-data-centres-renewables/"
+            }
+          ]
+        },
+        {
+          "text": "FERC RM26-4 large-load interconnection: Unchanged; RTO/ISO show-cause responses due Nov 16, 2026.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FERC RM26-4 large-load interconnection: unchanged; RTO/ISO show-cause responses due Nov 16, 2026.",
+          "text": "Virginia data-center electricity tax ($0.011/kWh, applies to self-generated power too): Unchanged; first monthly returns due this month.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Spain's draft decree on data-center renewable-energy requirements (EU-establishment, in-EU data residency, provisional energy/water efficiency limits) had its public-hearing window open through Sept 4 — final terms could still shift; worth a follow-up check once finalized, since it would be the first EU country-level data-center energy rule with this scope.",
+          "text": "Germany EnEfG amendment: Unchanged; still awaiting a Bundestag/Bundesrat floor vote this autumn — no schedule confirmed.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Australia (AEMC): regulators continue pushing for large data centers to bring their own firmed clean generation and pay full network-connection costs, following PM Albanese's July 15 \"net-generators, not net-users\" pledge — still a proposal, not yet legislated; relevant as a potential precedent for BTM-SOFC-favorable rules outside the US/EU.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Rolls-Royce SMR UK GDA, Germany EnEfG, Texas ERCOT audit, US ITC 45V/48E: unchanged.",
+          "text": "Rolls-Royce SMR UK GDA, Texas ERCOT audit, US ITC 45V/48E, EU CADA, PJM Reliability Backstop Procurement (residual-auction bid window Sept 30–Oct 21): unchanged carry-forward.",
           "url": "",
           "sources": []
         }
@@ -95,7 +105,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Bloom Energy (BE): Markets reopen today after the Labor Day holiday — first full trading session since Friday. Last confirmed close: Sept 4, $252.87 (+7.35%), after-hours $266.14 (+5.25%) on the S&P 500-inclusion announcement. UBS PT raise to $325 — see Top Signal #1. Today's intraday session was not yet indexed as of this digest. Next catalysts: 10-Q (Sept 11), securities-fraud lead-plaintiff deadline (Sept 28), Q3 2026 earnings (Oct 27).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FuelCell Energy (FCEL): Last confirmed close: Sept 4, $14.95 (+1.91%), day range $14.50–15.09. Analyst consensus \"Buy\" (8 analysts), 12-month PT $20.86 (+39.5% implied). Next catalyst: 100 MW annualized production-rate target (Oct 2026).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Power (CWR.L): No new pricing or disclosures. H1 2026 interim results confirmed for Sept 23.",
           "url": "",
           "sources": []
         }
