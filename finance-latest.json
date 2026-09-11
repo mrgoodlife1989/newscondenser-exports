@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-10",
+    "title": "Beating Beta — 2026-09-11",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,26 +9,26 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-10",
+      "title": "Markets Snapshot — 2026-09-11",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7636.36 · Nasdaq 29421.55 · VIX 16.46 · 10Y 4.84% · Gold $4461.00 · Oil $96.19 · BTC $78338.23 · F&G N/A",
-      "quick_take": "S&P 500: 7636.36\nNasdaq: 29421.55\nVIX: 16.46 · 10Y: 4.84%\nGold: $4461.00 · Oil: $96.19\nBitcoin: $78338.23\nFear & Greed: N/A",
+      "toc_summary": "S&P 7591.70 · Nasdaq 29103.51 · VIX 17.84 · 10Y 4.94% · Gold $4364.60 · Oil $102.56 · BTC $76800.01 · F&G 33",
+      "quick_take": "S&P 500: 7591.70\nNasdaq: 29103.51\nVIX: 17.84 · 10Y: 4.94%\nGold: $4364.60 · Oil: $102.56\nBitcoin: $76800.01\nFear & Greed: 33",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7636.36 · Nasdaq 29421.55"
+          "text": "S&P 500 7591.70 · Nasdaq 29103.51"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4.84% · VIX 16.46"
+          "text": "10Y 4.94% · VIX 17.84"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4461.00 · WTI $96.19 · BTC $78338.23"
+          "text": "Gold $4364.60 · WTI $102.56 · BTC $76800.01"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
+          "text": "Fear & Greed Index: 33"
         }
       ],
       "callout": null,
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Hunter-Biden-Memecoin $LAPTOP verliert 95% des Marktwerts nur Stunden nach Launc",
-      "highlight_phrase": "Hunter-Biden-Memecoin $LAPTOP verliert 9",
-      "toc_summary": "Hunter-Biden-Memecoin $LAPTOP verliert 95% des Marktwerts nur Stunden nach Launc",
-      "quick_take": "Hunter-Biden-Memecoin $LAPTOP verliert 95% des Marktwerts nur Stunden nach Launch",
+      "title": "Oracles KI-Wette zahlt sich aus",
+      "highlight_phrase": "Oracles KI-Wette zahlt sich aus",
+      "toc_summary": "Oracles KI-Wette zahlt sich aus",
+      "quick_take": "Cloud-Momentum treibt optimistischere Prognose",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Hunter-Biden-Memecoin $LAPTOP verliert 95% des Marktwerts nur Stunden nach Launch"
+          "text": "Cloud-Momentum treibt optimistischere Prognose"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Dieselpreise erreichen neues Rekordhoch",
-      "highlight_phrase": "Dieselpreise erreichen neues Rekordhoch",
-      "toc_summary": "Dieselpreise erreichen neues Rekordhoch",
-      "quick_take": "und die Lebensmittelrechnung dürfte folgen",
+      "title": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten",
+      "highlight_phrase": "Adobes jüngste Earnings lassen die Wall ",
+      "toc_summary": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten",
+      "quick_take": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten",
       "bullets": [
         {
           "label": "Detail",
-          "text": "und die Lebensmittelrechnung dürfte folgen"
+          "text": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Ein 58-jähriger Veteran aus Kalifornien mit 1,5 Mio. USD und VA-Rente fragt: Kan",
-      "highlight_phrase": "Ein 58-jähriger Veteran aus Kalifornien ",
-      "toc_summary": "Ein 58-jähriger Veteran aus Kalifornien mit 1,5 Mio. USD und VA-Rente fragt: Kan",
-      "quick_take": "Ein 58-jähriger Veteran aus Kalifornien mit 1,5 Mio. USD und VA-Rente fragt: Kann ich in Rente gehen?",
+      "title": "Rekordhoch beim Diesel und steigende Benzinpreise verteuern das Leben",
+      "highlight_phrase": "Rekordhoch beim Diesel und steigende Ben",
+      "toc_summary": "Rekordhoch beim Diesel und steigende Benzinpreise verteuern das Leben",
+      "quick_take": "vom Pendeln bis zum Wocheneinkauf",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ein 58-jähriger Veteran aus Kalifornien mit 1,5 Mio. USD und VA-Rente fragt: Kann ich in Rente gehen?"
+          "text": "vom Pendeln bis zum Wocheneinkauf"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Wohngebäude-Versicherungsprämien auf Rekordhoch",
-      "highlight_phrase": "Wohngebäude-Versicherungsprämien auf Rek",
-      "toc_summary": "Wohngebäude-Versicherungsprämien auf Rekordhoch",
-      "quick_take": "hier stiegen sie am stärksten",
+      "title": "Apples 1.999-Dollar-Foldable iPhone Duo",
+      "highlight_phrase": "Apples 1.999-Dollar-Foldable iPhone Duo",
+      "toc_summary": "Apples 1.999-Dollar-Foldable iPhone Duo",
+      "quick_take": "So senken T-Mobile, AT&T und Verizon die Kosten",
       "bullets": [
         {
           "label": "Detail",
-          "text": "hier stiegen sie am stärksten"
+          "text": "So senken T-Mobile, AT&T und Verizon die Kosten"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Ant International kooperiert mit Visa und Mastercard bei KI-Zahlungssystemen",
-      "highlight_phrase": "Ant International kooperiert mit Visa un",
-      "toc_summary": "Ant International kooperiert mit Visa und Mastercard bei KI-Zahlungssystemen",
-      "quick_take": "Ant International kooperiert mit Visa und Mastercard bei KI-Zahlungssystemen",
+      "title": "Das iPhone Duo betritt Chinas umkämpften Foldable-Markt",
+      "highlight_phrase": "Das iPhone Duo betritt Chinas umkämpften",
+      "toc_summary": "Das iPhone Duo betritt Chinas umkämpften Foldable-Markt",
+      "quick_take": "und steht vor einem Preistest",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ant International kooperiert mit Visa und Mastercard bei KI-Zahlungssystemen"
+          "text": "und steht vor einem Preistest"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Größte Mittagsbewegungen",
-      "highlight_phrase": "Größte Mittagsbewegungen",
-      "toc_summary": "Größte Mittagsbewegungen",
-      "quick_take": "Meta, Centerspace, Apple, Casey's General Stores, Signet & mehr",
+      "title": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-",
+      "highlight_phrase": "OpenAI zielt mit neuem ChatGPT für Finan",
+      "toc_summary": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-",
+      "quick_take": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-Bankern an der Wall Street",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Meta, Centerspace, Apple, Casey's General Stores, Signet & mehr"
+          "text": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-Bankern an der Wall Street"
         }
       ],
       "callout": null,
