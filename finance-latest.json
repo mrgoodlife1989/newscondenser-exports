@@ -1,34 +1,55 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-11",
+    "title": "Beating Beta — 2026-09-14",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
+      "number": "01",
+      "category": "FINANCE · STRATEGY",
+      "title": "Guru Radar: GURU-KONSENS MUSTER-PORTFOLIO on today's market moves.",
+      "highlight_phrase": "GURU-KONSENS MUSTER-PORTFOLIO",
+      "toc_summary": "Today's guru pair: GURU-KONSENS MUSTER-PORTFOLIO. Macro stance, top picks, strategy signals.",
+      "quick_take": "💼 GURU-KONSENS MUSTER-PORTFOLIO\n1. GOOGL — 14% | 338,50 | 🔼 +1,77% | AI-Suche + Cloud-Duopol, Quality-Cashflow | Ackman, Druckenmiller\n2. AMZN — 12% | 256,78 | 🔼 +1,94% | AWS-AI-Infrastruktur + Retail-Marge | Ackman, Druckenmiller\n3. META — 11% | 648,03 | 🔼 +0,57% | Werbe-Cashmaschine, AI-Capex diszipliniert | Ackman, Druckenmiller",
+      "bullets": [
+        {
+          "label": "GURU-KONSENS MUSTER-PORTFOLIO",
+          "text": "1. GOOGL — 14% | 338,50 | 🔼 +1,77% | AI-Suche + Cloud-Duopol, Quality-Cashflow | Ackman, Druckenmiller · 2. AMZN — 12% | 256,78 | 🔼 +1,94% | AWS-AI-Infrastruktur + Retail-Marge | Ackman, Druckenmiller"
+        }
+      ],
+      "callout": null,
+      "sources": [
+        {
+          "title": "Beating Beta Daily Edition",
+          "url": null
+        }
+      ]
+    },
+    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-11",
+      "title": "Markets Snapshot — 2026-09-14",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7591.70 · Nasdaq 29103.51 · VIX 17.84 · 10Y 4.94% · Gold $4364.60 · Oil $102.56 · BTC $76800.01 · F&G 33",
-      "quick_take": "S&P 500: 7591.70\nNasdaq: 29103.51\nVIX: 17.84 · 10Y: 4.94%\nGold: $4364.60 · Oil: $102.56\nBitcoin: $76800.01\nFear & Greed: 33",
+      "toc_summary": "S&P 7.656,98 · Nasdaq 29.368,44 · VIX 15,84 · 10Y 4,97% · Gold $4.386,00 · Oil $102,81 · BTC $77.569,05 · F&G N/A",
+      "quick_take": "S&P 500: 7.656,98\nNasdaq: 29.368,44\nVIX: 15,84 · 10Y: 4,97%\nGold: $4.386,00 · Oil: $102,81\nBitcoin: $77.569,05\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7591.70 · Nasdaq 29103.51"
+          "text": "S&P 500 7.656,98 · Nasdaq 29.368,44"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4.94% · VIX 17.84"
+          "text": "10Y 4,97% · VIX 15,84"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4364.60 · WTI $102.56 · BTC $76800.01"
+          "text": "Gold $4.386,00 · WTI $102,81 · BTC $77.569,05"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: 33"
+          "text": "Fear & Greed Index: N/A"
         }
       ],
       "callout": null,
@@ -42,14 +63,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Oracles KI-Wette zahlt sich aus",
-      "highlight_phrase": "Oracles KI-Wette zahlt sich aus",
-      "toc_summary": "Oracles KI-Wette zahlt sich aus",
-      "quick_take": "Cloud-Momentum treibt optimistischere Prognose",
+      "title": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. ",
+      "highlight_phrase": "Meine 87-jährige Mutter will die Ausbild",
+      "toc_summary": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. ",
+      "quick_take": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. Ich habe keine Kinder. Wie ist das fair?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Cloud-Momentum treibt optimistischere Prognose"
+          "text": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. Ich habe keine Kinder. Wie ist das fair?"
         }
       ],
       "callout": null,
@@ -63,14 +84,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten",
-      "highlight_phrase": "Adobes jüngste Earnings lassen die Wall ",
-      "toc_summary": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten",
-      "quick_take": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten",
+      "title": "\"Ich habe immer noch kein MRT\"",
+      "highlight_phrase": "\"Ich habe immer noch kein MRT\"",
+      "toc_summary": "\"Ich habe immer noch kein MRT\"",
+      "quick_take": "Meine Krankenversicherung kündigte meinen Plan ohne Vorwarnung. Ist das legal?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Adobes jüngste Earnings lassen die Wall Street mehr erwarten"
+          "text": "Meine Krankenversicherung kündigte meinen Plan ohne Vorwarnung. Ist das legal?"
         }
       ],
       "callout": null,
@@ -84,14 +105,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Rekordhoch beim Diesel und steigende Benzinpreise verteuern das Leben",
-      "highlight_phrase": "Rekordhoch beim Diesel und steigende Ben",
-      "toc_summary": "Rekordhoch beim Diesel und steigende Benzinpreise verteuern das Leben",
-      "quick_take": "vom Pendeln bis zum Wocheneinkauf",
+      "title": "Das sind die 10 größten Altersvorsorge-Ängste",
+      "highlight_phrase": "Das sind die 10 größten Altersvorsorge-Ä",
+      "toc_summary": "Das sind die 10 größten Altersvorsorge-Ängste",
+      "quick_take": "und was man dagegen tun kann",
       "bullets": [
         {
           "label": "Detail",
-          "text": "vom Pendeln bis zum Wocheneinkauf"
+          "text": "und was man dagegen tun kann"
         }
       ],
       "callout": null,
@@ -105,14 +126,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Apples 1.999-Dollar-Foldable iPhone Duo",
-      "highlight_phrase": "Apples 1.999-Dollar-Foldable iPhone Duo",
-      "toc_summary": "Apples 1.999-Dollar-Foldable iPhone Duo",
-      "quick_take": "So senken T-Mobile, AT&T und Verizon die Kosten",
+      "title": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Wel",
+      "highlight_phrase": "Ich stecke in einer 10-jährigen Annuität",
+      "toc_summary": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Wel",
+      "quick_take": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Welche Optionen habe ich?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "So senken T-Mobile, AT&T und Verizon die Kosten"
+          "text": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Welche Optionen habe ich?"
         }
       ],
       "callout": null,
@@ -126,14 +147,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Das iPhone Duo betritt Chinas umkämpften Foldable-Markt",
-      "highlight_phrase": "Das iPhone Duo betritt Chinas umkämpften",
-      "toc_summary": "Das iPhone Duo betritt Chinas umkämpften Foldable-Markt",
-      "quick_take": "und steht vor einem Preistest",
+      "title": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen",
+      "highlight_phrase": "Prediction Markets werden professionelle",
+      "toc_summary": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen",
+      "quick_take": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen",
       "bullets": [
         {
           "label": "Detail",
-          "text": "und steht vor einem Preistest"
+          "text": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen"
         }
       ],
       "callout": null,
@@ -147,14 +168,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-",
-      "highlight_phrase": "OpenAI zielt mit neuem ChatGPT für Finan",
-      "toc_summary": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-",
-      "quick_take": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-Bankern an der Wall Street",
+      "title": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade",
+      "highlight_phrase": "Goldman wählt China-Gesundheitsaktien fü",
+      "toc_summary": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade",
+      "quick_take": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade",
       "bullets": [
         {
           "label": "Detail",
-          "text": "OpenAI zielt mit neuem ChatGPT für Financial Services auf die Arbeit von Junior-Bankern an der Wall Street"
+          "text": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade"
         }
       ],
       "callout": null,
