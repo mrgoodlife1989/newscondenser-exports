@@ -1,51 +1,30 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-14",
+    "title": "Beating Beta — 2026-09-15",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
   "stories": [
     {
-      "number": "01",
-      "category": "FINANCE · STRATEGY",
-      "title": "Guru Radar: GURU-KONSENS MUSTER-PORTFOLIO on today's market moves.",
-      "highlight_phrase": "GURU-KONSENS MUSTER-PORTFOLIO",
-      "toc_summary": "Today's guru pair: GURU-KONSENS MUSTER-PORTFOLIO. Macro stance, top picks, strategy signals.",
-      "quick_take": "💼 GURU-KONSENS MUSTER-PORTFOLIO\n1. GOOGL — 14% | 338,50 | 🔼 +1,77% | AI-Suche + Cloud-Duopol, Quality-Cashflow | Ackman, Druckenmiller\n2. AMZN — 12% | 256,78 | 🔼 +1,94% | AWS-AI-Infrastruktur + Retail-Marge | Ackman, Druckenmiller\n3. META — 11% | 648,03 | 🔼 +0,57% | Werbe-Cashmaschine, AI-Capex diszipliniert | Ackman, Druckenmiller",
-      "bullets": [
-        {
-          "label": "GURU-KONSENS MUSTER-PORTFOLIO",
-          "text": "1. GOOGL — 14% | 338,50 | 🔼 +1,77% | AI-Suche + Cloud-Duopol, Quality-Cashflow | Ackman, Druckenmiller · 2. AMZN — 12% | 256,78 | 🔼 +1,94% | AWS-AI-Infrastruktur + Retail-Marge | Ackman, Druckenmiller"
-        }
-      ],
-      "callout": null,
-      "sources": [
-        {
-          "title": "Beating Beta Daily Edition",
-          "url": null
-        }
-      ]
-    },
-    {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-14",
+      "title": "Markets Snapshot — 2026-09-15",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.656,98 · Nasdaq 29.368,44 · VIX 15,84 · 10Y 4,97% · Gold $4.386,00 · Oil $102,81 · BTC $77.569,05 · F&G N/A",
-      "quick_take": "S&P 500: 7.656,98\nNasdaq: 29.368,44\nVIX: 15,84 · 10Y: 4,97%\nGold: $4.386,00 · Oil: $102,81\nBitcoin: $77.569,05\nFear & Greed: N/A",
+      "toc_summary": "S&P 7619.98 · Nasdaq 29127.16 · VIX 17.10 · 10Y 4.96% · Gold $4357.70 · Oil $103.02 · BTC $77877.58 · F&G N/A",
+      "quick_take": "S&P 500: 7619.98\nNasdaq: 29127.16\nVIX: 17.10 · 10Y: 4.96%\nGold: $4357.70 · Oil: $103.02\nBitcoin: $77877.58\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.656,98 · Nasdaq 29.368,44"
+          "text": "S&P 500 7619.98 · Nasdaq 29127.16"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4,97% · VIX 15,84"
+          "text": "10Y 4.96% · VIX 17.10"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.386,00 · WTI $102,81 · BTC $77.569,05"
+          "text": "Gold $4357.70 · WTI $103.02 · BTC $77877.58"
         },
         {
           "label": "Sentiment",
@@ -63,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. ",
-      "highlight_phrase": "Meine 87-jährige Mutter will die Ausbild",
-      "toc_summary": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. ",
-      "quick_take": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. Ich habe keine Kinder. Wie ist das fair?",
+      "title": "\"Er hat weder Ehepartner noch Kinder\"",
+      "highlight_phrase": "\"Er hat weder Ehepartner noch Kinder\"",
+      "toc_summary": "\"Er hat weder Ehepartner noch Kinder\"",
+      "quick_take": "Mein Sohn hat eine schwere Erbkrankheit. Was soll ich mit meinem 1,3-Millionen-Dollar-Nachlass machen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Meine 87-jährige Mutter will die Ausbildung der Kinder meines Bruders bezahlen. Ich habe keine Kinder. Wie ist das fair?"
+          "text": "Mein Sohn hat eine schwere Erbkrankheit. Was soll ich mit meinem 1,3-Millionen-Dollar-Nachlass machen?"
         }
       ],
       "callout": null,
@@ -84,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Ich habe immer noch kein MRT\"",
-      "highlight_phrase": "\"Ich habe immer noch kein MRT\"",
-      "toc_summary": "\"Ich habe immer noch kein MRT\"",
-      "quick_take": "Meine Krankenversicherung kündigte meinen Plan ohne Vorwarnung. Ist das legal?",
+      "title": "\"Mein Gesamtguthaben sollte 20 Millionen Dollar sein\"",
+      "highlight_phrase": "\"Mein Gesamtguthaben sollte 20 Millionen",
+      "toc_summary": "\"Mein Gesamtguthaben sollte 20 Millionen Dollar sein\"",
+      "quick_take": "Ich habe 1,1 Millionen Dollar in eine Krypto-Plattform investiert. Habe ich alles verloren?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Meine Krankenversicherung kündigte meinen Plan ohne Vorwarnung. Ist das legal?"
+          "text": "Ich habe 1,1 Millionen Dollar in eine Krypto-Plattform investiert. Habe ich alles verloren?"
         }
       ],
       "callout": null,
@@ -105,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Das sind die 10 größten Altersvorsorge-Ängste",
-      "highlight_phrase": "Das sind die 10 größten Altersvorsorge-Ä",
-      "toc_summary": "Das sind die 10 größten Altersvorsorge-Ängste",
-      "quick_take": "und was man dagegen tun kann",
+      "title": "KI-Weltuntergangsängste kommen zum denkbar schlechtesten Zeitpunkt für den Aktie",
+      "highlight_phrase": "KI-Weltuntergangsängste kommen zum denkb",
+      "toc_summary": "KI-Weltuntergangsängste kommen zum denkbar schlechtesten Zeitpunkt für den Aktie",
+      "quick_take": "KI-Weltuntergangsängste kommen zum denkbar schlechtesten Zeitpunkt für den Aktienmarkt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "und was man dagegen tun kann"
+          "text": "KI-Weltuntergangsängste kommen zum denkbar schlechtesten Zeitpunkt für den Aktienmarkt"
         }
       ],
       "callout": null,
@@ -126,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Wel",
-      "highlight_phrase": "Ich stecke in einer 10-jährigen Annuität",
-      "toc_summary": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Wel",
-      "quick_take": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Welche Optionen habe ich?",
+      "title": "Der undurchsichtige KI-Meilenstein, der führende Branchenstimmen zunehmend beunr",
+      "highlight_phrase": "Der undurchsichtige KI-Meilenstein, der ",
+      "toc_summary": "Der undurchsichtige KI-Meilenstein, der führende Branchenstimmen zunehmend beunr",
+      "quick_take": "Der undurchsichtige KI-Meilenstein, der führende Branchenstimmen zunehmend beunruhigt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich stecke in einer 10-jährigen Annuität fest und bin jetzt knapp bei Kasse. Welche Optionen habe ich?"
+          "text": "Der undurchsichtige KI-Meilenstein, der führende Branchenstimmen zunehmend beunruhigt"
         }
       ],
       "callout": null,
@@ -147,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen",
-      "highlight_phrase": "Prediction Markets werden professionelle",
-      "toc_summary": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen",
-      "quick_take": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen",
+      "title": "Chinas Einzelhandelsumsätze im August verfehlen Prognose, Investitionsflaute vertieft sich",
+      "highlight_phrase": "Chinas Einzelhandelsumsätze im August ve",
+      "toc_summary": "Chinas Einzelhandelsumsätze im August verfehlen Prognose, Investitionsflaute vertieft sich",
+      "quick_take": "Druck auf Peking wächst",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Prediction Markets werden professioneller, aber auch schwerer zu schlagen"
+          "text": "Druck auf Peking wächst"
         }
       ],
       "callout": null,
@@ -168,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade",
-      "highlight_phrase": "Goldman wählt China-Gesundheitsaktien fü",
-      "toc_summary": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade",
-      "quick_take": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade",
+      "title": "Bank of America erwartet Rückgang der Investmentbanking-Gebühren im dritten Quar",
+      "highlight_phrase": "Bank of America erwartet Rückgang der In",
+      "toc_summary": "Bank of America erwartet Rückgang der Investmentbanking-Gebühren im dritten Quar",
+      "quick_take": "Bank of America erwartet Rückgang der Investmentbanking-Gebühren im dritten Quartal um mehr als 10%; Aktie fällt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Goldman wählt China-Gesundheitsaktien für einen Post-KI-Trade"
+          "text": "Bank of America erwartet Rückgang der Investmentbanking-Gebühren im dritten Quartal um mehr als 10%; Aktie fällt"
         }
       ],
       "callout": null,
