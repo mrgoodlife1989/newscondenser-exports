@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-16",
+    "title": "Beating Beta — 2026-09-18",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,22 +9,22 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-16",
+      "title": "Markets Snapshot — 2026-09-18",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7585.73 · Nasdaq 28937.84 · VIX 17.20 · 10Y 5.00% · Gold $4356.50 · Oil $104.69 · BTC $75834.04 · F&G N/A",
-      "quick_take": "S&P 500: 7585.73\nNasdaq: 28937.84\nVIX: 17.20 · 10Y: 5.00%\nGold: $4356.50 · Oil: $104.69\nBitcoin: $75834.04\nFear & Greed: N/A",
+      "toc_summary": "S&P 7637.76 · Nasdaq 29446.98 · VIX 15.44 · 10Y 4.95% · Gold $4393.00 · Oil $101.12 · BTC $76909.34 · F&G N/A",
+      "quick_take": "S&P 500: 7637.76\nNasdaq: 29446.98\nVIX: 15.44 · 10Y: 4.95%\nGold: $4393.00 · Oil: $101.12\nBitcoin: $76909.34\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7585.73 · Nasdaq 28937.84"
+          "text": "S&P 500 7637.76 · Nasdaq 29446.98"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 5.00% · VIX 17.20"
+          "text": "10Y 4.95% · VIX 15.44"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4356.50 · WTI $104.69 · BTC $75834.04"
+          "text": "Gold $4393.00 · WTI $101.12 · BTC $76909.34"
         },
         {
           "label": "Sentiment",
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Medicare nutzt KI zur Genehmigung von Anträgen",
-      "highlight_phrase": "Medicare nutzt KI zur Genehmigung von An",
-      "toc_summary": "Medicare nutzt KI zur Genehmigung von Anträgen",
-      "quick_take": "mit \"alarmierend hohen Ablehnungsraten\".",
+      "title": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Wa",
+      "highlight_phrase": "Die 10-jährige Treasury erlebt ihren sch",
+      "toc_summary": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Wa",
+      "quick_take": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Warum Anleger trotzdem Bonds kaufen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "mit \"alarmierend hohen Ablehnungsraten\"."
+          "text": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Warum Anleger trotzdem Bonds kaufen."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "\"Mein Gesamtguthaben sollte 20 Mio. $ betragen\": Ich habe 1,1 Mio. $ in eine Krypto-Plattform investiert",
-      "highlight_phrase": "\"Mein Gesamtguthaben sollte 20 Mio. $ be",
-      "toc_summary": "\"Mein Gesamtguthaben sollte 20 Mio. $ betragen\": Ich habe 1,1 Mio. $ in eine Krypto-Plattform investiert",
-      "quick_take": "habe ich alles verloren?",
+      "title": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort.",
+      "highlight_phrase": "Micron, Intel und andere Chip-Aktien set",
+      "toc_summary": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort.",
+      "quick_take": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "habe ich alles verloren?"
+          "text": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Vielleicht gibt es einen Silberstreif\"",
-      "highlight_phrase": "\"Vielleicht gibt es einen Silberstreif\"",
-      "toc_summary": "\"Vielleicht gibt es einen Silberstreif\"",
-      "quick_take": "Die Frau meines Freundes starb mit 60 nach einer gut bezahlten Karriere. Kann er ihre Social Security beanspruchen?",
+      "title": "Wall Street wettet, dass Trump beim Iran einlenkt",
+      "highlight_phrase": "Wall Street wettet, dass Trump beim Iran",
+      "toc_summary": "Wall Street wettet, dass Trump beim Iran einlenkt",
+      "quick_take": "doch was, wenn der \"TACO\"-Trade diesmal scheitert?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Die Frau meines Freundes starb mit 60 nach einer gut bezahlten Karriere. Kann er ihre Social Security beanspruchen?"
+          "text": "doch was, wenn der \"TACO\"-Trade diesmal scheitert?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Diese 4 Aktien könnten am meisten von einer 3,2-Billionen-Dollar-Halbleiter-Chan",
-      "highlight_phrase": "Diese 4 Aktien könnten am meisten von ei",
-      "toc_summary": "Diese 4 Aktien könnten am meisten von einer 3,2-Billionen-Dollar-Halbleiter-Chan",
-      "quick_take": "Diese 4 Aktien könnten am meisten von einer 3,2-Billionen-Dollar-Halbleiter-Chance profitieren.",
+      "title": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen.",
+      "highlight_phrase": "Teslas bevorstehende Produktoffensive kö",
+      "toc_summary": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen.",
+      "quick_take": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Diese 4 Aktien könnten am meisten von einer 3,2-Billionen-Dollar-Halbleiter-Chance profitieren."
+          "text": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen."
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen zur Mittagszeit",
-      "highlight_phrase": "Aktien mit den größten Bewegungen zur Mi",
-      "toc_summary": "Aktien mit den größten Bewegungen zur Mittagszeit",
-      "quick_take": "Skyworks Solutions, Axon, Dave & Buster's, Revvity & mehr.",
+      "title": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise g",
+      "highlight_phrase": "Securitize springt, nachdem Regulierer t",
+      "toc_summary": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise g",
+      "quick_take": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise genehmigen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Skyworks Solutions, Axon, Dave & Buster's, Revvity & mehr."
+          "text": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise genehmigen."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen im Vorfeld",
-      "highlight_phrase": "Aktien mit den größten Bewegungen im Vor",
-      "toc_summary": "Aktien mit den größten Bewegungen im Vorfeld",
-      "quick_take": "Dave & Buster's, Enova, Etsy & mehr.",
+      "title": "Aktien mit den größten Bewegungen zur Mittagszeit",
+      "highlight_phrase": "Aktien mit den größten Bewegungen zur Mi",
+      "toc_summary": "Aktien mit den größten Bewegungen zur Mittagszeit",
+      "quick_take": "Workday, Generac, Vital Farms, Vicor, Tower Semi & mehr.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Dave & Buster's, Enova, Etsy & mehr."
+          "text": "Workday, Generac, Vital Farms, Vicor, Tower Semi & mehr."
         }
       ],
       "callout": null,
