@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "topSignals": [
     {
-      "title": "Elcogen's China partnership moves from MoU to signed commercial supply agreements — the first MW-level SOC projects for the priority stack player.",
-      "text": "Elcogen and Shanghai HyEnergy Technology Co. Ltd. (published Sept 15) have signed supply agreements for their first MW-level solid oxide projects in China, progressing a relationship that began with a March 2026 MoU, a June 2026 executive visit to Tallinn, and now concrete commercial contracts covering green hydrogen production, CHP and energy storage applications. This is a genuine step-change from partnership-announcement to revenue-generating deployment, not another MoU. Elcogen",
-      "url": "https://elcogen.com/elcogen-and-shanghai-hyenergy-advance-collaboration-on-commercial-deployment-of-solid-oxide-cell-technologies-in-china/",
+      "title": "House passes the \"Power for the People Act\" (Ratepayer Protection Act) 417-3, forcing data centers to pay their own grid-upgrade costs — fuel cell stocks jump, then the Senate stalls it the next day.",
+      "text": "The bill defines \"large load customers\" (100 MW+ single-site peak demand) and directs state utility regulators to design rate structures so those customers — not ordinary ratepayers — bear the cost of new generation, transmission and distribution capacity built to serve them. Markets read this as tilting economics toward behind-the-meter power (SOFC's core value proposition): FuelCell Energy jumped 13% to $17.47, Plug Power climbed 7%, Bloom Energy rose 3% on the House vote (Sept 16). Progress then stalled on Sept 17 when Senate Energy and Natural Resources ranking member Martin Heinrich objected to a unanimous-consent request, so the bill is not law yet — the stock move prices in policy possibility, not an enacted mandate. Directly relevant to Dominic's business case: a codified cost-shift to data-center operators strengthens the argument for on-site/behind-the-meter SOFC over grid interconnection. Utility Dive | 24/7 Wall St. (stock reaction) | Roll Call (Senate stall)",
+      "url": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/",
       "n": 1
     },
     {
-      "title": "Bloom Energy published a new techno-economic report claiming its 800V DC-native SOFC power can cut non-compute capex for a 1 GW AI data center by $3.6B (27%) and 5-year TCO by $5.5B (9%) versus conventional AC infrastructure — directly LCOE-relevant.",
-      "text": "The claim: Bloom's SOFC generates 800V DC electrochemically on-site with no AC-to-DC conversion stage, cutting transformer/switchgear dependence (previously an FCEL-only differentiator vs. Bloom's AC output — see Aug/July digests). Stock jumped ~5-7% on the report plus a same-week Mizuho price-target raise to $351 (from $242, Sept 14) and the Hitachi-Japan news below; BE closed around $270 today vs. ~$252-253 Tuesday. Caveat: Bloom's own numbers, site-specific in practice. Bloom Energy IR | FuelCellsWorks",
-      "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energys-800V-DC-Native-Power-Can-Cut-Billions-from-AI-Data-Center-Costs-Reduce-Power-Use-and-Eliminate-Need-for-Transformers/default.aspx",
+      "title": "Bloom Energy's S&P 500 inclusion becomes effective today (Sept 18 closing-auction rebalancing, live in the index before Sept 21 open), extending a stock rally already up 222% YTD.",
+      "text": "BE traded in a $275.54-$288.00 range Sept 17 (closed $279.98, +4%) on continued momentum from last week's 800V DC-native techno-economic report and the Hitachi-Japan collaboration (both already logged); index-fund buying tied to the S&P entry is now the incremental driver rather than new commercial news. No new Bloom contracts or technical disclosures found in the last 24-48h beyond this flow-driven move. TipRanks",
+      "url": "https://www.tipranks.com/news/heres-why-bloom-energy-stock-be-is-rising-today-sept-17",
       "n": 2
     },
     {
-      "title": "Hitachi and Bloom Energy announced a collaboration to deploy SOFC-based on-site power for data centers and industrial customers in Japan (Sept 2, not previously logged in this monitor).",
-      "text": "Hitachi leads overall planning/design/operational support; Bloom supplies the fuel cell systems. The companies previously demonstrated remote control and monitoring of Bloom's fuel cells via Hitachi's control systems at Hitachi's Omika Works. This opens a new geography (Japan) for SOFC data-center deployment alongside the existing US pipeline, addressing Japan's AI-driven power-demand growth and slow grid-expansion timelines. ESG News | Hydrogen Fuel News",
-      "url": "https://esgnews.com/hitachi-bloom-energy-target-japans-data-center-power-gap/",
+      "title": "Priority stacks Elcogen and Topsoe: both confirmed quiet today — no new announcements.",
+      "text": "Elcogen's status is unchanged since the Sept 15 Shanghai HyEnergy MW-level supply-agreement news (already logged): elcoStack E3000 G2 platform, ELCO I Tallinn at 360 MW/yr, actively pursuing data-center partnerships per third-party market coverage. Topsoe's status is unchanged: SOEC-only Herning factory (500 MW/yr design capacity) remains the flagship asset, SOFC/data-center pathway still deferred under the May 2026 \"SOEC commercialization pathway adjustment,\" most recent company news is the Sept 7 Uniper FEED contract for an unrelated e-methanol project. Neither company has issued SOFC-specific news in the last 24-48h.",
+      "url": "",
       "n": 3
     }
   ],
@@ -25,22 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): See Top Signal #1 — first MW-level commercial supply agreements signed with Shanghai HyEnergy (China), a material progression from the August 24 China Southern Power Grid MoU. Status otherwise unchanged: elcoStack E3000 G2 platform, ELCO I Tallinn at 360 MW/yr.",
+          "text": "Elcogen (priority): No new news in the last 24-48h. Standing status: MW-level China supply agreements with Shanghai HyEnergy (signed, reported Sept 15); elcoStack E3000 G2 mass-manufacturing platform; ELCO I Tallinn facility at 360 MW/yr capacity (up from 10 MW pre-expansion).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): Confirmed quiet via direct press-releases check today. Featured items remain the Half-year statement 2026 (already logged Aug 27) and CEO Elena Scaltritti's appointment (already logged, old news). No new SOFC/SOEC announcement. Status unchanged: Herning SOEC-only factory hibernated, SOFC/data-center pathway deferred to 2029+.",
+          "text": "Topsoe (priority): No new news in the last 24-48h. Standing status: Herning SOEC factory (Europe's largest, 500 MW/yr design, up to 10 GW serviceable at full build-out over 10 years) remains SOEC-only; SOFC/data-center commercialization deferred per the March/May 2026 Strategic Roadmap Review; most recent (non-SOFC) news is the Sept 7 Uniper NorthStarH2 e-methanol FEED contract.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power: No new stack/cell news. H1 2026 results due before market open Wednesday Sept 23; consensus per Defense World is a loss of ~$0.0644/share on ~$34.75M revenue. This will be the first hard test of the commercial-execution questions raised by Panmure Liberum's June double-downgrade.",
+          "text": "Ceres Power: No new stack/cell news. H1 2026 results due before market open Wednesday Sept 23 (consensus: loss ~$0.0644/share, revenue ~$34.75M). Noted for completeness: Ceres subsidiary RFC Power (manganese flow batteries, long-duration storage — not SOFC) closed a £10M Series A earlier this month, diluting Ceres' stake to ~37%; battery diversification, not core SOFC news.",
           "url": "",
           "sources": []
         },
         {
-          "text": "No new stack/cell announcements found from FuelCell Energy, Sunfire, SolydEra, Mitsubishi Power, Kyocera, or Aisin.",
+          "text": "No new stack/cell announcements found from Bloom Energy, FuelCell Energy, Sunfire, SolydEra, Mitsubishi Power, Kyocera, or Aisin in the last 24-48h.",
           "url": "",
           "sources": []
         }
@@ -50,17 +50,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Hitachi–Bloom Energy Japan collaboration — see Top Signal #3. New geography for SOFC data-center/industrial on-site power deployment.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Elcogen–Shanghai HyEnergy first MW-level China projects — see Top Signal #1. Applications named: green hydrogen production, CHP, energy storage (not confirmed as data-center-specific, but relevant to the broader SOC commercial-deployment pipeline Dominic is tracking).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B/20yr), Bloom-Brookfield up to $5-25B, Bloom-Nebius $2.6B, Bloom-Equinix >100 MW/19 sites, Bloom-Oracle Project Jupiter up to 2.8 GW, FCEL-Fit Energy up to 380 MW, FCEL's 75 MW Texas Capacity Reservation Agreement (molten carbonate), FCEL-SDCL up to 450 MW, Ceres-Centrica UK/Europe pipeline, Ceres-Weichai China manufacturing licence.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -70,7 +60,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Top story of the day* — see Top Signal #1 (Power for the People Act / Ratepayer Protection Act): House passed 417-3 Sept 16, requiring state regulators to consider standards making 100 MW+ \"large load customers\" bear the cost of grid capacity built to serve them; Senate progress blocked Sept 17 by Sen. Heinrich's objection to unanimous consent. Not yet law. Standing background unchanged: PJM backstop reliability auction (bid window Sept 30-Oct 21), FERC's co-location transmission-service order in compliance-filing phase, FERC RM26-4 Section 206 show-cause orders (responses due Nov 16), Virginia's $0.011/kWh self-generation tax, US ITC 48E 30% fuel-cell ITC for construction starts after Dec 31 2025 (OBBBA removed the zero-GHG-emissions eligibility requirement, so natural-gas/biogas SOFC now qualifies; domestic-content thresholds rise 45%→50%→55% in 2026-28), New York's environmental-permit moratorium, Texas's pause on new data-center development, Germany's EnEfG-Novelle (still pending Bundestag/Bundesrat) and EEG-Novelle 2027 (first Bundestag reading Sept 24).",
           "url": "",
           "sources": []
         }
@@ -90,17 +80,22 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Trading around $270 today (range ~$262-275), up from Tuesday's $252-253 close — see Top Signals #2-3 for drivers (800V DC report, Mizuho PT raise to $351, Hitachi Japan news). S&P 500 inclusion effective before trading Sept 21; securities class-action lead-plaintiff deadline Sept 28; Q3 earnings Oct 27.",
+          "text": "FuelCell Energy (FCEL): Jumped 13% to $17.47 on Sept 16-17 on the Power for the People Act House passage — see Top Signal #1. Caution flagged by commentators: this prices in policy possibility on a bill not yet through the Senate, not booked contracts.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): H1 2026 results due Sept 23 (before open); consensus loss ~$0.0644/share on ~$34.75M revenue per Defense World's earnings preview.",
+          "text": "Plug Power (PLUG): Climbed 7% on the same regulatory news.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): No new disclosure beyond the already-logged Sept 2 Q3 FY2026 print.",
+          "text": "Bloom Energy (BE): Rose 3-4% on the regulatory news (Sept 16-17) on top of continued S&P 500-inclusion momentum; traded $275.54-$288.00 Sept 17, closed $279.98; index rebalancing effective today (Sept 18 close) ahead of formal inclusion before Sept 21 open. YTD +222%. Securities class-action lead-plaintiff deadline Sept 28; Q3 earnings Oct 27.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Power (CWR.L): H1 2026 results due Sept 23 before market open; consensus loss ~$0.0644/share on ~$34.75M revenue.",
           "url": "",
           "sources": []
         }
@@ -129,22 +124,22 @@
   ],
   "lcoe": [
     {
-      "text": "Bloom Energy's own techno-economic claim (Top Signal #2): 800V DC-native SOFC delivery reduces non-compute capex for a 1 GW AI data center by $3.6B (27%) and 5-year TCO by $5.5B (9%) vs. conventional AC infrastructure, per Bloom's \"The New Rules of AI Power\" report. Vendor-published, not independently verified — useful as a directional data point on the value of eliminating AC/DC conversion stages, not as a validated LCOE input.",
+      "text": "Power for the People Act (Top Signal #1): if enacted, would codify that 100 MW+ data-center loads bear the full cost of new grid generation/transmission/distribution built to serve them, rather than socializing it across ratepayers. This is a policy-side LCOE comparator, not a cost input directly — it raises the effective grid-power cost baseline that on-site SOFC needs to beat, strengthening SOFC's relative economics if enacted. Track Senate action; not yet law.",
       "url": "",
       "sources": []
     },
     {
-      "text": "SOFC-GT-Stirling-engine hybrid system (Chen et al., Energy, Vol. 345, published online Jan 27 2026, DOI 10.1016/j.energy.2026.140184):* reports rated energy efficiency 70.7%, exergy efficiency 68.04%, and — operating on natural gas through 2045 — an NPV of $0.0489/kW and LCOE figure of \"1050 ($'000)\" as reported (units as published; likely a total-cost or normalized figure rather than $/MWh — worth checking the full text before use). Flagged for completeness given no other system papers surfaced this week, not as a directly comparable LCOE benchmark.",
+      "text": "US ITC 48E confirmation: OBBBA-amended eligibility means natural-gas and biogas-fueled SOFC now qualify for the flat 30% ITC (construction start after Dec 31, 2025) without the previous zero-GHG-emissions test — material and likely underused in current LCOE capex assumptions if not already reflected. Domestic-content thresholds (45%/50%/55% in 2026/27/28) affect full-credit eligibility and should be checked against Elcogen/Topsoe/Bloom sourcing.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Carry-forward, unchanged: Henry Hub last confirmed at $2.81/MMBtu (Sept 9), still below the model's $4.00-4.30/MMBtu assumption — could not independently confirm a more recent EIA print today; Virginia's $0.011/kWh self-generation tax; PJM's $555/MW-day backstop ceiling; US ITC 48E 30% fuel-cell ITC for construction starts after Dec 31, 2025.",
+      "text": "Carry-forward, unchanged: Henry Hub last independently confirmed at $2.81/MMBtu (Sept 9); EIA's Q3 2026 STEO forecast (dated, per Oct 2025 STEO) put Henry Hub around $3.91/MMBtu — a forecast, not a new spot print, and one to reconcile against the model's $4.00-4.30/MMBtu assumption; Virginia's $0.011/kWh self-generation tax; PJM's $555/MW-day backstop ceiling.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending calendar: Ceres H1 results (Sept 23), Germany EEG-Novelle first Bundestag reading (Sept 24), Bloom S&P 500 entry (Sept 21), Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), Bloom Q3 earnings (Oct 27).",
+      "text": "Pending calendar: Ceres H1 results (Sept 23), Germany EEG-Novelle first Bundestag reading (Sept 24), Bloom formal S&P 500 entry (Sept 21 open), Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), Bloom Q3 earnings (Oct 27).",
       "url": "",
       "sources": []
     }
