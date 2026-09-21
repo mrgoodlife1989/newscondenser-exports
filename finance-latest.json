@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-18",
+    "title": "Beating Beta — 2026-09-21",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,26 +9,26 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-18",
+      "title": "Markets Snapshot — 2026-09-21",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7637.76 · Nasdaq 29446.98 · VIX 15.44 · 10Y 4.95% · Gold $4393.00 · Oil $101.12 · BTC $76909.34 · F&G N/A",
-      "quick_take": "S&P 500: 7637.76\nNasdaq: 29446.98\nVIX: 15.44 · 10Y: 4.95%\nGold: $4393.00 · Oil: $101.12\nBitcoin: $76909.34\nFear & Greed: N/A",
+      "toc_summary": "S&P 7.650,50 · Nasdaq 29.644,17 · VIX 14,81 · 10Y 5,00% · Gold $4.406,20 · Oil $93,87 · BTC $81.318,76 · F&G 29",
+      "quick_take": "S&P 500: 7.650,50\nNasdaq: 29.644,17\nVIX: 14,81 · 10Y: 5,00%\nGold: $4.406,20 · Oil: $93,87\nBitcoin: $81.318,76\nFear & Greed: 29",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7637.76 · Nasdaq 29446.98"
+          "text": "S&P 500 7.650,50 · Nasdaq 29.644,17"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4.95% · VIX 15.44"
+          "text": "10Y 5,00% · VIX 14,81"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4393.00 · WTI $101.12 · BTC $76909.34"
+          "text": "Gold $4.406,20 · WTI $93,87 · BTC $81.318,76"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: N/A"
+          "text": "Fear & Greed Index: 29"
         }
       ],
       "callout": null,
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Wa",
-      "highlight_phrase": "Die 10-jährige Treasury erlebt ihren sch",
-      "toc_summary": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Wa",
-      "quick_take": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Warum Anleger trotzdem Bonds kaufen.",
+      "title": "\"Mein Gesamtvermoegen sollte 20 Mio. $ betragen\"",
+      "highlight_phrase": "\"Mein Gesamtvermoegen sollte 20 Mio. $ b",
+      "toc_summary": "\"Mein Gesamtvermoegen sollte 20 Mio. $ betragen\"",
+      "quick_take": "Ich habe 1,1 Mio. $ in eine Krypto-Plattform investiert. Habe ich alles verloren?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Die 10-jährige Treasury erlebt ihren schlechtesten Lauf seit über 100 Jahren. Warum Anleger trotzdem Bonds kaufen."
+          "text": "Ich habe 1,1 Mio. $ in eine Krypto-Plattform investiert. Habe ich alles verloren?"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort.",
-      "highlight_phrase": "Micron, Intel und andere Chip-Aktien set",
-      "toc_summary": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort.",
-      "quick_take": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort.",
+      "title": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ ",
+      "highlight_phrase": "Ich habe 125.000 $ Kreditkartenschulden.",
+      "toc_summary": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ ",
+      "quick_take": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ pro Monat, inklusive Disability, meine Insolvenz?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Micron, Intel und andere Chip-Aktien setzen ihr starkes Comeback fort."
+          "text": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ pro Monat, inklusive Disability, meine Insolvenz?"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Wall Street wettet, dass Trump beim Iran einlenkt",
-      "highlight_phrase": "Wall Street wettet, dass Trump beim Iran",
-      "toc_summary": "Wall Street wettet, dass Trump beim Iran einlenkt",
-      "quick_take": "doch was, wenn der \"TACO\"-Trade diesmal scheitert?",
+      "title": "\"Mein Hauptziel ist, Menschen zu helfen\"",
+      "highlight_phrase": "\"Mein Hauptziel ist, Menschen zu helfen\"",
+      "toc_summary": "\"Mein Hauptziel ist, Menschen zu helfen\"",
+      "quick_take": "Ich bin single, 74, mit 10 Mio. $ auf dem Konto. Was soll ich tun?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "doch was, wenn der \"TACO\"-Trade diesmal scheitert?"
+          "text": "Ich bin single, 74, mit 10 Mio. $ auf dem Konto. Was soll ich tun?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen.",
-      "highlight_phrase": "Teslas bevorstehende Produktoffensive kö",
-      "toc_summary": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen.",
-      "quick_take": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen.",
+      "title": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter",
+      "highlight_phrase": "Meine Mietimmobilie ist abbezahlt, aber ",
+      "toc_summary": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter",
+      "quick_take": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter Zeitpunkt fuer einen HELOC ueber 50.000 $?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Teslas bevorstehende Produktoffensive könnte Anleger enttäuschen."
+          "text": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter Zeitpunkt fuer einen HELOC ueber 50.000 $?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise g",
-      "highlight_phrase": "Securitize springt, nachdem Regulierer t",
-      "toc_summary": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise g",
-      "quick_take": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise genehmigen.",
+      "title": "\"Es ist schrecklich\"",
+      "highlight_phrase": "\"Es ist schrecklich\"",
+      "toc_summary": "\"Es ist schrecklich\"",
+      "quick_take": "Wie Zoelle, steigende Kraftstoffkosten und hoehere Zinsen amerikanische Unternehmen erdrosseln",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Securitize springt, nachdem Regulierer tokenisierten US-Aktienhandel teilweise genehmigen."
+          "text": "Wie Zoelle, steigende Kraftstoffkosten und hoehere Zinsen amerikanische Unternehmen erdrosseln"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Aktien mit den größten Bewegungen zur Mittagszeit",
-      "highlight_phrase": "Aktien mit den größten Bewegungen zur Mi",
-      "toc_summary": "Aktien mit den größten Bewegungen zur Mittagszeit",
-      "quick_take": "Workday, Generac, Vital Farms, Vicor, Tower Semi & mehr.",
+      "title": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei",
+      "highlight_phrase": "Drei Worte von Kevin Warsh lassen die Wa",
+      "toc_summary": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei",
+      "quick_take": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei Zinserhoehungen gehen wird",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Workday, Generac, Vital Farms, Vicor, Tower Semi & mehr."
+          "text": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei Zinserhoehungen gehen wird"
         }
       ],
       "callout": null,
