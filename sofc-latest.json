@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "topSignals": [
     {
-      "title": "Bloom Energy joins the S&P 500 at tomorrow's open (Sept 21) — the first pure-play energy company added to the index since 2022, with its SOFC-for-AI-datacenters growth story cited as the explicit rationale.",
-      "text": "BE, Illumina and Everpure replace Molson Coors, Trade Desk and Builders FirstSource in the quarterly rebalance (announced Sept 4). Stock closed Sept 19 around $265.63, a modest pullback from the $270-288 range seen Sept 17-18, still up ~200%+ YTD; index-fund buying tied to inclusion is now the incremental flow driver rather than new commercial news. No new contracts or technical disclosures in the last 24-48h. Yahoo Finance | S&P Global",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-shares-rise-p-104838920.html",
+      "title": "Bloom Energy's S&P 500 inclusion took effect at today's open, replacing Molson Coors Beverage Co.",
+      "text": "— the first pure-play energy company added to the index since 2022. Last available close (Fri Sept 18) was $265.63 (-5.39%), after-hours $267.05; index-fund rebalancing flow is the incremental driver today, with no new commercial news attached to the inclusion itself. Yahoo Finance | StockAnalysis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-233544037.html",
       "n": 1
     },
     {
-      "title": "Both Senate vehicles for shifting data-center grid costs onto operators are now confirmed dead — not just stalled.",
-      "text": "Fuller picture of the Sept 17 standoff (previously logged as \"Heinrich objects to House bill\"): Sen. Heinrich (D-NM) blocked the House's 417-3 Ratepayer Protection Act via unanimous consent, calling it toothless; he then sought unanimous consent for his own alternative, the GRID Savings Act (FERC-enforced, 150 MW threshold, bans cost-rollup into residential rates) — and Sen. Bernie Moreno (R-OH) objected, killing that one too. Net effect for Dominic: the \"data centers will be forced to pay their own grid costs\" narrative that had been lifting fuel-cell stocks (FCEL +13%, BE +3% on the House vote) has lost its near-term legislative vehicle; Trump-Thune talks (logged Sept 19) remain the only live thread, and the Senate has only weeks left before the Nov 3 midterm recess. The Hill | mGrid",
-      "url": "https://thehill.com/policy/energy-environment/6096398-heinrich-blocks-husted-data-center-bill/",
+      "title": "New AI data center deployment, not previously logged: Bloom Energy fuel cells tapped for Aligned Data Centers' \"Project Phoenix,\"",
+      "text": "a 2 GW, three-facility campus in Shippingport, PA, running on dedicated on-site natural-gas-fed SOFC power rather than grid draw. RBC Capital called it another \"meaningful proof point\" for Bloom's data-center strategy and kept an Outperform rating with a $335 price target. This adds a new named hyperscale-adjacent deployment to the standing pipeline (Bloom-AEP, Bloom-Brookfield, Bloom-Oracle, Bloom-Equinix, Bloom-Nebius). Yahoo Finance / RBC",
+      "url": "https://finance.yahoo.com/energy/articles/bloom-energy-gains-another-meaningful-173525957.html",
       "n": 2
     },
     {
-      "title": "Priority stacks Elcogen and Topsoe: fourth consecutive quiet day — no new announcements from either.",
-      "text": "Elcogen unchanged since the Sept 15 Shanghai HyEnergy supply agreement (elcoStack E3000 G2, ELCO I Tallinn 360 MW/yr). Topsoe unchanged since the Sept 7 Uniper e-methanol FEED contract; SOEC-only Herning factory (500 MW/yr) remains the flagship asset, SOFC/data-center pathway still deferred under the May 2026 roadmap review. Direct site checks (elcogen.com, topsoe.com/press-releases) confirm no new releases in the last 24-48h.",
+      "title": "Priority stacks Elcogen and Topsoe: fifth consecutive quiet day",
+      "text": "— no new announcements from either since Elcogen's Sept 15 Shanghai HyEnergy agreement and Topsoe's Sept 7 Uniper e-methanol FEED contract. Direct site checks (elcogen.com/newsinsights, topsoe.com/press-releases) confirm no new releases in the last 24-48h; a web-search result dated \"Sept 19\" about an Elcogen Tallinn factory opening appears to be a re-surfaced older article describing the same ELCO I / 360 MW-per-year ramp already on file, not a new event.",
       "url": "",
       "n": 3
     }
@@ -25,14 +25,24 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news. Standing status unchanged — see Top Signal #3.",
+          "text": "Elcogen (priority): No new news beyond Top Signal #3. Standing status unchanged: elcoStack E3000 G2, ELCO I Tallinn ramping toward 360 MW/yr.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new news. Standing status unchanged — see Top Signal #3.",
+          "text": "Topsoe (priority): No new news beyond Top Signal #3. SOEC-only Herning factory (500 MW/yr) remains the flagship asset; SOFC/data-center pathway still deferred under the May 2026 roadmap review.",
           "url": "",
           "sources": []
+        },
+        {
+          "text": "New entrant identified (backfill, not from today): Teragen Energy, a Berkeley Lab spinout developing modular SOFC systems for data centers, industrial sites and utilities, closed an oversubscribed $6M pre-seed round (announced Aug 26, co-led by BEVC and Energy Capital Ventures; AP Ventures, AIC Ventures, MassCEC and UntroD Capital Asia also participated). Not previously carried in this monitor — flagged now for the watch list. PR Newswire",
+          "url": "https://finance.yahoo.com/energy/articles/teragen-energy-raises-oversubscribed-6m-141200639.html",
+          "sources": [
+            {
+              "title": "PR Newswire",
+              "url": "https://finance.yahoo.com/energy/articles/teragen-energy-raises-oversubscribed-6m-141200639.html"
+            }
+          ]
         },
         {
           "text": "Ceres Power: No new stack/cell news; H1 2026 results still due before market open Wednesday Sept 23 (consensus loss ~$0.0644/share, revenue ~$34.75M) — unchanged.",
@@ -50,7 +60,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "New — see Top Signal #2:* Bloom Energy / Aligned Data Centers \"Project Phoenix,\" 2 GW campus, Shippingport, PA. Rest of standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B), Bloom-Brookfield up to $25B EaaS framework, Bloom-Oracle Project Jupiter up to 2.8 GW, Bloom-Equinix >100 MW/19 sites (six states), Bloom-Nebius $2.6B (Vineland, NJ), Hitachi-Bloom Japan collaboration, FCEL-Fit Energy up to 380 MW (Phase 0 = 30 MW), FCEL-Inuverse Korea (AI Daegu Data Center, up to 100 MW), FCEL Texas 75 MW Capacity Reservation Agreement, FCEL-SDCL up to 450 MW, Ceres-Centrica UK/Europe pipeline, Ceres-Weichai China manufacturing licence, EU EcoEdge PrimePower (Equinix Milan dual-fuel SOFC/UPS/battery pilot), Doosan Fuel Cell-HyAxiom KRW 501.4B U.S. AI data center supply contract through 2028. No new hyperscaler (Microsoft, Google, Amazon, Meta, Oracle/OpenAI, xAI) direct fuel-cell procurement found in the last 24-48h.",
           "url": "",
           "sources": []
         }
@@ -60,7 +70,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Top story — see Top Signal #2:* both the House-passed Ratepayer Protection Act and Sen. Heinrich's GRID Savings Act alternative are now dead in the Senate after the Sept 17 dual-objection standoff (Heinrich blocks the House bill; Moreno blocks Heinrich's). Standing background unchanged: Trump-Thune conversations on a companion bill (Sept 18, no text yet), Sen. Van Hollen's \"Power for the People Act\" (S.3682) and Sen. Wyden's data-center excise-tax white paper remain pending as separate vehicles; PJM backstop reliability auction (bid window Sept 30-Oct 21); FERC co-location transmission-service order in compliance-filing phase; FERC RM26-4 Section 206 show-cause orders (responses due Nov 16); Virginia's $0.011/kWh self-generation tax; US ITC 48E 30% fuel-cell credit (natural-gas/biogas SOFC qualifies post-OBBBA); New York's permit moratorium; Texas's development pause; Germany's EnEfG-Novelle (pending) and EEG-Novelle 2027 (first Bundestag reading Sept 24).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -80,12 +90,12 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Closed ~$265.63 Sept 19, pulling back modestly from the $270-288 range of Sept 17-18 ahead of tomorrow's S&P 500 entry (Top Signal #1). Securities class-action (covering purchasers Feb 27 2025-Jul 8 2026, scandium-sourcing allegations) lead-plaintiff deadline Sept 28; Q3 earnings Oct 27.",
+          "text": "Bloom Energy (BE): Last close Fri Sept 18: $265.63 (-5.39%), after-hours $267.05 (+0.53%); day's range $265.00-285.10, volume 73.5M — a sharp pullback from the $270-288 range of Sept 17-18 intraday highs. S&P 500 formal entry effective today's open (Top Signal #1). Market cap $78.2B (+320% YTD), analyst consensus \"Buy,\" average price target $280.24. Securities class-action (Feb 27 2025-Jul 8 2026 purchasers, scandium-sourcing allegations) lead-plaintiff deadline Sept 28; multiple plaintiff firms (Robbins LLP, Kaplan Fox) still running reminder press releases — no new substantive development. Q3 earnings Oct 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): Closed $18.12 Sept 19 (range $17.17-18.38). New since last digest: Citi initiated coverage with a Neutral rating and $19 price target; Craig-Hallum initiated with a Buy rating and $22 price target — both following the Sept 2 Q3 print (data-center capacity agreement, 16.9% single-day drop on the wider loss). Director John Livingston bought 26.3K shares (~$247K) on Sept 14. Robbins LLP lead-plaintiff-deadline reminder for the June 4-Sept 1 class period remains outstanding (deadline already passed Sept 18).",
+          "text": "FuelCell Energy (FCEL): Last close Fri Sept 18: $18.11 (+2.26%), after-hours $18.12; day's range $17.17-18.38. New: Hagens Berman Sloane Sarko (HBSS) confirmed a Nov 10, 2026 lead-plaintiff deadline for its securities class action over Q3 disclosures tied to the Fit Energy CEPA Phase 0 charges ($17M in cost overruns disclosed Sept 2, triggering the 15.7% single-day drop) — a firmer date than the general \"investigation\" announcements logged earlier this month. Backlog stands at $3.6B per the Q3 transcript; positive adjusted EBITDA still targeted for Q4 2027. Citi (Neutral, $19 PT) and Craig-Hallum (Buy, $22 PT) coverage from last week stands; analyst consensus \"Buy,\" average target $20.33.",
           "url": "",
           "sources": []
         },
@@ -100,12 +110,7 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Patent-landscape read (PatSnap, background, not dated to this window): SOFC/SOEC filings increasingly converge on reversible cell designs (fuel-cell-under-load / electrolyzer-under-surplus-power); despite foundational filings from University of Florida Research Foundation and Honeywell, no dominant approach has emerged for sub-700°C SOFC with long-term durability — flagged as a \"white space\" in cathode three-phase-boundary engineering and bismuth-oxide electrolyte stabilization. Directional context only, not a new filing event.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Otherwise quiet — no new SOFC-specific patent or national-lab item independently dated to the last 24-48h.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -124,27 +129,22 @@
   ],
   "lcoe": [
     {
-      "text": "New MCFC (not SOFC) system LCOE study, for cross-reference: International Journal of Energy Research (Wiley, 2026) \"Cross-System Comparative Techno-Economic and Environmental Evaluation of MCFC Integration in Power and Biogas Upgrading Systems\" reports LCOE of $0.052-0.056/kWh for molten-carbonate systems, highly sensitive to CO2-utilization pathway and stack price, with SOFC-microturbine hybrids noted to outperform MCFC-microturbine designs on efficiency and stack cost — a useful comparator data point for the model's SOFC-vs-MCFC competitiveness section, not a direct SOFC input. Wiley",
-      "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/er/6871470",
-      "sources": [
-        {
-          "title": "Wiley",
-          "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/er/6871470"
-        }
-      ]
-    },
-    {
-      "text": "Henry Hub carry-forward, unchanged: futures through September 2026 remain below $3.00/MMBtu; EIA expects spot to stay sub-$3.00 until November; full-year 2026 EIA average estimate ~$3.43-3.44/MMBtu — still below the model's carried $4.00-4.30/MMBtu assumption; worth reconciling.",
+      "text": "No new capex/opex/efficiency figures today. Henry Hub carry-forward unchanged: futures through September 2026 remain below $3.00/MMBtu; EIA expects spot to stay sub-$3.00 until November; full-year 2026 EIA average estimate ~$3.43-3.44/MMBtu — still below the model's carried $4.00-4.30/MMBtu assumption; worth reconciling.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Regulatory carry-forward, unchanged: both federal cost-shift bills now dead (Top Signal #2) removes near-term downside/upside uncertainty on the \"SOFC avoids grid-upgrade cost-shift\" argument — a qualitative rather than quantitative LCOE factor, but relevant to risk-adjusting the behind-the-meter case. US ITC 48E 30% credit for natural-gas/biogas SOFC (construction start post-Dec 31 2025, domestic-content thresholds 45%/50%/55% in 2026-28); Virginia's $0.011/kWh self-generation tax; PJM's $555/MW-day backstop ceiling.",
+      "text": "Regulatory carry-forward, unchanged: both federal cost-shift bills remain dead; Germany's EEG-Novelle 2027 gets its first Bundestag reading Sept 24 — worth watching for self-generation/behind-the-meter treatment once the bill text is debated, as it could shift the German SOFC data-center case either direction.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending calendar: Ceres H1 results (Sept 23), Germany EEG-Novelle first Bundestag reading (Sept 24), Bloom formal S&P 500 entry (Sept 21 open), Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), Bloom Q3 earnings (Oct 27).",
+      "text": "Bloom's own techno-economic claim (background, unverified, carried from Sept 17): 800V DC-native SOFC delivery reduces non-compute capex for a 1 GW AI data center by $3.6B (27%) and 5-year TCO by $5.5B (9%) vs. conventional AC infrastructure — vendor-published, useful directionally on the value of eliminating AC/DC conversion stages, not a validated LCOE input.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending calendar: Ceres H1 results (Sept 23), Germany EEG-Novelle first Bundestag reading (Sept 24), Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), Bloom Q3 earnings (Oct 27), FCEL lead-plaintiff deadline (Nov 10).",
       "url": "",
       "sources": []
     }
