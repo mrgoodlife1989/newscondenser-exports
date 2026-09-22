@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-21",
+    "title": "Beating Beta — 2026-09-22",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,26 +9,26 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-21",
+      "title": "Markets Snapshot — 2026-09-22",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7.650,50 · Nasdaq 29.644,17 · VIX 14,81 · 10Y 5,00% · Gold $4.406,20 · Oil $93,87 · BTC $81.318,76 · F&G 29",
-      "quick_take": "S&P 500: 7.650,50\nNasdaq: 29.644,17\nVIX: 14,81 · 10Y: 5,00%\nGold: $4.406,20 · Oil: $93,87\nBitcoin: $81.318,76\nFear & Greed: 29",
+      "toc_summary": "S&P 7764.70 · Nasdaq 30482.35 · VIX 14.87 · 10Y 4.96% · Gold $4383.60 · Oil $92.94 · BTC $85696.79 · F&G 34",
+      "quick_take": "S&P 500: 7764.70\nNasdaq: 30482.35\nVIX: 14.87 · 10Y: 4.96%\nGold: $4383.60 · Oil: $92.94\nBitcoin: $85696.79\nFear & Greed: 34",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7.650,50 · Nasdaq 29.644,17"
+          "text": "S&P 500 7764.70 · Nasdaq 30482.35"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 5,00% · VIX 14,81"
+          "text": "10Y 4.96% · VIX 14.87"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4.406,20 · WTI $93,87 · BTC $81.318,76"
+          "text": "Gold $4383.60 · WTI $92.94 · BTC $85696.79"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: 29"
+          "text": "Fear & Greed Index: 34"
         }
       ],
       "callout": null,
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "\"Mein Gesamtvermoegen sollte 20 Mio. $ betragen\"",
-      "highlight_phrase": "\"Mein Gesamtvermoegen sollte 20 Mio. $ b",
-      "toc_summary": "\"Mein Gesamtvermoegen sollte 20 Mio. $ betragen\"",
-      "quick_take": "Ich habe 1,1 Mio. $ in eine Krypto-Plattform investiert. Habe ich alles verloren?",
+      "title": "Metas Aktie erlebt den besten Monat seit 13 Jahren",
+      "highlight_phrase": "Metas Aktie erlebt den besten Monat seit",
+      "toc_summary": "Metas Aktie erlebt den besten Monat seit 13 Jahren",
+      "quick_take": "dank des neuen KI-Assistenten.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich habe 1,1 Mio. $ in eine Krypto-Plattform investiert. Habe ich alles verloren?"
+          "text": "dank des neuen KI-Assistenten."
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ ",
-      "highlight_phrase": "Ich habe 125.000 $ Kreditkartenschulden.",
-      "toc_summary": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ ",
-      "quick_take": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ pro Monat, inklusive Disability, meine Insolvenz?",
+      "title": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor.",
+      "highlight_phrase": "AT&T-Aktie laut Analyst der smarteste Pi",
+      "toc_summary": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor.",
+      "quick_take": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich habe 125.000 $ Kreditkartenschulden. Beeinflusst ein Einkommen von 17.000 $ pro Monat, inklusive Disability, meine Insolvenz?"
+          "text": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor."
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "\"Mein Hauptziel ist, Menschen zu helfen\"",
-      "highlight_phrase": "\"Mein Hauptziel ist, Menschen zu helfen\"",
-      "toc_summary": "\"Mein Hauptziel ist, Menschen zu helfen\"",
-      "quick_take": "Ich bin single, 74, mit 10 Mio. $ auf dem Konto. Was soll ich tun?",
+      "title": "Bitcoin erreicht 8-Monats-Hoch",
+      "highlight_phrase": "Bitcoin erreicht 8-Monats-Hoch",
+      "toc_summary": "Bitcoin erreicht 8-Monats-Hoch",
+      "quick_take": "ein klares Signal für die aktuelle Risikobereitschaft.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Ich bin single, 74, mit 10 Mio. $ auf dem Konto. Was soll ich tun?"
+          "text": "ein klares Signal für die aktuelle Risikobereitschaft."
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter",
-      "highlight_phrase": "Meine Mietimmobilie ist abbezahlt, aber ",
-      "toc_summary": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter",
-      "quick_take": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter Zeitpunkt fuer einen HELOC ueber 50.000 $?",
+      "title": "Ehepaar, 50er, keine Kinder, 2 Mio. USD in IRAs und 401(k)s",
+      "highlight_phrase": "Ehepaar, 50er, keine Kinder, 2 Mio. USD ",
+      "toc_summary": "Ehepaar, 50er, keine Kinder, 2 Mio. USD in IRAs und 401(k)s",
+      "quick_take": "brauchen sie wirklich ein Testament?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Meine Mietimmobilie ist abbezahlt, aber ich brauche Cash. Ist das ein schlechter Zeitpunkt fuer einen HELOC ueber 50.000 $?"
+          "text": "brauchen sie wirklich ein Testament?"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "\"Es ist schrecklich\"",
-      "highlight_phrase": "\"Es ist schrecklich\"",
-      "toc_summary": "\"Es ist schrecklich\"",
-      "quick_take": "Wie Zoelle, steigende Kraftstoffkosten und hoehere Zinsen amerikanische Unternehmen erdrosseln",
+      "title": "Wer bisher zum Trump-Xi-Dinner kommt.",
+      "highlight_phrase": "Wer bisher zum Trump-Xi-Dinner kommt.",
+      "toc_summary": "Wer bisher zum Trump-Xi-Dinner kommt.",
+      "quick_take": "Wer bisher zum Trump-Xi-Dinner kommt.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wie Zoelle, steigende Kraftstoffkosten und hoehere Zinsen amerikanische Unternehmen erdrosseln"
+          "text": "Wer bisher zum Trump-Xi-Dinner kommt."
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei",
-      "highlight_phrase": "Drei Worte von Kevin Warsh lassen die Wa",
-      "toc_summary": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei",
-      "quick_take": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei Zinserhoehungen gehen wird",
+      "title": "Jamie Dimon",
+      "highlight_phrase": "Jamie Dimon",
+      "toc_summary": "Jamie Dimon",
+      "quick_take": "Hyperscaler-KI-Ausgaben könnten nächstes Jahr 1 Billion USD erreichen.",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Drei Worte von Kevin Warsh lassen die Wall Street raetseln, wie weit die Fed bei Zinserhoehungen gehen wird"
+          "text": "Hyperscaler-KI-Ausgaben könnten nächstes Jahr 1 Billion USD erreichen."
         }
       ],
       "callout": null,
