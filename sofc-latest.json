@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "topSignals": [
     {
-      "title": "Bloom Energy's S&P 500 inclusion took effect at today's open, replacing Molson Coors Beverage Co.",
-      "text": "— the first pure-play energy company added to the index since 2022. Last available close (Fri Sept 18) was $265.63 (-5.39%), after-hours $267.05; index-fund rebalancing flow is the incremental driver today, with no new commercial news attached to the inclusion itself. Yahoo Finance | StockAnalysis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-233544037.html",
+      "title": "Elcogen breaks its quiet streak: multi-year testing cooperation with Metrosert, Estonia's national applied-research institute.",
+      "text": "Announced Sept 21, the deal gives Elcogen additional test-bench capacity and expertise for solid oxide stack validation, run by Metrosert's Hydrogen Technologies Unit. No financial figures disclosed — it's a capability/validation partnership, not a commercial or capacity item, but it ends a run of quiet days for priority stack #1. Elcogen",
+      "url": "https://elcogen.com/elcogen-and-metrosert-enter-multi-year-cooperation-to-strengthen-solid-oxide-technology-testing/",
       "n": 1
     },
     {
-      "title": "New AI data center deployment, not previously logged: Bloom Energy fuel cells tapped for Aligned Data Centers' \"Project Phoenix,\"",
-      "text": "a 2 GW, three-facility campus in Shippingport, PA, running on dedicated on-site natural-gas-fed SOFC power rather than grid draw. RBC Capital called it another \"meaningful proof point\" for Bloom's data-center strategy and kept an Outperform rating with a $335 price target. This adds a new named hyperscale-adjacent deployment to the standing pipeline (Bloom-AEP, Bloom-Brookfield, Bloom-Oracle, Bloom-Equinix, Bloom-Nebius). Yahoo Finance / RBC",
-      "url": "https://finance.yahoo.com/energy/articles/bloom-energy-gains-another-meaningful-173525957.html",
+      "title": "Priority-stack contrast: Elcogen active (see #1), Topsoe now on a sixth consecutive quiet day.",
+      "text": "Direct checks of topsoe.com/press-releases and topsoe.com/news show no new release since the Sept 7 Uniper e-methanol FEED contract; the half-year 2026 statement referenced on Topsoe's press page is the same one already on file (SOEC-only Herning factory, SOFC/data-center pathway still deferred under the May 2026 roadmap review). No SOFC- or data-center-specific news from Topsoe to report.",
+      "url": "",
       "n": 2
     },
     {
-      "title": "Priority stacks Elcogen and Topsoe: fifth consecutive quiet day",
-      "text": "— no new announcements from either since Elcogen's Sept 15 Shanghai HyEnergy agreement and Topsoe's Sept 7 Uniper e-methanol FEED contract. Direct site checks (elcogen.com/newsinsights, topsoe.com/press-releases) confirm no new releases in the last 24-48h; a web-search result dated \"Sept 19\" about an Elcogen Tallinn factory opening appears to be a re-surfaced older article describing the same ELCO I / 360 MW-per-year ramp already on file, not a new event.",
-      "url": "",
+      "title": "Bloom Energy rallied +2.73% to $272.89 on its first trading day inside the S&P 500",
+      "text": "(Sept 21 close; after-hours $274.00), reversing Friday's pre-inclusion pullback (-5.39%). Index-fund rebalancing flow plus a Newsweek \"World's Most Trustworthy Companies 2026\" listing were the news pegs; no new commercial or data-center contract news attached. StockAnalysis | Bloom Energy",
+      "url": "https://stockanalysis.com/stocks/be/",
       "n": 3
     }
   ],
@@ -25,32 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news beyond Top Signal #3. Standing status unchanged: elcoStack E3000 G2, ELCO I Tallinn ramping toward 360 MW/yr.",
+          "text": "Elcogen (priority): New — Metrosert testing cooperation (see Top Signal #1). Standing status unchanged otherwise: elcoStack E3000 G2 platform, ELCO I Tallinn factory ramping toward 360 MW/yr.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new news beyond Top Signal #3. SOEC-only Herning factory (500 MW/yr) remains the flagship asset; SOFC/data-center pathway still deferred under the May 2026 roadmap review.",
+          "text": "Topsoe (priority): No new news — sixth consecutive quiet day (see Top Signal #2). SOEC-only Herning factory (500 MW/yr) remains the flagship asset; SOFC/data-center pathway still deferred.",
           "url": "",
           "sources": []
         },
         {
-          "text": "New entrant identified (backfill, not from today): Teragen Energy, a Berkeley Lab spinout developing modular SOFC systems for data centers, industrial sites and utilities, closed an oversubscribed $6M pre-seed round (announced Aug 26, co-led by BEVC and Energy Capital Ventures; AP Ventures, AIC Ventures, MassCEC and UntroD Capital Asia also participated). Not previously carried in this monitor — flagged now for the watch list. PR Newswire",
-          "url": "https://finance.yahoo.com/energy/articles/teragen-energy-raises-oversubscribed-6m-141200639.html",
-          "sources": [
-            {
-              "title": "PR Newswire",
-              "url": "https://finance.yahoo.com/energy/articles/teragen-energy-raises-oversubscribed-6m-141200639.html"
-            }
-          ]
-        },
-        {
-          "text": "Ceres Power: No new stack/cell news; H1 2026 results still due before market open Wednesday Sept 23 (consensus loss ~$0.0644/share, revenue ~$34.75M) — unchanged.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "No new stack/cell announcements found from Bloom Energy, FuelCell Energy, Sunfire, SolydEra, Mitsubishi Power, Kyocera, or Aisin in the last 24-48h.",
+          "text": "No new stack/cell announcements found from Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, or Aisin in the last 24-48h. Ceres Power's H1 2026 results are due before market open tomorrow, Sept 23 (unchanged from yesterday's flag).",
           "url": "",
           "sources": []
         }
@@ -60,7 +45,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "New — see Top Signal #2:* Bloom Energy / Aligned Data Centers \"Project Phoenix,\" 2 GW campus, Shippingport, PA. Rest of standing pipeline unchanged: Bloom-AEP 1 GW ($2.65B), Bloom-Brookfield up to $25B EaaS framework, Bloom-Oracle Project Jupiter up to 2.8 GW, Bloom-Equinix >100 MW/19 sites (six states), Bloom-Nebius $2.6B (Vineland, NJ), Hitachi-Bloom Japan collaboration, FCEL-Fit Energy up to 380 MW (Phase 0 = 30 MW), FCEL-Inuverse Korea (AI Daegu Data Center, up to 100 MW), FCEL Texas 75 MW Capacity Reservation Agreement, FCEL-SDCL up to 450 MW, Ceres-Centrica UK/Europe pipeline, Ceres-Weichai China manufacturing licence, EU EcoEdge PrimePower (Equinix Milan dual-fuel SOFC/UPS/battery pilot), Doosan Fuel Cell-HyAxiom KRW 501.4B U.S. AI data center supply contract through 2028. No new hyperscaler (Microsoft, Google, Amazon, Meta, Oracle/OpenAI, xAI) direct fuel-cell procurement found in the last 24-48h.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -90,17 +75,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Last close Fri Sept 18: $265.63 (-5.39%), after-hours $267.05 (+0.53%); day's range $265.00-285.10, volume 73.5M — a sharp pullback from the $270-288 range of Sept 17-18 intraday highs. S&P 500 formal entry effective today's open (Top Signal #1). Market cap $78.2B (+320% YTD), analyst consensus \"Buy,\" average price target $280.24. Securities class-action (Feb 27 2025-Jul 8 2026 purchasers, scandium-sourcing allegations) lead-plaintiff deadline Sept 28; multiple plaintiff firms (Robbins LLP, Kaplan Fox) still running reminder press releases — no new substantive development. Q3 earnings Oct 27.",
+          "text": "Bloom Energy (BE): Close $272.89 (+2.73%), after-hours $274.00 (+0.41%) — see Top Signal #3. Market cap ~$80B; analyst consensus \"Buy,\" average price target $280.24 (2.7% upside). Securities class-action lead-plaintiff deadline still Sept 28; Q3 earnings still Oct 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): Last close Fri Sept 18: $18.11 (+2.26%), after-hours $18.12; day's range $17.17-18.38. New: Hagens Berman Sloane Sarko (HBSS) confirmed a Nov 10, 2026 lead-plaintiff deadline for its securities class action over Q3 disclosures tied to the Fit Energy CEPA Phase 0 charges ($17M in cost overruns disclosed Sept 2, triggering the 15.7% single-day drop) — a firmer date than the general \"investigation\" announcements logged earlier this month. Backlog stands at $3.6B per the Q3 transcript; positive adjusted EBITDA still targeted for Q4 2027. Citi (Neutral, $19 PT) and Craig-Hallum (Buy, $22 PT) coverage from last week stands; analyst consensus \"Buy,\" average target $20.33.",
+          "text": "FuelCell Energy (FCEL): Close $17.96 (-0.83%). No new news beyond yesterday's log (Hagens Berman Nov 10 lead-plaintiff deadline; $3.6B backlog; Citi Neutral $19 PT, Craig-Hallum Buy $22 PT).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): H1 2026 results due Sept 23 before market open — unchanged.",
+          "text": "Ceres Power (CWR.L): H1 2026 results due tomorrow, Sept 23, before market open — unchanged.",
           "url": "",
           "sources": []
         }
@@ -129,17 +114,7 @@
   ],
   "lcoe": [
     {
-      "text": "No new capex/opex/efficiency figures today. Henry Hub carry-forward unchanged: futures through September 2026 remain below $3.00/MMBtu; EIA expects spot to stay sub-$3.00 until November; full-year 2026 EIA average estimate ~$3.43-3.44/MMBtu — still below the model's carried $4.00-4.30/MMBtu assumption; worth reconciling.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Regulatory carry-forward, unchanged: both federal cost-shift bills remain dead; Germany's EEG-Novelle 2027 gets its first Bundestag reading Sept 24 — worth watching for self-generation/behind-the-meter treatment once the bill text is debated, as it could shift the German SOFC data-center case either direction.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Bloom's own techno-economic claim (background, unverified, carried from Sept 17): 800V DC-native SOFC delivery reduces non-compute capex for a 1 GW AI data center by $3.6B (27%) and 5-year TCO by $5.5B (9%) vs. conventional AC infrastructure — vendor-published, useful directionally on the value of eliminating AC/DC conversion stages, not a validated LCOE input.",
+      "text": "No new capex/opex/efficiency figures today. Henry Hub carry-forward unchanged: futures remain below $3.00/MMBtu through Q3, EIA full-year 2026 average estimate ~$3.43-3.44/MMBtu — still below the model's carried $4.00-4.30/MMBtu assumption; worth reconciling.",
       "url": "",
       "sources": []
     },
