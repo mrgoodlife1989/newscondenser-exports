@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "topSignals": [
     {
-      "title": "Elcogen breaks its quiet streak: multi-year testing cooperation with Metrosert, Estonia's national applied-research institute.",
-      "text": "Announced Sept 21, the deal gives Elcogen additional test-bench capacity and expertise for solid oxide stack validation, run by Metrosert's Hydrogen Technologies Unit. No financial figures disclosed — it's a capability/validation partnership, not a commercial or capacity item, but it ends a run of quiet days for priority stack #1. Elcogen",
-      "url": "https://elcogen.com/elcogen-and-metrosert-enter-multi-year-cooperation-to-strengthen-solid-oxide-technology-testing/",
+      "title": "Bloom Energy's post-S&P-500 rally is sharply diverging from its SOFC peers.",
+      "text": "BE is up 38% over the past month (YTD +220%), closing Sept 22 at $277.81 (+1.63%) on continued passive-fund index-rebalancing flow. Over the same month FuelCell Energy fell 8% to $17.93 and Plug Power fell 7% to $2.10, while GE Vernova was roughly flat. Bulls argue index inclusion permanently narrows Bloom's tradeable float toward patient passive holders; bears call it a one-time mechanical flow that could reverse if Q3 earnings (Oct 27) disappoint. 24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/22/bloom-energy-just-ripped-38-in-a-month-take-profits-or-buy-more/",
       "n": 1
     },
     {
-      "title": "Priority-stack contrast: Elcogen active (see #1), Topsoe now on a sixth consecutive quiet day.",
-      "text": "Direct checks of topsoe.com/press-releases and topsoe.com/news show no new release since the Sept 7 Uniper e-methanol FEED contract; the half-year 2026 statement referenced on Topsoe's press page is the same one already on file (SOEC-only Herning factory, SOFC/data-center pathway still deferred under the May 2026 roadmap review). No SOFC- or data-center-specific news from Topsoe to report.",
-      "url": "",
+      "title": "Priority stacks: Elcogen quiet for a second day, Topsoe now on a seventh consecutive quiet day.",
+      "text": "Direct site checks in English and German confirm neither has posted anything new: Elcogen's last release remains the Sept 21 Metrosert testing-cooperation deal, and Topsoe's last release remains the Sept 7 Uniper e-methanol FEED contract. No SOFC- or data-center-specific news from either priority stack in the last 24-48h. Elcogen News | Topsoe Press Releases",
+      "url": "https://elcogen.com/newsinsights/",
       "n": 2
     },
     {
-      "title": "Bloom Energy rallied +2.73% to $272.89 on its first trading day inside the S&P 500",
-      "text": "(Sept 21 close; after-hours $274.00), reversing Friday's pre-inclusion pullback (-5.39%). Index-fund rebalancing flow plus a Newsweek \"World's Most Trustworthy Companies 2026\" listing were the news pegs; no new commercial or data-center contract news attached. StockAnalysis | Bloom Energy",
-      "url": "https://stockanalysis.com/stocks/be/",
+      "title": "Ceres Power's H1 2026 results are due today, Sept 23, before UK market open",
+      "text": "— consensus expects a loss of £0.0644/share on revenue of ~$34.75M. Not yet published at the time of writing; last year's H1 comparable (Sept 2025) showed revenue down 26% YoY to £21.1M with Doosan's SOFC mass-production ramp and Delta Electronics' ~£170M Taiwan manufacturing commitment as the strategic highlights. Defense World",
+      "url": "https://www.defenseworld.net/2026/09/16/ceres-power-cpwhf-projected-to-announce-quarterly-earnings-on-wednesday.html",
       "n": 3
     }
   ],
@@ -25,17 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): New — Metrosert testing cooperation (see Top Signal #1). Standing status unchanged otherwise: elcoStack E3000 G2 platform, ELCO I Tallinn factory ramping toward 360 MW/yr.",
+          "text": "Elcogen (priority): No new news beyond Top Signal #2. Standing status unchanged: elcoStack E3000 G2 platform, ELCO I Tallinn factory ramping toward 360 MW/yr.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new news — sixth consecutive quiet day (see Top Signal #2). SOEC-only Herning factory (500 MW/yr) remains the flagship asset; SOFC/data-center pathway still deferred.",
+          "text": "Topsoe (priority): No new news — seventh consecutive quiet day (Top Signal #2). SOEC-only Herning factory (500 MW/yr) remains the flagship asset; SOFC/data-center pathway still deferred under the May 2026 roadmap review.",
           "url": "",
           "sources": []
         },
         {
-          "text": "No new stack/cell announcements found from Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, or Aisin in the last 24-48h. Ceres Power's H1 2026 results are due before market open tomorrow, Sept 23 (unchanged from yesterday's flag).",
+          "text": "Ceres Power: H1 2026 results due today before market open — see Top Signal #3.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No new stack/cell announcements found from Bloom Energy, FuelCell Energy, Sunfire, SolydEra, Mitsubishi Power, Kyocera, or Aisin in the last 24-48h.",
           "url": "",
           "sources": []
         }
@@ -75,17 +80,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Close $272.89 (+2.73%), after-hours $274.00 (+0.41%) — see Top Signal #3. Market cap ~$80B; analyst consensus \"Buy,\" average price target $280.24 (2.7% upside). Securities class-action lead-plaintiff deadline still Sept 28; Q3 earnings still Oct 27.",
+          "text": "Bloom Energy (BE): Close Sept 22: $277.81 (+1.63%) — see Top Signal #1. Up 38% over the past month, YTD +220%. Securities class-action lead-plaintiff deadline still Sept 28; Q3 earnings Oct 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): Close $17.96 (-0.83%). No new news beyond yesterday's log (Hagens Berman Nov 10 lead-plaintiff deadline; $3.6B backlog; Citi Neutral $19 PT, Craig-Hallum Buy $22 PT).",
+          "text": "FuelCell Energy (FCEL): Closed Sept 22 at $17.93, down ~8% over the past month. A wave of plaintiff-firm press releases reminded investors of the Nov 10, 2026 lead-plaintiff deadline — routine litigation marketing, no new substantive disclosure. Backlog remains $3.6B.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): H1 2026 results due tomorrow, Sept 23, before market open — unchanged.",
+          "text": "Ceres Power (CWR.L): H1 2026 results due today before market open — see Top Signal #3.",
           "url": "",
           "sources": []
         }
@@ -114,12 +119,22 @@
   ],
   "lcoe": [
     {
-      "text": "No new capex/opex/efficiency figures today. Henry Hub carry-forward unchanged: futures remain below $3.00/MMBtu through Q3, EIA full-year 2026 average estimate ~$3.43-3.44/MMBtu — still below the model's carried $4.00-4.30/MMBtu assumption; worth reconciling.",
+      "text": "No new capex/opex/efficiency figures today. Henry Hub carry-forward unchanged: EIA's full-year 2026 average estimate remains ~$3.43-3.44/MMBtu, still below the model's carried $4.00-4.30/MMBtu assumption.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending calendar: Ceres H1 results (Sept 23), Germany EEG-Novelle first Bundestag reading (Sept 24), Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), Bloom Q3 earnings (Oct 27), FCEL lead-plaintiff deadline (Nov 10).",
+      "text": "EPA turbine NSPS (background, in force since Jan 15, 2026): exempts \"low-use\" combustion turbines from major-source Title V permitting for data centers — eases the permitting case for competing gas-turbine on-site power; under legal challenge over the \"temporary\" turbine loophole. Clark Hill",
+      "url": "https://www.clarkhill.com/news-events/news/epa-turbine-rules-air-permitting-data-centers/",
+      "sources": [
+        {
+          "title": "Clark Hill",
+          "url": "https://www.clarkhill.com/news-events/news/epa-turbine-rules-air-permitting-data-centers/"
+        }
+      ]
+    },
+    {
+      "text": "Pending calendar: Ceres H1 results (today, Sept 23), Germany EEG-Novelle first Bundestag reading (Sept 24), Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), Bloom Q3 earnings (Oct 27), FCEL lead-plaintiff deadline (Nov 10).",
       "url": "",
       "sources": []
     }
