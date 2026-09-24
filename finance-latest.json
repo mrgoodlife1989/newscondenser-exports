@@ -1,7 +1,7 @@
 {
   "headline": {
     "category_label": "DAILY FINANCE BRIEF",
-    "title": "Beating Beta — 2026-09-22",
+    "title": "Beating Beta — 2026-09-24",
     "highlight_phrase": "markets & guru radar",
     "summary": "Daily finance brief: guru radar, markets snapshot, and 6 market news items."
   },
@@ -9,26 +9,26 @@
     {
       "number": "02",
       "category": "FINANCE · MARKETS",
-      "title": "Markets Snapshot — 2026-09-22",
+      "title": "Markets Snapshot — 2026-09-24",
       "highlight_phrase": "market snapshot",
-      "toc_summary": "S&P 7764.70 · Nasdaq 30482.35 · VIX 14.87 · 10Y 4.96% · Gold $4383.60 · Oil $92.94 · BTC $85696.79 · F&G 34",
-      "quick_take": "S&P 500: 7764.70\nNasdaq: 30482.35\nVIX: 14.87 · 10Y: 4.96%\nGold: $4383.60 · Oil: $92.94\nBitcoin: $85696.79\nFear & Greed: 34",
+      "toc_summary": "S&P 7706.03 · Nasdaq 30470.29 · VIX 15.18 · 10Y 5.11% · Gold $4326.90 · Oil $91.41 · BTC $84354.00 · F&G N/A",
+      "quick_take": "S&P 500: 7706.03\nNasdaq: 30470.29\nVIX: 15.18 · 10Y: 5.11%\nGold: $4326.90 · Oil: $91.41\nBitcoin: $84354.00\nFear & Greed: N/A",
       "bullets": [
         {
           "label": "Equities",
-          "text": "S&P 500 7764.70 · Nasdaq 30482.35"
+          "text": "S&P 500 7706.03 · Nasdaq 30470.29"
         },
         {
           "label": "Rates & Vol",
-          "text": "10Y 4.96% · VIX 14.87"
+          "text": "10Y 5.11% · VIX 15.18"
         },
         {
           "label": "Commodities & Crypto",
-          "text": "Gold $4383.60 · WTI $92.94 · BTC $85696.79"
+          "text": "Gold $4326.90 · WTI $91.41 · BTC $84354.00"
         },
         {
           "label": "Sentiment",
-          "text": "Fear & Greed Index: 34"
+          "text": "Fear & Greed Index: N/A"
         }
       ],
       "callout": null,
@@ -42,14 +42,14 @@
     {
       "number": "03",
       "category": "FINANCE · NEWS",
-      "title": "Metas Aktie erlebt den besten Monat seit 13 Jahren",
-      "highlight_phrase": "Metas Aktie erlebt den besten Monat seit",
-      "toc_summary": "Metas Aktie erlebt den besten Monat seit 13 Jahren",
-      "quick_take": "dank des neuen KI-Assistenten.",
+      "title": "\"It doesn't seem fair\": Ich bin Rentner mit genug Geld",
+      "highlight_phrase": "\"It doesn't seem fair\": Ich bin Rentner ",
+      "toc_summary": "\"It doesn't seem fair\": Ich bin Rentner mit genug Geld",
+      "quick_take": "warum bekomme ich keine Retail-Kreditkarte?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "dank des neuen KI-Assistenten."
+          "text": "warum bekomme ich keine Retail-Kreditkarte?"
         }
       ],
       "callout": null,
@@ -63,14 +63,14 @@
     {
       "number": "04",
       "category": "FINANCE · NEWS",
-      "title": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor.",
-      "highlight_phrase": "AT&T-Aktie laut Analyst der smarteste Pi",
-      "toc_summary": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor.",
-      "quick_take": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor.",
+      "title": "Social Security hat meiner 82-jährigen Mutter 20.000 $ zu viel gezahlt. Was verb",
+      "highlight_phrase": "Social Security hat meiner 82-jährigen M",
+      "toc_summary": "Social Security hat meiner 82-jährigen Mutter 20.000 $ zu viel gezahlt. Was verb",
+      "quick_take": "Social Security hat meiner 82-jährigen Mutter 20.000 $ zu viel gezahlt. Was verbirgt sich sonst noch in ihren Finanzen?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "AT&T-Aktie laut Analyst der smarteste Pick im Wireless-Sektor."
+          "text": "Social Security hat meiner 82-jährigen Mutter 20.000 $ zu viel gezahlt. Was verbirgt sich sonst noch in ihren Finanzen?"
         }
       ],
       "callout": null,
@@ -84,14 +84,14 @@
     {
       "number": "05",
       "category": "FINANCE · NEWS",
-      "title": "Bitcoin erreicht 8-Monats-Hoch",
-      "highlight_phrase": "Bitcoin erreicht 8-Monats-Hoch",
-      "toc_summary": "Bitcoin erreicht 8-Monats-Hoch",
-      "quick_take": "ein klares Signal für die aktuelle Risikobereitschaft.",
+      "title": "\"Ich gönne ihnen ihr Geld\"",
+      "highlight_phrase": "\"Ich gönne ihnen ihr Geld\"",
+      "toc_summary": "\"Ich gönne ihnen ihr Geld\"",
+      "quick_take": "Mein Mann und ich haben Freunde, die permanent Geld ausgeben. Wie halten wir mit?",
       "bullets": [
         {
           "label": "Detail",
-          "text": "ein klares Signal für die aktuelle Risikobereitschaft."
+          "text": "Mein Mann und ich haben Freunde, die permanent Geld ausgeben. Wie halten wir mit?"
         }
       ],
       "callout": null,
@@ -105,14 +105,14 @@
     {
       "number": "06",
       "category": "FINANCE · NEWS",
-      "title": "Ehepaar, 50er, keine Kinder, 2 Mio. USD in IRAs und 401(k)s",
-      "highlight_phrase": "Ehepaar, 50er, keine Kinder, 2 Mio. USD ",
-      "toc_summary": "Ehepaar, 50er, keine Kinder, 2 Mio. USD in IRAs und 401(k)s",
-      "quick_take": "brauchen sie wirklich ein Testament?",
+      "title": "Dieser Test screenet auf 50 Krebsarten",
+      "highlight_phrase": "Dieser Test screenet auf 50 Krebsarten",
+      "toc_summary": "Dieser Test screenet auf 50 Krebsarten",
+      "quick_take": "ob Medicare und andere Krankenkassen zahlen, hängt von der FDA-Zulassung ab",
       "bullets": [
         {
           "label": "Detail",
-          "text": "brauchen sie wirklich ein Testament?"
+          "text": "ob Medicare und andere Krankenkassen zahlen, hängt von der FDA-Zulassung ab"
         }
       ],
       "callout": null,
@@ -126,14 +126,14 @@
     {
       "number": "07",
       "category": "FINANCE · NEWS",
-      "title": "Wer bisher zum Trump-Xi-Dinner kommt.",
-      "highlight_phrase": "Wer bisher zum Trump-Xi-Dinner kommt.",
-      "toc_summary": "Wer bisher zum Trump-Xi-Dinner kommt.",
-      "quick_take": "Wer bisher zum Trump-Xi-Dinner kommt.",
+      "title": "US-China-Zollabkommen um zwei Monate verlängert, sagt Bessent, während Xi seinen",
+      "highlight_phrase": "US-China-Zollabkommen um zwei Monate ver",
+      "toc_summary": "US-China-Zollabkommen um zwei Monate verlängert, sagt Bessent, während Xi seinen",
+      "quick_take": "US-China-Zollabkommen um zwei Monate verlängert, sagt Bessent, während Xi seinen Staatsbesuch beginnt",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Wer bisher zum Trump-Xi-Dinner kommt."
+          "text": "US-China-Zollabkommen um zwei Monate verlängert, sagt Bessent, während Xi seinen Staatsbesuch beginnt"
         }
       ],
       "callout": null,
@@ -147,14 +147,14 @@
     {
       "number": "08",
       "category": "FINANCE · NEWS",
-      "title": "Jamie Dimon",
-      "highlight_phrase": "Jamie Dimon",
-      "toc_summary": "Jamie Dimon",
-      "quick_take": "Hyperscaler-KI-Ausgaben könnten nächstes Jahr 1 Billion USD erreichen.",
+      "title": "Aktien mit den größten Bewegungen zur Mittagszeit",
+      "highlight_phrase": "Aktien mit den größten Bewegungen zur Mi",
+      "toc_summary": "Aktien mit den größten Bewegungen zur Mittagszeit",
+      "quick_take": "McDonald's, Cracker Barrel, Alibaba, Worthington & mehr",
       "bullets": [
         {
           "label": "Detail",
-          "text": "Hyperscaler-KI-Ausgaben könnten nächstes Jahr 1 Billion USD erreichen."
+          "text": "McDonald's, Cracker Barrel, Alibaba, Worthington & mehr"
         }
       ],
       "callout": null,
