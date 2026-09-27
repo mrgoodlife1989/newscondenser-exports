@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "topSignals": [
     {
-      "title": "Oracle publicly reaffirms 2.4 GW Bloom Energy fuel-cell contract for Project Jupiter; BE stock jumps 8%.",
-      "text": "Following Sept 24's force-majeure notice, Oracle, developer Blue Owl Capital, and Bloom Energy all stated on Sept 25 that the New Mexico data-center fuel-cell deal remains intact and on Oracle's planned timeline. Bloom (BE) rose ~8% to $288.77 (232% YTD). Analysts note the force-majeure filing itself signals real schedule risk was worth legally shielding against: the site's gas-pipeline permit and the fuel-cell installation's air-quality permit are both still pending New Mexico approval. 24/7 Wall St., Fuel Cells Works",
-      "url": "https://247wallst.com/investing/2026/09/25/bloom-energy-jumps-8-as-oracle-reaffirms-2-4-gw-fuel-cell-contract-after-force-majeure-notice/",
+      "title": "German EEG-Novelle/Netzpaket: Bundestag first reading held, contested Redispatch-Vorbehalt clause still undecided.",
+      "text": "The Bundestag's first reading of the EEG 2027 amendment and grid \"Netzpaket\" took place Sept 25 as scheduled; a Sept 26 status update confirms the outcome on the contested Redispatch-Vorbehalt grid-curtailment clause remains open, with an unusually compressed legislative timetable ahead of a likely October vote. Directly relevant to any German behind-the-meter/islanded SOFC generation model. Solarserver",
+      "url": "https://www.solarserver.de/2026/09/26/verwirft-der-bundestag-redispatch-vorbehalt-co",
       "n": 1
     },
     {
-      "title": "Priority stack check — Elcogen active on testing/QA infrastructure, Topsoe quiet.",
-      "text": "Elcogen signed a multi-year cooperation with Estonian testing/metrology body Metrosert on Sept 21 to expand solid-oxide stack testing capacity, and published a SOEC whitepaper on Sept 23 — both signal continued institutional build-out rather than a product or capacity announcement. Topsoe posted no SOFC/SOEC news in the last 24-48h; its most recent substantive news remains the earlier 2026 SOEC-pathway guidance cut and H1 results. Elcogen News, Topsoe Press Releases",
-      "url": "https://elcogen.com/newsinsights/",
+      "title": "Priority stack check — Elcogen and Topsoe both quiet in the last 24-48h.",
+      "text": "Elcogen's most recent substantive news remains its Sept 23 SOEC whitepaper and Sept 21 Metrosert testing tie-up (already logged); nothing new since. Topsoe posted no SOFC/SOEC news in the window — its widely-recirculating 850 MW Hive Hydrogen SOEC order dates to May 2026, not this window, and its Herning-plant \"hibernation\" and US-factory cancellation were already logged as background. Elcogen News, Topsoe Press Releases",
+      "url": "https://elcogen.com/news/",
       "n": 2
     },
     {
-      "title": "Germany's EEG-Novelle/Netzpaket clears Bundestag first reading, hits Bundesrat friction on Sept 25.",
-      "text": "The Bundesrat voted on ~120 pages of committee amendments (small-PV feed-in-tariff protections, a contested \"Redispatch-Vorbehalt\" grid-curtailment clause that Schleswig-Holstein's energy minister called \"completely wrong and toxic\"), but the specific vote outcome was not published by the Sept 25 evening deadline. Full passage is still needed in October to meet the EU deadline — relevant for any German behind-the-meter/islanded SOFC generation model. pv magazine",
-      "url": "https://www.pv-magazine.de/2026/09/25/eeg-novelle-bundesrat-stimmt-ueber-umfangreiche-ausschussempfehlungen-ab/",
+      "title": "New peer-reviewed review frames SOFC as a \"bridge asset\" for AI data centers, not a permanent grid alternative.",
+      "text": "A Processes (MDPI) review by Dankook University (J. Kim), surfaced in today's paper sweep, synthesizes commercial SOFC efficiency (50-60% net electrical) and deployment scale-up (325 kW units to planned 2.45 GW projects), concluding durability and long-term cost competitiveness still favor grid expansion over SOFC as a permanent solution rather than an interconnection-delay bridge. Published Aug 13, 2026 — outside the strict 7-day window but a useful LCOE/positioning data point not previously logged. MDPI Processes 14(16):2586",
+      "url": "https://www.mdpi.com/2227-9717/14/16/2586",
       "n": 3
     }
   ],
@@ -25,17 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Sept 21 — multi-year testing cooperation with Metrosert to strengthen SOFC/SOEC stack testing. Sept 23 — released whitepaper \"The Case for Solid Oxide Electrolysis Technology.\" No new capacity or product-launch news in the window. Elcogen News",
-          "url": "https://elcogen.com/newsinsights/",
+          "text": "Elcogen (priority): Quiet since the Sept 23 SOEC whitepaper and Sept 21 Metrosert testing cooperation (both already logged). No new capacity, product-launch, or partnership news in the last 24-48h. Elcogen News",
+          "url": "https://elcogen.com/news/",
           "sources": [
             {
               "title": "Elcogen News",
-              "url": "https://elcogen.com/newsinsights/"
+              "url": "https://elcogen.com/news/"
             }
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet — no SOFC/SOEC, capacity, or partnership news dated to the last 24-48h found on Topsoe's own press page or in search. Topsoe Press Releases",
+          "text": "Topsoe (priority): Quiet — no SOFC/SOEC, capacity, or partnership news dated to the last 24-48h. Topsoe Press Releases",
           "url": "https://www.topsoe.com/press-releases",
           "sources": [
             {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements (as opposed to commercial/financial news, covered below) found in the last 24-48h.",
+          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window (commercial/financial news for these covered below).",
           "url": "",
           "sources": []
         }
@@ -65,7 +65,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Top story — see Top Signal #3:* Germany's EEG-Novelle/Netzpaket Bundesrat committee vote on Sept 25; outcome not yet published, October passage still needed for the EU deadline. Standing US background unchanged since yesterday's digest: FERC's June 2026 show-cause order to PJM/MISO/SPP/CAISO/ISO-NE/NYISO on interconnection queue reform and fast-track fuel-cell/data-center co-location compliance steps; ITC 48E 30% fuel-cell credit and 45V hydrogen credit unchanged post-OBBBA; Virginia self-generation tax, New York permit moratorium, Texas development pause, EPA turbine NSPS all as previously logged — no new developments on these in the last 24-48h.",
+          "text": "Top story — see Top Signal #1:* Germany's EEG-Novelle/Netzpaket Bundestag first reading confirmed Sept 25; the contested Redispatch-Vorbehalt clause's fate is still undecided as of the Sept 26 status check, with a compressed timetable toward likely October passage. Standing background unchanged since yesterday's digest: DOE's directive for FERC to complete large-load/data-center interconnection rulemaking (deadline April 30, 2026, per the original October 2025 order); ITC 48E (30% fuel-cell credit) and 45V hydrogen credit unchanged post-OBBBA; Virginia's data-center electricity-consumption tax, New York permit moratorium, Texas development pause, and EPA turbine NSPS all as previously logged — no new developments on any of these in the last 24-48h.",
           "url": "",
           "sources": []
         }
@@ -85,17 +85,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): +8% on Sept 25 to $288.77 on the Oracle reaffirmation — see Top Signal #1. Q3 earnings still due Oct 27; scandium securities-suit lead-plaintiff deadline Sept 28.",
+          "text": "Bloom Energy (BE): No incremental news since the Sept 25 Oracle-reaffirmation rally (+8% to $288.77); shares continue trading off both that catalyst and the Sept 21 S&P 500 inclusion (already logged), against the Project Jupiter permitting/pipeline overhang. Q3 earnings due Oct 27; scandium securities-suit lead-plaintiff deadline Sept 28 (imminent).",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): No new operational disclosures; additional plaintiff-firm reminder press releases continue ahead of the Nov 10, 2026 lead-plaintiff deadline (Fit Energy cost-overrun disclosure). Backlog remains $3.6B per the Q3 transcript.",
+          "text": "FuelCell Energy (FCEL): No new operational disclosures in the window; Nov 10, 2026 lead-plaintiff deadline (Fit Energy cost-overrun disclosure suit) still pending. Backlog remains $3.6B per the Q3 transcript.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 23 H1 results already logged in prior digests.",
+          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 17 \"time-to-power\" UK grid-connection whitepaper (already logged) and Sept 23 H1 results.",
           "url": "",
           "sources": []
         }
@@ -124,22 +124,22 @@
   ],
   "lcoe": [
     {
-      "text": "New Henry Hub actual-price datapoint (published Sept 25, EIA Today in Energy): Summer 2026 (Jun-Aug) Henry Hub spot averaged $2.93/MMBtu, 6% below summer 2025 — notably lower than the carried August STEO full-year-2026 forecast average of ~$3.43-3.44/MMBtu, and well below the LCOE model's carried $4.00-4.30/MMBtu assumption. EIA's September STEO separately projects record 2026 dry gas production of 111.2 Bcf/d and end-October storage ~5% above the five-year average — directionally bearish for gas prices into Q4, worth reconciling against the model's fuel-cost assumption. EIA Today in Energy",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68204",
+      "text": "Efficiency/positioning datapoint (new today): Kim (2026, Processes/MDPI) cites 50-60% net electrical efficiency for commercial SOFC systems and frames SOFC economics as durability-constrained relative to grid expansion over the long term — worth cross-checking against the model's own efficiency curve and lifetime cost-competitiveness assumptions. MDPI Processes",
+      "url": "https://www.mdpi.com/2227-9717/14/16/2586",
       "sources": [
         {
-          "title": "EIA Today in Energy",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68204"
+          "title": "MDPI Processes",
+          "url": "https://www.mdpi.com/2227-9717/14/16/2586"
         }
       ]
     },
     {
-      "text": "Permitting-timeline datapoint (qualitative, carried from Top Signal #1): Project Jupiter's fuel-cell air-quality permit and gas-pipeline permit remain pending in New Mexico — a live, dated illustration of permitting/interconnection lead-time risk to weigh against SOFC's \"~90-day build\" framing when modeling deployment schedules.",
+      "text": "No new Henry Hub or gas-price datapoint published in the last 24-48h beyond the Sept 25 EIA \"Today in Energy\" summer-2026 average ($2.93/MMBtu, 6% below summer 2025) already logged in yesterday's digest.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending calendar: Bloom lead-plaintiff deadline (Sept 28), PJM backstop bid window (Sept 30-Oct 21), FCEL lead-plaintiff deadline (Nov 10), New Mexico air-quality permit deadline for Project Jupiter (Nov 23), Bloom Q3 earnings (Oct 27), EEG-Novelle/Netzpaket targeted for October passage.",
+      "text": "Pending calendar: Bloom lead-plaintiff deadline (Sept 28); PJM backstop bid window (Sept 30-Oct 21); FCEL lead-plaintiff deadline (Nov 10); New Mexico air-quality permit deadline for Project Jupiter (Nov 23); Bloom Q3 earnings (Oct 27); EEG-Novelle/Netzpaket targeted for October passage.",
       "url": "",
       "sources": []
     }
