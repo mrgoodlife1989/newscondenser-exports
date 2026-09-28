@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "topSignals": [
     {
-      "title": "German EEG-Novelle/Netzpaket: Bundestag first reading held, contested Redispatch-Vorbehalt clause still undecided.",
-      "text": "The Bundestag's first reading of the EEG 2027 amendment and grid \"Netzpaket\" took place Sept 25 as scheduled; a Sept 26 status update confirms the outcome on the contested Redispatch-Vorbehalt grid-curtailment clause remains open, with an unusually compressed legislative timetable ahead of a likely October vote. Directly relevant to any German behind-the-meter/islanded SOFC generation model. Solarserver",
-      "url": "https://www.solarserver.de/2026/09/26/verwirft-der-bundestag-redispatch-vorbehalt-co",
+      "title": "German EEG-Novelle/Netzpaket: Redispatch-Vorbehalt now looks headed for removal, with concrete committee dates set (Oct 5/7) and a final vote targeted for Oct 16.",
+      "text": "Following the Sept 24-25 first reading, CDU negotiator Elisabeth Winkelmeier-Becker said the clause \"can lead to unintended side effects\" and floated alternatives at the grid-connection point instead, while SPD's Nina Scheer indicated her side will \"clearly reject\" it — the first concrete directional signal since the clause was drafted in May 2026. Expert hearings are now scheduled for Oct 5 (EEG) and Oct 7 (Netzpaket), with final passage targeted around Oct 16, though \"open\" per the tracker. Material for any German behind-the-meter/islanded SOFC generation model, since removal of the curtailment-compensation clause would improve the economics of grid-parallel operation. klimareporter.de, zfk.de Energiegesetze-Ticker",
+      "url": "https://klimareporter.de/strom/strom-showdown-in-drei-wochen",
       "n": 1
     },
     {
-      "title": "Priority stack check — Elcogen and Topsoe both quiet in the last 24-48h.",
-      "text": "Elcogen's most recent substantive news remains its Sept 23 SOEC whitepaper and Sept 21 Metrosert testing tie-up (already logged); nothing new since. Topsoe posted no SOFC/SOEC news in the window — its widely-recirculating 850 MW Hive Hydrogen SOEC order dates to May 2026, not this window, and its Herning-plant \"hibernation\" and US-factory cancellation were already logged as background. Elcogen News, Topsoe Press Releases",
+      "title": "Priority stack check — Elcogen and Topsoe both quiet again in the last 24-48h.",
+      "text": "Elcogen's own news feed shows nothing since the Sept 23 SOEC whitepaper and Sept 21 Metrosert testing tie-up (both already logged); no capacity, product, or partnership news found. Topsoe's press-release index could not be crawled directly (robots-blocked) and no third-party coverage surfaced anything dated to the window — same \"quiet\" status as yesterday. Elcogen News, Topsoe Press Releases",
       "url": "https://elcogen.com/news/",
       "n": 2
     },
     {
-      "title": "New peer-reviewed review frames SOFC as a \"bridge asset\" for AI data centers, not a permanent grid alternative.",
-      "text": "A Processes (MDPI) review by Dankook University (J. Kim), surfaced in today's paper sweep, synthesizes commercial SOFC efficiency (50-60% net electrical) and deployment scale-up (325 kW units to planned 2.45 GW projects), concluding durability and long-term cost competitiveness still favor grid expansion over SOFC as a permanent solution rather than an interconnection-delay bridge. Published Aug 13, 2026 — outside the strict 7-day window but a useful LCOE/positioning data point not previously logged. MDPI Processes 14(16):2586",
-      "url": "https://www.mdpi.com/2227-9717/14/16/2586",
+      "title": "Two new ahead-of-print system-level papers land LCOE-usable figures for reversible SOC systems.",
+      "text": "A Journal of Power Sources paper models a 120 kW-class reversible solid oxide cell coupled to thermal energy storage at 60.40% (SOFC-mode) / 88.83% (SOEC-mode) efficiency and a levelized cost of hydrogen of $3.49/kg; a companion Energy Conversion and Management paper finds that pairing rSOC with expanded PV capacity (rather than running it standalone) cuts annualized system cost by over 30% and reaches ~95% energy self-sufficiency. Both flagged for the LCOE model. ScienceDirect (Pan et al.), ScienceDirect (Kourougianni et al.)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378775326016939",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet since the Sept 23 SOEC whitepaper and Sept 21 Metrosert testing cooperation (both already logged). No new capacity, product-launch, or partnership news in the last 24-48h. Elcogen News",
+          "text": "Elcogen (priority): Quiet — no new stack/cell, capacity, or partnership news beyond the already-logged Sept 23 SOEC whitepaper and Sept 21 Metrosert cooperation. Elcogen News",
           "url": "https://elcogen.com/news/",
           "sources": [
             {
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet — no SOFC/SOEC, capacity, or partnership news dated to the last 24-48h. Topsoe Press Releases",
+          "text": "Topsoe (priority): Quiet — official press-release page was robots-blocked to direct crawl today, but no third-party outlet reported any SOFC/SOEC, capacity, or partnership news dated to the last 24-48h. Topsoe Press Releases",
           "url": "https://www.topsoe.com/press-releases",
           "sources": [
             {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window (commercial/financial news for these covered below).",
+          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window (financial/market news for these covered below).",
           "url": "",
           "sources": []
         }
@@ -65,9 +65,23 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Top story — see Top Signal #1:* Germany's EEG-Novelle/Netzpaket Bundestag first reading confirmed Sept 25; the contested Redispatch-Vorbehalt clause's fate is still undecided as of the Sept 26 status check, with a compressed timetable toward likely October passage. Standing background unchanged since yesterday's digest: DOE's directive for FERC to complete large-load/data-center interconnection rulemaking (deadline April 30, 2026, per the original October 2025 order); ITC 48E (30% fuel-cell credit) and 45V hydrogen credit unchanged post-OBBBA; Virginia's data-center electricity-consumption tax, New York permit moratorium, Texas development pause, and EPA turbine NSPS all as previously logged — no new developments on any of these in the last 24-48h.",
+          "text": "Top story — see Top Signal #1:* Germany's EEG-Novelle/Netzpaket now has concrete committee-hearing dates (Oct 5 EEG, Oct 7 Netzpaket) and a targeted final vote around Oct 16, with both coalition negotiators signaling the contested Redispatch-Vorbehalt curtailment clause is likely to be dropped rather than adopted as drafted.",
           "url": "",
           "sources": []
+        },
+        {
+          "text": "Not previously logged — California data center laws (background, signed Sept 21):* Governor Newsom signed seven bills (AB 1577, AB 2383, AB 2469, AB 2619, SB 886, SB 887, SB 1168) that require data center operators to fund their own grid-upgrade costs (without shifting costs to low-income ratepayers), disclose water use/supply impacts to local governments, and — notably for on-site generation — strip data centers of blanket environmental-exemption eligibility for judicial streamlining unless they demonstrate compliance with state energy, water and fuel-consumption standards. No megawatt thresholds or effective dates specified yet; CPUC to address implementation. Relevant background for any California behind-the-meter SOFC siting case. Governor of California, Utility Dive",
+          "url": "https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/",
+          "sources": [
+            {
+              "title": "Governor of California",
+              "url": "https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/"
+            },
+            {
+              "title": "Utility Dive",
+              "url": "https://www.utilitydive.com/news/california-tightens-oversight-of-data-center-energy-use-grid-costs/831037/"
+            }
+          ]
         }
       ]
     },
@@ -85,17 +99,17 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): No incremental news since the Sept 25 Oracle-reaffirmation rally (+8% to $288.77); shares continue trading off both that catalyst and the Sept 21 S&P 500 inclusion (already logged), against the Project Jupiter permitting/pipeline overhang. Q3 earnings due Oct 27; scandium securities-suit lead-plaintiff deadline Sept 28 (imminent).",
+          "text": "Bloom Energy (BE): Lead-plaintiff deadline in the scandium-disclosure securities class action falls today, Sept 28 — the \"imminent\" item flagged in yesterday's digest (multiple plaintiff firms, e.g. Kaplan Fox, Levi & Korsinsky, RGRD Law, issued final investor reminders this week). No new operational news since the Sept 25 Oracle-reaffirmation rally; Q3 earnings due Oct 27.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (FCEL): No new operational disclosures in the window; Nov 10, 2026 lead-plaintiff deadline (Fit Energy cost-overrun disclosure suit) still pending. Backlog remains $3.6B per the Q3 transcript.",
+          "text": "FuelCell Energy (FCEL): No new operational disclosures in the window; Nov 10, 2026 lead-plaintiff deadline (Fit Energy cost-overrun disclosure suit) still pending; backlog remains $3.6B per the Q3 transcript.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 17 \"time-to-power\" UK grid-connection whitepaper (already logged) and Sept 23 H1 results.",
+          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 23 H1 results.",
           "url": "",
           "sources": []
         }
@@ -124,22 +138,22 @@
   ],
   "lcoe": [
     {
-      "text": "Efficiency/positioning datapoint (new today): Kim (2026, Processes/MDPI) cites 50-60% net electrical efficiency for commercial SOFC systems and frames SOFC economics as durability-constrained relative to grid expansion over the long term — worth cross-checking against the model's own efficiency curve and lifetime cost-competitiveness assumptions. MDPI Processes",
-      "url": "https://www.mdpi.com/2227-9717/14/16/2586",
-      "sources": [
-        {
-          "title": "MDPI Processes",
-          "url": "https://www.mdpi.com/2227-9717/14/16/2586"
-        }
-      ]
-    },
-    {
-      "text": "No new Henry Hub or gas-price datapoint published in the last 24-48h beyond the Sept 25 EIA \"Today in Energy\" summer-2026 average ($2.93/MMBtu, 6% below summer 2025) already logged in yesterday's digest.",
+      "text": "New: Levelized cost of hydrogen of $3.49/kg for a 120 kW-class reversible SOC + thermal-storage system at 60.40%/88.83% round-trip efficiency (Pan et al., J. Power Sources) — cross-check against the model's reversible-mode cost assumptions.",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending calendar: Bloom lead-plaintiff deadline (Sept 28); PJM backstop bid window (Sept 30-Oct 21); FCEL lead-plaintiff deadline (Nov 10); New Mexico air-quality permit deadline for Project Jupiter (Nov 23); Bloom Q3 earnings (Oct 27); EEG-Novelle/Netzpaket targeted for October passage.",
+      "text": "New: >30% annualized-cost reduction and ~95% energy self-sufficiency for an rSOC+PV hybrid microgrid versus a standalone rSOC system (Kourougianni et al., Energy Conversion and Management) — usable for hybrid/microgrid LCOE sensitivity cases.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "No new Henry Hub or gas-price datapoint published in the last 24-48h beyond the already-logged Sept 25 EIA \"Today in Energy\" summer-2026 average ($2.93/MMBtu, 6% below summer 2025).",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending calendar: Bloom lead-plaintiff deadline (today, Sept 28); PJM 6 GW backstop auction opens Sept 30 (window Sept 30-Oct 21); German EEG/Netzpaket committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted Oct 16; FCEL lead-plaintiff deadline (Nov 10); New Mexico air-quality permit deadline for Project Jupiter (Nov 23); Bloom Q3 earnings (Oct 27).",
       "url": "",
       "sources": []
     }
