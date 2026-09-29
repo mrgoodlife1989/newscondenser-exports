@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "topSignals": [
     {
-      "title": "German EEG-Novelle/Netzpaket: Redispatch-Vorbehalt now looks headed for removal, with concrete committee dates set (Oct 5/7) and a final vote targeted for Oct 16.",
-      "text": "Following the Sept 24-25 first reading, CDU negotiator Elisabeth Winkelmeier-Becker said the clause \"can lead to unintended side effects\" and floated alternatives at the grid-connection point instead, while SPD's Nina Scheer indicated her side will \"clearly reject\" it — the first concrete directional signal since the clause was drafted in May 2026. Expert hearings are now scheduled for Oct 5 (EEG) and Oct 7 (Netzpaket), with final passage targeted around Oct 16, though \"open\" per the tracker. Material for any German behind-the-meter/islanded SOFC generation model, since removal of the curtailment-compensation clause would improve the economics of grid-parallel operation. klimareporter.de, zfk.de Energiegesetze-Ticker",
-      "url": "https://klimareporter.de/strom/strom-showdown-in-drei-wochen",
+      "title": "New — Germany's KWK-Gesetz (CHP law) gets a cabinet date: October 14.",
+      "text": "The Federal Economics Ministry has scheduled the combined heat-and-power legislation for cabinet consideration on Oct 14, with framework principles already released and stakeholder consultations underway. This is a separate legislative track from the EEG-Novelle/Netzpaket (see Regulations below) and is directly relevant to any SOFC-CHP or heat-recovery revenue-stacking case in the German model, since KWK-Gesetz support mechanisms set the subsidy/remuneration terms for combined-cycle or waste-heat-utilizing generation, including fuel cells. zfk.de Energiegesetze-Ticker",
+      "url": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche",
       "n": 1
     },
     {
       "title": "Priority stack check — Elcogen and Topsoe both quiet again in the last 24-48h.",
-      "text": "Elcogen's own news feed shows nothing since the Sept 23 SOEC whitepaper and Sept 21 Metrosert testing tie-up (both already logged); no capacity, product, or partnership news found. Topsoe's press-release index could not be crawled directly (robots-blocked) and no third-party coverage surfaced anything dated to the window — same \"quiet\" status as yesterday. Elcogen News, Topsoe Press Releases",
+      "text": "Elcogen's news feed shows nothing beyond the already-logged Sept 23 SOEC whitepaper and Sept 21 Metrosert testing tie-up. Topsoe's official news and press-release pages show no items dated to the window — same \"quiet\" status as the preceding several days. Elcogen News, Topsoe News",
       "url": "https://elcogen.com/news/",
       "n": 2
     },
     {
-      "title": "Two new ahead-of-print system-level papers land LCOE-usable figures for reversible SOC systems.",
-      "text": "A Journal of Power Sources paper models a 120 kW-class reversible solid oxide cell coupled to thermal energy storage at 60.40% (SOFC-mode) / 88.83% (SOEC-mode) efficiency and a levelized cost of hydrogen of $3.49/kg; a companion Energy Conversion and Management paper finds that pairing rSOC with expanded PV capacity (rather than running it standalone) cuts annualized system cost by over 30% and reaches ~95% energy self-sufficiency. Both flagged for the LCOE model. ScienceDirect (Pan et al.), ScienceDirect (Kourougianni et al.)",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0378775326016939",
+      "title": "PJM's 6 GW data-center-targeted capacity backstop auction opens tomorrow, Sept 30.",
+      "text": "The FERC-approved backstop mechanism — widely read as advantaging fast-deploy, grid-independent generation (batteries seen as having a competitive edge per trade press) over long-lead assets — runs its bidding window Sept 30-Oct 21. This is the first live test of the mechanism and is directly relevant to how on-site/behind-the-meter SOFC generation is valued relative to grid-connected alternatives in PJM territory. Energy-Storage.News",
+      "url": "https://www.energy-storage.news/pjm-targets-data-centre-demand-with-6gw-backstop-auction-bess-expected-to-have-competitive-edge/",
       "n": 3
     }
   ],
@@ -35,17 +35,17 @@
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet — official press-release page was robots-blocked to direct crawl today, but no third-party outlet reported any SOFC/SOEC, capacity, or partnership news dated to the last 24-48h. Topsoe Press Releases",
-          "url": "https://www.topsoe.com/press-releases",
+          "text": "Topsoe (priority): Quiet — official news/press-release pages checked directly; no SOEC/SOFC, capacity, or partnership items dated to the last 24-48h. Topsoe News",
+          "url": "https://www.topsoe.com/news",
           "sources": [
             {
-              "title": "Topsoe Press Releases",
-              "url": "https://www.topsoe.com/press-releases"
+              "title": "Topsoe News",
+              "url": "https://www.topsoe.com/news"
             }
           ]
         },
         {
-          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window (financial/market news for these covered below).",
+          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window (financial/market news for Bloom, FuelCell Energy and Ceres covered below).",
           "url": "",
           "sources": []
         }
@@ -65,23 +65,29 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Top story — see Top Signal #1:* Germany's EEG-Novelle/Netzpaket now has concrete committee-hearing dates (Oct 5 EEG, Oct 7 Netzpaket) and a targeted final vote around Oct 16, with both coalition negotiators signaling the contested Redispatch-Vorbehalt curtailment clause is likely to be dropped rather than adopted as drafted.",
+          "text": "New — see Top Signal #1:* Germany's KWK-Gesetz (combined heat-and-power law) has been scheduled for cabinet consideration on Oct 14; framework principles released, stakeholder consultations ongoing. zfk.de Energiegesetze-Ticker",
+          "url": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche",
+          "sources": [
+            {
+              "title": "zfk.de Energiegesetze-Ticker",
+              "url": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche"
+            }
+          ]
+        },
+        {
+          "text": "No change* on the EEG-Novelle/Netzpaket Redispatch-Vorbehalt track: still as logged Sept 28 — committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted around Oct 16, both coalition negotiators still signaling the clause is likely to be dropped.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Not previously logged — California data center laws (background, signed Sept 21):* Governor Newsom signed seven bills (AB 1577, AB 2383, AB 2469, AB 2619, SB 886, SB 887, SB 1168) that require data center operators to fund their own grid-upgrade costs (without shifting costs to low-income ratepayers), disclose water use/supply impacts to local governments, and — notably for on-site generation — strip data centers of blanket environmental-exemption eligibility for judicial streamlining unless they demonstrate compliance with state energy, water and fuel-consumption standards. No megawatt thresholds or effective dates specified yet; CPUC to address implementation. Relevant background for any California behind-the-meter SOFC siting case. Governor of California, Utility Dive",
-          "url": "https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/",
-          "sources": [
-            {
-              "title": "Governor of California",
-              "url": "https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/"
-            },
-            {
-              "title": "Utility Dive",
-              "url": "https://www.utilitydive.com/news/california-tightens-oversight-of-data-center-energy-use-grid-costs/831037/"
-            }
-          ]
+          "text": "No change* in the last 24-48h on: DOE/FERC large-load interconnection rulemaking (Apr 30, 2026 deadline); ITC 48E (30% fuel-cell credit) and 45V hydrogen credit; Virginia data-center electricity tax, New York permit moratorium, Texas development pause, EPA turbine NSPS; California's seven data-center bills signed Sept 21 (AB 1577, AB 2383, AB 2469, AB 2619, SB 886, SB 887, SB 1168) — all as previously logged.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Imminent — see Top Signal #3:* PJM's 6 GW data-center capacity backstop auction opens tomorrow, Sept 30 (bidding window through Oct 21).",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -99,7 +105,7 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): Lead-plaintiff deadline in the scandium-disclosure securities class action falls today, Sept 28 — the \"imminent\" item flagged in yesterday's digest (multiple plaintiff firms, e.g. Kaplan Fox, Levi & Korsinsky, RGRD Law, issued final investor reminders this week). No new operational news since the Sept 25 Oracle-reaffirmation rally; Q3 earnings due Oct 27.",
+          "text": "Bloom Energy (BE): The scandium-disclosure securities class-action lead-plaintiff deadline passed yesterday, Sept 28; no post-deadline filing updates found yet. No new operational news since the Sept 25 Oracle-reaffirmation rally. Q3 earnings due Oct 27.",
           "url": "",
           "sources": []
         },
@@ -138,22 +144,17 @@
   ],
   "lcoe": [
     {
-      "text": "New: Levelized cost of hydrogen of $3.49/kg for a 120 kW-class reversible SOC + thermal-storage system at 60.40%/88.83% round-trip efficiency (Pan et al., J. Power Sources) — cross-check against the model's reversible-mode cost assumptions.",
+      "text": "No new cost, efficiency, capex/opex, or gas/H2/electricity price datapoint published in the last 24-48h beyond already-logged items (Pan et al. $3.49/kg LCOH; Kourougianni et al. >30% annualized-cost reduction for rSOC+PV; Sept 25 EIA Henry Hub summer-2026 average of $2.93/MMBtu).",
       "url": "",
       "sources": []
     },
     {
-      "text": "New: >30% annualized-cost reduction and ~95% energy self-sufficiency for an rSOC+PV hybrid microgrid versus a standalone rSOC system (Kourougianni et al., Energy Conversion and Management) — usable for hybrid/microgrid LCOE sensitivity cases.",
+      "text": "New (context, not dated to window): Germany's KWK-Gesetz cabinet date (Oct 14) is now a concrete near-term event to watch for CHP subsidy/remuneration terms relevant to any SOFC waste-heat revenue-stacking case in the German model.",
       "url": "",
       "sources": []
     },
     {
-      "text": "No new Henry Hub or gas-price datapoint published in the last 24-48h beyond the already-logged Sept 25 EIA \"Today in Energy\" summer-2026 average ($2.93/MMBtu, 6% below summer 2025).",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending calendar: Bloom lead-plaintiff deadline (today, Sept 28); PJM 6 GW backstop auction opens Sept 30 (window Sept 30-Oct 21); German EEG/Netzpaket committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted Oct 16; FCEL lead-plaintiff deadline (Nov 10); New Mexico air-quality permit deadline for Project Jupiter (Nov 23); Bloom Q3 earnings (Oct 27).",
+      "text": "Pending calendar: PJM 6 GW backstop auction opens tomorrow, Sept 30 (window through Oct 21); German EEG/Netzpaket committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted Oct 16; German KWK-Gesetz cabinet consideration Oct 14; Bloom Q3 earnings (Oct 27); FCEL lead-plaintiff deadline (Nov 10); New Mexico air-quality permit deadline for Project Jupiter (Nov 23).",
       "url": "",
       "sources": []
     }
