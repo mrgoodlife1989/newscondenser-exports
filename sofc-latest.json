@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "topSignals": [
     {
-      "title": "New — Germany's KWK-Gesetz (CHP law) gets a cabinet date: October 14.",
-      "text": "The Federal Economics Ministry has scheduled the combined heat-and-power legislation for cabinet consideration on Oct 14, with framework principles already released and stakeholder consultations underway. This is a separate legislative track from the EEG-Novelle/Netzpaket (see Regulations below) and is directly relevant to any SOFC-CHP or heat-recovery revenue-stacking case in the German model, since KWK-Gesetz support mechanisms set the subsidy/remuneration terms for combined-cycle or waste-heat-utilizing generation, including fuel cells. zfk.de Energiegesetze-Ticker",
-      "url": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche",
+      "title": "PJM's 6 GW data-center capacity backstop auction is now live.",
+      "text": "Bidding opened today, Sept 30, and runs through Oct 21 — the first real-world test of the FERC-approved backstop mechanism, which trade press expects to favor fast-deploy, grid-independent generation (batteries seen as having the edge) over long-lead assets. The outcome will be an early data point on how PJM values behind-the-meter/on-site generation, including SOFC, relative to grid-connected alternatives. Energy-Storage.News",
+      "url": "https://www.energy-storage.news/pjm-targets-data-centre-demand-with-6gw-backstop-auction-bess-expected-to-have-competitive-edge/",
       "n": 1
     },
     {
-      "title": "Priority stack check — Elcogen and Topsoe both quiet again in the last 24-48h.",
-      "text": "Elcogen's news feed shows nothing beyond the already-logged Sept 23 SOEC whitepaper and Sept 21 Metrosert testing tie-up. Topsoe's official news and press-release pages show no items dated to the window — same \"quiet\" status as the preceding several days. Elcogen News, Topsoe News",
+      "title": "Priority stack check — Elcogen and Topsoe both quiet for a third straight day.",
+      "text": "Direct checks of both companies' news/press-release pages show nothing published since Elcogen's already-logged Sept 21 (Metrosert testing tie-up) and Sept 23 (SOEC whitepaper) items; Topsoe's news page shows no items dated to the current window at all. Elcogen News, Topsoe News",
       "url": "https://elcogen.com/news/",
       "n": 2
     },
     {
-      "title": "PJM's 6 GW data-center-targeted capacity backstop auction opens tomorrow, Sept 30.",
-      "text": "The FERC-approved backstop mechanism — widely read as advantaging fast-deploy, grid-independent generation (batteries seen as having a competitive edge per trade press) over long-lead assets — runs its bidding window Sept 30-Oct 21. This is the first live test of the mechanism and is directly relevant to how on-site/behind-the-meter SOFC generation is valued relative to grid-connected alternatives in PJM territory. Energy-Storage.News",
-      "url": "https://www.energy-storage.news/pjm-targets-data-centre-demand-with-6gw-backstop-auction-bess-expected-to-have-competitive-edge/",
+      "title": "No other material developments; the regulatory calendar is thickening for October.",
+      "text": "Extended English/German searches across deployments, competing on-site power, market/financials, research, and LCOE-relevant data turned up nothing dated to the last 24-48h beyond items already on file. Four decision points now cluster in the next month: the PJM auction closes Oct 21; Germany's EEG-Novelle/Netzpaket committee hearings run Oct 5/7 with a final vote targeted around Oct 16; the KWK-Gesetz (CHP law) goes to cabinet Oct 14; and Bloom Energy reports Q3 earnings Oct 27.",
+      "url": "",
       "n": 3
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet — no new stack/cell, capacity, or partnership news beyond the already-logged Sept 23 SOEC whitepaper and Sept 21 Metrosert cooperation. Elcogen News",
+          "text": "Elcogen (priority): Quiet — no new stack/cell, capacity, or partnership news beyond the already-logged Sept 21 (Metrosert cooperation) and Sept 23 (SOEC whitepaper) items. Elcogen News",
           "url": "https://elcogen.com/news/",
           "sources": [
             {
@@ -65,27 +65,22 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "New — see Top Signal #1:* Germany's KWK-Gesetz (combined heat-and-power law) has been scheduled for cabinet consideration on Oct 14; framework principles released, stakeholder consultations ongoing. zfk.de Energiegesetze-Ticker",
-          "url": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche",
-          "sources": [
-            {
-              "title": "zfk.de Energiegesetze-Ticker",
-              "url": "https://www.zfk.de/politik/deutschland/energiegesetze-ticker-deutschland-reiche"
-            }
-          ]
+          "text": "Live — see Top Signal #1:* PJM's 6 GW data-center capacity backstop auction opened its bidding window today, Sept 30, running through Oct 21.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "No change* on the EEG-Novelle/Netzpaket Redispatch-Vorbehalt track: still as logged Sept 28 — committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted around Oct 16, both coalition negotiators still signaling the clause is likely to be dropped.",
+          "text": "No change* on the EEG-Novelle/Netzpaket Redispatz-Vorbehalt track: still as logged Sept 28/29 — committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted around Oct 16, both coalition negotiators still signaling the clause is likely to be dropped.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No change* on Germany's KWK-Gesetz (CHP law): cabinet consideration remains scheduled for Oct 14, as logged Sept 29.",
           "url": "",
           "sources": []
         },
         {
           "text": "No change* in the last 24-48h on: DOE/FERC large-load interconnection rulemaking (Apr 30, 2026 deadline); ITC 48E (30% fuel-cell credit) and 45V hydrogen credit; Virginia data-center electricity tax, New York permit moratorium, Texas development pause, EPA turbine NSPS; California's seven data-center bills signed Sept 21 (AB 1577, AB 2383, AB 2469, AB 2619, SB 886, SB 887, SB 1168) — all as previously logged.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Imminent — see Top Signal #3:* PJM's 6 GW data-center capacity backstop auction opens tomorrow, Sept 30 (bidding window through Oct 21).",
           "url": "",
           "sources": []
         }
@@ -105,7 +100,7 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): The scandium-disclosure securities class-action lead-plaintiff deadline passed yesterday, Sept 28; no post-deadline filing updates found yet. No new operational news since the Sept 25 Oracle-reaffirmation rally. Q3 earnings due Oct 27.",
+          "text": "Bloom Energy (BE): No new operational or financial disclosures in the window (Sept 28 news was a Philadelphia 76ers sponsorship/marketing deal, not fundamentals-relevant). Q3 earnings now four weeks out, due Oct 27.",
           "url": "",
           "sources": []
         },
@@ -115,7 +110,7 @@
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 23 H1 results.",
+          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 17 UK grid-connection-delay whitepaper.",
           "url": "",
           "sources": []
         }
@@ -149,12 +144,7 @@
       "sources": []
     },
     {
-      "text": "New (context, not dated to window): Germany's KWK-Gesetz cabinet date (Oct 14) is now a concrete near-term event to watch for CHP subsidy/remuneration terms relevant to any SOFC waste-heat revenue-stacking case in the German model.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending calendar: PJM 6 GW backstop auction opens tomorrow, Sept 30 (window through Oct 21); German EEG/Netzpaket committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted Oct 16; German KWK-Gesetz cabinet consideration Oct 14; Bloom Q3 earnings (Oct 27); FCEL lead-plaintiff deadline (Nov 10); New Mexico air-quality permit deadline for Project Jupiter (Nov 23).",
+      "text": "Pending calendar (updated): PJM 6 GW backstop auction bidding window Sept 30-Oct 21 (now open); German EEG/Netzpaket committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted Oct 16; German KWK-Gesetz cabinet consideration Oct 14; Bloom Q3 earnings Oct 27; FCEL lead-plaintiff deadline Nov 10; New Mexico air-quality permit deadline for Project Jupiter Nov 23.",
       "url": "",
       "sources": []
     }
