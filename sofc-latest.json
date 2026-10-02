@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "topSignals": [
     {
-      "title": "FERC suspends PJM's 6 GW data-center backstop auction for five months; PJM pulls its Sept 30 launch.",
-      "text": "On Sept 29, FERC accepted but suspended PJM's Reliability Backstop Procurement, setting a new effective date of Feb 28, 2027, pending refund and further proceedings — citing unresolved issues on cost allocation, transmission-owner exit rules, and load-serving-entity collateral requirements. FERC Chair Laura Swett said PJM \"filed at the last minute,\" leaving no time \"to rehabilitate the mess we received.\" PJM consequently canceled the auction that was due to open Sept 30 and run through Oct 21 (reported as \"now live\" in yesterday's digest — this reverses that status); a new timeline is \"yet to be determined\" per a PJM spokesman. This directly resets the nearest-term test case for how PJM values behind-the-meter/on-site generation, including SOFC, relative to grid alternatives. Utility Dive, mgrid.org",
-      "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
+      "title": "Priority stack check — Elcogen and Topsoe both confirmed quiet, now well into their second week of silence.",
+      "text": "Direct checks of both companies' news pages show nothing posted since Elcogen's Sept 21 Metrosert testing-cooperation item (and the already-logged Sept 23 SOEC whitepaper), and Topsoe's press-release feed still shows the H1 2026 results as its most recent dated item — no SOEC/SOFC-specific announcement in the window. Elcogen News, Topsoe News",
+      "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "Priority stack check — Elcogen and Topsoe both quiet again (now 4th/5th straight day).",
-      "text": "Direct checks of Elcogen's news page confirm nothing posted since the Sept 23 SOEC whitepaper and Sept 21 Metrosert cooperation; Topsoe's press-release feed likewise shows nothing dated to the last 24-48h. Elcogen News, Topsoe News",
-      "url": "https://elcogen.com/news/",
+      "title": "PJM's 6 GW data-center backstop procurement remains in limbo, with no refiling or new timeline yet.",
+      "text": "Three days after FERC suspended the mechanism (new effective date Feb 28, 2027) and PJM pulled its Sept 30 auction launch, PJM has filed nothing further; a spokesperson says only that it is \"reviewing the order and intend[s] to work quickly,\" with a new timeline still \"yet to be determined.\" This keeps the nearest-term test case for PJM's valuation of behind-the-meter/on-site generation (including SOFC) open-ended. Utility Dive",
+      "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
       "n": 2
     },
     {
-      "title": "Otherwise a broad quiet day.",
-      "text": "Extended English/German searches across deployments, competing on-site power, market/financials, research, and LCOE datapoints turned up nothing new beyond the PJM/FERC story. The regulatory calendar for October now carries one less fixed point (PJM auction date open-ended) alongside the still-scheduled German EEG-Novelle/Netzpaket hearings (Oct 5/7), KWK-Gesetz cabinet date (Oct 14), and Bloom Energy's Q3 earnings (Oct 27).",
+      "title": "Broad quiet day; the next catalysts are now inside a week.",
+      "text": "Extended English/German searches across deployments, competing on-site power, market/financials, research and LCOE datapoints turned up nothing dated to the last 24-48h beyond items already on file. Germany's EEG-Novelle committee hearing is now just 3 days out (Oct 5), with the Netzpaket hearing 5 days out (Oct 7) and a final vote targeted around Oct 16; the KWK-Gesetz (CHP law) goes to cabinet Oct 14; Bloom Energy reports Q3 earnings Oct 27.",
       "url": "",
       "n": 3
     }
@@ -25,17 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet — no new stack/cell, capacity, or partnership news beyond the already-logged Sept 21 (Metrosert) and Sept 23 (SOEC whitepaper) items; confirmed via direct page check. Elcogen News",
-          "url": "https://elcogen.com/news/",
+          "text": "Elcogen (priority): Quiet — newsroom re-checked directly; most recent post remains the Sept 21 Metrosert multi-year testing-cooperation announcement (plus the already-logged Sept 23 SOEC whitepaper). No new stack/cell, capacity, or partnership news. Status unchanged: elcoStack E3000 G2 platform in volume production at ELCO I Tallinn. Elcogen News",
+          "url": "https://elcogen.com/category/news/",
           "sources": [
             {
               "title": "Elcogen News",
-              "url": "https://elcogen.com/news/"
+              "url": "https://elcogen.com/category/news/"
             }
           ]
         },
         {
-          "text": "Topsoe (priority): Quiet — official news/press-release pages checked directly; no SOEC/SOFC, capacity, or partnership items dated to the last 24-48h. Topsoe News",
+          "text": "Topsoe (priority): Quiet — press-release page re-checked directly; most recent dated item is still the H1 2026 half-year statement. No SOEC/SOFC-specific item in the window. Topsoe News",
           "url": "https://www.topsoe.com/news",
           "sources": [
             {
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window.",
+          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window beyond already-logged items (financial/market news for Bloom, FuelCell Energy and Ceres covered below).",
           "url": "",
           "sources": []
         }
@@ -65,22 +65,17 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "New — see Top Signal #1:* FERC suspended PJM's 6 GW data-center capacity backstop procurement for five months (new effective date Feb 28, 2027) on cost-allocation, transmission-owner-exit, and collateral grounds; PJM pulled the Sept 30 auction launch and has no confirmed new date. Offer cap of $555/MW-day was approved; the ~6,831 MW procurement scope itself was not rejected, only delayed pending PJM's corrective filing. Utility Dive",
-          "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
-          "sources": [
-            {
-              "title": "Utility Dive",
-              "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/"
-            }
-          ]
-        },
-        {
-          "text": "No change* on the EEG-Novelle/Netzpaket Redispatch-Vorbehalt track: committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted around Oct 16.",
+          "text": "Live — see Top Signal #2:* PJM's 6 GW backstop procurement remains suspended with no refiling or new auction date three days after FERC's Sept 29 order; new effective date (if resubmitted successfully) is Feb 28, 2027.",
           "url": "",
           "sources": []
         },
         {
-          "text": "No change* on Germany's KWK-Gesetz (CHP law): cabinet consideration remains scheduled for Oct 14.",
+          "text": "No change, approaching:* Germany's EEG-Novelle/Netzpaket Redispatch-Vorbehalt track — committee hearings now 3 days (Oct 5, EEG) and 5 days (Oct 7, Netzpaket) out, final vote still targeted around Oct 16; both coalition negotiators continue signaling the clause is likely to be dropped.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "No change:* Germany's KWK-Gesetz (CHP law) cabinet consideration remains scheduled for Oct 14.",
           "url": "",
           "sources": []
         },
@@ -105,7 +100,7 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Bloom Energy (BE): No new operational or financial disclosures in the window. Q3 earnings due Oct 27.",
+          "text": "Bloom Energy (BE): No new operational or financial disclosures in the window. Q3 earnings now 25 days out, due Oct 27.",
           "url": "",
           "sources": []
         },
@@ -115,7 +110,7 @@
           "sources": []
         },
         {
-          "text": "Ceres Power (CWR.L): No new market-moving news in the window.",
+          "text": "Ceres Power (CWR.L): No new market-moving news since the Sept 17 UK grid-connection-delay whitepaper.",
           "url": "",
           "sources": []
         }
@@ -144,17 +139,12 @@
   ],
   "lcoe": [
     {
-      "text": "No new cost, efficiency, capex/opex, or gas/H2/electricity price datapoint published in the last 24-48h beyond already-logged items (Pan et al. $3.49/kg LCOH; Kourougianni et al. >30% annualized-cost reduction for rSOC+PV; Sept 25 EIA Henry Hub summer-2026 average of $2.93/MMBtu).",
+      "text": "No new cost, efficiency, capex/opex, or gas/H2/electricity price datapoint published in the last 24-48h beyond already-logged items (Pan et al. $3.49/kg LCOH; Kourougianni et al. >30% annualized-cost reduction for rSOC+PV; Kim 2026 50–60% net electrical efficiency for commercial SOFC systems; Sept 25 EIA Henry Hub summer-2026 average of $2.93/MMBtu).",
       "url": "",
       "sources": []
     },
     {
-      "text": "New (regulatory-risk context, not a cost figure): The PJM backstop auction's indefinite delay (new effective date Feb 28, 2027 if refiled successfully) removes the near-term October data point on how PJM-territory capacity markets would price behind-the-meter/on-site SOFC generation versus batteries and other fast-deploy assets — worth noting as a timing risk for any PJM-territory revenue-stacking assumptions in the model, not as a hard number.",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Pending calendar (updated): PJM backstop procurement — new effective date Feb 28, 2027, resubmission timeline TBD; German EEG/Netzpaket committee hearings Oct 5 (EEG) / Oct 7 (Netzpaket), final vote targeted Oct 16; German KWK-Gesetz cabinet consideration Oct 14; Bloom Q3 earnings Oct 27; FCEL lead-plaintiff deadline Nov 10; New Mexico air-quality permit deadline for Project Jupiter Nov 23.",
+      "text": "Pending calendar (updated): PJM backstop procurement — new effective date Feb 28, 2027, resubmission timeline still TBD; German EEG/Netzpaket committee hearings Oct 5 (EEG, in 3 days) / Oct 7 (Netzpaket, in 5 days), final vote targeted Oct 16; German KWK-Gesetz cabinet consideration Oct 14; Bloom Q3 earnings Oct 27; FCEL lead-plaintiff deadline Nov 10; New Mexico air-quality permit deadline for Project Jupiter Nov 23.",
       "url": "",
       "sources": []
     }
