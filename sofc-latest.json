@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "topSignals": [
     {
-      "title": "Reverion emerges as a new German SOFC entrant explicitly targeting AI data centers — €150M ($175M) Series B, 250 MW factory, Ceres-licensed stacks via Doosan.",
-      "text": "Munich-based Reverion (container-based biogas/natural-gas/hydrogen SOFC power plants, reverse-operable as SOEC) closed a Series B led by Kembara with Allianz, KfW Capital, Aurum Impact and Carbon Equity, to scale manufacturing tenfold to 250 MW/year and add up to 800 jobs; it is now searching for a German factory site (Landsberg district actively bidding), with no location chosen yet as of Oct 1. The company claims 74.2% electrical efficiency in live customer operation and is explicitly pitching on-site, gas-infrastructure-connected SOFC power as the answer to multi-year hyperscaler grid-connection delays. Its stacks are supplied by Doosan Fuel Cell under a ~$78M/£60M order announced Sept 18, using Ceres Power-licensed SOFC technology — a direct link between a tracked priority-adjacent stack maker (Ceres) and a fast-moving new entrant. This appears not to have been in the monitor before; flagging now as a catch-up item given its materiality. Dealroom, Munich Startup, Doosan/Ceres order PDF, drweb.de factory search",
-      "url": "https://dealroom.co/news/157462-reverion-lands-150m-to-build-a-fuel-cell-megafactory-for-the-ai-power-cr/",
+      "title": "Priority stacks Elcogen and Topsoe remain quiet — status unchanged for a fourth consecutive day.",
+      "text": "Direct re-checks of both newsrooms today show no new item: Elcogen's latest post is still the Sept 21 Metrosert testing-cooperation announcement (15 days old; elcoStack E3000 G2 in volume production at the 360 MW ELCO I Tallinn factory), and Topsoe's press/financial-release pages still list the Aug 27 half-year results and Aug 31 Uniper e-methanol contract as the most recent dated items (36 days since any SOEC/SOFC-specific release). No stack/cell, capacity, or partnership news from either priority player in the window. Elcogen News, Topsoe News",
+      "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "Priority stacks Elcogen and Topsoe remain quiet — status unchanged for a third consecutive day.",
-      "text": "Direct re-check of both newsrooms shows no new item: Elcogen's latest post is still the Sept 21 Metrosert testing-cooperation announcement (14 days old), and Topsoe's press/financial-release pages still list the H1 2026 half-year statement as the most recent dated release. No SOEC/SOFC product, capacity, or partnership news from either in the window. Elcogen News, Topsoe News",
-      "url": "https://elcogen.com/category/news/",
+      "title": "PJM's 6 GW data-center backstop procurement is now a full week unfiled.",
+      "text": "Seven days after FERC's Sept 29 suspension order, no refiling or new auction timeline has surfaced; the Feb 28, 2027 effective date (contingent on a successful resubmission) stands as the only dated marker. This remains the clearest near-term event where SOFC's relative competitiveness against gas turbines, batteries and demand-response in PJM territory would be tested. Utility Dive",
+      "url": "https://www.utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751/",
       "n": 2
     },
     {
-      "title": "German policy catalysts now live: EEG-Novelle committee hearing is today (Oct 5), Netzpaket hearing in 2 days (Oct 7).",
-      "text": "No new text or vote outcome found yet for either hearing as of this search; Bundesrat committees (as of the Sept 21 recommendation round) continue pushing to soften or delay the Redispatch-Vorbehalt clause relevant to behind-the-meter/islanded generation. Final Bundestag vote still targeted around Oct 16. Separately, PJM's 6 GW data-center backstop procurement remains unfiled six days after FERC's Sept 29 suspension order, with no new timeline. Tagesspiegel Background, Utility Dive",
-      "url": "https://background.tagesspiegel.de/energie-und-klima/monitoring/kritik-der-laender-an-der-eeg-novelle-und-dem-netzpaket",
+      "title": "German policy calendar advances one notch: Netzpaket committee hearing is tomorrow (Oct 7); no confirmed outcome yet from the Oct 5 EEG-Novelle hearing.",
+      "text": "Searches today found no published readout of Monday's EEG-Novelle committee hearing (text/outcome not yet available), and the Bundesrat committees' push to soften or delay the Redispatch-Vorbehalt clause (relevant to behind-the-meter/islanded generation, including SOFC) remains unresolved ahead of the Netzpaket hearing. Final Bundestag vote still targeted around Oct 16 (10 days out). Tagesspiegel Background",
+      "url": "https://background.tagesspiegel.de/energie-und-klima/monitoring/eeg-und-netzpaket-in-der-anhoerung",
       "n": 3
     }
   ],
@@ -25,32 +25,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): Quiet — newsroom re-checked directly; most recent post remains the Sept 21 Metrosert multi-year testing-cooperation announcement. No new stack/cell, capacity, or partnership news in the window. Status unchanged: elcoStack E3000 G2 platform in volume production at ELCO I Tallinn. Elcogen News",
-          "url": "https://elcogen.com/category/news/",
-          "sources": [
-            {
-              "title": "Elcogen News",
-              "url": "https://elcogen.com/category/news/"
-            }
-          ]
-        },
-        {
-          "text": "Topsoe (priority): Quiet — press-release and news pages re-checked directly; most recent dated item is still the H1 2026 half-year statement. No SOEC/SOFC-specific item in the window. Topsoe News",
-          "url": "https://www.topsoe.com/news",
-          "sources": [
-            {
-              "title": "Topsoe News",
-              "url": "https://www.topsoe.com/news"
-            }
-          ]
-        },
-        {
-          "text": "New entrant — Reverion (Germany): see Top Signal #1. Container-based SOFC/rSOC systems on Ceres-licensed, Doosan-supplied stacks; 74.2% claimed electrical efficiency; scaling to 250 MW/year capacity; factory site still undecided.",
+          "text": "Elcogen (priority): Quiet — see Top Signal #1. Status unchanged: elcoStack E3000 G2 (75% electrical / 90% CHP efficiency, 650°C, 119-cell reversible stack) in volume production at ELCO I (360 MW/yr, Tallinn); ~€140M total funding (Baker Hughes, HD Hyundai, HydrogenOne Capital, Mirae, EU Innovation Fund).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin: no new stack/cell-technology announcements found in the window beyond already-logged items (financial/market news for Bloom, FuelCell Energy and Ceres covered below; Ceres' role as Reverion's underlying stack licensor noted above).",
+          "text": "Topsoe (priority): Quiet — see Top Signal #1. No SOEC/SOFC-specific item since the Aug 31 Uniper e-methanol FEED contract (not fuel-cell-specific) and the Aug 27 half-year results/outlook update.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin, and new entrant Reverion (Germany, see Oct 5 digest for its €150M/$175M Series B): no new stack/cell-technology announcements found in the window.",
           "url": "",
           "sources": []
         }
@@ -70,7 +55,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Live — see Top Signal #3:* Germany's EEG-Novelle committee hearing is today (Oct 5), Netzpaket hearing in 2 days (Oct 7); final Bundestag vote still targeted around Oct 16. PJM's 6 GW backstop procurement remains unfiled, six days after FERC's Sept 29 suspension order; no refiling or new auction date found. New effective date (if resubmitted successfully) remains Feb 28, 2027.",
+          "text": "Live — see Top Signals #2 and #3:* Germany's Netzpaket committee hearing is tomorrow (Oct 7); EEG-Novelle hearing outcome (Oct 5) not yet confirmed; final Bundestag vote still targeted around Oct 16. PJM's 6 GW backstop procurement remains unfiled, seven days after FERC's Sept 29 suspension order.",
           "url": "",
           "sources": []
         },
@@ -95,22 +80,22 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Reverion (private, Germany): Closed €150M/$175M Series B (announced Sept 29, led by Kembara; Allianz, KfW Capital, Aurum Impact, Carbon Equity participating) — see Top Signal #1. Not previously logged.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Ceres Power (CWR.L): Routine \"Total Voting Rights\" RNS filed Sept 30; no new market-moving disclosure since the Sept 23 interim results. Its licensed-stack role in the Reverion/Doosan supply chain (Sept 18, ~$78M/£60M order) is the notable indirect financial linkage this week.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Bloom Energy (BE): No new operational or financial disclosures in the window. Q3 earnings now 22 days out, due Oct 27.",
+          "text": "Bloom Energy (BE): No new operational or financial disclosures in the window. Q3 earnings now 21 days out, due Oct 27.",
           "url": "",
           "sources": []
         },
         {
           "text": "FuelCell Energy (FCEL): No new operational disclosures in the window; Nov 10, 2026 lead-plaintiff deadline (Fit Energy cost-overrun disclosure suit) still pending; backlog remains $3.6B per the Q3 transcript.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Power (CWR.L): No new market-moving disclosure since the Sept 30 \"Total Voting Rights\" RNS and Sept 23 interim results.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Reverion (private, Germany): No new financial news since the Sept 29-announced €150M/$175M Series B (see Oct 5 digest).",
           "url": "",
           "sources": []
         }
@@ -139,22 +124,12 @@
   ],
   "lcoe": [
     {
-      "text": "New: Reverion's claimed 74.2% electrical efficiency in live customer operation for its containerized SOFC/CHP system (described by the company as nearly double a conventional generator and a thermal-power-plant efficiency record). This is a vendor claim for a biogas/gas-fed container system, not an independently audited figure — useful as a directional benchmark for CHP-configured SOFC rather than a drop-in LCOE input. Dealroom",
-      "url": "https://dealroom.co/news/157462-reverion-lands-150m-to-build-a-fuel-cell-megafactory-for-the-ai-power-cr/",
-      "sources": [
-        {
-          "title": "Dealroom",
-          "url": "https://dealroom.co/news/157462-reverion-lands-150m-to-build-a-fuel-cell-megafactory-for-the-ai-power-cr/"
-        }
-      ]
-    },
-    {
-      "text": "No new independently-verified cost, capex/opex, or gas/H2/electricity price datapoint published in the last 24-48h beyond already-logged items (Pan et al. $3.49/kg LCOH; Kourougianni et al. >30% annualized-cost reduction for rSOC+PV; Kim 2026 50–60% net electrical efficiency for commercial SOFC systems; Sept 25 EIA Henry Hub summer-2026 average of $2.93/MMBtu).",
+      "text": "No new independently-verified cost, capex/opex, or gas/H2/electricity price datapoint published in the last 24-48h beyond already-logged items (Reverion's unaudited 74.2% electrical-efficiency claim; Pan et al. $3.49/kg LCOH; Kourougianni et al. >30% annualized-cost reduction for rSOC+PV; Kim 2026 50–60% net electrical efficiency for commercial SOFC systems; Sept 25 EIA Henry Hub summer-2026 average of $2.93/MMBtu).",
       "url": "",
       "sources": []
     },
     {
-      "text": "Pending calendar (updated): German EEG committee hearing today, Oct 5 (0 days); Netzpaket hearing Oct 7 (in 2 days); final EEG/Netzpaket vote targeted Oct 16 (in 11 days); German KWK-Gesetz cabinet consideration Oct 14 (in 9 days); Bloom Q3 earnings Oct 27 (in 22 days); FCEL lead-plaintiff deadline Nov 10; New Mexico air-quality permit deadline for Project Jupiter Nov 23; PJM backstop resubmission timeline still TBD (new effective date, if refiled successfully, Feb 28, 2027).",
+      "text": "Pending calendar (updated): Germany's Netzpaket committee hearing Oct 7 (in 1 day); final EEG/Netzpaket Bundestag vote targeted Oct 16 (in 10 days); German KWK-Gesetz cabinet consideration Oct 14 (in 8 days); Bloom Q3 earnings Oct 27 (in 21 days); FCEL lead-plaintiff deadline Nov 10 (in 35 days); New Mexico air-quality permit deadline for Project Jupiter Nov 23 (in 48 days); PJM backstop resubmission timeline still TBD (new effective date, if refiled successfully, Feb 28, 2027).",
       "url": "",
       "sources": []
     }
