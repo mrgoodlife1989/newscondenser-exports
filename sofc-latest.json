@@ -1,24 +1,22 @@
 {
-  "date": "2026-10-09",
-  "topSignals": [
-    {
-      "n": 1,
-      "title": "Quiet day",
-      "text": "Quiet day. No material new developments were identified across stack/cell technology, AI-data-center deployments, regulation, competing on-site power, market/financials, or research/IP in the last 24-48h (English and German sources checked, including direct checks of Elcogen, Topsoe, Bloom Energy, FuelCell Energy, Ceres Power, datacenterdynamics.com, utilitydive.com, and bundestag.de). Elcogen and Topsoe status is confirmed unchanged (see Stack & Cell Technology below). The nearest-term calendar items to watch remain the same as reported yesterday: Germany's Netzpaket Bundestag vote (targeted Oct 16, 7 days out) and Bloom Energy's Q3 earnings (Oct 27, 18 days out).",
-      "url": ""
-    }
-  ],
+  "date": "2026-10-10",
+  "topSignals": [],
   "sections": [
     {
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority stack):* No new company news in the window. Latest confirmed status remains the Sept 21, 2026 multi-year cooperation agreement with Metrosert on solid oxide technology testing, following the Sept 15 deepening of the Shanghai HyEnergy China-deployment collaboration and the Aug 31 MoU with a China Southern Power Grid group company. Elcogen's Tallinn cell-and-stack factory and its ~EUR140m fundraise (incl. Baker Hughes and Mirae participation) and EUR24.9m EU Innovation Fund grant remain the latest capacity/financing milestones on record; no capacity-expansion, product-release, or new partnership announcement found for the last 24-48h.",
+          "text": "Elcogen (priority stack):* No new company news in the window — direct check of elcogen.com/category/news confirms the latest item remains the Sept 21, 2026 multi-year cooperation agreement with Metrosert on solid oxide technology testing. No capacity-expansion, product-release, or new partnership announcement found for the last 24-48h.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority stack):* No new company news in the window. Status remains as last reported: Topsoe's H1 2026 results showed a large DKK ~4.4bn special-items charge tied to its SOEC commercialization-pathway restructuring (announced earlier in 2026), alongside an upward revision to full-year 2026 guidance per gasworld's coverage; the company continues to hold its EUR94m EU Innovation Fund award to build a SOEC factory. No new SOEC/SOFC test result, factory milestone, or partnership identified since the H1 report.",
+          "text": "Topsoe (priority stack):* No new company news in the window — direct check of topsoe.com/news shows the most recent substantive items remain the H1 2026 half-year results (challenging market, DKK ~4.4bn special-items charge) and the upward 2026 outlook revision, both already logged. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Rotating benchmark-company dedicated searches (this cycle: Convion, Hexis, SK ecoplant, Nexceris, Huatsing Power, Ningbo SOFCMAN), 7-day lookback:* No new items within the window. Searches surfaced only older, already-superseded history: Convion's 2024 acquisition by HD Korea Shipbuilding & Offshore Engineering (~€72M, Aug 2024 — not new); Hexis AG's acquisition by h2e Power (prior-year item — not new); SK ecoplant/Bloom Energy's 500 MW Preferred Distributor Agreement extension (Dec 2023 — not new); Nexceris' LEVER SOEC-scaling program and ARPA-E awards (legacy items, no 2026 update found); no substantive English or Chinese-language news located for Huatsing Power or Ningbo SOFCMAN in the lookback window.",
           "url": "",
           "sources": []
         },
@@ -33,7 +31,7 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Quiet day. No new SOFC order, PPA, pilot, or hyperscaler/colocation procurement announcement identified in the last 24-48h beyond the deals already logged in the monitor (Oracle-Bloom 2.8 GW; Bloom-AEP 1 GW; Bloom-Brookfield financing; Bloom-Nebius; Equinix's multi-vendor fuel-cell/nuclear program; FuelCell Energy's Fit Energy and Texas Capacity Reservation agreements; Siemens-FuelCell Energy partnership; ECL/PowerCell-US data center deployments).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -43,7 +41,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "No change* since yesterday. Germany's Netzpaket committee hearing (Bundestag Ausschuss fuer Wirtschaft und Energie, held Oct 7) has not produced a published outcome or committee report as of this check; the final Bundestag vote remains targeted around Oct 16 (7 days out). PJM's 6 GW data-center backstop capacity procurement remains unfiled with FERC following the Sept 29 suspension order - no refiling or revised timeline located in this check; the Feb 28, 2027 effective date (contingent on a successful resubmission) stands as the only dated marker. No change on: Germany's KWK-Gesetz cabinet consideration (Oct 14, 5 days out); DOE/FERC large-load interconnection rulemaking (Apr 30, 2026 deadline); ITC 48E and 45V hydrogen credit status; Virginia's new fuel-cell-specific category in its 2026 Energy Plan (5 GW target, 2029-2035) and its separate data-center electricity tax; EU data-centre energy/water-efficiency reporting rules; UK Ofgem's data-centre grid-connection-queue reform consultation; Ireland's data-centre grid-connection rules.",
+          "text": "No change* since yesterday. A direct check of bundestag.de confirms Germany's Netzpaket committee process has not produced a published final outcome; the Bundestag plenary vote remains targeted around Oct 16 (6 days out). PJM's 6 GW data-center backstop capacity procurement remains unfiled with FERC following the Sept 29 suspension order — no refiling or revised timeline located. No change on: Germany's KWK-Gesetz cabinet consideration (Oct 14, 4 days out); DOE/FERC large-load interconnection rulemaking (Apr 30, 2026 deadline); ITC 48E and 45V hydrogen credit status; Virginia's fuel-cell-specific 2026 Energy Plan category (5 GW target, 2029-2035) and its data-center electricity tax; EU data-centre energy/water-efficiency reporting rules; UK Ofgem's data-centre grid-connection-queue reform consultation; Ireland's data-centre grid-connection rules.",
           "url": "",
           "sources": []
         }
@@ -53,7 +51,7 @@
       "title": "Competing On-Site Power",
       "items": [
         {
-          "text": "Quiet day. No new gas-turbine, SMR/nuclear, battery-storage, or PEM/hydrogen data-center power deal identified in the window beyond previously logged items (GE Vernova turbine backlog; Baker Hughes-Kodiak and Baker Hughes-Dynamis turbine orders; INNIO's 1.1 GW gas-engine order; NextEra/GE Vernova gas-for-data-centers plus Iowa nuclear restart; Blue Energy/GE Vernova/Hitachi 25 GW gas-plus-nuclear Texas plant; Oklo/rPower nuclear-plus-gas hybrid model; Google-Kairos and other hyperscaler SMR/nuclear commitments; Energy Vault's 1.25 GW off-grid BESS deal; Canadian Solar e-STORAGE's 2.5 GWh battery deal). PJM's still-unresolved backstop auction (see Regulations) remains the nearest-term test of SOFC's relative competitive standing versus these alternatives.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -63,22 +61,7 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "1. FuelCell Energy (FCEL): No new disclosure since the Oct 7 CFO-transition announcement already logged. Backlog remains $3.6B per the Q3 transcript; the Nov 10, 2026 lead-plaintiff deadline (Fit Energy cost-overrun disclosure suit) is 32 days out.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "2. Bloom Energy (BE): No new operational or analyst disclosure identified in this check beyond the Barclays ($308 PT) and RBC ($335 PT) notes already logged. Q3 earnings remain scheduled for Oct 27 (18 days out).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "3. Ceres Power (CWR.L): No new market-moving disclosure since the Sept 30 \"Total Voting Rights\" RNS and Sept 23 interim results.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "4. Reverion (private, Germany): No new financial news since the Sept 29-announced EUR150M/$175M Series B.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -88,7 +71,7 @@
       "title": "Research & IP",
       "items": [
         {
-          "text": "Quiet day. Checks of USPTO full-text search, NETL fact sheets, and general patent/national-lab queries for SOFC durability, cost-reduction, and metal-supported-cell work surfaced no item independently dated to the last 24-48h.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
@@ -98,18 +81,12 @@
       "title": "Scientific Papers - SOFC Systems",
       "items": [
         {
-          "text": "Quiet day. Dedicated searches across Journal of Power Sources, Applied Energy, Energy Conversion and Management, Int. J. Hydrogen Energy, J. Electrochemical Society, Fuel Cells, MDPI (Energies/Processes), and Google Scholar (\"SOFC system\" 2026; SOFC-GT hybrid; reversible SOEC/rSOC; data-center SOFC) surfaced no newly published (<=7-day) system-level paper beyond items already logged in prior entries (Pan et al., J. Power Sources, rSOC+thermal-storage 3E analysis; Kourougianni et al., Energy Conversion and Management, rSOC+PV multi-scale framework; Kim 2026, Processes/MDPI, AI-data-center bridge-asset review; Shigematsu et al., J. Electrochemical Society 173, 154502, hydrogen-circulating rSOC simulation).",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
       ]
     }
   ],
-  "lcoe": [
-    {
-      "text": "No new figures this cycle. EIA's Oct 6, 2026 STEO Henry Hub forecast ($3.48/MMBtu 2026, $3.16/MMBtu 2027) remains the freshest official natural-gas price vintage on record; the next STEO release is Nov 10, 2026 (32 days out). Virginia's 5 GW 2029-2035 fuel-cell target remains a market-sizing datapoint rather than a direct cost figure. Pending calendar (updated): Final Netzpaket Bundestag vote targeted Oct 16 (7 days); German KWK-Gesetz cabinet consideration Oct 14 (5 days); Bloom Q3 earnings Oct 27 (18 days); FCEL lead-plaintiff deadline Nov 10 (32 days); New Mexico air-quality permit deadline for Project Jupiter Nov 23 (45 days); PJM backstop resubmission timeline still TBD (new effective date, if refiled successfully, Feb 28, 2027); next EIA STEO Nov 10, 2026.",
-      "url": "",
-      "sources": []
-    }
-  ]
+  "lcoe": []
 }
