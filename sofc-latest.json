@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "topSignals": [
     {
-      "title": "Still quiet: eighth consecutive day without a material new SOFC/AI-datacenter development.",
-      "text": "Direct re-checks of Elcogen's and Topsoe's newsrooms, plus broad English/German sweeps across all monitor sections, surfaced nothing dated inside the 24-48h window. Elcogen's latest post remains the Sept 21 Metrosert testing-cooperation announcement (20 days old); Topsoe's most recent substantive items remain the H1 2026 results and the Uniper e-methanol contract. Elcogen News | Topsoe News",
+      "title": "Ninth consecutive quiet day for the two priority stacks.",
+      "text": "Elcogen's and Topsoe's newsrooms show no post inside the 24-48h window. Elcogen's latest remains the Sept 21 Metrosert testing-cooperation announcement (21 days old); Topsoe's most recent substantive items remain the H1 2026 results and the Uniper e-methanol FEED contract. Elcogen News | Topsoe News",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "Today's rotating benchmark-company searches (Sunfire, SolydEra/SOLIDpower, Mitsubishi Power, Kyocera, Aisin, Chaozhou Three-Circle/CCTC) surfaced only recycled or stale content — no new datapoints.",
-      "text": "Search results for these six were dominated by SEO aggregator rewrites (enkiai.com \"2025 strategy\" pieces) and a 2016-vintage Cummins/Ceres DOE data-center fuel-cell contract that resurfaced under a misleading \"2026\" search snippet — confirmed via direct fetch to be a September 2, 2016 ExecutiveBiz article, not new.",
+      "title": "Today's rotating benchmark-company searches (Fraunhofer IKTS/Kerafol, Plansee, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries) surfaced no new datapoints.",
+      "text": "All six came back with either recycled older stories or content that pre-dates the lookback window — see Stack & Cell Technology for detail.",
       "url": "",
       "n": 2
     },
     {
-      "title": "Nearest-term calendar unchanged: Germany's Netzpaket Bundestag vote (targeted Oct 16, 5 days out) and Bloom Energy's Q3 2026 earnings (Oct 27, 16 days out) remain the two dated catalysts to watch.",
-      "text": "No change on PJM's unfiled FERC backstop refiling status.",
-      "url": "",
+      "title": "New non-SOFC competing-power signal: ONE Nuclear Energy signs a binding LOI for a 2.88 GW gas-fired plant plus large-scale battery storage (BESS) co-located with an AI data center campus in Ascension Parish, Louisiana (\"Project Cayman\").",
+      "text": "Despite the company name, this is a gas+battery project, not a nuclear one — another data point for gas/BESS as the dominant on-site AI-power pathway at multi-GW scale. DatacenterDynamics | Energy-Storage.news",
+      "url": "https://www.datacenterdynamics.com/en/news/one-nuclear-inks-binding-loi-to-develop-288gw-gas-plant-and-bess-to-power-data-center-in-louisiana/",
       "n": 3
     }
   ],
@@ -25,22 +25,52 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority stack):* No new company news in the window — direct fetch of elcogen.com/category/news confirms the Sept 21, 2026 Metrosert testing-cooperation announcement remains the latest post (full recent history checked back to the Sept 15 Shanghai HyEnergy item and Aug 31 China Southern Power Grid MoU; no capacity, product, or partnership news since).",
+          "text": "Elcogen (priority stack):* No new company news in the window. elcogen.com/category/news still lists the Sept 21 Metrosert cooperation announcement as the latest post. A cluster of \"Elcogen launches new high-volume SOFC factory\" articles (macaubusiness, hydrogen-central, tradewithestonia, investinestonia, timestech) surfaced again today but all trace back to the 360 MW ELCO I Tallinn factory launch already logged in this monitor (May 2026) or an earlier Sept 2025 version of the same story (h2-tech.com dateline confirms 2025) — not new.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority stack):* No new company news in the window — topsoe.com/news still lists the H1 2026 half-year results (DKK ~4.4bn special-items charge, upward full-year guidance revision) and the Uniper e-methanol FEED contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
+          "text": "Topsoe (priority stack):* No new company news in the window. topsoe.com/news still shows the H1 2026 results and Uniper e-methanol contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rotating benchmark-company dedicated searches (this cycle: Sunfire, SolydEra/SOLIDpower, Mitsubishi Power, Kyocera, Aisin, Chaozhou Three-Circle/CCTC), 7-day lookback:* No new items within the window for any of the six. Sunfire's name collided heavily with wildfire-season search noise (no company-specific results surfaced at all). SolydEra/Solid Power results were dominated by its Q2 2026 results (already stale, reported Aug 4). Mitsubishi Power, Kyocera and Aisin searches surfaced only recycled 2025-dated SEO strategy writeups (enkiai.com) and legacy residential-cogeneration releases, no 2026 company news. Chaozhou Three-Circle (CCTC) surfaced only its Wikipedia profile and old (2013-era) investor coverage — no recent SOFC-specific activity found for this Chinese ceramics/electronic-components group.",
+          "text": "Rotating benchmark-company dedicated searches (this cycle: Fraunhofer IKTS/Kerafol, Plansee, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries), 7-day lookback:",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power):* No new stack/cell-technology-specific announcements identified in the window beyond items already logged in prior entries (financial/market news for all three covered below).",
+          "text": "Fraunhofer IKTS / Kerafol: No dated 2026 news; results were legacy technical publications and institute pages.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Plansee: No dated 2026 news; results were patent filings and older powder-metallurgy-interconnect technical write-ups (SOFC20 project).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Doosan Fuel Cell: No new item. The \"$78M Reverion stack supply contract\" (evertiq, Sept 18) is the already-logged Aug 5-6 Doosan/Reverion $76.7M deal reported again with a rounded figure — not new. Several \"2026 strategy\" pieces (enkiai.com) are recycled SEO aggregator content, consistent with the pattern flagged in prior entries.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Watt Fuel Cell: No new item; most recent substantive news (equity financing, first WATT HOME residential installation) is from July 2026, already outside this week's window.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "OxEon Energy: No new item. A cluster of \"OxEon wins $36M DOE hydrogen funding\" stories resurfaced under a 2026-dated URL slug (utahbusiness.com) but the underlying announcement is confirmed 2024-vintage (davisjournal.com, slenterprise.com) — not new.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Kawasaki Heavy Industries: No SOFC-specific news found; results were generic stock/index coverage.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power):* No new stack/cell-technology-specific announcements beyond items already logged (financial/market news for all three covered below).",
           "url": "",
           "sources": []
         }
@@ -60,7 +90,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "No change* since yesterday. Germany's Netzpaket Bundestag plenary vote remains targeted around Oct 16 (5 days out); no published committee outcome located. PJM's 6 GW data-center backstop capacity procurement remains unfiled with FERC following the Sept 29 suspension order. No change on: Germany's KWK-Gesetz cabinet consideration (Oct 14, 3 days out); DOE/FERC large-load interconnection rulemaking (Apr 30, 2026 deadline); ITC 48E and 45V hydrogen credit status (no new IRS/Treasury guidance found); Virginia's fuel-cell-specific 2026 Energy Plan category and data-center electricity tax (confirmed unchanged — the Oct 1 SELC press release and related coverage describe the already-logged energy-affordability/data-center-tax package, no new provision); EU data-centre energy/water-efficiency reporting rules; UK Ofgem's data-centre grid-connection-queue reform consultation; Ireland's data-centre grid-connection rules.",
+          "text": "Quiet day.",
           "url": "",
           "sources": []
         }
