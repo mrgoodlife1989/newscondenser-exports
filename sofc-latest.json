@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "topSignals": [
     {
-      "title": "Ninth consecutive quiet day for the two priority stacks.",
-      "text": "Elcogen's and Topsoe's newsrooms show no post inside the 24-48h window. Elcogen's latest remains the Sept 21 Metrosert testing-cooperation announcement (21 days old); Topsoe's most recent substantive items remain the H1 2026 results and the Uniper e-methanol FEED contract. Elcogen News | Topsoe News",
+      "title": "Elcogen and Topsoe both remain silent on company news — 22 days since Elcogen's last post (Sept 21 Metrosert cooperation), 44+ days since Topsoe's last SOFC/SOEC-specific item (Aug 27 H1 results).",
+      "text": "Direct newsroom checks today found no new stack, capacity, or partnership announcement from either priority player. Elcogen News | Topsoe News",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "Today's rotating benchmark-company searches (Fraunhofer IKTS/Kerafol, Plansee, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries) surfaced no new datapoints.",
-      "text": "All six came back with either recycled older stories or content that pre-dates the lookback window — see Stack & Cell Technology for detail.",
+      "title": "Full benchmark-company rotation completed: today's dedicated searches covered the last seven names on the list (Reverion, Miura, Weichai, Delta Electronics, Shell, Denso, Thermax) — every company on the COMPETITOR BENCHMARK LIST has now had at least one dedicated search this cycle.",
+      "text": "All seven returned only already-logged or multi-year-old history; no new datapoint. See Stack & Cell Technology for detail.",
       "url": "",
       "n": 2
     },
     {
-      "title": "New non-SOFC competing-power signal: ONE Nuclear Energy signs a binding LOI for a 2.88 GW gas-fired plant plus large-scale battery storage (BESS) co-located with an AI data center campus in Ascension Parish, Louisiana (\"Project Cayman\").",
-      "text": "Despite the company name, this is a gas+battery project, not a nuclear one — another data point for gas/BESS as the dominant on-site AI-power pathway at multi-GW scale. DatacenterDynamics | Energy-Storage.news",
-      "url": "https://www.datacenterdynamics.com/en/news/one-nuclear-inks-binding-loi-to-develop-288gw-gas-plant-and-bess-to-power-data-center-in-louisiana/",
+      "title": "New: a standing best-in-class benchmark register (SOFC_Benchmark_Records.md) has been seeded from the archive and is now live.",
+      "text": "It tracks ten KPIs (efficiency, degradation, lifetime, capex, manufacturing capacity, largest order, largest funding round, SOEC efficiency) with current-best values, sources and \"previous best\" tracking. No competitor datapoint found today beat or neared (within ~5%) any seeded value — see LCOE-Relevant Datapoints for the full table reference.",
+      "url": "",
       "n": 3
     }
   ],
@@ -25,52 +25,57 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority stack):* No new company news in the window. elcogen.com/category/news still lists the Sept 21 Metrosert cooperation announcement as the latest post. A cluster of \"Elcogen launches new high-volume SOFC factory\" articles (macaubusiness, hydrogen-central, tradewithestonia, investinestonia, timestech) surfaced again today but all trace back to the 360 MW ELCO I Tallinn factory launch already logged in this monitor (May 2026) or an earlier Sept 2025 version of the same story (h2-tech.com dateline confirms 2025) — not new.",
+          "text": "Elcogen (priority stack):* No new company news. elcogen.com/category/news still shows the Sept 21 Metrosert testing-cooperation post as the latest (22 days old). Recurring \"Elcogen launches high-volume SOFC factory\" articles resurfaced again in today's search but all trace to the already-logged May 2026 ELCO I Tallinn launch (360 MW/yr) or an earlier 2025-dated version of the same story — not new.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority stack):* No new company news in the window. topsoe.com/news still shows the H1 2026 results and Uniper e-methanol contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
+          "text": "Topsoe (priority stack):* No new company news. topsoe.com/news still shows the H1 2026 results and Uniper e-methanol contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rotating benchmark-company dedicated searches (this cycle: Fraunhofer IKTS/Kerafol, Plansee, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries), 7-day lookback:",
+          "text": "Rotating benchmark-company dedicated searches (this cycle: Reverion, Miura, Weichai, Delta Electronics, Shell, Denso, Thermax), 7-day lookback — rotation now complete, every listed company has had a dedicated search:",
           "url": "",
           "sources": []
         },
         {
-          "text": "Fraunhofer IKTS / Kerafol: No dated 2026 news; results were legacy technical publications and institute pages.",
+          "text": "Reverion: No new item beyond the already-logged Sept 29 €150M/$175M Series B and the Sept 18 Doosan $78M SOFC-stack supply contract (reported again today under a rounded figure — not new).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Plansee: No dated 2026 news; results were patent filings and older powder-metallurgy-interconnect technical write-ups (SOFC20 project).",
+          "text": "Miura: No 2026 news; results were all the 2024-vintage Miura/Ceres 4.2 kW Japan CHP launch and the related maintenance-network announcement, both already superseded/out of window.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Doosan Fuel Cell: No new item. The \"$78M Reverion stack supply contract\" (evertiq, Sept 18) is the already-logged Aug 5-6 Doosan/Reverion $76.7M deal reported again with a rounded figure — not new. Several \"2026 strategy\" pieces (enkiai.com) are recycled SEO aggregator content, consistent with the pattern flagged in prior entries.",
+          "text": "Weichai: No new item; the Ceres/Weichai Chinese manufacturing-licence deal and today's recirculated \"Ceres shares soar on China data centre power deal\" headline both trace to the same already-logged July 2026 announcement.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Watt Fuel Cell: No new item; most recent substantive news (equity financing, first WATT HOME residential installation) is from July 2026, already outside this week's window.",
+          "text": "Delta Electronics: No 2026 news; only the 2024 Ceres-Delta hydrogen technology licence resurfaced.",
           "url": "",
           "sources": []
         },
         {
-          "text": "OxEon Energy: No new item. A cluster of \"OxEon wins $36M DOE hydrogen funding\" stories resurfaced under a 2026-dated URL slug (utahbusiness.com) but the underlying announcement is confirmed 2024-vintage (davisjournal.com, slenterprise.com) — not new.",
+          "text": "Shell: No new SOFC-specific item; results were the existing Shell/Doosan/Hyundai maritime SOFC development project (already on file) and unrelated 2025-dated SEO aggregator content.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Kawasaki Heavy Industries: No SOFC-specific news found; results were generic stock/index coverage.",
+          "text": "Denso: No new item; only 2025-vintage SEO aggregator \"strategy\" pieces, no primary-source 2026 announcement.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power):* No new stack/cell-technology-specific announcements beyond items already logged (financial/market news for all three covered below).",
+          "text": "Thermax: No English or Indian-market news located in the lookback window.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin):* No new stack/cell-technology-specific announcements beyond items already logged (financial/market news for Bloom, FCEL and Ceres covered below). Sunfire's SOEC test facility at BASF Schwarzheide (groundbreaking Aug 19, up to 89% LHV efficiency target, commissioning end 2026) remains the most recent genuinely new stack-adjacent item on file — unchanged since last reported.",
           "url": "",
           "sources": []
         }
@@ -127,7 +132,7 @@
       ]
     },
     {
-      "title": "Scientific Papers - SOFC Systems",
+      "title": "Scientific Papers — SOFC Systems",
       "items": [
         {
           "text": "Quiet day.",
