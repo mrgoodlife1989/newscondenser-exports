@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "topSignals": [
     {
-      "title": "Elcogen and Topsoe both remain silent on company news — 22 days since Elcogen's last post (Sept 21 Metrosert cooperation), 44+ days since Topsoe's last SOFC/SOEC-specific item (Aug 27 H1 results).",
-      "text": "Direct newsroom checks today found no new stack, capacity, or partnership announcement from either priority player. Elcogen News | Topsoe News",
+      "title": "Eleventh consecutive quiet day for Elcogen and Topsoe, INOCEL's two priority benchmark stacks.",
+      "text": "Elcogen's newsroom still shows the Sept 21 Metrosert cooperation announcement as its latest post (23 days old); Topsoe's most recent SOFC/SOEC-specific item remains the Aug 27 H1 2026 results (48 days old). Direct checks of both newsrooms today found no new product, capacity, or partnership announcement in the 24-48h window. Elcogen News | Topsoe News",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "Full benchmark-company rotation completed: today's dedicated searches covered the last seven names on the list (Reverion, Miura, Weichai, Delta Electronics, Shell, Denso, Thermax) — every company on the COMPETITOR BENCHMARK LIST has now had at least one dedicated search this cycle.",
-      "text": "All seven returned only already-logged or multi-year-old history; no new datapoint. See Stack & Cell Technology for detail.",
+      "title": "New benchmark-rotation cycle begins (Convion, Hexis, SK ecoplant, Nexceris, Huatsing Power, Ningbo SOFCMAN) plus two cross-company sweeps — all surfaced only recycled or multi-year-old stories, no new datapoints.",
+      "text": "Three items worth flagging as false positives from today's search noise: a \"SolydEra and Convion\" strategic-partnership release is confirmed dated September 2023; a FuelCell Energy–Inuverse (Daegu, South Korea) 100 MW MOU is confirmed July 2025; and a FuelCell Energy–SDC (Sustainable Development Capital) up-to-450 MW global LOI is confirmed January 2026 — all three pre-date this monitor's coverage window and are already implicit in the standing AI-datacenter pipeline.",
       "url": "",
       "n": 2
     },
     {
-      "title": "New: a standing best-in-class benchmark register (SOFC_Benchmark_Records.md) has been seeded from the archive and is now live.",
-      "text": "It tracks ten KPIs (efficiency, degradation, lifetime, capex, manufacturing capacity, largest order, largest funding round, SOEC efficiency) with current-best values, sources and \"previous best\" tracking. No competitor datapoint found today beat or neared (within ~5%) any seeded value — see LCOE-Relevant Datapoints for the full table reference.",
+      "title": "Nearest dated catalysts: Germany's Netzpaket Bundestag vote (targeted Oct 16, 2 days out) and Bloom Energy's Q3 2026 earnings (Oct 27, 13 days out).",
+      "text": "Germany's KWK-Gesetz cabinet consideration was targeted for today (Oct 14); the government's published cabinet-results feed does not yet reflect an outcome (the most recent published session, Oct 7, did not include it) — worth re-checking tomorrow once/if today's session results are posted. PJM's 6 GW FERC backstop-auction refiling remains unresolved.",
       "url": "",
       "n": 3
     }
@@ -25,57 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority stack):* No new company news. elcogen.com/category/news still shows the Sept 21 Metrosert testing-cooperation post as the latest (22 days old). Recurring \"Elcogen launches high-volume SOFC factory\" articles resurfaced again in today's search but all trace to the already-logged May 2026 ELCO I Tallinn launch (360 MW/yr) or an earlier 2025-dated version of the same story — not new.",
+          "text": "Elcogen (priority stack):* No new company news in the window. A direct check of elcogen.com/category/news confirms the Sept 21, 2026 Metrosert testing-cooperation announcement remains the latest post (23 days old; full history checked back through the Sept 15 Shanghai HyEnergy item and Aug 31 China Southern Power Grid MoU). No capacity-expansion, product-release, or new partnership announcement found.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority stack):* No new company news. topsoe.com/news still shows the H1 2026 results and Uniper e-methanol contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
+          "text": "Topsoe (priority stack):* No new company news in the window. topsoe.com/news still features the H1 2026 half-year results (DKK ~4.4bn special-items charge, upward 2026 outlook revision) and the Uniper e-methanol FEED contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rotating benchmark-company dedicated searches (this cycle: Reverion, Miura, Weichai, Delta Electronics, Shell, Denso, Thermax), 7-day lookback — rotation now complete, every listed company has had a dedicated search:",
+          "text": "Rotating benchmark-company dedicated searches — new cycle, round 1 (Convion, Hexis, SK ecoplant, Nexceris, Huatsing Power, Ningbo SOFCMAN), 7-day lookback:* No new items for any of the six. Results repeated the same already-superseded history flagged in the prior rotation (Convion's 2024 acquisition by HD Korea Shipbuilding & Offshore Engineering; Hexis AG's acquisition by h2e Power; SK ecoplant/Bloom Energy's 500 MW Preferred Distributor Agreement extension, Dec 2023; Nexceris' legacy LEVER/ARPA-E SOEC-scaling program). A \"SolydEra and Convion to jointly address growth in fuel-cell and hydrogen market\" release also resurfaced in search results today but is confirmed, via direct fetch, dated September 25, 2023 (global strategic partnership combining SolydEra's SOC stacks with Convion's systems; SolydEra capacity cited at the time: 25 MW/yr SOFC + 75 MW/yr SOE at Pergine Valsugana) — not new, and not a 2026 datapoint. No substantive English or Chinese-language news located for Huatsing Power or Ningbo SOFCMAN.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Reverion: No new item beyond the already-logged Sept 29 €150M/$175M Series B and the Sept 18 Doosan $78M SOFC-stack supply contract (reported again today under a rounded figure — not new).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Miura: No 2026 news; results were all the 2024-vintage Miura/Ceres 4.2 kW Japan CHP launch and the related maintenance-network announcement, both already superseded/out of window.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Weichai: No new item; the Ceres/Weichai Chinese manufacturing-licence deal and today's recirculated \"Ceres shares soar on China data centre power deal\" headline both trace to the same already-logged July 2026 announcement.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Delta Electronics: No 2026 news; only the 2024 Ceres-Delta hydrogen technology licence resurfaced.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Shell: No new SOFC-specific item; results were the existing Shell/Doosan/Hyundai maritime SOFC development project (already on file) and unrelated 2025-dated SEO aggregator content.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Denso: No new item; only 2025-vintage SEO aggregator \"strategy\" pieces, no primary-source 2026 announcement.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Thermax: No English or Indian-market news located in the lookback window.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin):* No new stack/cell-technology-specific announcements beyond items already logged (financial/market news for Bloom, FCEL and Ceres covered below). Sunfire's SOEC test facility at BASF Schwarzheide (groundbreaking Aug 19, up to 89% LHV efficiency target, commissioning end 2026) remains the most recent genuinely new stack-adjacent item on file — unchanged since last reported.",
+          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin):* No new stack/cell-technology-specific announcements identified beyond items already logged (financial/market items for Bloom, FCEL and Ceres covered below). A Mitsubishi Heavy Industries 400 kW SOEC test-module item (claiming 3.5 kWh/Nm³ ≈ 101% HHV electrolytic efficiency) resurfaced in a search but is confirmed dated April 2024 (MHI press release 240425) — not new, and the implied ~39 kWh/kg H2 figure would in any case be worse than Elcogen's registered 33 kWh/kg H2 benchmark, so it would not have changed the register even if current.",
           "url": "",
           "sources": []
         }
