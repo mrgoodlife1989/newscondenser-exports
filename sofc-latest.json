@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "topSignals": [
     {
-      "title": "Eleventh consecutive quiet day for Elcogen and Topsoe, INOCEL's two priority benchmark stacks.",
-      "text": "Elcogen's newsroom still shows the Sept 21 Metrosert cooperation announcement as its latest post (23 days old); Topsoe's most recent SOFC/SOEC-specific item remains the Aug 27 H1 2026 results (48 days old). Direct checks of both newsrooms today found no new product, capacity, or partnership announcement in the 24-48h window. Elcogen News | Topsoe News",
+      "title": "Twelfth consecutive quiet day for Elcogen and Topsoe, INOCEL's two priority benchmark stacks.",
+      "text": "Direct newsroom checks today confirm no new post: Elcogen's latest remains the Sept 21 Metrosert testing-cooperation announcement (24 days old); Topsoe's most recent SOFC/SOEC-specific item remains the Aug 27 H1 2026 results (49 days old). No new product, capacity, or partnership announcement from either in the 24-48h window. Elcogen News | Topsoe News",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     },
     {
-      "title": "New benchmark-rotation cycle begins (Convion, Hexis, SK ecoplant, Nexceris, Huatsing Power, Ningbo SOFCMAN) plus two cross-company sweeps — all surfaced only recycled or multi-year-old stories, no new datapoints.",
-      "text": "Three items worth flagging as false positives from today's search noise: a \"SolydEra and Convion\" strategic-partnership release is confirmed dated September 2023; a FuelCell Energy–Inuverse (Daegu, South Korea) 100 MW MOU is confirmed July 2025; and a FuelCell Energy–SDC (Sustainable Development Capital) up-to-450 MW global LOI is confirmed January 2026 — all three pre-date this monitor's coverage window and are already implicit in the standing AI-datacenter pipeline.",
+      "title": "Chaozhou Three-Circle (CCTC) gets its first-ever dedicated search in this monitor's benchmark rotation — and returns a blank.",
+      "text": "Today's six-company rotation (CCTC, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries, Fraunhofer IKTS/Kerafol) found no new datapoint for any of the six; CCTC specifically has no public English- or Chinese-language SOFC/SOEC company news at all in the search results — only generic market-research-report listings and a Wikipedia profile. This remains an open coverage gap for INOCEL's benchmark tracking of this Chinese stack maker.",
       "url": "",
       "n": 2
     },
     {
-      "title": "Nearest dated catalysts: Germany's Netzpaket Bundestag vote (targeted Oct 16, 2 days out) and Bloom Energy's Q3 2026 earnings (Oct 27, 13 days out).",
-      "text": "Germany's KWK-Gesetz cabinet consideration was targeted for today (Oct 14); the government's published cabinet-results feed does not yet reflect an outcome (the most recent published session, Oct 7, did not include it) — worth re-checking tomorrow once/if today's session results are posted. PJM's 6 GW FERC backstop-auction refiling remains unresolved.",
-      "url": "",
+      "title": "New regulatory detail on Germany's data-center grid-fee economics: CMS Hamburg's Oct 1, 2026 \"Re-Connect\" update spells out the AgNes capacity-price reform and a 2031 phase-out of the \"Bandlast\" flat-load grid-fee privilege.",
+      "text": "Not previously logged at this level of detail. The Bundesnetzagentur's AgNes process would replace today's capacity-based grid price with a capacity price (loads >100,000 kWh) plus a two-part energy price, while the Bandlast privilege that many data centers rely on continues only for existing customers through end-2031, with no replacement yet decided (deferred to a 2027 follow-up). This is a grid-cost-escalation signal relevant to INOCEL's on-site-generation value proposition — see LCOE section. CMS Law",
+      "url": "https://cms.law/de/deu/publication/re-connect-real-estate-construction-update-oktober-2026/rechenzentren-netz-strom-und-regulierung-im-fokus",
       "n": 3
     }
   ],
@@ -25,22 +25,52 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority stack):* No new company news in the window. A direct check of elcogen.com/category/news confirms the Sept 21, 2026 Metrosert testing-cooperation announcement remains the latest post (23 days old; full history checked back through the Sept 15 Shanghai HyEnergy item and Aug 31 China Southern Power Grid MoU). No capacity-expansion, product-release, or new partnership announcement found.",
+          "text": "Elcogen (priority stack):* No new company news. Direct fetch of elcogen.com/category/news confirms the Sept 21, 2026 Metrosert cooperation announcement remains the latest post (24 days old; prior posts Sept 15 Shanghai HyEnergy and Aug 31 China Southern Power Grid MoU, both already on file). No capacity, efficiency, or partnership announcement found.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority stack):* No new company news in the window. topsoe.com/news still features the H1 2026 half-year results (DKK ~4.4bn special-items charge, upward 2026 outlook revision) and the Uniper e-methanol FEED contract as the most recent dated items. No new SOEC/SOFC test result, factory milestone, or partnership identified.",
+          "text": "Topsoe (priority stack):* No new company news. topsoe.com/news still shows only the H1 2026 half-year results and the Uniper e-methanol FEED contract as the two most recent items (no dates shown on the page itself, consistent with the archive's standing record of Aug 27 and July items respectively). No new SOEC/SOFC test result, factory milestone, or partnership identified.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rotating benchmark-company dedicated searches — new cycle, round 1 (Convion, Hexis, SK ecoplant, Nexceris, Huatsing Power, Ningbo SOFCMAN), 7-day lookback:* No new items for any of the six. Results repeated the same already-superseded history flagged in the prior rotation (Convion's 2024 acquisition by HD Korea Shipbuilding & Offshore Engineering; Hexis AG's acquisition by h2e Power; SK ecoplant/Bloom Energy's 500 MW Preferred Distributor Agreement extension, Dec 2023; Nexceris' legacy LEVER/ARPA-E SOEC-scaling program). A \"SolydEra and Convion to jointly address growth in fuel-cell and hydrogen market\" release also resurfaced in search results today but is confirmed, via direct fetch, dated September 25, 2023 (global strategic partnership combining SolydEra's SOC stacks with Convion's systems; SolydEra capacity cited at the time: 25 MW/yr SOFC + 75 MW/yr SOE at Pergine Valsugana) — not new, and not a 2026 datapoint. No substantive English or Chinese-language news located for Huatsing Power or Ningbo SOFCMAN.",
+          "text": "Rotating benchmark-company dedicated searches (this cycle, round 2: Chaozhou Three-Circle/CCTC, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries, Fraunhofer IKTS/Kerafol), 7-day lookback, run as two combined sweeps plus individual follow-up:",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin):* No new stack/cell-technology-specific announcements identified beyond items already logged (financial/market items for Bloom, FCEL and Ceres covered below). A Mitsubishi Heavy Industries 400 kW SOEC test-module item (claiming 3.5 kWh/Nm³ ≈ 101% HHV electrolytic efficiency) resurfaced in a search but is confirmed dated April 2024 (MHI press release 240425) — not new, and the implied ~39 kWh/kg H2 figure would in any case be worse than Elcogen's registered 33 kWh/kg H2 benchmark, so it would not have changed the register even if current.",
+          "text": "Chaozhou Three-Circle (CCTC): First dedicated search for this company in the monitor. No company-specific SOFC/SOEC news located in English or Chinese; results were limited to generic global SOFC market-research-report listings (GII, SciEngine) that mention CCTC only as a named industry participant, plus its Wikipedia profile. No efficiency, capacity, or partnership data available — flagged as a standing data gap, to be re-tried in future rotations.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Doosan Fuel Cell: No new item. The $78M/≈£60M Reverion SOFC-stack supply contract (resurfaced via evertiq.com) is the already-logged Sept 18 deal; an enkiai.com \"high-stakes SOFC pivot\" explainer and a Q2 2026 earnings recap are commentary, not new disclosure.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Watt Fuel Cell: No new item; most recent substantive news (equity financing, first WATT HOME residential installation) remains from July 2026, outside this week's window.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "OxEon Energy: No new item identified.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Kawasaki Heavy Industries: No SOFC-specific news found; results were generic corporate/stock coverage.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Fraunhofer IKTS/Kerafol: No new 2026-dated item; results were legacy technical publications, institute pages, and an older Korean-shipbuilding/Fraunhofer MoU unrelated to this window.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin):* No new stack/cell-technology-specific announcements beyond items already logged (financial/market items for Bloom, FCEL and Ceres covered below). Sunfire's SOEC test facility at BASF Schwarzheide remains the most recent genuinely new stack-adjacent item on file, unchanged. A Hannover Messe 2026 recap of SolydEra's PMX platform (h2-international.com) resurfaced today but repeats previously logged technical details (G8X stack scaled to 10 kW, 60% electrical/84% total efficiency, DynElectro's 23,000h test) with no new figures. Mitsubishi Power, Kyocera and Aisin: no 2026-dated SOFC-specific news found; search results were 2025-vintage SEO-aggregator \"strategy\" pieces, consistent with the pattern flagged in prior entries.",
           "url": "",
           "sources": []
         }
@@ -60,9 +90,14 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
+          "text": "New (see Top Signal #3):* CMS Hamburg's Oct 1, 2026 update on German data-center grid/power regulation. Beyond the AgNes/Bandlast detail above, it confirms: the TSOs' \"Reifegradverfahren\" grid-connection allocation process (first-ready-first-served, replacing first-come-first-served) has been in effect since April 1, 2026, with results expected end-November and litigation anticipated; the draft Netzpaket (§§17a-17e EnWG-RegE) would give this a statutory basis and add flexible-connection-agreement and capacity-reservation rules, targeted for year-end enactment; a draft EnEfG amendment would raise the renewables-coverage requirement for data centers from 50% to 100% but delay it to January 1, 2030; an EU draft delegated regulation plans a data-center sustainability label from August 2027 (adoption uncertain). CMS Law",
+          "url": "https://cms.law/de/deu/publication/re-connect-real-estate-construction-update-oktober-2026/rechenzentren-netz-strom-und-regulierung-im-fokus",
+          "sources": [
+            {
+              "title": "CMS Law",
+              "url": "https://cms.law/de/deu/publication/re-connect-real-estate-construction-update-oktober-2026/rechenzentren-netz-strom-und-regulierung-im-fokus"
+            }
+          ]
         }
       ]
     },
@@ -107,5 +142,16 @@
       ]
     }
   ],
-  "lcoe": []
+  "lcoe": [
+    {
+      "text": "Pending calendar (updated):* German Netzpaket Bundestag plenary vote targeted Oct 16 (1 day out); German KWK-Gesetz cabinet outcome not reconfirmed today; Bloom Q3 2026 earnings Oct 27 (12 days); FCEL lead-plaintiff deadline Nov 10 (26 days); New Mexico air-quality permit deadline for Project Jupiter Nov 23 (39 days); PJM backstop-auction paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (26 days).",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Benchmark-Neuzugänge:* None identified today. Chaozhou Three-Circle (CCTC) received its first dedicated search (see Top Signal #2 and Stack & Cell Technology) but yielded no new entrant data; no new SOFC/SOEC/rSOC entrant found beyond the existing benchmark list.",
+      "url": "",
+      "sources": []
+    }
+  ]
 }
