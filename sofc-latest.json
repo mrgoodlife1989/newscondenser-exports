@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-17",
   "topSignals": [
     {
-      "title": "Twelfth consecutive quiet day for Elcogen and Topsoe, INOCEL's two priority benchmark stacks.",
-      "text": "Direct newsroom checks today confirm no new post: Elcogen's latest remains the Sept 21 Metrosert testing-cooperation announcement (24 days old); Topsoe's most recent SOFC/SOEC-specific item remains the Aug 27 H1 2026 results (49 days old). No new product, capacity, or partnership announcement from either in the 24-48h window. Elcogen News | Topsoe News",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Germany's Netzpaket: Bundesrat files a formal critical opinion revealing a concrete 18-20% uncompensated-curtailment risk for behind-the-meter generation — the Oct 16 target vote date passed with no plenary vote.",
+      "text": "A Bundestag \"hib\" release (Oct 2, Drucksache 21/7866, Bundesrat opinion published as Unterrichtung 21/8299) shows the Bundesrat arguing the draft contains no real grid-expansion acceleration and instead slows renewables buildout — objecting specifically to the grid-expansion requirements, priority rules, and the Redispatch-Vorbehalt clause. In capacity-constrained grid areas, the draft would let operators get a connection only if they accept no compensation for up to 18-20% of annual output lost to network-related curtailment — the first time this monitor has found a quantified figure for the clause most relevant to SOFC behind-the-meter/islanded deployment in Germany. The federal government's Gegenäußerung rejects the Länder's proposals outright. Despite this monitor's Oct 5 \"final vote targeted around Oct 16\" marker, no plenary vote outcome was found as of this check — the bill remains in committee/Bundesrat back-and-forth. Bundestag hib 767/2026 | Tagesspiegel Background — \"Mehr Kritik als Zustimmung für Netzpaket\"",
+      "url": "https://www.bundestag.de/1222188",
       "n": 1
     },
     {
-      "title": "Chaozhou Three-Circle (CCTC) gets its first-ever dedicated search in this monitor's benchmark rotation — and returns a blank.",
-      "text": "Today's six-company rotation (CCTC, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries, Fraunhofer IKTS/Kerafol) found no new datapoint for any of the six; CCTC specifically has no public English- or Chinese-language SOFC/SOEC company news at all in the search results — only generic market-research-report listings and a Wikipedia profile. This remains an open coverage gap for INOCEL's benchmark tracking of this Chinese stack maker.",
-      "url": "",
+      "title": "Priority stacks Elcogen and Topsoe: both confirmed quiet again.",
+      "text": "No new company news for either in this check (English/German, 48h window). Elcogen's status stands at the elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC) in volume production at the 360 MW/yr ELCO I Tallinn factory. Topsoe's status stands at the March 2026 SOEC pathway reset and the Aug 27 H1 2026 results (a \"Topsoe raises 2026 outlook despite DKK 4.4bn PtX restructuring bill\" story resurfaced today but traces to the already-logged Aug 27 results, not a new release). Elcogen News | Topsoe press releases",
+      "url": "https://elcogen.com/category/news/",
       "n": 2
     },
     {
-      "title": "New regulatory detail on Germany's data-center grid-fee economics: CMS Hamburg's Oct 1, 2026 \"Re-Connect\" update spells out the AgNes capacity-price reform and a 2031 phase-out of the \"Bandlast\" flat-load grid-fee privilege.",
-      "text": "Not previously logged at this level of detail. The Bundesnetzagentur's AgNes process would replace today's capacity-based grid price with a capacity price (loads >100,000 kWh) plus a two-part energy price, while the Bandlast privilege that many data centers rely on continues only for existing customers through end-2031, with no replacement yet decided (deferred to a 2027 follow-up). This is a grid-cost-escalation signal relevant to INOCEL's on-site-generation value proposition — see LCOE section. CMS Law",
-      "url": "https://cms.law/de/deu/publication/re-connect-real-estate-construction-update-oktober-2026/rechenzentren-netz-strom-und-regulierung-im-fokus",
+      "title": "Benchmark rotation (12 companies checked, 7-day lookback): zero new or near-benchmark datapoints.",
+      "text": "Today's dedicated checks (Delta Electronics, Kyocera, Aisin, Plansee, Reverion, Weichai) plus two cross-company sweeps (Convion/Hexis/SK ecoplant/Nexceris; Doosan Fuel Cell/Watt Fuel Cell/OxEon Energy/Kawasaki Heavy Industries) surfaced only recycled or old stories (the Doosan-Reverion $78M stack order from Sept 18, a Doosan Q2 2026 earnings recap with no new disclosed figures, Kyocera/Aisin SEO-aggregator \"2025 strategy\" pieces, Plansee patent/powder-metallurgy background). No KPI in the register was beaten or neared. See benchmark register update below.",
+      "url": "",
       "n": 3
     }
   ],
@@ -25,52 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority stack):* No new company news. Direct fetch of elcogen.com/category/news confirms the Sept 21, 2026 Metrosert cooperation announcement remains the latest post (24 days old; prior posts Sept 15 Shanghai HyEnergy and Aug 31 China Southern Power Grid MoU, both already on file). No capacity, efficiency, or partnership announcement found.",
+          "text": "Elcogen (priority): See Top Signal #2. No other items found.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority stack):* No new company news. topsoe.com/news still shows only the H1 2026 half-year results and the Uniper e-methanol FEED contract as the two most recent items (no dates shown on the page itself, consistent with the archive's standing record of Aug 27 and July items respectively). No new SOEC/SOFC test result, factory milestone, or partnership identified.",
+          "text": "Topsoe (priority): See Top Signal #2. No SOFC/SOEC-specific item found beyond the recycled Aug 27 results coverage.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rotating benchmark-company dedicated searches (this cycle, round 2: Chaozhou Three-Circle/CCTC, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries, Fraunhofer IKTS/Kerafol), 7-day lookback, run as two combined sweeps plus individual follow-up:",
+          "text": "Delta Electronics, Kyocera, Aisin, Plansee, Reverion, Weichai (today's dedicated rotation slot): no new stack/cell-technology items. Delta Electronics' Ceres-licensed fuel cell/electrolysis program and its Centrica/Ceres UK-Europe tie-up remain as previously logged; Kyocera and Aisin results were entirely enkiai.com SEO-aggregator \"2025 strategy\" pieces and a 2017-vintage 3 kW institutional-cogeneration product announcement; Plansee results were patent documents and a powder-metallurgy interconnect background page, no 2026 news; Reverion and Weichai both re-surfaced only the already-logged Sept 18 Doosan $78M/£60M stack-supply order and the Sept 29 €150M Series B (Reverion) and the Ceres/Weichai manufacturing-licence background (Weichai).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Chaozhou Three-Circle (CCTC): First dedicated search for this company in the monitor. No company-specific SOFC/SOEC news located in English or Chinese; results were limited to generic global SOFC market-research-report listings (GII, SciEngine) that mention CCTC only as a named industry participant, plus its Wikipedia profile. No efficiency, capacity, or partnership data available — flagged as a standing data gap, to be re-tried in future rotations.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Doosan Fuel Cell: No new item. The $78M/≈£60M Reverion SOFC-stack supply contract (resurfaced via evertiq.com) is the already-logged Sept 18 deal; an enkiai.com \"high-stakes SOFC pivot\" explainer and a Q2 2026 earnings recap are commentary, not new disclosure.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Watt Fuel Cell: No new item; most recent substantive news (equity financing, first WATT HOME residential installation) remains from July 2026, outside this week's window.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "OxEon Energy: No new item identified.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Kawasaki Heavy Industries: No SOFC-specific news found; results were generic corporate/stock coverage.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Fraunhofer IKTS/Kerafol: No new 2026-dated item; results were legacy technical publications, institute pages, and an older Korean-shipbuilding/Fraunhofer MoU unrelated to this window.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin):* No new stack/cell-technology-specific announcements beyond items already logged (financial/market items for Bloom, FCEL and Ceres covered below). Sunfire's SOEC test facility at BASF Schwarzheide remains the most recent genuinely new stack-adjacent item on file, unchanged. A Hannover Messe 2026 recap of SolydEra's PMX platform (h2-international.com) resurfaced today but repeats previously logged technical details (G8X stack scaled to 10 kW, 60% electrical/84% total efficiency, DynElectro's 23,000h test) with no new figures. Mitsubishi Power, Kyocera and Aisin: no 2026-dated SOFC-specific news found; search results were 2025-vintage SEO-aggregator \"strategy\" pieces, consistent with the pattern flagged in prior entries.",
+          "text": "Rotation sweep — Convion, Hexis, SK ecoplant, Nexceris, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries: no 2026-dated SOFC-specific news identified for any of the eight. Results were market-research-report listings, a 2023-vintage Bloom/SK ecoplant 500 MW agreement, a 2026 Nexceris LEVER SOEC item already consistent with the logged $60M Nexceris SOEC scale-up deal, and a Doosan Fuel Cell Q2 2026 earnings-summary link (no figures extracted; treated as commentary, not new disclosure pending a primary-source check). No data to add to the register.",
           "url": "",
           "sources": []
         }
@@ -90,14 +60,34 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "New (see Top Signal #3):* CMS Hamburg's Oct 1, 2026 update on German data-center grid/power regulation. Beyond the AgNes/Bandlast detail above, it confirms: the TSOs' \"Reifegradverfahren\" grid-connection allocation process (first-ready-first-served, replacing first-come-first-served) has been in effect since April 1, 2026, with results expected end-November and litigation anticipated; the draft Netzpaket (§§17a-17e EnWG-RegE) would give this a statutory basis and add flexible-connection-agreement and capacity-reservation rules, targeted for year-end enactment; a draft EnEfG amendment would raise the renewables-coverage requirement for data centers from 50% to 100% but delay it to January 1, 2030; an EU draft delegated regulation plans a data-center sustainability label from August 2027 (adoption uncertain). CMS Law",
-          "url": "https://cms.law/de/deu/publication/re-connect-real-estate-construction-update-oktober-2026/rechenzentren-netz-strom-und-regulierung-im-fokus",
-          "sources": [
-            {
-              "title": "CMS Law",
-              "url": "https://cms.law/de/deu/publication/re-connect-real-estate-construction-update-oktober-2026/rechenzentren-netz-strom-und-regulierung-im-fokus"
-            }
-          ]
+          "text": "Germany — Netzpaket: See Top Signal #1. Bundesrat's critical Unterrichtung 21/8299, the 18-20% uncompensated-curtailment detail, and the government's rejecting Gegenäußerung are the new elements; no plenary vote outcome found despite the Oct 16 target date passing.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Germany — KWK-Gesetz (CHP law): Cabinet consideration was targeted for Oct 14; still no published cabinet outcome located. Carrying forward unverified.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "US — FERC large-load interconnection / PJM co-location rules: The \"FERC directs PJM to issue new rules for co-location of power plants and data centers\" story resurfacing today traces to the Feb 2026 order already logged as the standing \"Dec 18, 2025 co-location transmission-service order...in compliance-filing phase\" — not new.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "PJM Reliability Backstop Procurement: Remains unfiled with FERC following the Sept 29, 2026 suspension order; paper hearing running to Feb 28, 2027. No change.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "US ITC 48E / 45V, Virginia data-center electricity tax, EU data-centre energy/water-efficiency reporting, UK Ofgem grid-queue reform, Ireland grid-connection rules: all unchanged. A \"Treasury 45V guidance\" story resurfacing today traces to the original 2025 final-rule coverage, not a new release.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "NM Project Jupiter air-quality permit: Status unchanged; no new hearing-date or ruling news found today.",
+          "url": "",
+          "sources": []
         }
       ]
     },
@@ -142,16 +132,5 @@
       ]
     }
   ],
-  "lcoe": [
-    {
-      "text": "Pending calendar (updated):* German Netzpaket Bundestag plenary vote targeted Oct 16 (1 day out); German KWK-Gesetz cabinet outcome not reconfirmed today; Bloom Q3 2026 earnings Oct 27 (12 days); FCEL lead-plaintiff deadline Nov 10 (26 days); New Mexico air-quality permit deadline for Project Jupiter Nov 23 (39 days); PJM backstop-auction paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (26 days).",
-      "url": "",
-      "sources": []
-    },
-    {
-      "text": "Benchmark-Neuzugänge:* None identified today. Chaozhou Three-Circle (CCTC) received its first dedicated search (see Top Signal #2 and Stack & Cell Technology) but yielded no new entrant data; no new SOFC/SOEC/rSOC entrant found beyond the existing benchmark list.",
-      "url": "",
-      "sources": []
-    }
-  ]
+  "lcoe": []
 }
