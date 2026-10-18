@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "topSignals": [
     {
-      "title": "Germany's Netzpaket: Bundesrat files a formal critical opinion revealing a concrete 18-20% uncompensated-curtailment risk for behind-the-meter generation — the Oct 16 target vote date passed with no plenary vote.",
-      "text": "A Bundestag \"hib\" release (Oct 2, Drucksache 21/7866, Bundesrat opinion published as Unterrichtung 21/8299) shows the Bundesrat arguing the draft contains no real grid-expansion acceleration and instead slows renewables buildout — objecting specifically to the grid-expansion requirements, priority rules, and the Redispatch-Vorbehalt clause. In capacity-constrained grid areas, the draft would let operators get a connection only if they accept no compensation for up to 18-20% of annual output lost to network-related curtailment — the first time this monitor has found a quantified figure for the clause most relevant to SOFC behind-the-meter/islanded deployment in Germany. The federal government's Gegenäußerung rejects the Länder's proposals outright. Despite this monitor's Oct 5 \"final vote targeted around Oct 16\" marker, no plenary vote outcome was found as of this check — the bill remains in committee/Bundesrat back-and-forth. Bundestag hib 767/2026 | Tagesspiegel Background — \"Mehr Kritik als Zustimmung für Netzpaket\"",
-      "url": "https://www.bundestag.de/1222188",
+      "title": "Germany's Netzpaket and EEG 2027 won't get a Bundestag vote this month after all — BEE now expects the second/third reading in the week of November 9-13, with Bundesrat review targeted for November 20.",
+      "text": "Despite this monitor's repeated Oct 16 target marker, neither bill appeared on this week's Bundestag agenda; negotiators reportedly need more time after extensive criticism at the expert hearing, and the renewable-energy association BEE is separately reviewing whether the EU Commission can approve the EEG quickly enough for a January 1 start. This pushes out the dated catalyst most relevant to SOFC behind-the-meter/islanded deployment rules in Germany by roughly a month. pv magazine",
+      "url": "https://www.pv-magazine.de/2026/10/15/bundestag-wird-eeg-2027-und-netzpaket-wohl-erst-im-november-verabschieden/",
       "n": 1
     },
     {
-      "title": "Priority stacks Elcogen and Topsoe: both confirmed quiet again.",
-      "text": "No new company news for either in this check (English/German, 48h window). Elcogen's status stands at the elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC) in volume production at the 360 MW/yr ELCO I Tallinn factory. Topsoe's status stands at the March 2026 SOEC pathway reset and the Aug 27 H1 2026 results (a \"Topsoe raises 2026 outlook despite DKK 4.4bn PtX restructuring bill\" story resurfaced today but traces to the already-logged Aug 27 results, not a new release). Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Bloom Energy moves up its Q3 2026 earnings date to October 22 — five days earlier than the Oct 27 date this monitor has carried since early September.",
+      "text": "Results will be released after market close with a call at 2:00pm PT/5:00pm ET. This becomes the nearest dated catalyst for Bloom, ahead of FuelCell Energy's Nov 10 lead-plaintiff deadline. Bloom Energy",
+      "url": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/",
       "n": 2
     },
     {
-      "title": "Benchmark rotation (12 companies checked, 7-day lookback): zero new or near-benchmark datapoints.",
-      "text": "Today's dedicated checks (Delta Electronics, Kyocera, Aisin, Plansee, Reverion, Weichai) plus two cross-company sweeps (Convion/Hexis/SK ecoplant/Nexceris; Doosan Fuel Cell/Watt Fuel Cell/OxEon Energy/Kawasaki Heavy Industries) surfaced only recycled or old stories (the Doosan-Reverion $78M stack order from Sept 18, a Doosan Q2 2026 earnings recap with no new disclosed figures, Kyocera/Aisin SEO-aggregator \"2025 strategy\" pieces, Plansee patent/powder-metallurgy background). No KPI in the register was beaten or neared. See benchmark register update below.",
-      "url": "",
+      "title": "Priority stacks Elcogen and Topsoe remain quiet (27 and 52 days respectively since their last company news); today's one concrete AI-datacenter supply-chain signal is a $138.5M LS Electric order from Bloom Energy for high-voltage switchgear and transformers at a Pennsylvania site expected to host up to 2 GW of fuel cells — likely Aligned's \"Project Phoenix\" campus (unconfirmed by the companies).",
+      "text": "Elcogen's newsroom still shows the Sept 21 Metrosert cooperation announcement as its latest post; Topsoe's most recent SOFC/SOEC item remains the Aug 27 H1 2026 results. DatacenterDynamics | Elcogen News | Topsoe press releases",
+      "url": "https://datacenterdynamics.com/en/news/ls-electric-secures-138m-order-to-supply-switchgear-for-bloom-fuel-cells-at-pennsylvania-data-center",
       "n": 3
     }
   ],
@@ -25,22 +25,32 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): See Top Signal #2. No other items found.",
+          "text": "Elcogen (priority): No new company news. Direct check of elcogen.com/category/news confirms the Sept 21, 2026 Metrosert testing-cooperation announcement remains the latest post (27 days old). Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): See Top Signal #2. No SOFC/SOEC-specific item found beyond the recycled Aug 27 results coverage.",
+          "text": "Topsoe (priority): No new company news. topsoe.com/press-releases still shows the Aug 27 H1 2026 results (DKK ~4.4bn special-items charge, raised 2026 outlook) and the March 2026 SOEC pathway reset as the most recent items (52 days old).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Delta Electronics, Kyocera, Aisin, Plansee, Reverion, Weichai (today's dedicated rotation slot): no new stack/cell-technology items. Delta Electronics' Ceres-licensed fuel cell/electrolysis program and its Centrica/Ceres UK-Europe tie-up remain as previously logged; Kyocera and Aisin results were entirely enkiai.com SEO-aggregator \"2025 strategy\" pieces and a 2017-vintage 3 kW institutional-cogeneration product announcement; Plansee results were patent documents and a powder-metallurgy interconnect background page, no 2026 news; Reverion and Weichai both re-surfaced only the already-logged Sept 18 Doosan $78M/£60M stack-supply order and the Sept 29 €150M Series B (Reverion) and the Ceres/Weichai manufacturing-licence background (Weichai).",
+          "text": "Today's dedicated rotation (Miura, Shell, Denso, Thermax, Chaozhou Three-Circle/CCTC, Fraunhofer IKTS/Kerafol), 7-day lookback: No new items for any of the six. Results were old or non-substantive: a Miura/Ceres maintenance-network item confirmed dated 2020; a Shell-Doosan-Hyundai maritime SOFC MoU confirmed dated 2024; Denso and Thermax results were entirely SEO-aggregator \"2025 strategy\" pieces (enkiai.com) with no primary disclosure; Fraunhofer IKTS results were a thyssenkrupp nucera/IKTS SOEC pilot-line item and older institutional pages, no new 2026 dating confirmed. Chaozhou Three-Circle (CCTC) received its third dedicated search in this monitor and again returned no company-specific SOFC/SOEC news in English or Chinese — this remains an open data gap.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Rotation sweep — Convion, Hexis, SK ecoplant, Nexceris, Doosan Fuel Cell, Watt Fuel Cell, OxEon Energy, Kawasaki Heavy Industries: no 2026-dated SOFC-specific news identified for any of the eight. Results were market-research-report listings, a 2023-vintage Bloom/SK ecoplant 500 MW agreement, a 2026 Nexceris LEVER SOEC item already consistent with the logged $60M Nexceris SOEC scale-up deal, and a Doosan Fuel Cell Q2 2026 earnings-summary link (no figures extracted; treated as commentary, not new disclosure pending a primary-source check). No data to add to the register.",
+          "text": "Rotation sweep — Convion, Hexis, SK ecoplant, Nexceris: no 2026-dated news; only the already-logged Sept 2023 SK ecoplant/Bloom 500 MW agreement and Nexceris' existing $60M LEVER/SOEC deal resurfaced.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Rotation sweep — Huatsing Power, Ningbo SOFCMAN: no English- or Chinese-language company news found again; both remain standing data gaps.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Kyocera, Aisin): no new stack/cell-technology items beyond what is already logged; see Market & Financials and AI Data Center Deployments for today's Bloom items.",
           "url": "",
           "sources": []
         }
@@ -50,7 +60,17 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "New:* LS Electric (South Korea) received a 185.3bn won (~$138.5M) order from Bloom Energy to supply 38kV high-voltage switchgear and distribution transformers for a Pennsylvania data center, with deliveries expected April-July 2027. The article (DatacenterDynamics, Oct 14) says Bloom is expected to deploy up to 2 GW of fuel cells at the site behind-the-meter; the companies didn't name the project, but it is likely Aligned Data Centers' \"Project Phoenix\" campus in Shippingport, PA (unconfirmed). This is a balance-of-plant/electrical-infrastructure supply-chain datapoint rather than a new fuel-cell order itself, but it corroborates the scale of the standing Bloom/Aligned pipeline entry. DatacenterDynamics",
+          "url": "https://datacenterdynamics.com/en/news/ls-electric-secures-138m-order-to-supply-switchgear-for-bloom-fuel-cells-at-pennsylvania-data-center",
+          "sources": [
+            {
+              "title": "DatacenterDynamics",
+              "url": "https://datacenterdynamics.com/en/news/ls-electric-secures-138m-order-to-supply-switchgear-for-bloom-fuel-cells-at-pennsylvania-data-center"
+            }
+          ]
+        },
+        {
+          "text": "False positive, checked and discarded:* A \"Teledata/Conrad Energy/Bloom Energy\" Manchester data center hydrogen-ready SOFC story (1.2 MW) resurfaced in today's search but is confirmed, via multiple dated sources, to be a December 2021/January 2022 announcement — not new.",
           "url": "",
           "sources": []
         }
@@ -60,34 +80,24 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Germany — Netzpaket: See Top Signal #1. Bundesrat's critical Unterrichtung 21/8299, the 18-20% uncompensated-curtailment detail, and the government's rejecting Gegenäußerung are the new elements; no plenary vote outcome found despite the Oct 16 target date passing.",
-          "url": "",
-          "sources": []
+          "text": "New (see Top Signal #1):* Germany's Netzpaket and EEG 2027 Bundestag votes are now expected in the week of November 9-13, 2026, with Bundesrat consideration around November 20 — not this week as the standing calendar had targeted. pv magazine",
+          "url": "https://www.pv-magazine.de/2026/10/15/bundestag-wird-eeg-2027-und-netzpaket-wohl-erst-im-november-verabschieden/",
+          "sources": [
+            {
+              "title": "pv magazine",
+              "url": "https://www.pv-magazine.de/2026/10/15/bundestag-wird-eeg-2027-und-netzpaket-wohl-erst-im-november-verabschieden/"
+            }
+          ]
         },
         {
-          "text": "Germany — KWK-Gesetz (CHP law): Cabinet consideration was targeted for Oct 14; still no published cabinet outcome located. Carrying forward unverified.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "US — FERC large-load interconnection / PJM co-location rules: The \"FERC directs PJM to issue new rules for co-location of power plants and data centers\" story resurfacing today traces to the Feb 2026 order already logged as the standing \"Dec 18, 2025 co-location transmission-service order...in compliance-filing phase\" — not new.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "PJM Reliability Backstop Procurement: Remains unfiled with FERC following the Sept 29, 2026 suspension order; paper hearing running to Feb 28, 2027. No change.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "US ITC 48E / 45V, Virginia data-center electricity tax, EU data-centre energy/water-efficiency reporting, UK Ofgem grid-queue reform, Ireland grid-connection rules: all unchanged. A \"Treasury 45V guidance\" story resurfacing today traces to the original 2025 final-rule coverage, not a new release.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "NM Project Jupiter air-quality permit: Status unchanged; no new hearing-date or ruling news found today.",
-          "url": "",
-          "sources": []
+          "text": "New:* Germany's KWK-Gesetz (CHP law) cabinet consideration, targeted for Oct 14, is now confirmed NOT to have happened on that date — the published agenda for the Oct 14 (62nd) cabinet session covers a sugary-drinks tax amendment, a climate-friendly-shipping action plan, child/youth media-protection key points, and several budget/administrative items, with no KWK-Gesetz item. This resolves the \"not reconfirmed\" carry-forward flag from the past several days: the cabinet consideration has slipped past its originally targeted date, with no new date yet identified. Bundesregierung",
+          "url": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-ergebnisse-2456684",
+          "sources": [
+            {
+              "title": "Bundesregierung",
+              "url": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-ergebnisse-2456684"
+            }
+          ]
         }
       ]
     },
@@ -105,9 +115,14 @@
       "title": "Market & Financials",
       "items": [
         {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
+          "text": "New (see Top Signal #2):* Bloom Energy (BE) will release Q3 2026 results after market close on October 22, 2026, with a call at 2:00pm PT/5:00pm ET — five days earlier than the Oct 27 date this monitor has carried since early September. Bloom Energy",
+          "url": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/",
+          "sources": [
+            {
+              "title": "Bloom Energy",
+              "url": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/"
+            }
+          ]
         }
       ]
     },
