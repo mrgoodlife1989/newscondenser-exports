@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "topSignals": [
     {
-      "title": "Priority stacks Elcogen and Topsoe remain quiet — 29 and 59 days respectively since their last SOFC/SOEC-specific company news.",
-      "text": "Direct fetches of both newsrooms today confirm no new solid-oxide item: Elcogen's latest remains the Sept 21 Metrosert testing-cooperation announcement; Topsoe's press-releases page has a newer item (Oct 14, Bharat Petroleum SAF technology contract in India) but it is not SOFC/SOEC-related, so the last solid-oxide-specific Topsoe release is still the Aug 27 H1 2026 results/SOEC pathway reset. Elcogen News | Topsoe press releases",
+      "title": "Priority stacks Elcogen and Topsoe remain quiet — 30 and 55 days respectively since their last SOFC/SOEC-specific company news.",
+      "text": "Direct fetches of both newsrooms today confirm no new solid-oxide item: Elcogen's News category still shows the Sept 21 Metrosert testing-cooperation announcement as its latest post (a new Oct 6 \"Insights\" article on electrification in the chemical industry is a thought-piece, not product/company news); Topsoe's press-releases page remains topped by the Oct 14 Bharat Petroleum SAF technology contract, which is hydroprocessing business, not SOFC/SOEC — so the last solid-oxide-specific Topsoe release is still the Aug 27 H1 2026 results/SOEC pathway reset. Elcogen News | Topsoe press releases",
       "url": "https://elcogen.com/news/",
       "n": 1
     },
     {
-      "title": "Bloom Energy's Q3 2026 earnings are now 2 days out (Oct 22, after market close; call at 2:00pm PT/5:00pm ET)",
+      "title": "Bloom Energy's Q3 2026 earnings are now 1 day out (Oct 22, after market close; call at 2:00pm PT/5:00pm ET)",
       "text": "— the nearest dated catalyst in the sector. No pre-announcement guidance revision or new analyst commentary found today. Bloom Energy",
       "url": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/",
       "n": 2
     },
     {
-      "title": "Cycle 3, round 2 of the weekly benchmark rotation — Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant and Weichai, plus two cross-company sweeps — found no new KPI datapoint",
-      "text": ", extending the \"no changes\" streak in SOFC_Benchmark_Records.md to 8 days (since Oct 13). Every item that resurfaced today was independently re-dated and confirmed already logged (see Stack & Cell Technology below).",
+      "title": "Cycle 3, round 3 of the weekly benchmark rotation — Kyocera, Aisin, Fraunhofer IKTS/Kerafol, Plansee, Watt Fuel Cell and OxEon Energy, plus combined sweep queries — found no new KPI datapoint",
+      "text": ", extending the \"no changes\" streak in SOFC_Benchmark_Records.md to 9 days (since Oct 13). Every item that resurfaced today was independently re-dated and confirmed already logged or out of scope (see Stack & Cell Technology below).",
       "url": "",
       "n": 3
     }
@@ -25,62 +25,62 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new company news. Direct fetch of elcogen.com/news confirms the Sept 21, 2026 Metrosert testing-cooperation announcement remains the latest post (29 days old). Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new News-category item. Direct fetch of elcogen.com/news confirms the Sept 21, 2026 Metrosert testing-cooperation announcement remains the latest \"News\" post (30 days old); a new \"Insights\" piece (\"What could electrification mean for the chemical industry?\", Oct 6, 2026) is a thought-leadership article, not company/product news. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): topsoe.com/press-releases shows a new item since yesterday's check — a technology contract for Bharat Petroleum's sustainable-aviation-fuel (SAF) project in India, published Oct 14, 2026 — but this is Topsoe's hydroprocessing/SAF business, not SOFC/SOEC. No new solid-oxide-specific release found (59 days since the Aug 27 H1 2026 results / March 2026 SOEC pathway reset remains the operative figure for this monitor).",
+          "text": "Topsoe (priority): No new solid-oxide-specific release. topsoe.com/press-releases is topped by the Oct 14 Bharat Petroleum SAF (\"Kerosene Hydrotreating Technology\") contract — Topsoe's hydroprocessing business, out of SOFC/SOEC scope. The last SOFC/SOEC-relevant release remains the Aug 27 H1 2026 results / March 2026 SOEC pathway reset (55 days). A March 2026 Topsoe CEO transition (Elena Scaltritti replacing Roeland Baan, effective March 5) surfaced in today's search but is confirmed old news with no stated SOEC/SOFC strategy implications — not adopted.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's dedicated rotation — cycle 3, round 2 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Weichai), 7-day lookback: No new items for any of the six.",
+          "text": "Today's dedicated rotation — cycle 3, round 3 (Kyocera, Aisin, Fraunhofer IKTS/Kerafol, Plansee, Watt Fuel Cell, OxEon Energy), 7-day lookback: No new items for any of the six.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Reverion: Results were the already-logged Sept 29 €150M/$175M Series B (recirculated via esgtoday.com/trendingtopics.eu) and the Sept 18 Doosan $78M SOFC-stack supply contract — both confirmed already on file.",
+          "text": "Kyocera: Results were enkiai.com SEO-aggregator \"2025 strategy\" pieces and a 2017-vintage \"Industry's First 3kW SOFC for institutional cogeneration\" press item — no 2026-dated company news.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Convion: No 2026-dated news; results were the 2024 HD Korea Shipbuilding/HD Hyundai acquisition of Convion (~€72M, already known background) and a 2015-vintage Fraunhofer IKTS/Plansee Hannover Fair item.",
+          "text": "Aisin: Same enkiai.com aggregator pieces and generic SOFC market-research reports; no company-specific disclosure found.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Hexis: No 2026-dated news; results were 2020-vintage Viessmann/mPower divestiture coverage and older H2-View/Empa background pieces.",
+          "text": "Fraunhofer IKTS / Kerafol: Results were the already-logged thyssenkrupp nucera/IKTS SOEC commercialization item and a Korean-shipbuilding/Fraunhofer MoU (maritime, not data-center) — both previously dated, no new item.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Doosan Fuel Cell: No new item. The Sept 18 Reverion $78M stack-supply contract and an enkiai.com \"2026 SOFC pivot\" explainer both resurfaced as commentary, not new disclosure — already logged. A January 2026 CES item on Doosan Enerbility/HyAxiom (gas turbines, SMRs, PAFC — not SOFC) is out of scope and not new.",
+          "text": "Plansee: Only background/market-report hits (an old $1.26B \"Planar SOFC Market Outlook to 2026\" report, legacy patents) — no new company news.",
           "url": "",
           "sources": []
         },
         {
-          "text": "SK ecoplant: Results were the already-logged 2023-vintage SK ecoplant/GDS Singapore SOFC story and unrelated SK Eternix (separate subsidiary) hydrogen-funding items with no SOFC content.",
+          "text": "Watt Fuel Cell: Latest substantive items remain the July 23, 2026 equity-financing close and the Dec 2025 first WATT HOME 2kW residential install/Hope Gas shipments ahead of a 2026 residential launch — no new item since; Watt is residential/light-commercial PEM-adjacent SOFC micro-CHP, not AI-datacenter scale, and stays a background watch item rather than a benchmark entry.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Weichai: No new item; the Ceres-Weichai manufacturing-licence background and recycled enkiai.com \"Ceres 2026 strategy\" aggregator pieces remain the only results, consistent with prior checks.",
+          "text": "OxEon Energy: An Oct 5, 2026 Utah Business feature on OxEon's Mars-heritage SOEC technology and a DOE-funded SOEC manufacturing-automation project surfaced, but it is outside the 7-day benchmark lookback (16 days old) and is a technology/funding-program profile rather than a new KPI disclosure — not adopted, flagged for completeness only.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Sweep 1 — \"Reverion OR Convion OR Hexis OR SolydEra\": No new items; surfaced only the above plus already-logged SolydEra Hannover Messe 2026 PMX-platform coverage.",
+          "text": "Sweep — \"Reverion OR Convion OR Hexis OR SolydEra\": No new items; results were the already-logged SolydEra Hannover Messe 2026 PMX-platform coverage and recirculated coverage of the Sept 18 Doosan-Reverion $78M SOFC-stack supply contract.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Sweep 2 — \"Doosan Fuel Cell OR SK ecoplant OR Weichai\": No new items; same results as the dedicated checks above, confirming no additional disclosure.",
+          "text": "Broad cross-company sweep (AI-datacenter and funding-round queries covering Bloom, FuelCell Energy, Ceres Power, PowerCell, Reverion and others): No new SOFC-specific KPI surfaced; see AI Data Center Deployments and Market & Financials below for the (non-new) items that did resurface.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other key players (Bloom Energy, Ceres Power, Sunfire, SolydEra, FuelCell Energy, Mitsubishi Power, Kyocera, Aisin, Fraunhofer IKTS/Kerafol, Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC): not in today's rotation; no items surfaced incidentally beyond the FuelCell Energy Q3 note under Market & Financials below.",
+          "text": "Other key players (Bloom Energy, FuelCell Energy, Ceres Power, Sunfire, SolydEra, Mitsubishi Power, Doosan Fuel Cell, SK ecoplant, Weichai): not in today's dedicated rotation; no items surfaced incidentally beyond what is already logged.",
           "url": "",
           "sources": []
         }
