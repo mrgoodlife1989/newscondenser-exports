@@ -1,23 +1,17 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "topSignals": [
     {
-      "title": "Bloom Energy posts Q3 2026 revenue of $1.24B, up 138% YoY, and raises FY2026 guidance for the third time this year.",
-      "text": "Product revenue reached $1,073.6M (+179.4% YoY); non-GAAP gross margin rose to 34.5% (+412bps); non-GAAP operating income was $285.7M (up $239.4M YoY); adjusted EBITDA hit $299.5M versus $59.0M a year earlier. New FY2026 guidance: $4.4-4.6B revenue (~122% growth at midpoint), non-GAAP EPS $3.10-3.40. No backlog or manufacturing-capacity figure was disclosed in the release itself; the CEO described AI/hyperscaler demand as now spreading into other market segments. SEC 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001664703/000162828026066890/ex991_q326financialresults.htm",
+      "title": "SK Eternix starts commercial operation of three Bloom Energy SOFC power plants (Icheon + Paju, South Korea) explicitly citing AI data center and semiconductor-cluster demand near Seoul.",
+      "text": "Icheon (8.9 MW) and Paju Unit 1 (9.9 MW) began operating Oct 19; Paju Unit 2 (9.2 MW) follows next month, bringing the three-site total to 28 MW (~222 GWh/yr projected) on a combined ₩159.4B investment. SK Eternix plans to pair the fleet with solar, wind and storage and offer PPA/VPP services. This is a new named Bloom Energy SOFC customer/operator (distinct from SK ecoplant) and the first dedicated AIDC-linked deployment logged in South Korea. MoneyToday (KR)",
+      "url": "https://www.mt.co.kr/en/industry/2026/10/20/2026102008541380908",
       "n": 1
     },
     {
-      "title": "New SOFC entrant: Petra Power",
-      "text": ", a ~15-person, DoD-funded (~$9M in contracts) solid oxide fuel cell startup (founded 2017 on a NASA Glenn license) now publicly pitching compact, modular SOFC systems to AI data centers and military ground vehicles, per an Oct 10 TechCrunch interview. No commercial deployment or named hyperscaler commitment yet; first infrastructure deployment targeted for 2028, volume production for 2029. Added to the benchmark watch list — no disclosed KPI figures of its own yet (it cites only generic DOE SOFC averages). remio.ai",
-      "url": "https://www.remio.ai/de/post/petra-power-fuel-cells-target-data-centers-but-deployment-is-the-real-test-de",
-      "n": 2
-    },
-    {
-      "title": "Priority stacks Elcogen and Topsoe remain quiet — 32 and 57 days respectively since their last SOFC/SOEC-specific company news",
-      "text": ", confirmed via direct fetch of both newsrooms today. Elcogen's latest genuine News-category item is still the Sept 21 Metrosert testing-cooperation announcement (an Oct 6 \"Insights\" electrification piece and a Sept 23 SOEC whitepaper are thought-leadership/technical content, not company/product news). Topsoe's press-releases page is topped by the unrelated Oct 14 Bharat Petroleum SAF hydrotreating contract; the last SOFC/SOEC-relevant Topsoe release remains the Aug 27 H1 2026 results/SOEC pathway reset. Elcogen News | Topsoe press releases",
+      "title": "Priority stacks Elcogen and Topsoe remain quiet — 33 and 58 days respectively since their last genuine SOFC/SOEC company news",
+      "text": ", confirmed via direct fetch of both newsrooms today. Elcogen's News category is still topped by the Sept 21 Metrosert testing-cooperation item (an Oct 6 electrification \"Insights\" piece and a Sept 23 SOEC whitepaper are thought-leadership, not company/product news). Topsoe's press-releases page is topped by the unrelated Oct 14 Bharat Petroleum SAF contract; the last SOFC/SOEC-relevant release remains the Aug 27 H1 2026 results/SOEC pathway reset. Elcogen News | Topsoe press releases",
       "url": "https://elcogen.com/news/",
-      "n": 3
+      "n": 2
     }
   ],
   "sections": [
@@ -25,62 +19,62 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new News-category item since Sept 21 (Metrosert cooperation), confirmed by direct fetch today. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new News-category item since Sept 21 (Metrosert cooperation), confirmed by direct fetch today — 33 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since Aug 27 (H1 2026 results/SOEC pathway reset), confirmed by direct fetch today; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol contract news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since Aug 27 (H1 2026 results/SOEC pathway reset), confirmed by direct fetch today — 58 days quiet; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol contract news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "New entrant — Petra Power: see Top Signal #2. US startup, DoD-funded, pre-commercial, no hyperscaler agreement; flagged as a background watch item, not yet a benchmark-register entry.",
+          "text": "Today's dedicated rotation — new Tier 3 cycle, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Weichai), 7-day lookback:",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's dedicated rotation — cycle 3, round 5 (Delta Electronics, Shell, Denso, Thermax), 7-day lookback — completes this week's full roster:",
+          "text": "Reverion: Results were the already-logged Sept 18 Doosan $78M/€72M SOFC stack supply contract and Sept 29 $175M/€150M Series B — no new 2026 item.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Delta Electronics: Results were the already-logged Delta-Ceres fuel-cell/electrolysis technology license and the Delta/MODEC/Eld Energy floating-platform (FPSO) SOFC collaboration — both pre-dated, no new 2026 item.",
+          "text": "Convion: Results were the standing HD Hyundai (HD Hyundai/HD Hydrogen) acquisition history (2024) and a Wärtsilä fuel-cell-business divestiture background piece — no new dated item.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Shell: Results were the already-logged Shell-Ceres 10 MW pressurized-SOEC electrolyser design project; an enkiai.com \"2026 SOFC strategy\" aggregator piece added no verifiable new detail.",
+          "text": "Hexis: Results were legacy ownership-history coverage (h2e Power/Viessmann) — no new 2026 item.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Denso: Results were enkiai.com aggregator pieces recycling Denso's 2025 SOEC program and legacy Nishio-plant SOFC-cogeneration coverage — no new 2026 company disclosure.",
+          "text": "Doosan Fuel Cell/HyAxiom: A Sept 15 Herald Corp article on an additional 322.2B-won ($240M) PAFC supply contract with its \"Hyaxxium\" US subsidiary (bringing cumulative contracts to 823.6B won) resurfaced — confirmed pre-dated (Sept 15) and PAFC-based, not SOFC; not adopted as new.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Thermax: Results were the standing Thermax-Ceres green-hydrogen licensing partnership and Thermax's own SOEC technology page — no new dated item.",
+          "text": "SK ecoplant: Results were the already-logged 2023-vintage SK ecoplant/GDS Singapore SOFC story. A related but distinct entity, SK Eternix, is covered separately under Top Signal #1 / AI Data Center Deployments — it is a Bloom Energy customer/operator, not a stack maker, so it does not change this line.",
           "url": "",
           "sources": []
         },
         {
-          "text": "This completes cycle 3 of the weekly benchmark rotation (started Oct 19, round 1); a new cycle 4 begins tomorrow with Bloom Energy, Ceres Power, Sunfire, SolydEra, FuelCell Energy, Mitsubishi Power.",
+          "text": "Weichai: No new item; the July 30 Southeast Asia microgrid release and the standing Ceres-Weichai SOFC licensing deal are unchanged.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Sweep 1 — \"Bloom Energy OR FuelCell Energy OR Ceres Power\": No new item; results were recycled coverage of the Ceres-Weichai SOFC licensing deal and a Goldman Sachs Ceres rating update, both already logged.",
+          "text": "Sweep 1 — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": No new item beyond the above.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Sweep 2 — \"Reverion OR Convion OR Hexis OR SolydEra\": No new item; results were the already-logged Sept 29 Reverion $175M/€150M Series B and Convion's historical Wärtsilä fuel-cell-business acquisition.",
+          "text": "Sweep 2 — \"Watt Fuel Cell OR OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura\": No new item; results were the standing Miura/Ceres 4.2kW CHP Japan launch and legacy Nexceris LEVER-process coverage.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Other key players (Mitsubishi Power, Weichai): not in today's dedicated rotation; checked incidentally — no new item (a Weichai Southeast Asia microgrid release is confirmed dated July 30, 2026, not new).",
+          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": No new item; results were SEO-aggregator (enkiai.com) recaps of already-logged deals, the Sept 2 FuelCell Energy Q3 FY2026 release (75 MW Texas Capacity Reservation Agreement, already on file), Sunfire's standing Schwarzheide SOEC test-facility construction, and SolydEra's standing PMX platform/Dynelectro MoU. No Tier 2 company had a genuinely new item today.",
           "url": "",
           "sources": []
         }
@@ -90,7 +84,47 @@
       "title": "AI Data Center Deployments",
       "items": [
         {
-          "text": "Quiet day.",
+          "text": "Competitor roster: SOFC systems for data centers",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM), AEP (1 GW), Brookfield EaaS, Nebius (328 MW, Finland), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), and now SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "FuelCell Energy (incl. HyAxiom-branded products): Signed orders/PPAs — Fit Energy (up to 380 MW), Inuverse Korea (up to 100 MW), 75 MW Texas Capacity Reservation Agreement, SDCL (up to 450 MW). No named deployment live yet.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Doosan Fuel Cell/HyAxiom: Signed order — US AI data center supply contract (KRW 823.6B cumulative with Hyaxxium, mixed SOFC/PAFC); separately supplies SOFC stacks to Reverion. No named data-center site of its own yet.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Convion: Pipeline-only/pre-commercial under HD Hyundai ownership; no named data-center customer.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "SK ecoplant: Pipeline-only (2023-vintage GDS Singapore SOFC deal); no new named data-center deployment.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Ceres Power's SOFC licensees (Doosan, Delta Electronics, Weichai): Licensing/pipeline-only; no named data-center deployment via Ceres licensing directly.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Reverion: Pipeline-only — Doosan-supplied SOFC stacks for rSOC power plants (Germany); no named data-center customer yet.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Petra Power: Pre-commercial, no named customer; first infrastructure deployment targeted 2028.",
           "url": "",
           "sources": []
         }
@@ -149,7 +183,12 @@
   ],
   "lcoe": [
     {
-      "text": "Pending calendar (updated):* German Netzpaket/EEG 2027 Bundestag vote targeted for the week of Nov 9-13 (2.5-3 weeks out), Bundesrat Nov 20; German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (18 days); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (18 days).",
+      "text": "Carry-forward, unchanged:* Virginia data-center electricity tax ($0.011/kWh); PJM Reliability Backstop ceiling (~$202.6/kW-year avoided-cost benchmark, filing suspended pending Feb 28, 2027 paper hearing); FCEL Torrington capex ($200–275M for 350–500 MW/yr by 2028); AEP/Bloom bundled utility-purchase benchmark ($2,944/kW capital+service); Germany's Netzpaket redispatch-curtailment risk (18–20% uncompensated annual-output exposure) for non-islanded SOFC deployments.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending calendar (updated):* German Netzpaket/EEG 2027 Bundestag vote targeted for the week of Nov 9–13 (2.5 weeks out), Bundesrat Nov 20; German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (17 days); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (17 days).",
       "url": "",
       "sources": []
     }
