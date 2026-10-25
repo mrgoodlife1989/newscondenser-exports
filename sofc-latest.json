@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "topSignals": [
     {
-      "title": "SK Eternix starts commercial operation of three Bloom Energy SOFC power plants (Icheon + Paju, South Korea) explicitly citing AI data center and semiconductor-cluster demand near Seoul.",
-      "text": "Icheon (8.9 MW) and Paju Unit 1 (9.9 MW) began operating Oct 19; Paju Unit 2 (9.2 MW) follows next month, bringing the three-site total to 28 MW (~222 GWh/yr projected) on a combined ₩159.4B investment. SK Eternix plans to pair the fleet with solar, wind and storage and offer PPA/VPP services. This is a new named Bloom Energy SOFC customer/operator (distinct from SK ecoplant) and the first dedicated AIDC-linked deployment logged in South Korea. MoneyToday (KR)",
-      "url": "https://www.mt.co.kr/en/industry/2026/10/20/2026102008541380908",
+      "title": "PJM's proposed 50 MW netting threshold for behind-the-meter generation is still pending at FERC — and had not previously been flagged in this monitor.",
+      "text": "PJM's Feb 23, 2026 compliance filing (responding to FERC's Dec 18, 2025 co-location order) would bar \"netting\" for new behind-the-meter loads above 50 MW, excluding backup generation from the calculation, with a 3-year transition and grandfathering for existing contracts; three new colocated-load transmission services would apply above that threshold, with rates to follow in a later filing. No FERC ruling on the threshold itself was found in any Oct 2026 source checked today — it remains an open proceeding. SPP's parallel \"High Impact Large Load\" framework, with a comparable 75 MW threshold, was already approved Jan 14, 2026. So what for INOCEL: this is the first concrete regulatory mechanism found that would strip netting-based cost benefits from new BTM/islanded SOFC installations above 50 MW in PJM territory (NJ, PA, OH, VA, MD, etc.) — exactly the scale of several Bloom/FuelCell Energy data-center deals already tracked in this monitor — while leaving smaller modular SOFC configurations under 50 MW unaffected; worth a dedicated regulatory-risk line in the LCOE model distinguishing PJM BTM deployments above vs. below the threshold. Data Center Frontier | Utility Dive | Mondaq/Davis Graham",
+      "url": "https://www.datacenterfrontier.com/energy/article/55362901/pjm-moves-to-redefine-behind-the-meter-power-for-ai-data-centers",
       "n": 1
     },
     {
-      "title": "Priority stacks Elcogen and Topsoe remain quiet — 33 and 58 days respectively since their last genuine SOFC/SOEC company news",
-      "text": ", confirmed via direct fetch of both newsrooms today. Elcogen's News category is still topped by the Sept 21 Metrosert testing-cooperation item (an Oct 6 electrification \"Insights\" piece and a Sept 23 SOEC whitepaper are thought-leadership, not company/product news). Topsoe's press-releases page is topped by the unrelated Oct 14 Bharat Petroleum SAF contract; the last SOFC/SOEC-relevant release remains the Aug 27 H1 2026 results/SOEC pathway reset. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/news/",
+      "title": "Priority stacks Elcogen and Topsoe remain quiet — 34 and 59 days respectively since their last genuine SOFC/SOEC company news",
+      "text": "(Topsoe now approaching the two-month mark), confirmed via direct fetch of both newsrooms today. Elcogen's news archive is still topped by the Sept 21 Metrosert testing-cooperation item; Topsoe's press-releases page is topped by the unrelated Oct 14 Bharat Petroleum SAF licensing deal, with the last SOFC/SOEC-relevant release remaining the Aug 27 H1 2026 results/SOEC pathway reset. Elcogen News | Topsoe press releases",
+      "url": "https://elcogen.com/category/news/",
       "n": 2
     }
   ],
@@ -19,62 +19,37 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new News-category item since Sept 21 (Metrosert cooperation), confirmed by direct fetch today — 33 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21 (Metrosert cooperation), confirmed by direct fetch today — 34 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since Aug 27 (H1 2026 results/SOEC pathway reset), confirmed by direct fetch today — 58 days quiet; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol contract news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since Aug 27 (H1 2026 results/SOEC pathway reset), confirmed by direct fetch today — 59 days quiet; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol contract news (most recently the Oct 14 Bharat Petroleum Mumbai SAF deal), out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's dedicated rotation — new Tier 3 cycle, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Weichai), 7-day lookback:",
+          "text": "Today's Tier 2 dedicated rotation slot (FuelCell Energy, Mitsubishi Power): no new stack/cell-technology items. FuelCell Energy results were the already-logged Sept 2 Q3 FY2026 release (75 MW Texas Capacity Reservation Agreement, $1.3B committed/$2.35B awarded backlog); Mitsubishi Power/MHI results were the already-logged 400 kW SOEC test module (confirmed dated April 2024).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Reverion: Results were the already-logged Sept 18 Doosan $78M/€72M SOFC stack supply contract and Sept 29 $175M/€150M Series B — no new 2026 item.",
+          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results were SEO-aggregator (enkiai.com) recaps of already-logged deals and standing items (Sunfire's Schwarzheide SOEC test facility, SolydEra's PMX platform).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Convion: Results were the standing HD Hyundai (HD Hyundai/HD Hydrogen) acquisition history (2024) and a Wärtsilä fuel-cell-business divestiture background piece — no new dated item.",
+          "text": "Today's Tier 3 dedicated rotation — cycle round 2 (Watt Fuel Cell, OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Fraunhofer IKTS/Kerafol), 7-day lookback: no new items for any of the six. Nexceris results repeated its legacy LEVER SOEC-scaling program and the already-logged ~$60M SOEC-scaling deal; OxEon results repeated the already-logged Oct 5 Mars-heritage SOEC feature; Watt Fuel Cell, Kawasaki Heavy Industries and Miura searches surfaced only unrelated hits or standing background (Miura/Ceres 4.2 kW CHP launch, already logged) with no 2026 company-specific SOFC news; Fraunhofer IKTS/Kerafol results repeated the standing KSOE MoU background (2023) and a 2025 Thuringia-event page.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Hexis: Results were legacy ownership-history coverage (h2e Power/Viessmann) — no new 2026 item.",
+          "text": "Tier 3 sweep A — \"Plansee OR Huatsing Power OR Ningbo SOFCMAN OR Chaozhou Three-Circle (CCTC)\": no new item; results were patent/powder-metallurgy background and generic market-report listings — no company-specific 2026 news located for any of the four, consistent with prior findings.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Doosan Fuel Cell/HyAxiom: A Sept 15 Herald Corp article on an additional 322.2B-won ($240M) PAFC supply contract with its \"Hyaxxium\" US subsidiary (bringing cumulative contracts to 823.6B won) resurfaced — confirmed pre-dated (Sept 15) and PAFC-based, not SOFC; not adopted as new.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "SK ecoplant: Results were the already-logged 2023-vintage SK ecoplant/GDS Singapore SOFC story. A related but distinct entity, SK Eternix, is covered separately under Top Signal #1 / AI Data Center Deployments — it is a Bloom Energy customer/operator, not a stack maker, so it does not change this line.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Weichai: No new item; the July 30 Southeast Asia microgrid release and the standing Ceres-Weichai SOFC licensing deal are unchanged.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Sweep 1 — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": No new item beyond the above.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Sweep 2 — \"Watt Fuel Cell OR OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura\": No new item; results were the standing Miura/Ceres 4.2kW CHP Japan launch and legacy Nexceris LEVER-process coverage.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": No new item; results were SEO-aggregator (enkiai.com) recaps of already-logged deals, the Sept 2 FuelCell Energy Q3 FY2026 release (75 MW Texas Capacity Reservation Agreement, already on file), Sunfire's standing Schwarzheide SOEC test-facility construction, and SolydEra's standing PMX platform/Dynelectro MoU. No Tier 2 company had a genuinely new item today.",
+          "text": "Tier 3 sweep B — \"Delta Electronics OR Shell OR Denso OR Thermax\" (Ceres licensees): no new item; results were the standing 2024 Ceres-Delta hydrogen-license deal and Ceres' March 2026 full-year results PDF — no new 2026 disclosure for any of the four.",
           "url": "",
           "sources": []
         }
@@ -89,7 +64,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM), AEP (1 GW), Brookfield EaaS, Nebius (328 MW, Finland), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), and now SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway), AEP (1 GW), Brookfield EaaS, Nebius (328 MW, Finland), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
           "url": "",
           "sources": []
         },
@@ -134,47 +109,7 @@
       "title": "Regulations & Policy",
       "items": [
         {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Competing On-Site Power",
-      "items": [
-        {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Market & Financials",
-      "items": [
-        {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Research & IP",
-      "items": [
-        {
-          "text": "Quiet day.",
-          "url": "",
-          "sources": []
-        }
-      ]
-    },
-    {
-      "title": "Scientific Papers — SOFC Systems",
-      "items": [
-        {
-          "text": "Quiet day.",
+          "text": "PJM's 50 MW behind-the-meter netting threshold (Top Signal #1)* is the day's substantive item — see above for full detail; no FERC ruling found yet. Separately, a state-policy roundup (MultiState, Oct 13) not previously logged in this monitor catalogs the broader US behind-the-meter legislative landscape relevant to islanded/BTM SOFC economics: seven states enacted BTM-enabling laws in 2025 (Oklahoma SB 480, Ohio HB 15, Utah SB 132, Texas SB 6, New Hampshire HB 672, West Virginia HB 2014, New Mexico HB 93), while 2026 activity has shifted toward consumer-protection constraints as opposition has grown — New Jersey's A 796 encourages non-carbon-emitting large-load generation, Maryland's SB 596/HB 940 would require 25% of large-load capacity from backup storage or demand response, and Connecticut's HB 5469 would require customers of 50 MW+ to source 100% of their power from colocated or off-grid generation (favorable, in principle, to a fully islanded SOFC configuration). Germany's Netzpaket/EEG 2027 timeline remains unchanged at a Bundestag second/third reading targeted for the week of Nov 9–13, Bundesrat review Nov 20; the KWK-Gesetz (CHP law) cabinet consideration remains undated past its Oct 14 target. US ITC 45V/48E status and Virginia/Texas/Ireland/EU data-center energy legislation are otherwise unchanged.",
           "url": "",
           "sources": []
         }
@@ -188,7 +123,7 @@
       "sources": []
     },
     {
-      "text": "Pending calendar (updated):* German Netzpaket/EEG 2027 Bundestag vote targeted for the week of Nov 9–13 (2.5 weeks out), Bundesrat Nov 20; German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (17 days); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (17 days).",
+      "text": "Pending calendar (updated):* PJM's 50 MW BTM netting threshold — FERC ruling awaited, no date given, now on this monitor's watch list; German Netzpaket/EEG 2027 Bundestag vote targeted for the week of Nov 9–13 (~2–2.5 weeks out), Bundesrat Nov 20; German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (16 days out); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (16 days).",
       "url": "",
       "sources": []
     }
