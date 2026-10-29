@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "topSignals": [
     {
-      "title": "Bloom Energy says the first fuel-cell power block is \"ready for customer use\" at Nebius's 328 MW Vineland, NJ AI data center — but capacity of that first block is undisclosed, and the site itself is not yet operational.",
-      "text": "On Bloom's October 22 Q3 2026 earnings call, CEO KR Sridhar told analysts the first power block for Nebius's New Jersey site was ready; when analyst Christopher Dendrinos asked for a megawatt figure for that block specifically, Sridhar did not give one. The only disclosed numbers remain the contract totals: ~328 MW installed capacity with a 250 MW supply guarantee (a 78 MW/~24% gap between installed and guaranteed), signed May 14, 2026, under a three-phase, 10-year supply structure with aggregate service fees of up to $2.6B over the term. Bloom's own cadence (three months to planning approval, two months more to initial power readiness) implies roughly five months from signing to this first-block milestone, which lines up with the October date. Separately, Nebius itself has not announced the data center as operational — Blockspace reported Oct 23 that the site was still offline. This is a genuine execution milestone (first hardware energized) but not yet a revenue or load-bearing milestone, and it leaves the actual deployed SOFC capacity unquantified — a gap worth flagging for the LCOE model's capacity-factor and revenue-timing assumptions on this project. Note for the archive: prior entries in this monitor have carried this deal as \"Bloom/Nebius $2.6B/328 MW (Finland) plus [a separate] Vineland NJ [deal]\" — today's reporting (Nebius's own original release named no site; subsequent press has consistently identified the 328 MW/$2.6B project as the Vineland, NJ site itself) suggests these may be the same deal, not two separate ones. Flagged for review rather than silently corrected. TS2.tech | ad-hoc-news.de, Oct 27 | Nebius press release",
-      "url": "https://ts2.tech/en/blooms-nebius-power-milestone-leaves-capacity-unquantified/",
+      "title": "First appearance in this digest: Rystad Energy discloses a ~9 GW fuel-cell \"order book\" for AI data centers and two concrete deployment-speed case studies — Bloom delivered power to Oracle's Utah site in under two months; Nebius's New Jersey site cleared planning-board approval within three months of signing.",
+      "text": "A Reuters-sourced piece (published Oct 23, surfaced only in today's research pass) adds granular detail that has not previously appeared alongside this digest's standing Rystad $30B/2030 market-size figure (logged since June): roughly 9 GW of cumulative fuel-cell orders now sit behind framework agreements with Oracle, AEP, Equinix and Brookfield — Rystad cautions these framework deals may not be firm orders for their full stated capacity — and annual manufacturing capacity is tracked toward 4 GW/yr by 2030 from ~1.8 GW/yr today (consistent with the already-logged figure). Bloom's commercial chief is quoted saying that for 100+ MW projects, site readiness, permitting and grid/gas infrastructure — not the fuel-cell technology itself — now set the critical path. So what for INOCEL: the Oracle-Utah (<2 months) and Nebius-NJ (3-month planning approval) cases are usable, company-disclosed timeline anchors for the LCOE model's deployment-speed/schedule-risk assumptions, and the explicit framework-vs-firm-order caveat on the 9 GW figure is a useful caution against overstating near-term contracted volume when benchmarking order momentum against INOCEL's own pipeline. BNN Bloomberg/Reuters",
+      "url": "https://www.bnnbloomberg.ca/business/2026/10/23/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand/",
       "n": 1
     }
   ],
@@ -13,37 +13,32 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21 (Metrosert testing cooperation), confirmed by direct fetch today — 37 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new item since the Sept 21 Metrosert testing-cooperation announcement, confirmed by direct newsroom fetch today — 38 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since Aug 27 (H1 2026 results/SOEC pathway reset), confirmed by direct fetch today — 62 days quiet; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol contract news (most recently the Oct 14 Bharat Petroleum Mumbai SAF deal), out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27 H1 2026 results/SOEC pathway reset, confirmed by direct fetch today — 63 days quiet; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation slot (Kyocera, Aisin) — completes this cycle's full 8-company roster (started Oct 25 with FuelCell Energy/Mitsubishi Power): no new stack/cell-technology items for either. Kyocera and Aisin results were both SEO-aggregator (enkiai.com) recaps of standing 2025-vintage SOFC-cogeneration background; no new 2026 primary disclosure for either.",
+          "text": "Today's Tier 2 dedicated rotation (Bloom Energy, Ceres Power) — completes this cycle's full 8-company roster (started Oct 25 with FuelCell Energy/Mitsubishi Power; continued Oct 27 Sunfire/SolydEra, Oct 28 Kyocera/Aisin): no new stack/cell-technology items for either. Bloom results recycled its already-logged Oct 22 Q3 2026 earnings call and August \"Power Connect\" installation-speed product; Ceres results recycled its already-logged H1 2026 interim results (£22.8M revenue, £102.6M equity raise).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; the recurring 2016-vintage Cummins/Ceres DOE fuel-cell-deal false positive resurfaced again (ruled out, as in prior entries).",
+          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — new cycle 5, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Weichai), 7-day lookback: no new items for any of the six; results repeated the standing Sept 18 Doosan-Reverion $78M SOFC stack-supply order, Convion's 2024 HD Hyundai acquisition history, Hexis's legacy ownership-history coverage, SK ecoplant's 2023-vintage GDS Singapore story, and Weichai's standing SOFC-backup-generator positioning (a May 2026 \"259% data-center-backup growth\" article resurfaced but is confirmed pre-dated, not new).",
+          "text": "Today's Tier 3 dedicated rotation — cycle 5, round 2 (Watt Fuel Cell, OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Fraunhofer IKTS/Kerafol), 7-day lookback: no new items for any of the six; results repeated the standing Miura/Ceres 4.2kW SOFC-CHP Japan launch, Nexceris's $60M SOEC scale-up deal, and MHI's SOEC test-module history, all already logged or pre-2026-vintage.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweep A — \"Plansee OR Huatsing Power OR Ningbo SOFCMAN OR Chaozhou Three-Circle (CCTC)\": no new item; CCTC again returned no company-specific SOFC/SOEC news (this remains an open data gap, as flagged in prior entries).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Tier 3 sweep B — \"Delta Electronics OR Shell OR Denso OR Thermax\" (Ceres licensees): no new item; results repeated the standing 2024 Ceres-Delta hydrogen-license deal.",
+          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR SK ecoplant\": no new item; results repeated the standing Reverion $175M Series B, the 2023-vintage Bloom/SK ecoplant 500 MW sales agreement, and Doosan-Reverion's Sept 18 $78M stack order.",
           "url": "",
           "sources": []
         }
@@ -58,7 +53,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway, footprint still largely unbuilt, hearing Dec 7), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ — first fuel-cell power block reported ready for customer use Oct 22, 2026; block capacity undisclosed; data center itself not yet operational), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway, hearing Dec 7), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ — first power block reported ready Oct 22; block capacity undisclosed; site not yet operational), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
           "url": "",
           "sources": []
         },
@@ -107,7 +102,7 @@
       "sources": []
     },
     {
-      "text": "Pending calendar (updated):* Project Jupiter dismissal-motion ruling (hearing held Oct 26, outcome still not public), discovery hearing Oct 29 (1 day out), full hearing Dec 7; German Netzpaket/EEG 2027 Bundestag second/third reading targeted for the week of Nov 9-13, Bundesrat Nov 20; German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (13 days out); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026.",
+      "text": "Pending calendar (updated):* Project Jupiter discovery hearing held today (Oct 29), outcome not yet reported; dismissal-motion ruling still pending; full air-permit hearing Dec 7; German Netzpaket/EEG 2027 Bundestag second/third reading targeted for the week of Nov 9-13, Bundesrat Nov 20; German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (12 days out); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026.",
       "url": "",
       "sources": []
     }
