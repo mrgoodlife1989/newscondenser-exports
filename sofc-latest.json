@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "topSignals": [
     {
-      "title": "Elcogen reaches five and a half weeks quiet (39 days); Topsoe crosses the nine-week mark (64 days) — the whole tracked landscape went quiet today.",
-      "text": "Direct fetch of both priority-stack newsrooms confirms no solid-oxide-specific release since Elcogen's Sept 21 Metrosert cooperation item and Topsoe's Aug 27 H1 2026 results/SOEC pathway reset. A full sweep across all three tiers, the AI-datacenter deployment pipeline, regulation, competing on-site power, market/financials, research/IP, and the benchmark register today found no new item anywhere — the competitive landscape and SOFC_Benchmark_Records.md are unchanged from yesterday. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Topsoe's only data-center-adjacent news this week turns out to be a different technology path entirely — not SOFC/SOEC.",
+      "text": "Topsoe announced on Oct 29 that it is technology licensor for HDF Energy's \"BaseBlue Power\" project in Texas: a 250 MW low-carbon power plant for data centers, using Topsoe's SynCOR autothermal-reforming (ATR) process to make ~400 t/day of blue hydrogen (>95% CO2 capture, ~1.1 Mt/yr) that is then burned in HDF's own PEM fuel cells — no solid-oxide technology involved, and no Topsoe SOEC/SOFC content at all. Power is targeted for 2030. For Dominic: this confirms Topsoe is pursuing the AI-data-center power opportunity through its legacy ATR/hydrogen-licensing business, not through SOEC — a data point for how little competitive pressure Topsoe is currently putting on the SOFC side of this market, even as it chases the same customer base via a different route. Topsoe press release",
+      "url": "https://www.topsoe.com/news/low-carbon-power-for-data-centers-in-texas-with-topsoe-technology",
       "n": 1
     }
   ],
@@ -13,32 +13,32 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21 (Metrosert cooperation), confirmed by direct fetch today — 39 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21 (Metrosert cooperation), confirmed by direct fetch today — 40 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27 H1 2026 results/SOEC pathway reset, confirmed by direct fetch today — 64 days quiet; topsoe.com/press-releases remains dominated by SAF/ammonia/e-methanol news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27 H1 2026 results/SOEC pathway reset, confirmed by direct fetch today — 65 days quiet. Topsoe's Oct 29 press release (see Top Signals) is data-center-relevant but is an ATR/blue-hydrogen licensing deal, not an SOEC/SOFC item, and does not end the quiet streak.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation — new cycle, round 1 (FuelCell Energy, Mitsubishi Power): no new stack/cell-technology items for either. FuelCell Energy results repeated the already-logged Sept 2 Q3 FY2026 release (75 MW Texas Capacity Reservation Agreement, $1.3B committed/$2.35B awarded backlog); Mitsubishi Power/MHI results repeated the already-logged 400 kW SOEC test module (confirmed dated April 2024).",
+          "text": "Today's Tier 2 dedicated rotation — round 2 (Sunfire, SolydEra): no new stack/cell-technology items for either. Sunfire results repeated the standing Schwarzheide SOEC test-facility construction story (BASF site, commissioning targeted end of 2026); SolydEra results repeated the standing Hannover Messe PMX-platform launch and the Dynelectro 1 MW electrolyser partnership, both already logged.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results recycled Bloom's Oct 23 Q3 2026 earnings and standing data-center-deal background, plus the standing Ceres H1 2026 interim results.",
+          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results recycled standing Bloom/Ceres/FuelCell Energy earnings and data-center-deal background already in the archive.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — cycle 5, round 3 (Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC, Delta Electronics, Shell), 7-day lookback: no new items for any of the six. Plansee results were powder-metallurgy interconnect background pages; Huatsing Power and Ningbo SOFCMAN results were academic/patent background only; Chaozhou Three-Circle (CCTC) again returned no company-specific SOFC/SOEC news (continuing open data gap); Delta Electronics results repeated the standing 2024 Ceres-Delta hydrogen-license deal; Shell results repeated the standing Ceres-Shell 10 MW SOEC demonstrator background.",
+          "text": "Today's Tier 3 dedicated rotation — cycle 5, round 4, completing this cycle's roster (Denso, Thermax): no new items for either. Denso results were 2025-vintage SOEC/green-hydrogen strategy background (Nishio plant demonstration); Thermax results repeated the standing Ceres-Thermax SOEC partnership and a Jan 30, 2026 HPCL clean-energy MoU that is not SOFC/SOEC-specific.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweeps — \"Reverion OR Convion OR Hexis OR SK ecoplant\" and \"Doosan Fuel Cell OR Nexceris OR Watt Fuel Cell OR Kawasaki Heavy Industries\": no new item for either sweep; results repeated the standing Sept 18 Doosan-Reverion $78M stack order, Convion's 2024 HD Hyundai acquisition history, SK ecoplant's 2023-vintage GDS Singapore story, and Nexceris's $60M SOEC scale-up deal.",
+          "text": "Tier 3 sweeps — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\" and \"Watt Fuel Cell OR OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\": no new item for either sweep; results repeated the standing Sept 18 Doosan-Reverion $78M stack order/250 MW factory raise, Convion's 2024 HD Hyundai acquisition history, SK ecoplant's 2023-vintage GDS Singapore story, and Ceres-Miura's 4.2kW Japan product launch.",
           "url": "",
           "sources": []
         }
