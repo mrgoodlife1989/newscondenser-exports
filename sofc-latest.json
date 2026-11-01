@@ -95,5 +95,16 @@
       ]
     }
   ],
-  "lcoe": []
+  "lcoe": [
+    {
+      "text": "Carry-forward, unchanged:* Virginia data-center electricity tax ($0.011/kWh); PJM Reliability Backstop ceiling (~$202.6/kW-year avoided-cost benchmark, filing suspended pending Feb 28, 2027 paper hearing); PJM's proposed 50 MW behind-the-meter netting threshold (pending FERC approval, 3-year grandfather); FCEL Torrington capex ($200-275M for 350-500 MW/yr by 2028); AEP/Bloom bundled utility-purchase benchmark ($2,944/kW capital+service); Germany's Netzpaket redispatch-curtailment risk (18-20% uncompensated annual-output exposure) for non-islanded SOFC deployments.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending calendar (updated):* Project Jupiter dismissal-motion ruling still pending; full air-permit hearing Dec 7 (36 days out); German Netzpaket/EEG 2027 Bundestag second/third reading targeted for the week of Nov 9-13 (8-12 days out), Bundesrat Nov 20 (19 days out); German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (9 days out); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026.",
+      "url": "",
+      "sources": []
+    }
+  ]
 }
