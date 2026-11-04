@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "topSignals": [
     {
-      "title": "Project Jupiter: dismissal motion rejected, Dec 7 air-permit hearing confirmed to proceed — plus a new county \"potential breach\" notice over the El Paso Electric backup-power plan.",
-      "text": "A wider lookback (not caught by the Oct 28–Nov 2 digests) surfaced two Oct 27 developments on Oracle/Bloom's 2.4 GW SOFC microgrid in Doña Ana County, NM. Hearing Officer James Browning denied New Energy Economy's motion to dismiss the revised air permit, so the Dec 7 hearing stands; the revised application caps operation at 1,600 MW (~65% of the 2.4 GW nameplate) as an \"enforceable\" condition and raises the fuel-stack height from 30 to 45 feet. Separately, Doña Ana County commissioners voted unanimously to notify the developers of a \"potential breach\" of the 2025 industrial-revenue-bond agreement, tied to a proposed El Paso Electric backup-power connection (a $100M/10-year payment) that Chair Manny Sanchez said would violate the bond terms unless amended — with a majority vote to amend \"might not be achieved.\" Neither article changes the Dec 7 hearing date; the county matter is unresolved and specifically about the backup-power/utility-connection side of the project, not the fuel-cell plant itself. ABQ Journal — dismissal motion rejected | ABQ Journal — county breach notice",
-      "url": "https://www.abqjournal.com/business/hearing-officer-rejects-bid-to-toss-revised-project-jupiter-air-permit/3150570",
+      "title": "Bloom Energy shares jump ~9% on a Barclays upgrade plus a new carbon-capture fuel-cell venture with California Resources Corporation.",
+      "text": "Nov 3, 2026: Bloom (NYSE: BE) climbed about 9% intraday after an analyst price-target/rating upgrade from Barclays coincided with news of a new venture combining Bloom's fuel-cell technology with carbon capture, in partnership with California Resources Corporation (CRC) — a diversification signal beyond the AI-data-center backlog that has driven most of 2026's Bloom coverage. Shares Climb 9.1% Following Analyst Upgrade | Carbon-Capture Fuel-Cell Venture With California Resources",
+      "url": "https://www.thestockobserver.com/2026/11/03/bloom-energy-nysebe-shares-climb-9-1-following-analyst-upgrade.html",
       "n": 1
     },
     {
-      "title": "Elcogen crosses six and a half weeks quiet (43 days) and Topsoe passes nine and three-quarter weeks (68 days)",
-      "text": "— dedicated English- and German-language searches for both priority stacks today returned only standing factory/manufacturing background, no new press release. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Project Jupiter's community oversight structure takes its first formal steps — but the core fuel-cell deal terms, the Dec 7 air-permit hearing, and the El Paso Electric bond-breach dispute are all unchanged.",
+      "text": "The county-mandated community monitoring committee held its inaugural meeting (Oct 31/reported Nov 1), electing officers (Chair Lynn Moorer, Vice Chair Arturo Terrazas, Secretary Don Bassett) but setting no study topics yet; separately, Doña Ana County held a Nov 3 work session to begin shaping the $10M water/wastewater grant program tied to the project's economic-development agreement. Neither item touches the Dec 7 hearing date or the unresolved Oct 27 bond-breach notice. Committee inaugural meeting | Water-grant work session",
+      "url": "https://kvia.com/news/2026/11/01/dona-ana-countys-project-jupiter-committee-holds-inaugural-meeting-to-lay-groundwork-and-elect-officers/",
       "n": 2
     }
   ],
@@ -19,32 +19,17 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21 (Metrosert cooperation), confirmed via English- and German-language searches today — 43 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 44 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 68 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 69 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation — new cycle, round 1 (FuelCell Energy, Mitsubishi Power): no new stack/cell-technology items for either; results were standing Q3 earnings/data-center background (FuelCell Energy) and the standing Takasago 400 kW SOEC test-module background (Mitsubishi Power/MHI).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results recycled standing background (Ceres/Goldman Sachs upgrade, Cummins-Ceres DOE deal, Bloom backlog/Oracle coverage).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Today's Tier 3 dedicated rotation — cycle 6, round 3 (Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC, Delta Electronics, Shell), 7-day lookback: no new items for any of the six. Chaozhou Three-Circle (CCTC) and Ningbo SOFCMAN again returned no company-specific SOFC/SOEC news — continuing open data gap; Delta Electronics and Shell results repeated the standing Ceres-licensing and Ceres/Shell SOEC-demonstrator background.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Tier 3 sweeps — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\" and \"Watt Fuel Cell OR OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\": no new item for either; results repeated the standing Sept 18 Doosan-Reverion $78M stack order and the Miura/Ceres Japan CHP launch.",
+          "text": "Today's checks — Tier 2 sweep plus dedicated rotation (new cycle, round 2: Sunfire, SolydEra) and Tier 3 rotation (cycle 6, round 4 — Denso, Thermax, completing this cycle), plus two Tier 3 sweeps (Reverion/Convion/Hexis/Doosan Fuel Cell/SK ecoplant/Weichai; Watt Fuel Cell/OxEon Energy/Nexceris/Kawasaki Heavy Industries/Miura/Fraunhofer IKTS): no new items for any company; all apparently-fresh hits (Elcogen's Tallinn factory launch, Sunfire's \"€500M growth capital\" story, SolydEra's Axiom Energy/GCEI North America tie-up) were confirmed via direct-date checks to be 2024/2025-vintage, not new.",
           "url": "",
           "sources": []
         }
@@ -59,7 +44,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway, air-permit hearing confirmed Dec 7, dismissal motion rejected), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ — first power block reported ready Oct 22; block capacity undisclosed), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway, Dec 7 air-permit hearing confirmed), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
           "url": "",
           "sources": []
         },
@@ -99,7 +84,33 @@
           "sources": []
         }
       ]
+    },
+    {
+      "title": "Market & Financials",
+      "items": [
+        {
+          "text": "Bloom Energy (BE): Shares climbed ~9% on Nov 3 on a Barclays upgrade combined with a new carbon-capture fuel-cell venture announced with California Resources Corporation — see Top Signal #1. Shares Climb 9.1%",
+          "url": "https://www.thestockobserver.com/2026/11/03/bloom-energy-nysebe-shares-climb-9-1-following-analyst-upgrade.html",
+          "sources": [
+            {
+              "title": "Shares Climb 9.1%",
+              "url": "https://www.thestockobserver.com/2026/11/03/bloom-energy-nysebe-shares-climb-9-1-following-analyst-upgrade.html"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "lcoe": []
+  "lcoe": [
+    {
+      "text": "Carry-forward, unchanged:* Virginia data-center electricity tax ($0.011/kWh); PJM Reliability Backstop ceiling (~$202.6/kW-year avoided-cost benchmark, filing suspended pending Feb 28, 2027 paper hearing); PJM's proposed 50 MW behind-the-meter netting threshold (pending FERC approval, 3-year grandfather); FCEL Torrington capex ($200-275M for 350-500 MW/yr by 2028); AEP/Bloom bundled utility-purchase benchmark ($2,944/kW capital+service); Germany's Netzpaket redispatch-curtailment risk (18-20% uncompensated annual-output exposure) for non-islanded SOFC deployments.",
+      "url": "",
+      "sources": []
+    },
+    {
+      "text": "Pending calendar (updated):* Project Jupiter air-permit hearing Dec 7 (33 days out); Doña Ana County IRB \"potential breach\" notice over the El Paso Electric backup-power connection — unresolved; German Netzpaket/EEG 2027 Bundestag second/third reading targeted for the week of Nov 9-13 (5-9 days out), Bundesrat Nov 20 (16 days out); German KWK-Gesetz cabinet consideration remains undated past its Oct 14 target; FCEL lead-plaintiff deadline Nov 10 (6 days out); PJM backstop paper hearing runs to Feb 28, 2027; next EIA STEO Nov 10, 2026 (6 days out).",
+      "url": "",
+      "sources": []
+    }
+  ]
 }
