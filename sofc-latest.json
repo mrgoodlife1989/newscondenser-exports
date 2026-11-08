@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "topSignals": [
     {
-      "title": "Third consecutive quiet day — Elcogen now 47 days quiet, Topsoe 72 days.",
-      "text": "Dedicated English- and German-language searches for both priority stacks, a new Tier 2 rotation round (Ceres Power, Mitsubishi Power), the Tier 3 rotation completing cycle 7 (OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Delta Electronics, Shell, Denso, Thermax), every standing sweep query, and broad AI-datacenter/hyperscaler, regulation, competing-power, market/financials, research/IP, and scientific-paper checks all returned only recycled/already-logged background or out-of-window items (candidates checked and ruled out: a Craig-Hallum/Citi FuelCell Energy analyst-rating pair and a \"$225M share offering\" headline both resolved to mid-2026 vintage; a Rystad Energy \"$30bn fuel cell investment by 2030\" projection resolved to the already-logged Oct 23 sector-overview story; New Mexico Supreme Court/El Paso Electric Project Jupiter articles resolved to August-October 2026 history, already on file). No SOFC order, PPA, pilot, regulatory action, earnings move, or benchmark datapoint was found today. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Project Jupiter's Dec 7 air-quality permit hearing vacated — no new date set.",
+      "text": "New Mexico hearing officer James Browning vacated the opening of the contested-case hearing on the air-quality permit for Oracle/Yucca Growth Infrastructure's Bloom Energy SOFC fuel-cell microgrid serving the Santa Teresa (\"Project Jupiter\") data center, after the state Environment Department and the developer jointly asked (Nov 3) for more time to technically review October's power-plan revisions and issue public notices. No replacement hearing date was set; regular scheduling conferences were ordered instead, and the previous Nov 23 permit-decision deadline was waived. New Energy Economy's renewed motion to dismiss the application was again denied — Browning said he lacks the technical evidence or authority to grant it — and a state motion for expert-witness disclosure requirements was also denied. Oracle said it \"look[s] forward to moving efficiently toward a hearing date and schedule.\" This is a new procedural delay (reported Nov 6), on top of — not instead of — the prior case history (NM Supreme Court stay lifted in September, dismissal-motion-rejected/hearing-confirmed in late October); it does not affect Bloom Energy installation progress at the site, only the regulatory permit timeline. Albuquerque Journal",
+      "url": "https://www.abqjournal.com/news/project-jupiter-air-permit-faces-new-delay/3157572",
       "n": 1
     }
   ],
@@ -13,32 +13,32 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 47 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 48 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 72 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 73 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation — new cycle, round 1 (Ceres Power, Mitsubishi Power): no new stack/cell-technology items for either; results were recycled background (Ceres's Endura platform/Doosan mass-production launch recaps, MHI's Takasago SOEC test-module milestone), all pre-dated.",
+          "text": "Today's Tier 2 dedicated rotation — round 2 (Sunfire, SolydEra): no new stack/cell-technology items for either; results were recycled background (Sunfire's Schwarzheide SOEC test-facility construction and BASF Industriepark Lausitz plans; SolydEra's PMX platform launch and Dynelectro 1 MW electrolyser-delivery partnership, all pre-dated).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results repeated standing enkiai.com SOFC-market recap pieces and the recirculating \"Ceres Power China data centre deal\" headline (already re-verified dated Nov 5, 2025 in prior entries).",
+          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results repeated standing enkiai.com SOFC-market recap pieces and Bloom's 60%-electrical-efficiency hydrogen-SOFC announcement background.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — cycle 7, round 3, completing this cycle's full 20-company roster (OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Delta Electronics, Shell, Denso, Thermax): no new items for any of the eight; results repeated OxEon's Oct 5, 2026 $36M DOE hydrogen-funding award (confirmed out of the 7-day window, already a month old), Nexceris's standing $60M SOEC-scaling deal and LEVER-process background, and Delta Electronics/Ceres licensing background, none dated within the lookback window.",
+          "text": "Today's Tier 3 dedicated rotation — new cycle 8, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Weichai): no new items for any of the six; results repeated the standing Doosan-Reverion $76.7-78M SOFC stack supply agreement, Reverion's $175M/€150M Series B (250 MW rSOC \"megafactory\") background, Convion's 2024 HD Hyundai/HD Hydrogen acquisition history, Hexis's Viessmann-to-mPower divestiture history, SK ecoplant's 2023-vintage GDS Singapore SOFC deal, and the Ceres-Weichai SOFC manufacturing licence background — none dated within the lookback window.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweeps — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\" and \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura\": no new item; results repeated the standing Doosan-Reverion $78M stack order and Reverion Series B background.",
+          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": no new item; same recycled results as above.",
           "url": "",
           "sources": []
         }
@@ -53,7 +53,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway, Dec 7 air-permit hearing confirmed), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway; Dec 7 air-permit hearing vacated Nov 6, no new date set), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
           "url": "",
           "sources": []
         },
