@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "topSignals": [
     {
-      "title": "Quiet day across all monitored sections — Elcogen now 49 days quiet, Topsoe 74 days.",
-      "text": "Dedicated English- and German-language searches for both priority stacks, the Tier 2 dedicated rotation (Kyocera, Aisin) and sweep, the Tier 3 dedicated rotation (Fraunhofer IKTS/Kerafol, Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC, Watt Fuel Cell) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler, regulation, competing-power, market/financials, research/IP, and scientific-paper checks all returned only recycled/already-logged background or out-of-window items. Two Project Jupiter articles surfaced by today's search (ABQ Journal's Oct 27 motion-to-dismiss denial, and a Nov 5 Bloomberg-sourced report that Yucca Growth Infrastructure waived its Nov 23 permit-decision deadline) were confirmed via direct fetch to pre-date the already-logged Nov 6 hearing vacatur — not new developments. No SOFC order, PPA, pilot, regulatory action, earnings move, or benchmark datapoint was found today. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Bloom Energy signs 900 MW NTT DATA deal — Bloom's largest fuel-cell agreement outside the US, shipments from 2027.",
+      "text": "NTT DATA (a major Japan-headquartered global IT-services/data-center operator) will deploy Bloom SOFC-based on-site power across its global data center portfolio; no contract value or $/MW figure was disclosed. Bloom shares initially fell as much as ~16% intraday on Nov 5-6 despite the announcement, caught up in a broader post-US-midterm-election sell-off in AI-infrastructure and data-center-power stocks (not Bloom-specific), with at least one bullish sell-side note (Evercore) arguing the addressable market is \"deeper than investors thought\" even as shares fell further that day; shares partially recovered (reported +2%, alongside AMD +8%) by Nov 9 as the broader AI-stock rout eased. NTT DATA announcement | DataCenterDynamics | tikr market reaction",
+      "url": "https://www.nttdata.com/en-us/news/2026/ntt-data-announces-agreement-with-bloom-energy",
       "n": 1
     }
   ],
@@ -13,37 +13,42 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 49 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 50 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 74 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 75 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation — round 3 (Kyocera, Aisin): no new stack/cell-technology items for either; results were SEO-aggregator (enkiai.com) recaps of standing 2025-vintage SOFC-cogeneration background and routine autoparts-sector coverage, no new 2026 primary disclosure.",
+          "text": "Bloom Energy (Tier 2): Genuinely new item today — signed a 900 MW SOFC supply agreement with NTT DATA for its global data-center footprint, Bloom's largest deal outside the US, shipments starting 2027; see Top Signals and AI Data Center Deployments for detail and market reaction.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results recycled standing enkiai.com SOFC-market recap pieces and the Bloom Energy/Oracle/AEP/Brookfield/Nebius deal cluster, all pre-dated.",
+          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no item beyond the Bloom/NTT DATA story above; remaining results were recycled enkiai.com SOFC-market recap pieces (Bloom 2026 deal-cluster retrospectives, Ceres/Delta Electronics background).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — cycle 8, round 2 (Fraunhofer IKTS/Kerafol, Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC, Watt Fuel Cell): no new items for any of the six; results repeated standing IKTS/Plansee/KSOE Hannover Fair-era background, CCTC's materials-supplier history, Ningbo SOFCMAN's general China-SOFC-market coverage, Huatsing's standing background, and Watt Fuel Cell's residential-CHP/financing news (July 2026 equity raise, Dec 2025 first installation) — all pre-dated.",
+          "text": "Today's Tier 2 dedicated rotation (FuelCell Energy): no new item; the $160M Hartford-area grid contract and the 12.5 MW utility-grade data-center power-block launch that surfaced in today's search were both confirmed via cross-check to be already logged/pre-dated.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": no new item; results repeated the standing Doosan-Reverion $76.7-78M SOFC stack supply agreement and Reverion's $175M/€150M Series B background.",
+          "text": "Today's Tier 3 dedicated rotation — cycle 8, round 3 (Doosan Fuel Cell, SK ecoplant, OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura): no new items for any of the six; results repeated the standing Doosan-Reverion $76.7-78M SOFC stack-supply background and Doosan's Q1/Q2 2026 earnings recaps, SK ecoplant's 2023-vintage GDS Singapore SOFC deal, OxEon's DOE hydrogen-funding background, Nexceris' standing LEVER-process/materials coverage, Kawasaki's hydrogen-generator news (non-SOFC), and Miura's Ceres-licensed maintenance-network background — all pre-dated.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweep — \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Delta Electronics\": no new item; results repeated the standing Delta Electronics/Ceres SOFC-licensing agreement background, with no new 2026 disclosure from any of the five.",
+          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": no new item; recycled the standing Doosan-Reverion stack-supply agreement background.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Tier 3 sweep — \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\": no new item; recycled Weichai/Ceres manufacturing-licence background and the Miura/Ceres maintenance-network story.",
           "url": "",
           "sources": []
         }
@@ -58,7 +63,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway; Dec 7 air-permit hearing remains vacated, no new date set), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway; air-permit hearing remains vacated, no new date set), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational), NEW: NTT DATA (900 MW, global data centers, shipments from 2027 — Bloom's largest deal outside the US; no contract value disclosed).",
           "url": "",
           "sources": []
         },
