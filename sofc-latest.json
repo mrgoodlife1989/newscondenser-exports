@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "topSignals": [
     {
-      "title": "Bloom Energy signs 900 MW NTT DATA deal — Bloom's largest fuel-cell agreement outside the US, shipments from 2027.",
-      "text": "NTT DATA (a major Japan-headquartered global IT-services/data-center operator) will deploy Bloom SOFC-based on-site power across its global data center portfolio; no contract value or $/MW figure was disclosed. Bloom shares initially fell as much as ~16% intraday on Nov 5-6 despite the announcement, caught up in a broader post-US-midterm-election sell-off in AI-infrastructure and data-center-power stocks (not Bloom-specific), with at least one bullish sell-side note (Evercore) arguing the addressable market is \"deeper than investors thought\" even as shares fell further that day; shares partially recovered (reported +2%, alongside AMD +8%) by Nov 9 as the broader AI-stock rout eased. NTT DATA announcement | DataCenterDynamics | tikr market reaction",
-      "url": "https://www.nttdata.com/en-us/news/2026/ntt-data-announces-agreement-with-bloom-energy",
+      "title": "FuelCell Energy launches DOE-backed \"StabilityMax\" AI data center fuel-cell testbed in Danbury, CT.",
+      "text": "FuelCell Energy will host a three-year collaborative project, led by the US Department of Energy's National Laboratory of the Rockies (NLR) with Argonne National Laboratory participating, to build data-center load-profile models and simulations (NLR) and techno-economic/lifecycle analyses (Argonne), alongside a physical fuel-cell test facility FuelCell Energy will develop at its Connecticut manufacturing site. No funding amount or MW capacity was disclosed, and the announcement does not specify whether the testbed uses FuelCell Energy's carbonate (SureSource) or solid-oxide (Advanced Technologies) product line — so this cannot yet be confirmed as SOFC-specific. The project builds on FuelCell Energy's existing 2026 collaboration with Siemens on a \"layered architecture\" power approach. Manila Times/GlobeNewswire",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/fuelcell-energy-to-host-national-laboratory-supported-ai-data-center-power-testbed-in-connecticut-manufacturing-facility/2466299",
       "n": 1
     }
   ],
@@ -13,42 +13,42 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 50 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 51 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 75 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 76 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Bloom Energy (Tier 2): Genuinely new item today — signed a 900 MW SOFC supply agreement with NTT DATA for its global data-center footprint, Bloom's largest deal outside the US, shipments starting 2027; see Top Signals and AI Data Center Deployments for detail and market reaction.",
+          "text": "FuelCell Energy (Tier 2): Genuinely new item today — the DOE-backed \"StabilityMax\" data-center fuel-cell testbed announced Nov 10 (see Top Signals); fuel-cell chemistry not confirmed as SOFC.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no item beyond the Bloom/NTT DATA story above; remaining results were recycled enkiai.com SOFC-market recap pieces (Bloom 2026 deal-cluster retrospectives, Ceres/Delta Electronics background).",
+          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Mitsubishi Power — new cycle, round 1): no new item for either; Mitsubishi Power's circulating headline today (\"Mitsubishi Power Lands Significant...\" order) is a gas-turbine contract for Qatar's Facility E IWPP project (dated Jan 2026), not SOFC/SOEC, and out of scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (FuelCell Energy): no new item; the $160M Hartford-area grid contract and the 12.5 MW utility-grade data-center power-block launch that surfaced in today's search were both confirmed via cross-check to be already logged/pre-dated.",
+          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no item beyond the FuelCell Energy/StabilityMax story above.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — cycle 8, round 3 (Doosan Fuel Cell, SK ecoplant, OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura): no new items for any of the six; results repeated the standing Doosan-Reverion $76.7-78M SOFC stack-supply background and Doosan's Q1/Q2 2026 earnings recaps, SK ecoplant's 2023-vintage GDS Singapore SOFC deal, OxEon's DOE hydrogen-funding background, Nexceris' standing LEVER-process/materials coverage, Kawasaki's hydrogen-generator news (non-SOFC), and Miura's Ceres-licensed maintenance-network background — all pre-dated.",
+          "text": "Today's Tier 3 dedicated rotation — cycle 8, round 4, completing the cycle (Delta Electronics, Shell, Denso, Thermax), plus cycle 9 round 1 start (Reverion, Convion): no new items for any of the six; results repeated Ceres' 2024-vintage Delta/Shell/Denso/Thermax licensing background, the standing Doosan-Reverion $76.7-78M SOFC stack-supply story, and Convion's 2024 HD Korea Shipbuilding acquisition — all pre-dated.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": no new item; recycled the standing Doosan-Reverion stack-supply agreement background.",
+          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": no new item; recycled the standing Doosan-Reverion stack-supply background.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 3 sweep — \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\": no new item; recycled Weichai/Ceres manufacturing-licence background and the Miura/Ceres maintenance-network story.",
+          "text": "Tier 3 sweep — \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\": no new item; recycled the Miura/Ceres 4.2kW launch and Weichai/Ceres manufacturing-licence background.",
           "url": "",
           "sources": []
         }
@@ -63,17 +63,17 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter (NM, installation underway; air-permit hearing remains vacated, no new date set), AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B, Vineland NJ), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW, PA), Hitachi (Japan), SK Eternix (Icheon/Paju, Korea, 28 MW, operational), NEW: NTT DATA (900 MW, global data centers, shipments from 2027 — Bloom's largest deal outside the US; no contract value disclosed).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter, AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW), Hitachi (Japan), SK Eternix (28 MW, operational), NTT DATA (900 MW, global, shipments from 2027).",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (incl. HyAxiom-branded products): Signed orders/PPAs — Fit Energy (up to 380 MW), Inuverse Korea (up to 100 MW), 75 MW Texas Capacity Reservation Agreement, SDCL (up to 450 MW). No named deployment live yet.",
+          "text": "FuelCell Energy (incl. HyAxiom-branded products): Signed orders/PPAs — Fit Energy (up to 380 MW), Inuverse Korea (up to 100 MW), Texas CRA (75 MW), SDCL (up to 450 MW). New: hosting a DOE/national-lab-backed R&D testbed (StabilityMax) in Danbury, CT. No named commercial deployment live yet.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Doosan Fuel Cell/HyAxiom: Signed order — US AI data center supply contract (KRW 823.6B cumulative, mixed SOFC/PAFC); separately supplies SOFC stacks to Reverion. No named data-center site of its own yet.",
+          "text": "Doosan Fuel Cell/HyAxiom: Signed order — US AI data center supply contract (KRW 823.6B); supplies SOFC stacks to Reverion. No named data-center site of its own yet.",
           "url": "",
           "sources": []
         },
@@ -83,7 +83,7 @@
           "sources": []
         },
         {
-          "text": "SK ecoplant: Pipeline-only (2023-vintage GDS Singapore SOFC deal); no new named data-center deployment.",
+          "text": "SK ecoplant: Pipeline-only; no new named data-center deployment.",
           "url": "",
           "sources": []
         },
