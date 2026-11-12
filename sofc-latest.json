@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "topSignals": [
     {
-      "title": "FuelCell Energy launches DOE-backed \"StabilityMax\" AI data center fuel-cell testbed in Danbury, CT.",
-      "text": "FuelCell Energy will host a three-year collaborative project, led by the US Department of Energy's National Laboratory of the Rockies (NLR) with Argonne National Laboratory participating, to build data-center load-profile models and simulations (NLR) and techno-economic/lifecycle analyses (Argonne), alongside a physical fuel-cell test facility FuelCell Energy will develop at its Connecticut manufacturing site. No funding amount or MW capacity was disclosed, and the announcement does not specify whether the testbed uses FuelCell Energy's carbonate (SureSource) or solid-oxide (Advanced Technologies) product line — so this cannot yet be confirmed as SOFC-specific. The project builds on FuelCell Energy's existing 2026 collaboration with Siemens on a \"layered architecture\" power approach. Manila Times/GlobeNewswire",
-      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/fuelcell-energy-to-host-national-laboratory-supported-ai-data-center-power-testbed-in-connecticut-manufacturing-facility/2466299",
+      "title": "Quiet day continues — Elcogen now 52 days quiet, Topsoe 77 days; no genuinely new item found in any monitored section today.",
+      "text": "Dedicated English- and German-language searches for both priority stacks, the Tier 2 dedicated rotation (Sunfire, SolydEra) and sweep, the Tier 3 dedicated rotation (cycle 9, round 2: Hexis, Doosan Fuel Cell, SK ecoplant, Weichai, OxEon Energy, Nexceris) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler, regulation, competing-power, market/financials, research/IP, and scientific-paper checks all returned only recycled/already-logged background or out-of-window items. A follow-up attempt to verify yesterday's flagged \"Renewable Innovations\" DOE fuel-cell/AI-datacenter item failed again (source fetch error); it remains unconfirmed and on watch, not added to the SOFC entrant list. Elcogen News | Topsoe press releases",
+      "url": "https://elcogen.com/category/news/",
       "n": 1
     }
   ],
@@ -13,32 +13,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 51 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 52 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 76 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 77 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news, out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "FuelCell Energy (Tier 2): Genuinely new item today — the DOE-backed \"StabilityMax\" data-center fuel-cell testbed announced Nov 10 (see Top Signals); fuel-cell chemistry not confirmed as SOFC.",
+          "text": "Today's Tier 2 dedicated rotation (Sunfire, SolydEra — new cycle, round 1): no new item for either; both companies' top headlines remain the standing Sunfire Schwarzheide SOEC commissioning story and SolydEra's PMX platform/Dynelectro background.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Mitsubishi Power — new cycle, round 1): no new item for either; Mitsubishi Power's circulating headline today (\"Mitsubishi Power Lands Significant...\" order) is a gas-turbine contract for Qatar's Facility E IWPP project (dated Jan 2026), not SOFC/SOEC, and out of scope.",
+          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item beyond already-logged Bloom/Oracle/NTT DATA background recirculated by aggregator sites.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no item beyond the FuelCell Energy/StabilityMax story above.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Today's Tier 3 dedicated rotation — cycle 8, round 4, completing the cycle (Delta Electronics, Shell, Denso, Thermax), plus cycle 9 round 1 start (Reverion, Convion): no new items for any of the six; results repeated Ceres' 2024-vintage Delta/Shell/Denso/Thermax licensing background, the standing Doosan-Reverion $76.7-78M SOFC stack-supply story, and Convion's 2024 HD Korea Shipbuilding acquisition — all pre-dated.",
+          "text": "Today's Tier 3 dedicated rotation — cycle 9, round 2 (Hexis, Doosan Fuel Cell, SK ecoplant, Weichai, OxEon Energy, Nexceris): no new items for any of the six; results repeated the standing Doosan-Reverion $76.7-78M SOFC stack-supply story, Weichai's Ceres-licensed stationary SOFC/CE-certification background, SK Ecoplant's 2021-2023 Korean heat-supply/data-center items, OxEon's 2024 $36M DOE hydrogen-funding award, and Nexceris's 2024-2025 $60M SOEC scale-up deal.",
           "url": "",
           "sources": []
         },
@@ -68,7 +63,7 @@
           "sources": []
         },
         {
-          "text": "FuelCell Energy (incl. HyAxiom-branded products): Signed orders/PPAs — Fit Energy (up to 380 MW), Inuverse Korea (up to 100 MW), Texas CRA (75 MW), SDCL (up to 450 MW). New: hosting a DOE/national-lab-backed R&D testbed (StabilityMax) in Danbury, CT. No named commercial deployment live yet.",
+          "text": "FuelCell Energy (incl. HyAxiom-branded products): Signed orders/PPAs — Fit Energy (up to 380 MW), Inuverse Korea (up to 100 MW), Texas CRA (75 MW), SDCL (up to 450 MW). Also hosting a DOE/national-lab-backed R&D testbed (StabilityMax) in Danbury, CT. No named commercial deployment live yet.",
           "url": "",
           "sources": []
         },
