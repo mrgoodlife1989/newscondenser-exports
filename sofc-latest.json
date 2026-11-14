@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "topSignals": [
     {
-      "title": "Quiet day continues — Elcogen now 53 days quiet, Topsoe 78 days; no genuinely new item found in any monitored section today.",
-      "text": "Dedicated English- and German-language searches for both priority stacks, the Tier 2 dedicated rotation (Kyocera, Aisin — round 3) and sweep, the Tier 3 dedicated rotation (cycle 9, round 3: Fraunhofer IKTS/Kerafol, Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC, Watt Fuel Cell) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler, regulation, competing-power, market/financials, research/IP, and scientific-paper checks all returned only recycled/already-logged background or out-of-window items. The \"Renewable Innovations\" DOE fuel-cell/AI-datacenter item flagged on Nov 10-12 is now resolved: Renewable Innovations is confirmed (via its FCHEA profile and military mobile-power-generator coverage) to build PEM hydrogen fuel cells using GM's Gen2 HYDROTEC stacks, not solid oxide — it is closed out as non-SOFC and removed from the watch list. Elcogen News | Topsoe press releases",
+      "title": "Quiet day continues — Elcogen now 54 days quiet, Topsoe 79 days; no genuinely new item found in any monitored section today.",
+      "text": "Dedicated English- and German-language searches for both priority stacks, the Tier 2 dedicated rotation (new cycle, round 1: Bloom Energy, FuelCell Energy) and sweep, the Tier 3 dedicated rotation (cycle 9, round 4, completing the full 20-company roster: Kawasaki Heavy Industries, Miura, Delta Electronics, Shell, Denso, Thermax) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler, regulation, competing-power, market/financials, research/IP, and scientific-paper checks (English and German) all returned only recycled/already-logged background or out-of-window items. Elcogen News | Topsoe press releases",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     }
@@ -13,27 +13,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 53 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 54 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 78 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news (most recently a DKK 4.4bn PTX restructuring item), out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 79 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news (most recently a sustainable-aviation-fuel/renewable-diesel technology-partner announcement in Texas), out of SOFC/SOEC scope.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Kyocera, Aisin — round 3): no new item for either; both companies' top headlines remain legacy background (Kyocera's 3 kW institutional-cogeneration SOFC and ceramics/ECD product pages; Aisin's 2025-vintage hydrogen/fuel-cell strategy writeups).",
+          "text": "Today's Tier 2 dedicated rotation (Bloom Energy, FuelCell Energy — new cycle, round 1): no new item for either; results repeated Bloom's standing AI-datacenter backlog narrative (Oracle/Project Jupiter, AEP, Nebius, NTT DATA 900 MW) and FuelCell Energy's Fit Energy/Inuverse/StabilityMax background, both recirculated by aggregator sites (enkiai.com) and investor press (webull, 24/7 Wall St.), all pre-dated.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results repeated already-logged Bloom/NTT DATA and FuelCell Energy/StabilityMax background recirculated by aggregator sites (enkiai.com, Latitude Media).",
+          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results repeated the same Bloom/Oracle/AEP/NTT DATA background recirculated across enkiai.com's standing SOFC market-analysis series.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — cycle 9, round 3 (Fraunhofer IKTS/Kerafol, Plansee, Huatsing Power, Ningbo SOFCMAN, Chaozhou Three-Circle/CCTC, Watt Fuel Cell): no new items for any of the six; results repeated Fraunhofer IKTS's standing electrolysis-platform/annual-report background, Plansee's legacy conference-paper presence, Huatsing's recirculating Chinese SOFC-sector-research notes (Founder/Guosen Securities), Ningbo SOFCMAN's absence from current search results beyond a generic manufacturer listing, Chaozhou Three-Circle's routine HKEX/earnings filings (H-share listing process, Q3 2026 results), and Watt Fuel Cell's standing WATT HOME residential-SOFC rollout and equity-financing news (all pre-dated).",
+          "text": "Today's Tier 3 dedicated rotation — cycle 9, round 4, completing the full 20-company roster (Kawasaki Heavy Industries, Miura, Delta Electronics, Shell, Denso, Thermax): no new items for any of the six; results repeated Kawasaki's non-SOFC hydrogen-combustion power-generator news, Miura's 2024-vintage Ceres-licensed 4.2kW CHP launch and maintenance-network background, Delta Electronics' standing off-grid fuel-cell partnership with Centrica, Shell's July 2026 10 MW Ceres SOEC module contract, Denso's standing Nishio-plant SOFC/SOEC demonstration background, and Thermax's 2024 Ceres green-hydrogen/SOEC manufacturing partnership (all pre-dated).",
           "url": "",
           "sources": []
         },
