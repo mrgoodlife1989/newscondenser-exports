@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "topSignals": [
     {
-      "title": "Quiet day continues — Elcogen now 54 days quiet, Topsoe 79 days; no genuinely new item found in any monitored section today.",
-      "text": "Dedicated English- and German-language searches for both priority stacks, the Tier 2 dedicated rotation (new cycle, round 1: Bloom Energy, FuelCell Energy) and sweep, the Tier 3 dedicated rotation (cycle 9, round 4, completing the full 20-company roster: Kawasaki Heavy Industries, Miura, Delta Electronics, Shell, Denso, Thermax) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler, regulation, competing-power, market/financials, research/IP, and scientific-paper checks (English and German) all returned only recycled/already-logged background or out-of-window items. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Elcogen's \"quiet streak\" corrected — a Nov 2 MoU with electrolyser maker Hygreen Energy was missed by this monitor's prior daily checks; Elcogen is actually 13 days quiet, not 54+.",
+      "text": "Direct fetch of elcogen.com/category/news today turned up a Nov 2, 2026 item that trade press (QC Intelligence, paywalled beyond the lead) reported as an MoU to integrate Elcogen's solid oxide stack technology into Hygreen Energy's electrolyser (SOEC/hydrogen-production) portfolio. No capacity, funding, or timeline figures are disclosed in the available text. For Dominic: this is a correction, not breaking news — the item is now two weeks old — but it means Elcogen's real last-activity date is Nov 2, 2026, not the Sept 21 baseline this monitor carried through Nov 1-14; the \"days quiet\" counter restarts today at 13 days. QC Intelligence",
+      "url": "https://www.qcintel.com/hydrogen/article/elcogen-signs-mou-with-hygreen-for-solid-oxide-stack-integration-76625.html",
       "n": 1
     }
   ],
@@ -13,37 +13,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): No new news-archive item since Sept 21, 2026 (Metrosert cooperation), confirmed via English- and German-language searches today — 54 days quiet. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority) — CORRECTED: Not quiet since Sept 21 as previously tracked. A Nov 2, 2026 MoU with Hygreen Energy (electrolyser maker) to integrate Elcogen's solid oxide stack technology into Hygreen's electrolyser portfolio was found today via direct fetch of elcogen.com/category/news; it had been missed by this monitor's checks on Nov 3-14, likely because it surfaced only via a paywalled trade outlet (qcintel.com) rather than a general news search. No capacity/funding/timeline disclosed. 13 days quiet as of today (Nov 2 baseline). Status otherwise unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via English- and German-language searches today — 79 days quiet; topsoe.com/press-releases remains dominated by PTX/ammonia/SAF/blue-hydrogen news (most recently a sustainable-aviation-fuel/renewable-diesel technology-partner announcement in Texas), out of SOFC/SOEC scope.",
+          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via direct fetch of topsoe.com/press-releases today — 80 days quiet. Topsoe's press feed stays active but entirely non-solid-oxide: newest items are a Nov 12 Sasol e-SAF (Sweden) technology-selection and the already-logged Oct 29 HDF Energy/Texas \"BaseBlue Power\" blue-hydrogen-plus-PEM data-center project — neither is SOEC/SOFC.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Bloom Energy, FuelCell Energy — new cycle, round 1): no new item for either; results repeated Bloom's standing AI-datacenter backlog narrative (Oracle/Project Jupiter, AEP, Nebius, NTT DATA 900 MW) and FuelCell Energy's Fit Energy/Inuverse/StabilityMax background, both recirculated by aggregator sites (enkiai.com) and investor press (webull, 24/7 Wall St.), all pre-dated.",
+          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Sunfire): no new item for either; results repeated Ceres' standing licensee roster (Doosan, Delta Electronics, Weichai) and Sunfire's Schwarzheide SOEC test-facility background, both pre-dated.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 sweep — \"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\": no new item; results repeated the same Bloom/Oracle/AEP/NTT DATA background recirculated across enkiai.com's standing SOFC market-analysis series.",
+          "text": "Today's Tier 2 sweep plus Mitsubishi Power/Kyocera/Aisin check: no new item; recycled Kyocera/Mitsubishi Power/Aisin SEO-aggregator background and Bloom Energy/FuelCell Energy's standing AI-datacenter narrative.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation — cycle 9, round 4, completing the full 20-company roster (Kawasaki Heavy Industries, Miura, Delta Electronics, Shell, Denso, Thermax): no new items for any of the six; results repeated Kawasaki's non-SOFC hydrogen-combustion power-generator news, Miura's 2024-vintage Ceres-licensed 4.2kW CHP launch and maintenance-network background, Delta Electronics' standing off-grid fuel-cell partnership with Centrica, Shell's July 2026 10 MW Ceres SOEC module contract, Denso's standing Nishio-plant SOFC/SOEC demonstration background, and Thermax's 2024 Ceres green-hydrogen/SOEC manufacturing partnership (all pre-dated).",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Tier 3 sweep — \"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\": no new item; recycled the standing Doosan-Reverion $76.7-78M SOFC stack-supply background.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Tier 3 sweep — \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\": no new item; recycled the Miura/Ceres 4.2kW launch and Weichai/Ceres manufacturing-licence/CE-certification background.",
+          "text": "Today's Tier 3 rotation — new cycle 10, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell) plus an OxEon Energy/Nexceris/Weichai sweep: no new item for any; recycled the standing Doosan-Reverion $76.7-78M SOFC stack-supply background, Convion's HD Hyundai ownership, Hexis's dormant post-Viessmann status, SK ecoplant's Singapore SOFC data-center background, and Watt Fuel Cell's residential-only (non-data-center) WATT HOME product line.",
           "url": "",
           "sources": []
         }
@@ -58,7 +48,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter, AEP (1 GW), Brookfield EaaS, Nebius (328 MW/$2.6B), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW), Hitachi (Japan), SK Eternix (28 MW, operational), NTT DATA (900 MW, global, shipments from 2027).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter, AEP/Google Cheyenne Fuel Cell LLC (702 MW/$4B, 20-yr PPA, confirmed Google offtake), Brookfield EaaS, Nebius (328 MW/$2.6B), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW), Hitachi (Japan), SK Eternix (28 MW, operational), NTT DATA (900 MW, global, shipments from 2027).",
           "url": "",
           "sources": []
         },
