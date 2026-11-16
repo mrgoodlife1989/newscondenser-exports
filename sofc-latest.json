@@ -1,11 +1,23 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "topSignals": [
     {
-      "title": "Elcogen's \"quiet streak\" corrected — a Nov 2 MoU with electrolyser maker Hygreen Energy was missed by this monitor's prior daily checks; Elcogen is actually 13 days quiet, not 54+.",
-      "text": "Direct fetch of elcogen.com/category/news today turned up a Nov 2, 2026 item that trade press (QC Intelligence, paywalled beyond the lead) reported as an MoU to integrate Elcogen's solid oxide stack technology into Hygreen Energy's electrolyser (SOEC/hydrogen-production) portfolio. No capacity, funding, or timeline figures are disclosed in the available text. For Dominic: this is a correction, not breaking news — the item is now two weeks old — but it means Elcogen's real last-activity date is Nov 2, 2026, not the Sept 21 baseline this monitor carried through Nov 1-14; the \"days quiet\" counter restarts today at 13 days. QC Intelligence",
-      "url": "https://www.qcintel.com/hydrogen/article/elcogen-signs-mou-with-hygreen-for-solid-oxide-stack-integration-76625.html",
+      "title": "FERC large-load show-cause filings due today across six ISOs/RTOs — the interconnection-rules reset that governs behind-the-meter SOFC economics is landing now.",
+      "text": "Per FERC's June 18, 2026 §206 show-cause orders (dockets EL26-67 through EL26-72), PJM, MISO, CAISO, ISO-NE and NYISO responses are due today, Nov 16, 2026 (SPP's follows Nov 20; protests/answers close ~Dec 16). Highlights relevant to SOFC siting and BTM value-stacking: PJM adds a 60-90 day interconnection study process on top of its already-accepted 50 MW large-load threshold; CAISO introduces a \"Flexible Interim Load Interconnection\" letting loads connect before network upgrades finish; ISO-NE's new track carries a $50k application fee, $150k study deposit, $10k/MW readiness deposit, and redispatches non-firm load above $250/MWh LMP — a concrete price signal for valuing on-site generation as a hedge. For Dominic: these fee/deposit/redispatch-price structures are usable inputs for the LCOE model's grid-alternative comparison. AIX Energy scorecard",
+      "url": "https://www.aixenergy.io/ferc-large-load-show-cause-scorecard/",
       "n": 1
+    },
+    {
+      "title": "SoftBank takes a $3.7B writedown on gas-turbine equipment for an Ohio AI data center — coverage explicitly frames it as a tailwind for Bloom Energy's fuel cells over gas turbines.",
+      "text": "SoftBank posted a ¥768B (~$7B) half-year loss after a design-plan change at the site forced a \"thorough reassessment\" of already-ordered power equipment; GE Vernova (the presumed turbine supplier) fell ~4% on the news. Multiple outlets tied this directly to Bloom Energy, whose stock jumped 15.6% intraday on Nov 11 on a mix of this turbine-writedown framing, bullish CoreWeave demand commentary, and an unwind of post-election AI-slowdown fears. For Dominic: a competitor narrative shift — gas-turbine lead-time/design risk being cited publicly as a reason to prefer fuel cells — is itself a market signal worth tracking for INOCEL's competitive positioning, independent of any technical KPI. Bisnow · Motley Fool",
+      "url": "https://www.bisnow.com/news/national/data-center-capital-markets/softbank-takes-3-7b-hit-on-data-center-equipment-it-no-longer-wants",
+      "n": 2
+    },
+    {
+      "title": "Project Jupiter (Oracle/Bloom Energy, New Mexico) hit with a second breach notice.",
+      "text": "Doña Ana County commissioners voted 4-0 on Nov 10 to issue a new notice of breach against the Project Jupiter developers (Oracle-led; Stack Infrastructure is on-site operator) for missing the Oct 31 deadline and filing an incomplete Q3 jobs report required under the project's $165B industrial revenue bond agreement — the second time in 2026 jobs data has been late. This is separate from the still-unresolved Oct 27 breach notice over the El Paso Electric backup-power connection. No sanctions specified yet; the air-quality permit hearing remains vacated since Nov 6 with no new date set. Albuquerque Journal",
+      "url": "https://www.abqjournal.com/news/dona-ana-county-issues-new-breach-notice-to-project-jupiter-developers/3160223",
+      "n": 3
     }
   ],
   "sections": [
@@ -13,27 +25,22 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority) — CORRECTED: Not quiet since Sept 21 as previously tracked. A Nov 2, 2026 MoU with Hygreen Energy (electrolyser maker) to integrate Elcogen's solid oxide stack technology into Hygreen's electrolyser portfolio was found today via direct fetch of elcogen.com/category/news; it had been missed by this monitor's checks on Nov 3-14, likely because it surfaced only via a paywalled trade outlet (qcintel.com) rather than a general news search. No capacity/funding/timeline disclosed. 13 days quiet as of today (Nov 2 baseline). Status otherwise unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): 14 days quiet (since the Nov 2 Hygreen Energy MoU). Confirmed via direct fetch of elcogen.com/category/news — nothing published Nov 3-16. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): No new solid-oxide-specific release since the Aug 27, 2026 H1 2026 results/SOEC pathway reset, confirmed via direct fetch of topsoe.com/press-releases today — 80 days quiet. Topsoe's press feed stays active but entirely non-solid-oxide: newest items are a Nov 12 Sasol e-SAF (Sweden) technology-selection and the already-logged Oct 29 HDF Energy/Texas \"BaseBlue Power\" blue-hydrogen-plus-PEM data-center project — neither is SOEC/SOFC.",
+          "text": "Topsoe (priority): 81 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). Confirmed via direct fetch of topsoe.com/press-releases and /news — press feed stays active but entirely non-solid-oxide (newest: Nov 12 Sasol e-SAF Sweden selection).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Sunfire): no new item for either; results repeated Ceres' standing licensee roster (Doosan, Delta Electronics, Weichai) and Sunfire's Schwarzheide SOEC test-facility background, both pre-dated.",
+          "text": "Today's Tier 2 dedicated rotation (SolydEra, Mitsubishi Power), full Tier 2 sweep, and a Kyocera/Aisin check: no new item for any of the eight companies this week (Nov 9-16).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 sweep plus Mitsubishi Power/Kyocera/Aisin check: no new item; recycled Kyocera/Mitsubishi Power/Aisin SEO-aggregator background and Bloom Energy/FuelCell Energy's standing AI-datacenter narrative.",
-          "url": "",
-          "sources": []
-        },
-        {
-          "text": "Today's Tier 3 rotation — new cycle 10, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell) plus an OxEon Energy/Nexceris/Weichai sweep: no new item for any; recycled the standing Doosan-Reverion $76.7-78M SOFC stack-supply background, Convion's HD Hyundai ownership, Hexis's dormant post-Viessmann status, SK ecoplant's Singapore SOFC data-center background, and Watt Fuel Cell's residential-only (non-data-center) WATT HOME product line.",
+          "text": "Today's Tier 3 rotation — cycle 10, round 2 (OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Weichai, Fraunhofer IKTS/Kerafol), plus two cross-company sweeps: no new item for any of the six, and nothing in the sweeps beat or neared (within ~5%) any row in SOFC_Benchmark_Records.md. One new SOFC/SOEC entrant surfaced during the sweep — see Benchmark-Neuzugänge below.",
           "url": "",
           "sources": []
         }
@@ -48,7 +55,7 @@
           "sources": []
         },
         {
-          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter, AEP/Google Cheyenne Fuel Cell LLC (702 MW/$4B, 20-yr PPA, confirmed Google offtake), Brookfield EaaS, Nebius (328 MW/$2.6B), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW), Hitachi (Japan), SK Eternix (28 MW, operational), NTT DATA (900 MW, global, shipments from 2027).",
+          "text": "Bloom Energy: Deployed/signed at multiple named sites — Oracle/Project Jupiter, AEP/Google Cheyenne Fuel Cell LLC (702 MW/$4B, 20-yr PPA), Brookfield EaaS, Nebius (328 MW/$2.6B), Equinix (>100 MW/19 sites), Aligned \"Project Phoenix\" (2 GW), Hitachi (Japan), SK Eternix (28 MW, operational), NTT DATA (900 MW, global, shipments from 2027).",
           "url": "",
           "sources": []
         },
@@ -84,6 +91,11 @@
         },
         {
           "text": "Petra Power: Pre-commercial, no named customer; first infrastructure deployment targeted 2028.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "EGEN Energy (China, new watch-list addition): Pre-commercial/early-stage; markets SOFC (distributed power, explicitly including data-center positioning) and SOEC (green hydrogen). No named data-center customer yet; small manufacturing footprint (100 MW/yr stack line + 300,000 cells/yr cell line) well below Bloom's or Elcogen's scale.",
           "url": "",
           "sources": []
         }
