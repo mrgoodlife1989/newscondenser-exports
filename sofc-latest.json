@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "topSignals": [
     {
-      "title": "Fifth consecutive quiet day — Elcogen now 17 days quiet, Topsoe 84 days.",
-      "text": "Dedicated English-language searches for both priority stacks, this cycle's Tier 2 rotation round 2 (Ceres Power, Sunfire), the new Tier 3 rotation cycle 11 round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell), every standing sweep query, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or out-of-window items (see notes below). Nothing beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model today; SPP's own FERC show-cause filing is due tomorrow (Nov 20) and is worth a dedicated check once it lands, since the other five ISOs' Nov 16 show-cause answers still have not produced analyzable trade-press content.",
+      "title": "Sixth consecutive quiet day — Elcogen now 18 days quiet, Topsoe 85 days.",
+      "text": "Dedicated searches for both priority stacks, this cycle's Tier 2 rotation round 3 (Kyocera, Aisin), the Tier 3 rotation cycle 11 round 2 (OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Weichai, Fraunhofer IKTS/Kerafol), every standing sweep query, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or out-of-window items (see notes below). Nothing beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model today; SPP's own FERC large-load show-cause answer was due today (Nov 20), but no analyzable trade-press coverage of it has appeared yet — worth a follow-up check tomorrow.",
       "url": "",
       "n": 1
     }
@@ -13,27 +13,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): 17 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory.",
+          "text": "Elcogen (priority): 18 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today. Status unchanged: elcoStack E3000 G2 platform (75% FC electrical efficiency / 90% with heat recovery, 33 kWh/kg H2 SOEC — vendor claims) in volume production at the 360 MW/yr ELCO I Tallinn factory. A resurfaced Elcogen/China Southern Power Grid subsidiary pact and an Elcogen/Metrosert testing-expansion deal were both checked and confirmed to be already-logged September 2026 stories, not new.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): 84 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (ammonia, SAF, blue-hydrogen).",
+          "text": "Topsoe (priority): 85 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (SOEC-for-PtX, ammonia, SAF).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Sunfire — round 2 of the current cycle): no new item for either; results recycled Ceres's standing Delta Electronics/Centrica/Weichai licensing background and a Nov 11-12 stock-move story already logged, and Sunfire's standing Schwarzheide SOEC test-facility/BASF background.",
+          "text": "Today's Tier 2 dedicated rotation (Kyocera, Aisin — round 3 of the current cycle): no new item for either. Kyocera's feed surfaced only a generic, dateless-KPI April 2026 marketing post on its SOFC stack technology; Aisin's background remained its standing (non-SOFC-specific) fuel-cell R&D history.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 2 sweep (\"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\"): no new item; recycled standing Bloom/Brookfield and Bloom/Oracle background.",
+          "text": "Tier 2 sweep (\"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\"): no new item; recycled Bloom's 2024-vintage 60% efficiency milestone and standing Amazon/Daroga Power background.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 rotation — new cycle 11, round 1 (Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell), plus an OxEon Energy/Nexceris/Kawasaki Heavy Industries/Miura sweep: no new item for any; recycled the standing Doosan-Reverion SOFC stack-supply background, Convion's HD Hyundai ownership, Hexis's dormant post-Viessmann status, SK ecoplant's Singapore background, and Watt Fuel Cell's residential-only (non-data-center) product line.",
+          "text": "Tier 3 rotation — cycle 11, round 2 (OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Weichai, Fraunhofer IKTS/Kerafol), plus two cross-company sweeps: no new item for any; recycled standing DOE-project background (OxEon, Nexceris), Kawasaki's hydrogen-combustion (non-SOFC) gas-turbine work, Miura/Ceres's 4.2 kW CHP launch background, Weichai's Ceres-licensed stationary-power background, and Fraunhofer IKTS's standing SOC degradation-study program.",
           "url": "",
           "sources": []
         }
