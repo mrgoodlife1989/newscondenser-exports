@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "topSignals": [
     {
-      "title": "Eighth consecutive quiet day — Elcogen now 20 days quiet, Topsoe 87 days.",
-      "text": "Dedicated searches for both priority stacks, this cycle's Tier 2 rotation (new cycle, round 1: Bloom Energy, FuelCell Energy) and sweep, the Tier 3 rotation (cycle 11, round 4, completing the full 20-company roster: Denso, Thermax) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or out-of-window items (see notes below). Nothing confirmed beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model today; SPP's own FERC large-load show-cause answer (due Nov 20) still has not produced analyzable trade-press coverage, now two days running. Elcogen News | Topsoe press releases",
+      "title": "Ninth consecutive quiet day — Elcogen now 21 days quiet, Topsoe 88 days.",
+      "text": "Dedicated searches for both priority stacks, this cycle's Tier 2 rotation round 2 (Ceres Power, Sunfire) and sweep, the new Tier 3 rotation (cycle 12, round 1: Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or unverifiable items (see notes below). Nothing confirmed beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model today; SPP's own FERC large-load show-cause answer (due Nov 20) still has not produced analyzable trade-press coverage, now three days running. Elcogen News | Topsoe press releases",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     }
@@ -13,45 +13,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): 20 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today; search results recirculated the already-logged May 2026 elcoStack E3000 G2 mass-manufacturable platform launch (Hydrogen Central) and the Sept 2026 Metrosert testing-expansion deal (Indian Chemical News).",
+          "text": "Elcogen (priority): 21 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today; English and German searches both recirculated the already-logged May 2026 elcoStack E3000 G2 mass-manufacturable platform launch (Hydrogen Central) and the Sept 2026 Metrosert testing-expansion deal.",
           "url": "https://hydrogen-central.com/elcogen-launches-new-mass-manufacturable-solid-oxide-fuel-cell-stack-platform-to-support-clean-energy-scale-up/",
           "sources": [
             {
               "title": "Hydrogen Central",
               "url": "https://hydrogen-central.com/elcogen-launches-new-mass-manufacturable-solid-oxide-fuel-cell-stack-platform-to-support-clean-energy-scale-up/"
-            },
-            {
-              "title": "Indian Chemical News",
-              "url": "https://www.indianchemicalnews.com/hydrogen/elcogen-and-metrosert-strike-multi-year-deal-to-expand-solid-oxide-technology-testing-31979"
             }
           ]
         },
         {
-          "text": "Topsoe (priority): 87 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (SOEC-for-PtX, e-methanol with Forestal, e-SAF with Carbon Neutral Fuels, DKK 25M grid-access funding) (Topsoe news).",
-          "url": "https://www.topsoe.com/news/topsoe-and-carbon-neutral-fuels-join-forces-to-advance-e-saf-with-soec-electrolyzer-technology",
-          "sources": [
-            {
-              "title": "Topsoe news",
-              "url": "https://www.topsoe.com/news/topsoe-and-carbon-neutral-fuels-join-forces-to-advance-e-saf-with-soec-electrolyzer-technology"
-            }
-          ]
+          "text": "Topsoe (priority): 88 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (SOEC-for-PtX, e-methanol with Forestal, e-SAF with Carbon Neutral Fuels, DKK 25M grid-access funding) in both English and German searches.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Bloom Energy, FuelCell Energy — new cycle, round 1): no new item for either; results recycled Bloom's standing Oracle/AEP/Brookfield/NTT DATA backlog narrative (DCD) and FuelCell Energy's StabilityMax DOE testbed/Fit Energy/SDCL background (HPCwire).",
-          "url": "https://www.datacenterdynamics.com/en/news/brookfield-expands-partnership-with-bloom-energy-to-support-fuel-cell-deployment-across-ai-data-centers/",
-          "sources": [
-            {
-              "title": "DCD",
-              "url": "https://www.datacenterdynamics.com/en/news/brookfield-expands-partnership-with-bloom-energy-to-support-fuel-cell-deployment-across-ai-data-centers/"
-            },
-            {
-              "title": "HPCwire",
-              "url": "https://www.hpcwire.com/off-the-wire/fuelcell-energy-to-host-national-lab-supported-ai-data-center-power-testbed-in-connecticut/"
-            }
-          ]
+          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Sunfire — round 2 of current cycle): no new item for either; results recycled Ceres/Weichai licensing background and Sunfire's Schwarzheide SOEC commissioning timeline.",
+          "url": "",
+          "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation (Denso, Thermax — cycle 11, round 4, completing the full 20-company roster): no new item for either; both companies' top headlines remain their standing Ceres Power SOEC-licensing partnerships (Denso's NEDO-backed hydrogen program; Thermax's India green-hydrogen SOEC manufacturing deal with Ceres), all pre-2026-vintage.",
+          "text": "Today's Tier 3 dedicated rotation (new cycle 12, round 1: Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell): no new item for any of the six; results recycled Reverion's standing $175M Series B/250 MW megafactory narrative, Doosan/Reverion's $76.7-78M stack-supply agreement, Convion's HD Hyundai-ownership background, Hexis's long-dormant divestiture history, SK ecoplant's Singapore/Ireland data-center background, and Watt Fuel Cell's residential WATT HOME rollout (not data-center relevant).",
           "url": "",
           "sources": []
         }
