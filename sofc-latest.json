@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "topSignals": [
     {
-      "title": "Ninth consecutive quiet day — Elcogen now 21 days quiet, Topsoe 88 days.",
-      "text": "Dedicated searches for both priority stacks, this cycle's Tier 2 rotation round 2 (Ceres Power, Sunfire) and sweep, the new Tier 3 rotation (cycle 12, round 1: Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or unverifiable items (see notes below). Nothing confirmed beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model today; SPP's own FERC large-load show-cause answer (due Nov 20) still has not produced analyzable trade-press coverage, now three days running. Elcogen News | Topsoe press releases",
+      "title": "Tenth consecutive quiet day — Elcogen now 22 days quiet, Topsoe 89 days.",
+      "text": "Dedicated searches for both priority stacks (English and German), this cycle's Tier 2 rotation round 3 (Kyocera, Aisin) and sweep, the Tier 3 rotation (cycle 12, round 2: OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Weichai, Fraunhofer IKTS/Kerafol) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or unverifiable items (see notes below). Nothing confirmed beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model today; SPP's own FERC large-load show-cause answer (due Nov 20) still has not produced analyzable trade-press coverage, now four days running, though a FERC docket item (Commissioner Lacerte's concurrence, Docket No. EL26-68, Southwest Power Pool) surfaced today that could not be fetched or dated — flagged for a manual check next time rather than adopted. Elcogen News | Topsoe press releases",
       "url": "https://elcogen.com/category/news/",
       "n": 1
     }
@@ -13,27 +13,27 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): 21 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today; English and German searches both recirculated the already-logged May 2026 elcoStack E3000 G2 mass-manufacturable platform launch (Hydrogen Central) and the Sept 2026 Metrosert testing-expansion deal.",
-          "url": "https://hydrogen-central.com/elcogen-launches-new-mass-manufacturable-solid-oxide-fuel-cell-stack-platform-to-support-clean-energy-scale-up/",
-          "sources": [
-            {
-              "title": "Hydrogen Central",
-              "url": "https://hydrogen-central.com/elcogen-launches-new-mass-manufacturable-solid-oxide-fuel-cell-stack-platform-to-support-clean-energy-scale-up/"
-            }
-          ]
-        },
-        {
-          "text": "Topsoe (priority): 88 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (SOEC-for-PtX, e-methanol with Forestal, e-SAF with Carbon Neutral Fuels, DKK 25M grid-access funding) in both English and German searches.",
+          "text": "Elcogen (priority): 22 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today in English or German sources; results recirculated the already-logged May 2026 elcoStack E3000 G2 mass-manufacturable platform launch and the Sept 2026 Metrosert testing-expansion deal.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (Ceres Power, Sunfire — round 2 of current cycle): no new item for either; results recycled Ceres/Weichai licensing background and Sunfire's Schwarzheide SOEC commissioning timeline.",
+          "text": "Topsoe (priority): 89 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide — a resurfaced \"Topsoe to provide blue hydrogen tech for Texas data centre power project\" story (HDF Energy's SynCOR-based BaseBlue Power plant) was checked and confirmed to be the already-logged, pre-dated HDF/Topsoe item (SynCOR is autothermal-reforming blue-hydrogen technology, not a solid oxide cell product), plus standing e-methanol/e-SAF/grid-access-funding background.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation (new cycle 12, round 1: Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell): no new item for any of the six; results recycled Reverion's standing $175M Series B/250 MW megafactory narrative, Doosan/Reverion's $76.7-78M stack-supply agreement, Convion's HD Hyundai-ownership background, Hexis's long-dormant divestiture history, SK ecoplant's Singapore/Ireland data-center background, and Watt Fuel Cell's residential WATT HOME rollout (not data-center relevant).",
+          "text": "Today's Tier 2 dedicated rotation (Kyocera, Aisin — round 3 of current cycle): no new item for either; results recycled Kyocera's dateless SOFC-stack marketing material and Aisin's standing non-SOFC-specific fuel-cell R&D history.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Tier 2 sweep (\"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\"): no new item; recycled Bloom's 2024-vintage 60% efficiency milestone and standing Amazon-headquarters background.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Today's Tier 3 dedicated rotation (cycle 12, round 2: OxEon Energy, Nexceris, Kawasaki Heavy Industries, Miura, Weichai, Fraunhofer IKTS/Kerafol): no new item for any of the six; results recycled OxEon's standing DOE hydrogen-funding history, Nexceris's standing DOE reversible-SOC award background, Kawasaki's hydrogen-combustion (non-SOFC) gas-engine work, Miura/Ceres's 4.2 kW CHP launch background, Weichai's Ceres-licensed stationary-power background, and Fraunhofer IKTS's standing SOEC electrolysis-platform/degradation-study program.",
           "url": "",
           "sources": []
         }
