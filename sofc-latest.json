@@ -1,11 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "topSignals": [
     {
-      "title": "Twelfth consecutive quiet day — Elcogen now 24 days quiet, Topsoe 91 days.",
-      "text": "Dedicated searches for both priority stacks (English and German), this cycle's new Tier 2 rotation (round 1: Bloom Energy, FuelCell Energy) and sweep, the Tier 3 rotation (cycle 12, round 4 — Denso, Thermax, completing the full 20-company roster) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background or unconfirmable items (see notes below). Nothing confirmed beat or neared any row in SOFC_Benchmark_Records.md. A direct-fetch check of three Project Jupiter articles (two Albuquerque Journal, one Bloomberg/Energy Connects) confirmed the Dec 7 hearing vacatur and the Nov 23 decision-deadline waiver are both already-logged Nov 5-6 events, with no new hearing date set — Jefferies analysts are cited viewing this as pushing Bloom's largest disclosed project into 2027, a schedule-risk framing worth carrying in LCOE order-book assumptions but not a new fact. For Dominic: no action needed on the LCOE model today; SPP's own FERC large-load show-cause answer (due Nov 20) still has not produced analyzable trade-press coverage, now six days running, and the FERC Docket No. EL26-68 (Commissioner Lacerte's concurrence, Southwest Power Pool) item remains unfetched — still not adopted. Elcogen News | Topsoe press releases",
-      "url": "https://elcogen.com/category/news/",
+      "title": "Ceres Power signs a new, unnamed European (EMEA) SOFC manufacturing licensee — a sixth licensee alongside Doosan, Delta Electronics, Weichai, Denso and Thermax.",
+      "text": "A privately-owned European energy-technology company (identity withheld, \"to be released in due course\") has taken a non-exclusive licence to manufacture Ceres' Endura SOFC platform for the EMEA market, with an option to expand to a global licence if exercised by 2035. The partner plans a dedicated facility targeting c. 200 MW/yr — well below Bloom's 2,000 MW/yr Fremont benchmark and Elcogen's 360 MW/yr Tallinn factory, so this does not challenge the manufacturing-capacity register. Initial licence-fee revenue recognition lifts Ceres' contracted FY26 revenue to roughly £60m. This item was missed by this monitor's Nov 19 and Nov 23 Ceres Power dedicated searches (announced Nov 16) and is being logged today on re-discovery. Ceres Power newsroom",
+      "url": "https://www.ceres.tech/newsroom/news-and-insights/ceres-signs-european-sofc-manufacturing-licence/",
       "n": 1
+    },
+    {
+      "title": "Thirteenth consecutive quiet day on priority stacks — Elcogen now 25 days quiet, Topsoe 92 days.",
+      "text": "Dedicated searches for both priority stacks (English and German), today's Tier 2 rotation round 2 (Ceres Power — see above; Sunfire — no new item) and sweep, the new Tier 3 rotation (cycle 13, round 1: Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell) and two further Tier 3 sweeps, and broad AI-datacenter/hyperscaler (English and German), regulation, competing-power, market/financials, research/IP and scientific-paper checks all returned only recycled/already-logged background (see notes below). Nothing confirmed beat or neared any row in SOFC_Benchmark_Records.md. For Dominic: no action needed on the LCOE model beyond the Ceres licensing note above; SPP's own FERC large-load show-cause answer (due Nov 20) still has not produced analyzable trade-press coverage, now seven days running, and the FERC Docket No. EL26-68 (Commissioner Lacerte's concurrence, Southwest Power Pool) item remains unfetched. Elcogen News | Topsoe press releases",
+      "url": "https://elcogen.com/category/news/",
+      "n": 2
     }
   ],
   "sections": [
@@ -13,27 +19,37 @@
       "title": "Stack & Cell Technology",
       "items": [
         {
-          "text": "Elcogen (priority): 24 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today in English or German sources; results recirculated the already-logged May 2026 elcoStack E3000 G2 mass-manufacturable platform launch, the Sept 2026 Metrosert testing-expansion deal, and the China Southern Power Grid pact.",
+          "text": "Elcogen (priority): 25 days quiet (since the Nov 2 Hygreen Energy MoU). No new item found today in English or German sources; results recirculated the already-logged May 2026 elcoStack E3000 G2 mass-manufacturable platform launch and the Sept 2026 Metrosert testing-expansion deal.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Topsoe (priority): 91 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (SOEC-for-PtX, e-methanol with Forestal, e-SAF with Carbon Neutral Fuels, DKK 25M grid-access funding, DKK 4.4bn PtX restructuring) in both English and German searches.",
+          "text": "Topsoe (priority): 92 days quiet on SOFC/SOEC specifically (since the Aug 27 H1 2026 results/SOEC pathway reset). No new item found today; Topsoe's press feed remains active but non-solid-oxide (SOEC-for-PtX, e-methanol with Forestal, e-SAF with Carbon Neutral Fuels, DKK 25M grid-access funding, DKK 4.4bn PtX restructuring) in both English and German searches.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 2 dedicated rotation (new cycle, round 1: Bloom Energy, FuelCell Energy): no new item for either; results recycled Bloom's 2024-vintage 60% efficiency milestone, a dateless \"Bloom Energy to supply Daroga Power\" listing, and FuelCell Energy's historical DOE SOFC-funding awards (2014-2021) plus the already-logged StabilityMax testbed.",
+          "text": "Ceres Power (Tier 2, round 2 of current cycle): New item today — a sixth SOFC manufacturing licensee signed (unnamed, EMEA region, Endura platform, c. 200 MW/yr planned capacity); see Top Signals for full detail. This is a licensing/business-development update, not a technical KPI.",
           "url": "",
           "sources": []
         },
         {
-          "text": "Tier 2 sweep (\"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\"): no new item; recycled the same Bloom Energy background.",
+          "text": "Sunfire (Tier 2, round 2 of current cycle): No new item; results recycled the standing Schwarzheide SOEC pilot-plant commissioning timeline (targeted end of 2026).",
           "url": "",
           "sources": []
         },
         {
-          "text": "Today's Tier 3 dedicated rotation (cycle 12, round 4, completing the full 20-company roster: Denso, Thermax): no new item for either; results recycled Denso's standing Ceres/SOEC partner background (Nishio plant SOFC cogeneration, JERA/Denso SOEC waste-heat R&D) and Thermax's standing Ceres-India green-hydrogen/SOEC joint venture.",
+          "text": "Tier 2 sweep (\"Bloom Energy OR FuelCell Energy OR Ceres Power OR Sunfire OR SolydEra\"): no new item; recycled Bloom's 2024-vintage 60% efficiency milestone and a dateless \"Bloom Energy to supply Daroga Power\" listing.",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Today's Tier 3 dedicated rotation (new cycle 13, round 1: Reverion, Convion, Hexis, Doosan Fuel Cell, SK ecoplant, Watt Fuel Cell): no new item for any of the six; results recycled the already-logged Doosan/Reverion $76.7-78M SOFC stack-supply agreement, SK Ecoplant's 2021-2024 Korean heat-supply/localization background, and Watt Fuel Cell's residential WATT HOME rollout (non-data-center, non-SOFC-scale).",
+          "url": "",
+          "sources": []
+        },
+        {
+          "text": "Tier 3 sweeps (\"Reverion OR Convion OR Hexis OR Doosan Fuel Cell OR SK ecoplant\"; \"OxEon Energy OR Nexceris OR Kawasaki Heavy Industries OR Miura OR Weichai\"): no new item for either; recycled the Miura/Ceres 4.2kW CHP launch and Weichai/Ceres manufacturing-licence/CE-certification background.",
           "url": "",
           "sources": []
         }
@@ -73,7 +89,7 @@
           "sources": []
         },
         {
-          "text": "Ceres Power's SOFC licensees (Doosan, Delta Electronics, Weichai): Licensing/pipeline-only; no named data-center deployment via Ceres licensing directly.",
+          "text": "Ceres Power's SOFC licensees (Doosan, Delta Electronics, Weichai, Denso, Thermax, + an unnamed new EMEA licensee signed Nov 16, 2026): Licensing/pipeline-only; no named data-center deployment via Ceres licensing directly, and the new EMEA licensee's remit is general EMEA-market manufacturing, not data-center-specific.",
           "url": "",
           "sources": []
         },
